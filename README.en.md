@@ -30,6 +30,17 @@ Its core logic is **Scout Skill**. It helps you find the thoroughbreds among a p
 
 Judge first. Then connect.
 
+<table>
+  <tr>
+    <td><img src="assets/screenshots/ai-news-radar-v06-01.jpg" alt="AI News Radar v0.6 screenshot 1" /></td>
+    <td><img src="assets/screenshots/ai-news-radar-v06-02.jpg" alt="AI News Radar v0.6 screenshot 2" /></td>
+  </tr>
+  <tr>
+    <td><img src="assets/screenshots/ai-news-radar-v06-03.jpg" alt="AI News Radar v0.6 screenshot 3" /></td>
+    <td><img src="assets/screenshots/ai-news-radar-v06-04.jpg" alt="AI News Radar v0.6 screenshot 4" /></td>
+  </tr>
+</table>
+
 ## Why Scout Skill?
 
 Good updates are scattered everywhere.
