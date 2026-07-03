@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-02T23:36:30.590170Z",
+  "generated_at": "2026-07-03T03:16:48.074097Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_43115179668d",
+      "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
+      "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
+      "primary_url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
+          "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
+          "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T23:19:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
+          "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
+          "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T23:19:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9444,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T23:19:06Z",
+      "latest_at": "2026-07-02T23:19:06Z",
+      "primary_item": {
+        "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
+        "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
+        "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_95944acec510",
       "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8507,
-      "importance": 0.8507,
-      "importance_score": 0.8507,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9929,
+        "recency": 0.9417,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,187 +125,6 @@
         "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_841cfa5430ed",
-      "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-      "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T20:25:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T20:25:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8439,
-      "importance": 0.8439,
-      "importance_score": 0.8439,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9551,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T20:25:32Z",
-      "latest_at": "2026-07-02T20:25:32Z",
-      "primary_item": {
-        "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-        "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-        "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d9b5489d8ce2",
-      "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
-      "url": "https://senior-swe-bench.snorkel.ai",
-      "primary_url": "https://senior-swe-bench.snorkel.ai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bf0be1955751a8976aaecbd0e06d8ea78d40b2be",
-          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
-          "url": "https://senior-swe-bench.snorkel.ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:04:07.048000Z"
-        },
-        {
-          "id": "f0a802751bdfc6355642d0b10abc9a4ad8a126be",
-          "title": "Senior SWE-Bench：一款用于评估代理作为高级工程师表现的开源基准测试工具",
-          "url": "https://senior-swe-bench.snorkel.ai",
-          "source": "senior-swe-bench.snorkel.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-02T11:04:07.048000Z"
-        },
-        {
-          "id": "44b9ee525eb636ab1d6f7ecc83a60b0b20202e13",
-          "title": "Senior SWE-Bench：评估代理为高级工程师的开源基准 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-          "url": "https://news.ycombinator.com/item?id=48755928",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-02T04:14:43.783000Z"
-        },
-        {
-          "id": "029738a6aaa5600ef197c2efe024b2c0931cae74",
-          "title": "Senior SWE-Bench：一款用于评估代理作为高级工程师表现的开源基准测试工具 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-          "url": "https://senior-swe-bench.snorkel.ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-02T02:55:16Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "senior-swe-bench.snorkel.ai"
-      ],
-      "items": [
-        {
-          "id": "bf0be1955751a8976aaecbd0e06d8ea78d40b2be",
-          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
-          "url": "https://senior-swe-bench.snorkel.ai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:04:07.048000Z"
-        },
-        {
-          "id": "f0a802751bdfc6355642d0b10abc9a4ad8a126be",
-          "title": "Senior SWE-Bench：一款用于评估代理作为高级工程师表现的开源基准测试工具",
-          "url": "https://senior-swe-bench.snorkel.ai",
-          "source": "senior-swe-bench.snorkel.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-02T11:04:07.048000Z"
-        },
-        {
-          "id": "44b9ee525eb636ab1d6f7ecc83a60b0b20202e13",
-          "title": "Senior SWE-Bench：评估代理为高级工程师的开源基准 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-          "url": "https://news.ycombinator.com/item?id=48755928",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-02T04:14:43.783000Z"
-        },
-        {
-          "id": "029738a6aaa5600ef197c2efe024b2c0931cae74",
-          "title": "Senior SWE-Bench：一款用于评估代理作为高级工程师表现的开源基准测试工具 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
-          "url": "https://senior-swe-bench.snorkel.ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-02T02:55:16Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8344,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T02:55:16Z",
-      "latest_at": "2026-07-02T11:04:07.048000Z",
-      "primary_item": {
-        "id": "bf0be1955751a8976aaecbd0e06d8ea78d40b2be",
-        "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
-        "url": "https://senior-swe-bench.snorkel.ai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -300,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9398,
+        "recency": 0.8913,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -325,6 +206,149 @@
         "url": "https://the-decoder.com/microsoft-launches-2-5-billion-frontier-company-to-embed-6000-ai-engineers-inside-enterprise-clients",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b97dfb6a3918",
+      "title": "扎克伯格称AI智能体开发速度未如预期",
+      "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+      "primary_url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90fd0bfb295ceff6e7c24011069cfba5d752b799",
+          "title": "扎克伯格称AI智能体开发速度未如预期",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T23:38:10Z"
+        },
+        {
+          "id": "5ab2b5807c58ddff30bbf7770f3e130a70ebb9de",
+          "title": "扎克伯格称AI智能体开发速度未如预期 / Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T23:38:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "90fd0bfb295ceff6e7c24011069cfba5d752b799",
+          "title": "扎克伯格称AI智能体开发速度未如预期",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T23:38:10Z"
+        },
+        {
+          "id": "5ab2b5807c58ddff30bbf7770f3e130a70ebb9de",
+          "title": "扎克伯格称AI智能体开发速度未如预期 / Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T23:38:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9487,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T23:38:10Z",
+      "latest_at": "2026-07-02T23:38:10Z",
+      "primary_item": {
+        "id": "90fd0bfb295ceff6e7c24011069cfba5d752b799",
+        "title": "扎克伯格称AI智能体开发速度未如预期",
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_841cfa5430ed",
+      "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
+          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T20:25:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
+          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T20:25:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9058,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T20:25:32Z",
+      "latest_at": "2026-07-02T20:25:32Z",
+      "primary_item": {
+        "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
+        "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+        "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -400,15 +424,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8367,
+        "recency": 0.7935,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -425,494 +449,6 @@
         "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1bf7e1ec92fc",
-      "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T18:05:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T18:05:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9233,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T18:05:05Z",
-      "latest_at": "2026-07-02T18:05:05Z",
-      "primary_item": {
-        "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-        "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-        "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_88db1ffe96a6",
-      "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-      "url": "https://www.ithome.com/0/971/937.htm",
-      "primary_url": "https://www.ithome.com/0/971/937.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
-          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-          "url": "https://www.ithome.com/0/971/937.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T14:22:49Z"
-        },
-        {
-          "id": "5185be15c4729f76e78e00bab0e6a6a79e4c3a41",
-          "title": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
-          "url": "https://www.ithome.com/0/971/937.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-02T14:22:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
-          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-          "url": "https://www.ithome.com/0/971/937.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T14:22:49Z"
-        },
-        {
-          "id": "5185be15c4729f76e78e00bab0e6a6a79e4c3a41",
-          "title": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
-          "url": "https://www.ithome.com/0/971/937.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-02T14:22:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8752,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T14:22:49Z",
-      "latest_at": "2026-07-02T14:22:49Z",
-      "primary_item": {
-        "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
-        "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-        "url": "https://www.ithome.com/0/971/937.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_34e272d19172",
-      "title": "关于Mythos和网络安全的讨论并非炒作",
-      "url": "https://x.com/emollick/status/2072778376494895139",
-      "primary_url": "https://x.com/emollick/status/2072778376494895139",
-      "source": "X：Ethan Mollick (@emollick)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
-          "title": "关于Mythos和网络安全的讨论并非炒作",
-          "url": "https://x.com/emollick/status/2072778376494895139",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T20:24:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Ethan Mollick (@emollick)"
-      ],
-      "items": [
-        {
-          "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
-          "title": "关于Mythos和网络安全的讨论并非炒作",
-          "url": "https://x.com/emollick/status/2072778376494895139",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T20:24:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9548,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T20:24:09Z",
-      "latest_at": "2026-07-02T20:24:09Z",
-      "primary_item": {
-        "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
-        "title": "关于Mythos和网络安全的讨论并非炒作",
-        "url": "https://x.com/emollick/status/2072778376494895139",
-        "source": "X：Ethan Mollick (@emollick)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b1ace1e3f9bf",
-      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-      "url": "https://x.com/shao__meng/status/2072644710523691110",
-      "primary_url": "https://x.com/shao__meng/status/2072644710523691110",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
-          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-          "url": "https://x.com/shao__meng/status/2072644710523691110",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:33:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：邵猛 (@shao__meng)"
-      ],
-      "items": [
-        {
-          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
-          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-          "url": "https://x.com/shao__meng/status/2072644710523691110",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:33:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8402,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T11:33:01Z",
-      "latest_at": "2026-07-02T11:33:01Z",
-      "primary_item": {
-        "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
-        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-        "url": "https://x.com/shao__meng/status/2072644710523691110",
-        "source": "X：邵猛 (@shao__meng)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5f6848e30c5a",
-      "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-      "url": "https://x.com/kimmonismus/status/2072718147279335507",
-      "primary_url": "https://x.com/kimmonismus/status/2072718147279335507",
-      "source": "X：Kim (@kimmonismus)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
-          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-          "url": "https://x.com/kimmonismus/status/2072718147279335507",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T16:24:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kim (@kimmonismus)"
-      ],
-      "items": [
-        {
-          "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
-          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-          "url": "https://x.com/kimmonismus/status/2072718147279335507",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T16:24:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9013,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T16:24:50Z",
-      "latest_at": "2026-07-02T16:24:50Z",
-      "primary_item": {
-        "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
-        "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-        "url": "https://x.com/kimmonismus/status/2072718147279335507",
-        "source": "X：Kim (@kimmonismus)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_220c563c3540",
-      "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-      "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-      "primary_url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
-          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T08:46:56Z"
-        },
-        {
-          "id": "c544d5357b6932994f2055e5581648898361c7f9",
-          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具 / The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
-          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-02T08:46:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
-          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T08:46:56Z"
-        },
-        {
-          "id": "c544d5357b6932994f2055e5581648898361c7f9",
-          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具 / The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
-          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-02T08:46:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8073,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T08:46:56Z",
-      "latest_at": "2026-07-02T08:46:56Z",
-      "primary_item": {
-        "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
-        "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-        "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_49bd0efe02c7",
-      "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
-      "url": "https://www.aibase.com/news/29342",
-      "primary_url": "https://www.aibase.com/news/29342",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
-          "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
-          "url": "https://www.aibase.com/news/29342",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T08:10:55.737206Z"
-        },
-        {
-          "id": "c79946eea79ed513406f94c906906633d71cea5b",
-          "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
-          "url": "https://www.qbitai.com/2026/07/442134.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "量子位 · 每日最新"
-      ],
-      "items": [
-        {
-          "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
-          "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
-          "url": "https://www.aibase.com/news/29342",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T08:10:55.737206Z"
-        },
-        {
-          "id": "c79946eea79ed513406f94c906906633d71cea5b",
-          "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
-          "url": "https://www.qbitai.com/2026/07/442134.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8003,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T08:10:55.737206Z",
-      "latest_at": "2026-07-02T13:16:10.013599Z",
-      "primary_item": {
-        "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
-        "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
-        "url": "https://www.aibase.com/news/29342",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -988,15 +524,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.803,
+        "recency": 0.7615,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1013,6 +549,535 @@
         "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_457e95cf2cb4",
+      "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+      "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+      "primary_url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
+          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T20:51:39Z"
+        },
+        {
+          "id": "d268415982924c19f5449a3ba0c5c886147116dd",
+          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控 / Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
+          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T20:51:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
+          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T20:51:39Z"
+        },
+        {
+          "id": "d268415982924c19f5449a3ba0c5c886147116dd",
+          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控 / Meet Alibaba’s Page Agent: A JavaScript In-Page GUI Agent That Controls Web Interfaces With Natural Language Through the DOM",
+          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T20:51:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9115,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T20:51:39Z",
+      "latest_at": "2026-07-02T20:51:39Z",
+      "primary_item": {
+        "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
+        "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
+        "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_88db1ffe96a6",
+      "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+      "url": "https://www.ithome.com/0/971/937.htm",
+      "primary_url": "https://www.ithome.com/0/971/937.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
+          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+          "url": "https://www.ithome.com/0/971/937.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T14:22:49Z"
+        },
+        {
+          "id": "5185be15c4729f76e78e00bab0e6a6a79e4c3a41",
+          "title": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
+          "url": "https://www.ithome.com/0/971/937.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-02T14:22:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
+          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+          "url": "https://www.ithome.com/0/971/937.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T14:22:49Z"
+        },
+        {
+          "id": "5185be15c4729f76e78e00bab0e6a6a79e4c3a41",
+          "title": "企业 AI 成本失控，消息称花旗、Adobe 等纷纷限制员工使用大模型",
+          "url": "https://www.ithome.com/0/971/937.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-02T14:22:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.83,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T14:22:49Z",
+      "latest_at": "2026-07-02T14:22:49Z",
+      "primary_item": {
+        "id": "ffd2d27a77ec4354ddc9b2d496173baa3c0b45d4",
+        "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
+        "url": "https://www.ithome.com/0/971/937.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d27ddcf10896",
+      "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
+      "url": "https://www.aibase.com/news/29353",
+      "primary_url": "https://www.aibase.com/news/29353",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7ee12cafd69632ffa600d6b95259d2c0ba72501e",
+          "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
+          "url": "https://www.aibase.com/news/29353",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T03:16:48.074097Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7ee12cafd69632ffa600d6b95259d2c0ba72501e",
+          "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
+          "url": "https://www.aibase.com/news/29353",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T03:16:48.074097Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T03:16:48.074097Z",
+      "latest_at": "2026-07-03T03:16:48.074097Z",
+      "primary_item": {
+        "id": "7ee12cafd69632ffa600d6b95259d2c0ba72501e",
+        "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
+        "url": "https://www.aibase.com/news/29353",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_34e272d19172",
+      "title": "关于Mythos和网络安全的讨论并非炒作",
+      "url": "https://x.com/emollick/status/2072778376494895139",
+      "primary_url": "https://x.com/emollick/status/2072778376494895139",
+      "source": "X：Ethan Mollick (@emollick)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
+          "title": "关于Mythos和网络安全的讨论并非炒作",
+          "url": "https://x.com/emollick/status/2072778376494895139",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T20:24:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Ethan Mollick (@emollick)"
+      ],
+      "items": [
+        {
+          "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
+          "title": "关于Mythos和网络安全的讨论并非炒作",
+          "url": "https://x.com/emollick/status/2072778376494895139",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T20:24:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7656,
+      "importance": 0.7656,
+      "importance_score": 0.7656,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9055,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T20:24:09Z",
+      "latest_at": "2026-07-02T20:24:09Z",
+      "primary_item": {
+        "id": "28ed1fffa1bb27ed053f53909f71d58dd58d2c84",
+        "title": "关于Mythos和网络安全的讨论并非炒作",
+        "url": "https://x.com/emollick/status/2072778376494895139",
+        "source": "X：Ethan Mollick (@emollick)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b1ace1e3f9bf",
+      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+      "url": "https://x.com/shao__meng/status/2072644710523691110",
+      "primary_url": "https://x.com/shao__meng/status/2072644710523691110",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://x.com/shao__meng/status/2072644710523691110",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://x.com/shao__meng/status/2072644710523691110",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7968,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:33:01Z",
+      "latest_at": "2026-07-02T11:33:01Z",
+      "primary_item": {
+        "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+        "url": "https://x.com/shao__meng/status/2072644710523691110",
+        "source": "X：邵猛 (@shao__meng)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5f6848e30c5a",
+      "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+      "url": "https://x.com/kimmonismus/status/2072718147279335507",
+      "primary_url": "https://x.com/kimmonismus/status/2072718147279335507",
+      "source": "X：Kim (@kimmonismus)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
+          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+          "url": "https://x.com/kimmonismus/status/2072718147279335507",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T16:24:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kim (@kimmonismus)"
+      ],
+      "items": [
+        {
+          "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
+          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+          "url": "https://x.com/kimmonismus/status/2072718147279335507",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T16:24:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7505,
+      "importance": 0.7505,
+      "importance_score": 0.7505,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8548,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T16:24:50Z",
+      "latest_at": "2026-07-02T16:24:50Z",
+      "primary_item": {
+        "id": "b3203a7ff649fb38df52f6bb5422f9cf0f5c37e6",
+        "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
+        "url": "https://x.com/kimmonismus/status/2072718147279335507",
+        "source": "X：Kim (@kimmonismus)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1bf7e1ec92fc",
+      "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T18:05:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T18:05:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8296,
+      "importance": 0.8296,
+      "importance_score": 0.8296,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8757,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T18:05:05Z",
+      "latest_at": "2026-07-02T18:05:05Z",
+      "primary_item": {
+        "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+        "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+        "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9425deafab70",
+      "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
+      "url": "https://www.aibase.com/news/29357",
+      "primary_url": "https://www.aibase.com/news/29357",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "67d61511e88d800fc0153ddef899081752e64fa5",
+          "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
+          "url": "https://www.aibase.com/news/29357",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T03:16:48.074097Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "67d61511e88d800fc0153ddef899081752e64fa5",
+          "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
+          "url": "https://www.aibase.com/news/29357",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T03:16:48.074097Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T03:16:48.074097Z",
+      "latest_at": "2026-07-03T03:16:48.074097Z",
+      "primary_item": {
+        "id": "67d61511e88d800fc0153ddef899081752e64fa5",
+        "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
+        "url": "https://www.aibase.com/news/29357",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1050,15 +1115,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9192,
+        "recency": 0.8717,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1110,15 +1175,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7942,
+        "recency": 0.7532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1136,65 +1201,63 @@
       }
     },
     {
-      "story_id": "story_2153c74c2c67",
-      "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-      "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-      "primary_url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_976f7a63ecae",
+      "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
+      "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
+      "primary_url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-          "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-          "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T16:00:51Z"
+          "id": "9781e7316d748d05214d7c8e78be0e9857de1178",
+          "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
+          "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T00:16:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-          "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-          "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T16:00:51Z"
+          "id": "9781e7316d748d05214d7c8e78be0e9857de1178",
+          "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
+          "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T00:16:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
-      "importance_label": "官方更新",
+      "score": 0.7299,
+      "importance": 0.7299,
+      "importance_score": 0.7299,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8961,
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9574,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-02T16:00:51Z",
-      "latest_at": "2026-07-02T16:00:51Z",
+      "earliest_at": "2026-07-03T00:16:00Z",
+      "latest_at": "2026-07-03T00:16:00Z",
       "primary_item": {
-        "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-        "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-        "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "9781e7316d748d05214d7c8e78be0e9857de1178",
+        "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
+        "url": "https://mp.weixin.qq.com/s/L6R_SPWlOBv6dI0wWWHQrg",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1251,15 +1314,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8534,
+        "recency": 0.8093,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1279,142 +1342,21 @@
       }
     },
     {
-      "story_id": "story_457e95cf2cb4",
-      "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-      "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-      "primary_url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
-          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T20:51:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
-          "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-          "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T20:51:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9611,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T20:51:39Z",
-      "latest_at": "2026-07-02T20:51:39Z",
-      "primary_item": {
-        "id": "b80857d53267900d5ed0eaa9cf634268d8c4d7be",
-        "title": "阿里巴巴发布 Page Agent：开源 JavaScript 库实现网页 DOM 自然语言操控",
-        "url": "https://www.marktechpost.com/2026/07/02/meet-alibabas-page-agent-a-javascript-in-page-gui-agent-that-controls-web-interfaces-with-natural-language-through-the-dom",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e170951e0600",
-      "title": "Claude Enterprise 新增用量与成本分析及支出管控功能",
-      "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
-      "primary_url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "26d85349521da1e3ea17fa3de30128f43dfed886",
-          "title": "Claude Enterprise 新增用量与成本分析及支出管控功能",
-          "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T18:03:22.345000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "26d85349521da1e3ea17fa3de30128f43dfed886",
-          "title": "Claude Enterprise 新增用量与成本分析及支出管控功能",
-          "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T18:03:22.345000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.923,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T18:03:22.345000Z",
-      "latest_at": "2026-07-02T18:03:22.345000Z",
-      "primary_item": {
-        "id": "26d85349521da1e3ea17fa3de30128f43dfed886",
-        "title": "Claude Enterprise 新增用量与成本分析及支出管控功能",
-        "url": "https://claude.com/blog/giving-admins-more-visibility-and-control-over-claude-usage-and-spend",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f709f41925c8",
-      "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-      "url": "https://www.ithome.com/0/971/469.htm",
-      "primary_url": "https://www.ithome.com/0/971/469.htm",
+      "story_id": "story_87803e07e4a5",
+      "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+      "url": "https://www.ithome.com/0/971/971.htm",
+      "primary_url": "https://www.ithome.com/0/971/971.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b7ef78f888ccc43b030efca765286e0fa97e2d8d",
-          "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-          "url": "https://www.ithome.com/0/971/469.htm",
+          "id": "d4cdd024dd389d1951401429fce6186aca5fbac0",
+          "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+          "url": "https://www.ithome.com/0/971/971.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T02:51:10Z"
+          "published_at": "2026-07-02T23:43:15Z"
         }
       ],
       "source_count": 1,
@@ -1423,38 +1365,39 @@
       ],
       "items": [
         {
-          "id": "b7ef78f888ccc43b030efca765286e0fa97e2d8d",
-          "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-          "url": "https://www.ithome.com/0/971/469.htm",
+          "id": "d4cdd024dd389d1951401429fce6186aca5fbac0",
+          "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+          "url": "https://www.ithome.com/0/971/971.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T02:51:10Z"
+          "published_at": "2026-07-02T23:43:15Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.741,
+        "recency": 0.9499,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-02T02:51:10Z",
-      "latest_at": "2026-07-02T02:51:10Z",
+      "earliest_at": "2026-07-02T23:43:15Z",
+      "latest_at": "2026-07-02T23:43:15Z",
       "primary_item": {
-        "id": "b7ef78f888ccc43b030efca765286e0fa97e2d8d",
-        "title": "AI 版支付宝开放公测，蚂蚁阿宝无需邀请码即可体验",
-        "url": "https://www.ithome.com/0/971/469.htm",
+        "id": "d4cdd024dd389d1951401429fce6186aca5fbac0",
+        "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+        "url": "https://www.ithome.com/0/971/971.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
