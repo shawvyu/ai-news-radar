@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T15:30:20.679369Z",
+  "generated_at": "2026-07-12T16:41:53.875029Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8274,
+        "recency": 0.8133,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -100,6 +100,128 @@
         "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
         "url": "https://www.iroh.computer/blog/mesh-llm",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2d32142bc0da",
+      "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+      "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+      "primary_url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T16:24:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+          "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+          "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T16:24:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9958,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T16:24:32Z",
+      "latest_at": "2026-07-12T16:24:32Z",
+      "primary_item": {
+        "id": "c3b94bfbf430fa9dd347781c6de01eb70fd3a32a",
+        "title": "腾讯混元发布Hy3模型：295B参数MoE架构，Agent向LLM定位，已集成微信服务10亿+用户",
+        "url": "https://x.com/AYi_AInotes/status/2076341952023310580",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_169d19b44b6c",
+      "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+      "url": "https://x.com/satyanadella/status/2076323181154230284",
+      "primary_url": "https://x.com/satyanadella/status/2076323181154230284",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+          "url": "https://x.com/satyanadella/status/2076323181154230284",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T15:09:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+          "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+          "url": "https://x.com/satyanadella/status/2076323181154230284",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T15:09:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T15:09:57Z",
+      "latest_at": "2026-07-12T15:09:57Z",
+      "primary_item": {
+        "id": "b62c95a42f68f854995840b3d2a2351ccfc3a4bb",
+        "title": "纳德拉提出\"反向信息悖论\"：企业使用AI时需保护自身知识",
+        "url": "https://x.com/satyanadella/status/2076323181154230284",
+        "source": "X：Satya Nadella (@satyanadella)",
         "source_name": "AI HOT"
       }
     },
@@ -157,15 +279,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.8982,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -238,15 +360,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8189,
+        "recency": 0.8049,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,15 +441,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.808,
+        "recency": 0.7942,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -400,15 +522,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9597,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -462,15 +584,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8367,
+        "recency": 0.8225,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -541,15 +663,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7202,
+        "recency": 0.7079,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -621,15 +743,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8302,
+        "recency": 0.8161,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -702,15 +824,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7233,
+        "recency": 0.711,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -782,15 +904,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8467,
+        "recency": 0.8323,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -863,15 +985,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7921,
+        "recency": 0.7786,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -891,13 +1013,31 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+      "title": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-07-12",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "9b390655dafd542dce2eb4f54ba659155af6b256",
+          "title": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-12T16:41:53.875029Z"
+        },
+        {
+          "id": "b2729d8d19d03d8935cddeb97ae95434c4e1b328",
+          "title": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-12T16:41:53.875029Z"
+        },
+        {
           "id": "c5c6174b0bb558b86c7043802bc43e3396732d03",
           "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -932,24 +1072,33 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-11T17:27:16.338767Z"
-        },
-        {
-          "id": "6775699f131f34b8575fd1be93bbcef39425e7ce",
-          "title": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-11",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-11T16:23:33.404065Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "source_names": [
         "社区更新 · 2026-07-11",
         "社区更新 · 2026-07-12"
       ],
       "items": [
         {
+          "id": "9b390655dafd542dce2eb4f54ba659155af6b256",
+          "title": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-12T16:41:53.875029Z"
+        },
+        {
+          "id": "b2729d8d19d03d8935cddeb97ae95434c4e1b328",
+          "title": "飞书CLI接入各类AI编程工具后可一键读写文档、多维表格、日历、群聊、云空间与会议纪要，还能联动网页抓取、视频拆解、绘图生成、PPT 制作工具。这篇文章分享了一些创意玩法，覆盖知识库归档、短视频脚本解析、电商素材产出、产品商机分析等多元场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-12T16:41:53.875029Z"
+        },
+        {
           "id": "c5c6174b0bb558b86c7043802bc43e3396732d03",
           "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -984,19 +1133,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-11T17:27:16.338767Z"
-        },
-        {
-          "id": "6775699f131f34b8575fd1be93bbcef39425e7ce",
-          "title": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-11",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-11T16:23:33.404065Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
+      "item_count": 6,
+      "duplicate_count": 6,
       "score": 0.6692,
       "importance": 0.6692,
       "importance_score": 0.6692,
@@ -1012,95 +1152,14 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-11T16:23:33.404065Z",
-      "latest_at": "2026-07-12T15:30:20.679369Z",
+      "earliest_at": "2026-07-11T17:27:16.338767Z",
+      "latest_at": "2026-07-12T16:41:53.875029Z",
       "primary_item": {
-        "id": "c5c6174b0bb558b86c7043802bc43e3396732d03",
-        "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+        "id": "9b390655dafd542dce2eb4f54ba659155af6b256",
+        "title": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-12",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_9c885636aaf2",
-      "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-      "url": "https://www.mixfont.com/ghost-font",
-      "primary_url": "https://www.mixfont.com/ghost-font",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        },
-        {
-          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "www.mixfont.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.mixfont.com"
-      ],
-      "items": [
-        {
-          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        },
-        {
-          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "www.mixfont.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7175,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-11T16:31:09.615000Z",
-      "latest_at": "2026-07-11T16:31:09.615000Z",
-      "primary_item": {
-        "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-        "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-        "url": "https://www.mixfont.com/ghost-font",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1195,15 +1254,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5706,
-      "importance": 0.5706,
-      "importance_score": 0.5706,
+      "score": 0.5679,
+      "importance": 0.5679,
+      "importance_score": 0.5679,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8599,
+        "recency": 0.8452,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1217,6 +1276,164 @@
         "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
         "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
         "source": "pluralistic.net",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ac92e5fbbd7c",
+      "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+      "url": "https://news.ycombinator.com/item?id=48881498",
+      "primary_url": "https://news.ycombinator.com/item?id=48881498",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7ea93e6a5185ef02e137309c30d916c79c237747",
+          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+          "url": "https://news.ycombinator.com/item?id=48881498",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T16:23:48.422000Z"
+        },
+        {
+          "id": "9b1ed991d1216f878216a15326c1e80733b0b377",
+          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+          "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T14:32:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7ea93e6a5185ef02e137309c30d916c79c237747",
+          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+          "url": "https://news.ycombinator.com/item?id=48881498",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T16:23:48.422000Z"
+        },
+        {
+          "id": "9b1ed991d1216f878216a15326c1e80733b0b377",
+          "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+          "url": "https://www.elliotcsmith.com/autoresearch-claude-and-constrained-optimization",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T14:32:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9957,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T14:32:00Z",
+      "latest_at": "2026-07-12T16:23:48.422000Z",
+      "primary_item": {
+        "id": "7ea93e6a5185ef02e137309c30d916c79c237747",
+        "title": "Autoresearch，克劳德和约束优化 / Autoresearch, Claude and Constrained Optimization",
+        "url": "https://news.ycombinator.com/item?id=48881498",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_12c458e9f6b4",
+      "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+      "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T14:23:06.187000Z"
+        },
+        {
+          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T14:02:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T14:23:06.187000Z"
+        },
+        {
+          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T14:02:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9671,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T14:02:01Z",
+      "latest_at": "2026-07-12T14:23:06.187000Z",
+      "primary_item": {
+        "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+        "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+        "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1274,15 +1491,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9834,
+        "recency": 0.9666,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1353,15 +1570,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9727,
+        "recency": 0.9561,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1376,104 +1593,6 @@
         "url": "https://github.com/Roee-Tsur/mcp-spec-check",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d01a1045be8c",
-      "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-      "url": "https://news.ycombinator.com/item?id=48875342",
-      "primary_url": "https://news.ycombinator.com/item?id=48875342",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
-          "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://news.ycombinator.com/item?id=48875342",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T01:11:47.426000Z"
-        },
-        {
-          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:15:06.203000Z"
-        },
-        {
-          "id": "2c492bf97e09e599b514e5ed4acce179dc5cc1e8",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T20:03:42Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
-          "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://news.ycombinator.com/item?id=48875342",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T01:11:47.426000Z"
-        },
-        {
-          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:15:06.203000Z"
-        },
-        {
-          "id": "2c492bf97e09e599b514e5ed4acce179dc5cc1e8",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T20:03:42Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8133,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T20:03:42Z",
-      "latest_at": "2026-07-12T01:11:47.426000Z",
-      "primary_item": {
-        "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
-        "title": "Show HN：Sqlsure – 对 AI 生成的 SQL 进行确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-        "url": "https://news.ycombinator.com/item?id=48875342",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1530,15 +1649,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9482,
+        "recency": 0.932,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1553,164 +1672,6 @@
         "url": "https://github.com/Nutlope/hallmark",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_56cbb52c8dba",
-      "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-      "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-      "source": "36氪 (36Kr)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
-          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T11:37:33Z"
-        },
-        {
-          "id": "3a40211363b4e97f550cc53ceba9c73101f9536a",
-          "title": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
-          "url": "https://www.gelonghui.com/live/2548422",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
-          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T11:37:33Z"
-        },
-        {
-          "id": "3a40211363b4e97f550cc53ceba9c73101f9536a",
-          "title": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
-          "url": "https://www.gelonghui.com/live/2548422",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.536,
-      "importance": 0.536,
-      "importance_score": 0.536,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9455,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T10:49:27.175454Z",
-      "latest_at": "2026-07-12T11:37:33Z",
-      "primary_item": {
-        "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
-        "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-        "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-        "source": "36氪 (36Kr)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_9c16317d5df5",
-      "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
-      "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-      "primary_url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
-          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
-          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T11:11:07.762000Z"
-        },
-        {
-          "id": "8f92d8063a8524b8318042b1d525babcc144c568",
-          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。 / I'm a writer who left LA for an AI startup in San Francisco. It was like stepping into a whole new world.",
-          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T09:51:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
-          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
-          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T11:11:07.762000Z"
-        },
-        {
-          "id": "8f92d8063a8524b8318042b1d525babcc144c568",
-          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。 / I'm a writer who left LA for an AI startup in San Francisco. It was like stepping into a whole new world.",
-          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T09:51:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9395,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T09:51:01Z",
-      "latest_at": "2026-07-12T11:11:07.762000Z",
-      "primary_item": {
-        "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
-        "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
-        "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
