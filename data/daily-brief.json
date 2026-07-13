@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T22:42:05.359250Z",
+  "generated_at": "2026-07-13T23:40:36.079398Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7205,
+        "recency": 0.7104,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,6 +82,105 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ee8739307658",
+      "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
+      "url": "https://playcode.io/blog/real-price-of-frontier-models",
+      "primary_url": "https://playcode.io/blog/real-price-of-frontier-models",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
+          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T21:50:30.963000Z"
+        },
+        {
+          "id": "3689d75285319512be005960484067a1a1c50562",
+          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T18:32:27Z"
+        },
+        {
+          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
+          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models. Tokens * Price, right?",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T18:32:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
+          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T21:50:30.963000Z"
+        },
+        {
+          "id": "3689d75285319512be005960484067a1a1c50562",
+          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T18:32:27Z"
+        },
+        {
+          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
+          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models. Tokens * Price, right?",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T18:32:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8279,
+      "importance": 0.8279,
+      "importance_score": 0.8279,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9739,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T18:32:27Z",
+      "latest_at": "2026-07-13T21:50:30.963000Z",
+      "primary_item": {
+        "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
+        "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
+        "url": "https://playcode.io/blog/real-price-of-frontier-models",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -119,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9073,
+        "recency": 0.8946,
         "story_heat": 0.0
       },
       "category": "official",
@@ -144,87 +243,6 @@
         "url": "https://github.blog/changelog/2026-07-13-separate-sso-and-organizations-pages-in-settings",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ee8739307658",
-      "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-      "url": "https://playcode.io/blog/real-price-of-frontier-models",
-      "primary_url": "https://playcode.io/blog/real-price-of-frontier-models",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T21:50:30.963000Z"
-        },
-        {
-          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models. Tokens * Price, right?",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T21:50:30.963000Z"
-        },
-        {
-          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models. Tokens * Price, right?",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9877,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T18:32:27Z",
-      "latest_at": "2026-07-13T21:50:30.963000Z",
-      "primary_item": {
-        "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
-        "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-        "url": "https://playcode.io/blog/real-price-of-frontier-models",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -281,15 +299,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9316,
+        "recency": 0.9186,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -343,15 +361,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7214,
+        "recency": 0.7113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -423,15 +441,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8088,
+        "recency": 0.7975,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -485,15 +503,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8322,
+        "recency": 0.8206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -546,15 +564,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8472,
+        "recency": 0.8353,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,15 +625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8302,
+        "recency": 0.8186,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -686,15 +704,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8529,
+        "recency": 0.841,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -767,22 +785,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.773,
+        "recency": 0.7622,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T02:32:13Z",
       "latest_at": "2026-07-13T04:52:13.076041Z",
@@ -848,15 +865,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7339,
+      "importance": 0.7339,
+      "importance_score": 0.7339,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7172,
+        "recency": 0.7072,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -909,15 +926,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7302,
+        "recency": 0.72,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -988,15 +1005,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.735,
+        "recency": 0.7247,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1121,15 +1138,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.658,
-      "importance": 0.658,
-      "importance_score": 0.658,
+      "score": 0.6556,
+      "importance": 0.6556,
+      "importance_score": 0.6556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9378,
+        "recency": 0.9247,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1181,15 +1198,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8515,
+        "recency": 0.8396,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1241,15 +1258,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8515,
+        "recency": 0.8396,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1319,15 +1336,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6137,
-      "importance": 0.6137,
-      "importance_score": 0.6137,
+      "score": 0.6114,
+      "importance": 0.6114,
+      "importance_score": 0.6114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.921,
+        "recency": 0.9081,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1379,15 +1396,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8515,
+        "recency": 0.8396,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1431,17 +1448,18 @@
           "published_at": "2026-07-13T20:01:43Z"
         },
         {
-          "id": "56e2f4ae0a0b0649c5e0c8a64ecc978561d1123f",
+          "id": "db8ffc72498a5e04787bec6c4c0142816fb3bf1e",
           "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据 / Samsung will delete your health data if you don't let them use it to train AI",
           "url": "https://neow.in/cWsyMTV3",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-13T20:01:43Z"
         }
       ],
       "source_count": 3,
       "source_names": [
+        "Hacker News",
         "Hacker News (黑客新闻)",
         "neow.in"
       ],
@@ -1465,26 +1483,26 @@
           "published_at": "2026-07-13T20:01:43Z"
         },
         {
-          "id": "56e2f4ae0a0b0649c5e0c8a64ecc978561d1123f",
+          "id": "db8ffc72498a5e04787bec6c4c0142816fb3bf1e",
           "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据 / Samsung will delete your health data if you don't let them use it to train AI",
           "url": "https://neow.in/cWsyMTV3",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-13T20:01:43Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5686,
-      "importance": 0.5686,
-      "importance_score": 0.5686,
+      "score": 0.5661,
+      "importance": 0.5661,
+      "importance_score": 0.5661,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9877,
+        "recency": 0.9739,
         "story_heat": 0.5
       },
       "category": "multi_source",
