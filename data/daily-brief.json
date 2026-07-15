@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T20:59:47.194246Z",
+  "generated_at": "2026-07-15T23:25:54.517448Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8511,
-      "importance": 0.8511,
-      "importance_score": 0.8511,
+      "score": 0.8452,
+      "importance": 0.8452,
+      "importance_score": 0.8452,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9507,
+        "recency": 0.9178,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,68 @@
         "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
         "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6895fff98626",
+      "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+      "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+      "primary_url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+          "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+          "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T22:38:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+          "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+          "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T22:38:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9886,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T22:38:16Z",
+      "latest_at": "2026-07-15T22:38:16Z",
+      "primary_item": {
+        "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+        "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+        "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8532,
+        "recency": 0.8237,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,124 +187,6 @@
         "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9bca5dae0eb3",
-      "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "primary_url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
-          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        },
-        {
-          "id": "3866feccb17eb0d861be30029f299f0a295e8d84",
-          "title": "完全披露：Cursor 中存在任意代码执行漏洞",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "mindgard.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T04:55:21.542000Z"
-        },
-        {
-          "id": "39de46bc3c39610026b5943df3ef0a3a20f15444",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时 / Full disclosure: Arbitrary code execution in Cursor",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T02:02:02Z"
-        },
-        {
-          "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "mindgard.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)",
-        "mindgard.ai"
-      ],
-      "items": [
-        {
-          "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
-          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        },
-        {
-          "id": "3866feccb17eb0d861be30029f299f0a295e8d84",
-          "title": "完全披露：Cursor 中存在任意代码执行漏洞",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "mindgard.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T04:55:21.542000Z"
-        },
-        {
-          "id": "39de46bc3c39610026b5943df3ef0a3a20f15444",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时 / Full disclosure: Arbitrary code execution in Cursor",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T02:02:02Z"
-        },
-        {
-          "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
-          "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
-          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "mindgard.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T21:27:11.693000Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7118,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T21:27:11.693000Z",
-      "latest_at": "2026-07-15T04:55:21.542000Z",
-      "primary_item": {
-        "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
-        "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
-        "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -280,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.851,
-      "importance": 0.851,
-      "importance_score": 0.851,
+      "score": 0.8451,
+      "importance": 0.8451,
+      "importance_score": 0.8451,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9501,
+        "recency": 0.9172,
         "story_heat": 0.0
       },
       "category": "official",
@@ -304,68 +248,6 @@
         "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
         "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_18f99e3f3fbc",
-      "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
-      "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
-          "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T00:01:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
-          "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T00:01:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7387,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T00:01:24Z",
-      "latest_at": "2026-07-15T00:01:24Z",
-      "primary_item": {
-        "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
-        "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
-        "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -404,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8782,
+        "recency": 0.8478,
         "story_heat": 0.0
       },
       "category": "official",
@@ -428,149 +310,6 @@
         "title": "美国正在通过州和联邦行动推进人工智能安全 / The US is advancing AI safety through state and federal action",
         "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5c5769bf1ca7",
-      "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
-      "url": "https://www.ithome.com/0/977/109.htm",
-      "primary_url": "https://www.ithome.com/0/977/109.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c6bafd5518758d997436bedac01e6e661e5793a",
-          "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
-          "url": "https://www.ithome.com/0/977/109.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T08:41:23Z"
-        },
-        {
-          "id": "0b032980153389bea397050bb9cb1cf43f166061",
-          "title": "国行苹果 AI 功能完成备案，阿里巴巴称千问将作为 AI 能力集成至 Apple 智能",
-          "url": "https://www.ithome.com/0/977/109.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T08:41:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0c6bafd5518758d997436bedac01e6e661e5793a",
-          "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
-          "url": "https://www.ithome.com/0/977/109.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T08:41:23Z"
-        },
-        {
-          "id": "0b032980153389bea397050bb9cb1cf43f166061",
-          "title": "国行苹果 AI 功能完成备案，阿里巴巴称千问将作为 AI 能力集成至 Apple 智能",
-          "url": "https://www.ithome.com/0/977/109.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T08:41:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8372,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T08:41:23Z",
-      "latest_at": "2026-07-15T08:41:23Z",
-      "primary_item": {
-        "id": "0c6bafd5518758d997436bedac01e6e661e5793a",
-        "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
-        "url": "https://www.ithome.com/0/977/109.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ad1e2a9c5407",
-      "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-      "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-          "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T23:37:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-          "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T23:37:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7345,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T23:37:29Z",
-      "latest_at": "2026-07-14T23:37:29Z",
-      "primary_item": {
-        "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
-        "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
-        "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -628,15 +367,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
+      "score": 0.7884,
+      "importance": 0.7884,
+      "importance_score": 0.7884,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9253,
+        "recency": 0.8933,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -653,6 +392,149 @@
         "url": "https://core.telegram.org/bots/serverless",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5c5769bf1ca7",
+      "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+      "url": "https://www.ithome.com/0/977/109.htm",
+      "primary_url": "https://www.ithome.com/0/977/109.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0c6bafd5518758d997436bedac01e6e661e5793a",
+          "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+          "url": "https://www.ithome.com/0/977/109.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T08:41:23Z"
+        },
+        {
+          "id": "0b032980153389bea397050bb9cb1cf43f166061",
+          "title": "国行苹果 AI 功能完成备案，阿里巴巴称千问将作为 AI 能力集成至 Apple 智能",
+          "url": "https://www.ithome.com/0/977/109.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T08:41:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0c6bafd5518758d997436bedac01e6e661e5793a",
+          "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+          "url": "https://www.ithome.com/0/977/109.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T08:41:23Z"
+        },
+        {
+          "id": "0b032980153389bea397050bb9cb1cf43f166061",
+          "title": "国行苹果 AI 功能完成备案，阿里巴巴称千问将作为 AI 能力集成至 Apple 智能",
+          "url": "https://www.ithome.com/0/977/109.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T08:41:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8082,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T08:41:23Z",
+      "latest_at": "2026-07-15T08:41:23Z",
+      "primary_item": {
+        "id": "0c6bafd5518758d997436bedac01e6e661e5793a",
+        "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
+        "url": "https://www.ithome.com/0/977/109.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_18f99e3f3fbc",
+      "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
+      "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
+      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
+          "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T00:01:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
+          "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T00:01:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7132,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T00:01:24Z",
+      "latest_at": "2026-07-15T00:01:24Z",
+      "primary_item": {
+        "id": "fecab8ea56e8c4805fa973284e92c3890a51ae9c",
+        "title": "Visual Studio 中的 GitHub Copilot — 6 月更新 / GitHub Copilot in Visual Studio — June update",
+        "url": "https://github.blog/changelog/2026-07-14-github-copilot-in-visual-studio-june-update",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -690,15 +572,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.865,
+        "recency": 0.8351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -770,15 +652,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8119,
+        "recency": 0.7838,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -795,87 +677,6 @@
         "url": "https://www.aibase.com/news/29612",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3e68f8ee554f",
-      "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
-      "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-      "primary_url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1acf293c8d5fe32e9ae7141f174df40c344e7d99",
-          "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
-          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T21:50:11Z"
-        },
-        {
-          "id": "f9625a0d0960866a08717676fff7dee35c7c16c5",
-          "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库 / OpenAI’s new flagship model deletes files on its own, people keep warning",
-          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-14T21:50:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1acf293c8d5fe32e9ae7141f174df40c344e7d99",
-          "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
-          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T21:50:11Z"
-        },
-        {
-          "id": "f9625a0d0960866a08717676fff7dee35c7c16c5",
-          "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库 / OpenAI’s new flagship model deletes files on its own, people keep warning",
-          "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-14T21:50:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7157,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T21:50:11Z",
-      "latest_at": "2026-07-14T21:50:11Z",
-      "primary_item": {
-        "id": "1acf293c8d5fe32e9ae7141f174df40c344e7d99",
-        "title": "OpenAI GPT-5.6 Sol 被曝自行删除用户文件与数据库",
-        "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -913,15 +714,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7385,
+        "recency": 0.7129,
         "story_heat": 0.0
       },
       "category": "official",
@@ -937,6 +738,68 @@
         "title": "欢迎来自 Thinking Machine 的 Inkling / Welcome Inkling by Thinking Machines",
         "url": "https://huggingface.co/blog/thinkingmachines-inkling",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ad1e2a9c5407",
+      "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
+      "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+      "primary_url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
+          "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T23:37:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
+          "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
+          "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T23:37:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7091,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T23:37:29Z",
+      "latest_at": "2026-07-14T23:37:29Z",
+      "primary_item": {
+        "id": "906fa3659ef6d9e0e6773b4b6aaa7a2245287883",
+        "title": "GitHub Copilot for JetBrains 扩展了 BYOK 功能 / GitHub Copilot for JetBrains expands BYOK capabilities",
+        "url": "https://github.blog/changelog/2026-07-14-github-copilot-for-jetbrains-expands-byok-capabilities",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -975,15 +838,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7643,
+        "recency": 0.7379,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1054,15 +917,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8119,
+        "recency": 0.7838,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1116,15 +979,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7237,
+      "importance": 0.7237,
+      "importance_score": 0.7237,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7657,
+        "recency": 0.7392,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1195,15 +1058,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8369,
+        "recency": 0.808,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1219,66 +1082,6 @@
         "title": "金山办公推出 WPS Comate AI 办公客户端",
         "url": "https://www.ithome.com/0/977/105.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d7a72e9aa349",
-      "title": "Codex 周活超700万，两月更新150+项",
-      "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-      "primary_url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5d91636db5625e900361a03a18921524a4153cb4",
-          "title": "Codex 周活超700万，两月更新150+项",
-          "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T23:01:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
-      ],
-      "items": [
-        {
-          "id": "5d91636db5625e900361a03a18921524a4153cb4",
-          "title": "Codex 周活超700万，两月更新150+项",
-          "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T23:01:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7281,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T23:01:05Z",
-      "latest_at": "2026-07-14T23:01:05Z",
-      "primary_item": {
-        "id": "5d91636db5625e900361a03a18921524a4153cb4",
-        "title": "Codex 周活超700万，两月更新150+项",
-        "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
         "source_name": "AI HOT"
       }
     },
@@ -1317,15 +1120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7385,
+        "recency": 0.7129,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1345,63 +1148,244 @@
       }
     },
     {
-      "story_id": "story_d17ac7f43b0d",
-      "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-      "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-      "primary_url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-      "source": "公众号：卡尔的AI沃茨",
+      "story_id": "story_eb9b80fadbba",
+      "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
+      "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+      "primary_url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7f407e817b9c352b467b7b2a1ec7646d359e4007",
-          "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-          "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-          "source": "公众号：卡尔的AI沃茨",
+          "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
+          "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
+          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-15T01:52:00Z"
+          "published_at": "2026-07-15T03:51:16.524000Z"
+        },
+        {
+          "id": "1c2aadf61cc7aa7e0b8fcfe152ee25bea2f95ac3",
+          "title": "数据中心已使公众的电费增加了230亿美元 / Data centers have hiked electricity prices on the public by $23B",
+          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T00:20:31Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "公众号：卡尔的AI沃茨"
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "7f407e817b9c352b467b7b2a1ec7646d359e4007",
-          "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-          "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-          "source": "公众号：卡尔的AI沃茨",
+          "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
+          "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
+          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-15T01:52:00Z"
+          "published_at": "2026-07-15T03:51:16.524000Z"
+        },
+        {
+          "id": "1c2aadf61cc7aa7e0b8fcfe152ee25bea2f95ac3",
+          "title": "数据中心已使公众的电费增加了230亿美元 / Data centers have hiked electricity prices on the public by $23B",
+          "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T00:20:31Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7586,
-        "story_heat": 0.0
+        "recency": 0.7537,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-15T01:52:00Z",
-      "latest_at": "2026-07-15T01:52:00Z",
+      "earliest_at": "2026-07-15T00:20:31Z",
+      "latest_at": "2026-07-15T03:51:16.524000Z",
       "primary_item": {
-        "id": "7f407e817b9c352b467b7b2a1ec7646d359e4007",
-        "title": "开源 LLM TODO Skill\"阿福\"：用 Claude Code 和 Codex 实现知识管理到排期自动化",
-        "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
-        "source": "公众号：卡尔的AI沃茨",
+        "id": "7780ac5867d8905bd2b741d4f72a57d47bde334a",
+        "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
+        "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_467fe263bae9",
+      "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+      "url": "https://www.aibase.com/news/29610",
+      "primary_url": "https://www.aibase.com/news/29610",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
+          "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+          "url": "https://www.aibase.com/news/29610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T06:33:55.983514Z"
+        },
+        {
+          "id": "db3ce05e71b3599e8c447d89e3f22641091c2abf",
+          "title": "支付宝联手OPPO实现智能体跨端互联，“阿宝”与“小布”协同代办生活服务",
+          "url": "https://www.aibase.com/news/29610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T04:20:24.013026Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
+          "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+          "url": "https://www.aibase.com/news/29610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T06:33:55.983514Z"
+        },
+        {
+          "id": "db3ce05e71b3599e8c447d89e3f22641091c2abf",
+          "title": "支付宝联手OPPO实现智能体跨端互联，“阿宝”与“小布”协同代办生活服务",
+          "url": "https://www.aibase.com/news/29610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T04:20:24.013026Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7838,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T04:20:24.013026Z",
+      "latest_at": "2026-07-15T06:33:55.983514Z",
+      "primary_item": {
+        "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
+        "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+        "url": "https://www.aibase.com/news/29610",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_172b5bbe18c6",
+      "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
+      "url": "https://www.aibase.com/news/29613",
+      "primary_url": "https://www.aibase.com/news/29613",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1981f2a0166adf58515350074aee8611335c874d",
+          "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
+          "url": "https://www.aibase.com/news/29613",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T06:33:55.983514Z"
+        },
+        {
+          "id": "da5c95907cda5e94c47535562716f4880fa8b74b",
+          "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
+          "url": "https://www.aibase.com/zh/news/29613",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1981f2a0166adf58515350074aee8611335c874d",
+          "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
+          "url": "https://www.aibase.com/news/29613",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T06:33:55.983514Z"
+        },
+        {
+          "id": "da5c95907cda5e94c47535562716f4880fa8b74b",
+          "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
+          "url": "https://www.aibase.com/zh/news/29613",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7838,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T06:33:55.983514Z",
+      "latest_at": "2026-07-15T06:33:55.983514Z",
+      "primary_item": {
+        "id": "1981f2a0166adf58515350074aee8611335c874d",
+        "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
+        "url": "https://www.aibase.com/news/29613",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
