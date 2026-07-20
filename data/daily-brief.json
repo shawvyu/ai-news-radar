@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T23:44:04.712810Z",
+  "generated_at": "2026-07-20T01:23:00.930811Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8224,
-      "importance": 0.8224,
-      "importance_score": 0.8224,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7654,
+        "recency": 0.7474,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -195,15 +195,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.965,
+        "recency": 0.9423,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -220,6 +220,128 @@
         "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ab5aeea5a08a",
+      "title": "不会代码也能做产品：一份从0开始的Vibe Coding保姆级教程",
+      "url": "https://mp.weixin.qq.com/s/EeHjsju08ARLbwtwFcViqg",
+      "primary_url": "https://mp.weixin.qq.com/s/EeHjsju08ARLbwtwFcViqg",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e0edf5088b20ec1e2642f95384157aad64059717",
+          "title": "不会代码也能做产品：一份从0开始的Vibe Coding保姆级教程",
+          "url": "https://mp.weixin.qq.com/s/EeHjsju08ARLbwtwFcViqg",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T00:08:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "e0edf5088b20ec1e2642f95384157aad64059717",
+          "title": "不会代码也能做产品：一份从0开始的Vibe Coding保姆级教程",
+          "url": "https://mp.weixin.qq.com/s/EeHjsju08ARLbwtwFcViqg",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T00:08:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9821,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T00:08:00Z",
+      "latest_at": "2026-07-20T00:08:00Z",
+      "primary_item": {
+        "id": "e0edf5088b20ec1e2642f95384157aad64059717",
+        "title": "不会代码也能做产品：一份从0开始的Vibe Coding保姆级教程",
+        "url": "https://mp.weixin.qq.com/s/EeHjsju08ARLbwtwFcViqg",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5f345909fe7f",
+      "title": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
+      "url": "https://www.aibase.com/news/29701",
+      "primary_url": "https://www.aibase.com/news/29701",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "54ac89dcdc83f47ab0ecd1c76f7387ae99f10899",
+          "title": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
+          "url": "https://www.aibase.com/news/29701",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T01:23:00.930811Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "54ac89dcdc83f47ab0ecd1c76f7387ae99f10899",
+          "title": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
+          "url": "https://www.aibase.com/news/29701",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T01:23:00.930811Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T01:23:00.930811Z",
+      "latest_at": "2026-07-20T01:23:00.930811Z",
+      "primary_item": {
+        "id": "54ac89dcdc83f47ab0ecd1c76f7387ae99f10899",
+        "title": "Claude Fable5使用权限大调整:部分用户失去访问权，Anthropic加速扩容",
+        "url": "https://www.aibase.com/news/29701",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -276,15 +398,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7566,
+        "recency": 0.7388,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -301,6 +423,67 @@
         "url": "https://x.com/thsottiaux/status/2078697631019303273",
         "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_146f92fbb9ef",
+      "title": "Kimi因算力紧缺暂停C端新用户订阅，全速推进集群扩容",
+      "url": "https://www.aibase.com/news/29698",
+      "primary_url": "https://www.aibase.com/news/29698",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "53c68a9e904430d030b1a02ae2454aa3d53ce127",
+          "title": "Kimi因算力紧缺暂停C端新用户订阅，全速推进集群扩容",
+          "url": "https://www.aibase.com/news/29698",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T01:23:00.930811Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "53c68a9e904430d030b1a02ae2454aa3d53ce127",
+          "title": "Kimi因算力紧缺暂停C端新用户订阅，全速推进集群扩容",
+          "url": "https://www.aibase.com/news/29698",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T01:23:00.930811Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T01:23:00.930811Z",
+      "latest_at": "2026-07-20T01:23:00.930811Z",
+      "primary_item": {
+        "id": "53c68a9e904430d030b1a02ae2454aa3d53ce127",
+        "title": "Kimi因算力紧缺暂停C端新用户订阅，全速推进集群扩容",
+        "url": "https://www.aibase.com/news/29698",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -338,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8515,
+        "recency": 0.8314,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -360,66 +543,6 @@
         "title": "昆仑万维宣布2026为\"世界模型元年\"，发布Matrix-Game 3.5等模型",
         "url": "https://mp.weixin.qq.com/s/LidvGePhOOoUY3KTor_w9g",
         "source": "公众号：昆仑万维（天工）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fe4e6bee6d5f",
-      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-      "url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "primary_url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-          "url": "https://x.com/OpenBMB/status/2078839529591759025",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T13:49:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：面壁智能 OpenBMB (@OpenBMB)"
-      ],
-      "items": [
-        {
-          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-          "url": "https://x.com/OpenBMB/status/2078839529591759025",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T13:49:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8666,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-19T13:49:01Z",
-      "latest_at": "2026-07-19T13:49:01Z",
-      "primary_item": {
-        "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-        "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-        "url": "https://x.com/OpenBMB/status/2078839529591759025",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
         "source_name": "AI HOT"
       }
     },
@@ -458,15 +581,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7988,
+        "recency": 0.78,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -484,83 +607,62 @@
       }
     },
     {
-      "story_id": "story_45da52ae09b4",
-      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "primary_url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_fe4e6bee6d5f",
+      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+      "url": "https://x.com/OpenBMB/status/2078839529591759025",
+      "primary_url": "https://x.com/OpenBMB/status/2078839529591759025",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
-          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
-          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
+          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+          "url": "https://x.com/OpenBMB/status/2078839529591759025",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-19T02:49:15.657000Z"
-        },
-        {
-          "id": "a117b7230802eba247de3db469d97a734333ef3d",
-          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
-          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-19T00:38:26Z"
+          "published_at": "2026-07-19T13:49:01Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "X：面壁智能 OpenBMB (@OpenBMB)"
       ],
       "items": [
         {
-          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
-          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
-          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
+          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+          "url": "https://x.com/OpenBMB/status/2078839529591759025",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-19T02:49:15.657000Z"
-        },
-        {
-          "id": "a117b7230802eba247de3db469d97a734333ef3d",
-          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
-          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-19T00:38:26Z"
+          "published_at": "2026-07-19T13:49:01Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7393,
-        "story_heat": 0.25
+        "recency": 0.8462,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-19T00:38:26Z",
-      "latest_at": "2026-07-19T02:49:15.657000Z",
+      "earliest_at": "2026-07-19T13:49:01Z",
+      "latest_at": "2026-07-19T13:49:01Z",
       "primary_item": {
-        "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
-        "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
-        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
+        "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+        "url": "https://x.com/OpenBMB/status/2078839529591759025",
+        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
         "source_name": "AI HOT"
       }
     },
@@ -599,15 +701,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.859,
+        "recency": 0.8388,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -625,63 +727,185 @@
       }
     },
     {
-      "story_id": "story_d5da13e42be7",
-      "title": "何夕2077 AI 深度信号周报 (2026 W29) | 全球治理撕裂、Claude 信任危机与端侧算力觉醒",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-19-hexi-2077-ai-signal-weekly-2026-w29",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-19-hexi-2077-ai-signal-weekly-2026-w29",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
+      "story_id": "story_dd9fe1c9beb5",
+      "title": "Netflix5.87亿美元收购本·阿弗莱克AI电影制作公司InterPositive",
+      "url": "https://www.aibase.com/news/29699",
+      "primary_url": "https://www.aibase.com/news/29699",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "f17abd744093b555e49bfbbd1b2d46e0598fb270",
-          "title": "何夕2077 AI 深度信号周报 (2026 W29) | 全球治理撕裂、Claude 信任危机与端侧算力觉醒",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-19-hexi-2077-ai-signal-weekly-2026-w29",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-07-19T03:42:47Z"
+          "id": "0919126c705f688d01e81e077ddb16abacad328a",
+          "title": "Netflix5.87亿美元收购本·阿弗莱克AI电影制作公司InterPositive",
+          "url": "https://www.aibase.com/news/29699",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T01:23:00.930811Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Daily Digest"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "f17abd744093b555e49bfbbd1b2d46e0598fb270",
-          "title": "何夕2077 AI 深度信号周报 (2026 W29) | 全球治理撕裂、Claude 信任危机与端侧算力觉醒",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-19-hexi-2077-ai-signal-weekly-2026-w29",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-07-19T03:42:47Z"
+          "id": "0919126c705f688d01e81e077ddb16abacad328a",
+          "title": "Netflix5.87亿美元收购本·阿弗莱克AI电影制作公司InterPositive",
+          "url": "https://www.aibase.com/news/29699",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T01:23:00.930811Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7489,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T01:23:00.930811Z",
+      "latest_at": "2026-07-20T01:23:00.930811Z",
+      "primary_item": {
+        "id": "0919126c705f688d01e81e077ddb16abacad328a",
+        "title": "Netflix5.87亿美元收购本·阿弗莱克AI电影制作公司InterPositive",
+        "url": "https://www.aibase.com/news/29699",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_45da52ae09b4",
+      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "primary_url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T02:49:15.657000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+          "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+          "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T02:49:15.657000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7219,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-19T03:42:47Z",
-      "latest_at": "2026-07-19T03:42:47Z",
+      "earliest_at": "2026-07-19T02:49:15.657000Z",
+      "latest_at": "2026-07-19T02:49:15.657000Z",
       "primary_item": {
-        "id": "f17abd744093b555e49bfbbd1b2d46e0598fb270",
-        "title": "何夕2077 AI 深度信号周报 (2026 W29) | 全球治理撕裂、Claude 信任危机与端侧算力觉醒",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-19-hexi-2077-ai-signal-weekly-2026-w29",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
+        "id": "a8f34387ea9f4cc2fdc9fec9f0aa34d0afbb8fd1",
+        "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族",
+        "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_052a458881e0",
+      "title": "发布仅三天就踩下刹车：Kimi K3 用户请求爆表，月之暗面算力顶到天花板",
+      "url": "https://www.aibase.com/news/29696",
+      "primary_url": "https://www.aibase.com/news/29696",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d16afef0565b927169ab897d6018c7cc5775035c",
+          "title": "发布仅三天就踩下刹车：Kimi K3 用户请求爆表，月之暗面算力顶到天花板",
+          "url": "https://www.aibase.com/news/29696",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T01:23:00.930811Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d16afef0565b927169ab897d6018c7cc5775035c",
+          "title": "发布仅三天就踩下刹车：Kimi K3 用户请求爆表，月之暗面算力顶到天花板",
+          "url": "https://www.aibase.com/news/29696",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T01:23:00.930811Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T01:23:00.930811Z",
+      "latest_at": "2026-07-20T01:23:00.930811Z",
+      "primary_item": {
+        "id": "d16afef0565b927169ab897d6018c7cc5775035c",
+        "title": "发布仅三天就踩下刹车：Kimi K3 用户请求爆表，月之暗面算力顶到天花板",
+        "url": "https://www.aibase.com/news/29696",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -791,15 +1015,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6601,
-      "importance": 0.6601,
-      "importance_score": 0.6601,
+      "score": 0.6562,
+      "importance": 0.6562,
+      "importance_score": 0.6562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.9265,
+        "recency": 0.9047,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -814,6 +1038,128 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-19",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_d4c2d1ce4c65",
+      "title": "神珍科学多模态基础模型在沪亮相： 110 亿参数打通六类科学数据，一个模型读懂DNA到气象场",
+      "url": "https://www.aibase.com/news/29700",
+      "primary_url": "https://www.aibase.com/news/29700",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bad9883b7aea9fd7ad35a3c25e4ff5c84e469391",
+          "title": "神珍科学多模态基础模型在沪亮相： 110 亿参数打通六类科学数据，一个模型读懂DNA到气象场",
+          "url": "https://www.aibase.com/news/29700",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T01:23:00.930811Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bad9883b7aea9fd7ad35a3c25e4ff5c84e469391",
+          "title": "神珍科学多模态基础模型在沪亮相： 110 亿参数打通六类科学数据，一个模型读懂DNA到气象场",
+          "url": "https://www.aibase.com/news/29700",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T01:23:00.930811Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T01:23:00.930811Z",
+      "latest_at": "2026-07-20T01:23:00.930811Z",
+      "primary_item": {
+        "id": "bad9883b7aea9fd7ad35a3c25e4ff5c84e469391",
+        "title": "神珍科学多模态基础模型在沪亮相： 110 亿参数打通六类科学数据，一个模型读懂DNA到气象场",
+        "url": "https://www.aibase.com/news/29700",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_674447a1e44b",
+      "title": "阿里新一代大模型千问3. 8 将至：预览版抢先登陆阿里云与Qoder，正式版拟近期开源",
+      "url": "https://www.aibase.com/news/29697",
+      "primary_url": "https://www.aibase.com/news/29697",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dd25bcbe293b87136d6cc0ccd37790ba4ee142f6",
+          "title": "阿里新一代大模型千问3. 8 将至：预览版抢先登陆阿里云与Qoder，正式版拟近期开源",
+          "url": "https://www.aibase.com/news/29697",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T01:23:00.930811Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "dd25bcbe293b87136d6cc0ccd37790ba4ee142f6",
+          "title": "阿里新一代大模型千问3. 8 将至：预览版抢先登陆阿里云与Qoder，正式版拟近期开源",
+          "url": "https://www.aibase.com/news/29697",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T01:23:00.930811Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T01:23:00.930811Z",
+      "latest_at": "2026-07-20T01:23:00.930811Z",
+      "primary_item": {
+        "id": "dd25bcbe293b87136d6cc0ccd37790ba4ee142f6",
+        "title": "阿里新一代大模型千问3. 8 将至：预览版抢先登陆阿里云与Qoder，正式版拟近期开源",
+        "url": "https://www.aibase.com/news/29697",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -843,6 +1189,15 @@
           "published_at": "2026-07-19T21:18:10Z"
         },
         {
+          "id": "cbcb732965953014ea98279c2bfbbeb2f4846aec",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people less accurate but more confident – sudy",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T21:18:10Z"
+        },
+        {
           "id": "9c79fc22db09b74819e6522bef3954a47d57f212",
           "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people three times less accurate but twice as confident, researchers found",
           "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
@@ -852,9 +1207,10 @@
           "published_at": "2026-07-19T15:35:47Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Hacker News",
+        "Hacker News (黑客新闻)",
         "The Next Web",
         "thenextweb.com"
       ],
@@ -878,6 +1234,15 @@
           "published_at": "2026-07-19T21:18:10Z"
         },
         {
+          "id": "cbcb732965953014ea98279c2bfbbeb2f4846aec",
+          "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people less accurate but more confident – sudy",
+          "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-19T21:18:10Z"
+        },
+        {
           "id": "9c79fc22db09b74819e6522bef3954a47d57f212",
           "title": "研究人员发现，AI建议会使人们的准确率降低3倍，但自信度却提高2倍 / AI advice made people three times less accurate but twice as confident, researchers found",
           "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
@@ -887,18 +1252,18 @@
           "published_at": "2026-07-19T15:35:47Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5691,
-      "importance": 0.5691,
-      "importance_score": 0.5691,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5899,
+      "importance": 0.5899,
+      "importance_score": 0.5899,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9907,
-        "story_heat": 0.5
+        "recency": 0.9674,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -912,6 +1277,67 @@
         "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
         "source": "thenextweb.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e97a778ea4b6",
+      "title": "面壁智能开源MiniCPM-Robot：1.5B的VLA模型完整放出，个人开发者也能在真机器人上跑操作",
+      "url": "https://www.aibase.com/news/29702",
+      "primary_url": "https://www.aibase.com/news/29702",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "df3cf8b9b878252d4898e9856983aef63bce2b43",
+          "title": "面壁智能开源MiniCPM-Robot：1.5B的VLA模型完整放出，个人开发者也能在真机器人上跑操作",
+          "url": "https://www.aibase.com/news/29702",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T01:23:00.930811Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "df3cf8b9b878252d4898e9856983aef63bce2b43",
+          "title": "面壁智能开源MiniCPM-Robot：1.5B的VLA模型完整放出，个人开发者也能在真机器人上跑操作",
+          "url": "https://www.aibase.com/news/29702",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T01:23:00.930811Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T01:23:00.930811Z",
+      "latest_at": "2026-07-20T01:23:00.930811Z",
+      "primary_item": {
+        "id": "df3cf8b9b878252d4898e9856983aef63bce2b43",
+        "title": "面壁智能开源MiniCPM-Robot：1.5B的VLA模型完整放出，个人开发者也能在真机器人上跑操作",
+        "url": "https://www.aibase.com/news/29702",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -968,15 +1394,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5655,
-      "importance": 0.5655,
-      "importance_score": 0.5655,
+      "score": 0.5624,
+      "importance": 0.5624,
+      "importance_score": 0.5624,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.751,
+        "recency": 0.7333,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1020,18 +1446,18 @@
           "published_at": "2026-07-19T18:27:40.666000Z"
         },
         {
-          "id": "319ff83da8c991e09d08b2a45836d1b8f79ae95a",
+          "id": "eb2361426f5332e7bf36e887c0aa3424de371737",
           "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
           "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-19T16:02:25Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews",
         "twitter.com"
       ],
@@ -1055,26 +1481,26 @@
           "published_at": "2026-07-19T18:27:40.666000Z"
         },
         {
-          "id": "319ff83da8c991e09d08b2a45836d1b8f79ae95a",
+          "id": "eb2361426f5332e7bf36e887c0aa3424de371737",
           "title": "由于Kimi K3需求旺盛，Moonshot AI暂停受理新订阅申请 / Moonshot AI suspends new subscriptions due to Kimi K3 demand",
           "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-19T16:02:25Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5617,
-      "importance": 0.5617,
-      "importance_score": 0.5617,
+      "score": 0.5577,
+      "importance": 0.5577,
+      "importance_score": 0.5577,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9497,
+        "recency": 0.9273,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1089,576 +1515,6 @@
         "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
         "source": "twitter.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_87cd30f5b2eb",
-      "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-      "url": "https://github.com/openai/codex/pull/33972/files",
-      "primary_url": "https://github.com/openai/codex/pull/33972/files",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b2015cfec6ec0bd6105da3136d67ac7b547bcfb5",
-          "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-          "url": "https://github.com/openai/codex/pull/33972/files",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T14:49:41.361000Z"
-        },
-        {
-          "id": "b394584b170edf3f0a0f3ace87d2fc7e804c46cd",
-          "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "url": "https://news.ycombinator.com/item?id=48965850",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T10:49:40.990000Z"
-        },
-        {
-          "id": "7a8eb125771c2d5fedc488e142da8abed7b33ccb",
-          "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万 / OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "url": "https://github.com/openai/codex/pull/33972/files",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T07:54:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b2015cfec6ec0bd6105da3136d67ac7b547bcfb5",
-          "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-          "url": "https://github.com/openai/codex/pull/33972/files",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T14:49:41.361000Z"
-        },
-        {
-          "id": "b394584b170edf3f0a0f3ace87d2fc7e804c46cd",
-          "title": "OpenAI 将 Codex 模型上下文大小从 372k 减少到 272k / OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "url": "https://news.ycombinator.com/item?id=48965850",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T10:49:40.990000Z"
-        },
-        {
-          "id": "7a8eb125771c2d5fedc488e142da8abed7b33ccb",
-          "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万 / OpenAI reduces Codex Model Context Size from 372k to 272k",
-          "url": "https://github.com/openai/codex/pull/33972/files",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T07:54:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5491,
-      "importance": 0.5491,
-      "importance_score": 0.5491,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8793,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T07:54:39Z",
-      "latest_at": "2026-07-19T14:49:41.361000Z",
-      "primary_item": {
-        "id": "b2015cfec6ec0bd6105da3136d67ac7b547bcfb5",
-        "title": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-        "url": "https://github.com/openai/codex/pull/33972/files",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c009023ad3f3",
-      "title": "物理AI驱动的组织变革：构建人-AI协作闭环模型",
-      "url": "https://www.huxiu.com/article/4876531.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4876531.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "77ab17cb1cc1a9d4b6b24fad908f6ac034f9e010",
-          "title": "物理AI驱动的组织变革：构建人-AI协作闭环模型",
-          "url": "https://www.huxiu.com/article/4876531.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "24b6d03d2e68124ac28423c7d3f45ce03100c737",
-          "title": "物理AI驱动的组织变革",
-          "url": "https://www.huxiu.com/article/4876531.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T22:08:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "77ab17cb1cc1a9d4b6b24fad908f6ac034f9e010",
-          "title": "物理AI驱动的组织变革：构建人-AI协作闭环模型",
-          "url": "https://www.huxiu.com/article/4876531.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "24b6d03d2e68124ac28423c7d3f45ce03100c737",
-          "title": "物理AI驱动的组织变革",
-          "url": "https://www.huxiu.com/article/4876531.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-19T22:08:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T22:08:31Z",
-      "latest_at": "2026-07-19T23:44:04.712810Z",
-      "primary_item": {
-        "id": "77ab17cb1cc1a9d4b6b24fad908f6ac034f9e010",
-        "title": "物理AI驱动的组织变革：构建人-AI协作闭环模型",
-        "url": "https://www.huxiu.com/article/4876531.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6f83c4b98e8b",
-      "title": "博杰利/ai-agent-book / bojieli /      ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "primary_url": "https://github.com/bojieli/ai-agent-book",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9c0158c1f5e569d3b530c782aa2b83120947f640",
-          "title": "博杰利/ai-agent-book / bojieli /      ai-agent-book",
-          "url": "https://github.com/bojieli/ai-agent-book",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T21:18:46.527000Z"
-        },
-        {
-          "id": "0e16c867b1ceef4eb342ce477ac3378a09fc55c9",
-          "title": "博杰利/ai-agent-book / bojieli / ai-agent-book",
-          "url": "https://github.com/bojieli/ai-agent-book",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "9c0158c1f5e569d3b530c782aa2b83120947f640",
-          "title": "博杰利/ai-agent-book / bojieli /      ai-agent-book",
-          "url": "https://github.com/bojieli/ai-agent-book",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T21:18:46.527000Z"
-        },
-        {
-          "id": "0e16c867b1ceef4eb342ce477ac3378a09fc55c9",
-          "title": "博杰利/ai-agent-book / bojieli / ai-agent-book",
-          "url": "https://github.com/bojieli/ai-agent-book",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9656,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T20:35:26.885492Z",
-      "latest_at": "2026-07-19T21:18:46.527000Z",
-      "primary_item": {
-        "id": "9c0158c1f5e569d3b530c782aa2b83120947f640",
-        "title": "博杰利/ai-agent-book / bojieli /      ai-agent-book",
-        "url": "https://github.com/bojieli/ai-agent-book",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_d65b43dabb17",
-      "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
-      "url": "https://news.ycombinator.com/item?id=48968067",
-      "primary_url": "https://news.ycombinator.com/item?id=48968067",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "70ee0ac4f331ec5e5e537493f5fd6fef636affad",
-          "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
-          "url": "https://news.ycombinator.com/item?id=48968067",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T15:29:13.155000Z"
-        },
-        {
-          "id": "e1fb3ee308303cdbd693ef50249845ceccb7b60d",
-          "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
-          "url": "https://www.cortex.io/drive",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T13:30:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "70ee0ac4f331ec5e5e537493f5fd6fef636affad",
-          "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
-          "url": "https://news.ycombinator.com/item?id=48968067",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-19T15:29:13.155000Z"
-        },
-        {
-          "id": "e1fb3ee308303cdbd693ef50249845ceccb7b60d",
-          "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
-          "url": "https://www.cortex.io/drive",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T13:30:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8877,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T13:30:01Z",
-      "latest_at": "2026-07-19T15:29:13.155000Z",
-      "primary_item": {
-        "id": "70ee0ac4f331ec5e5e537493f5fd6fef636affad",
-        "title": "DRIVE – 人工智能加速工程的卓越运营 / DRIVE – Operational Excellence for AI-accelerated engineering",
-        "url": "https://news.ycombinator.com/item?id=48968067",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_3393bf4686ee",
-      "title": "Moonshot计划在中国实现人工智能突破后六个月内进行首次公开募股",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "76d22b96d84e4863fdbab97d76d0be92a0c061e2",
-          "title": "Moonshot计划在中国实现人工智能突破后六个月内进行首次公开募股",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T13:29:25.835000Z"
-        },
-        {
-          "id": "7e687aa16dad3755b6ae4a36681a1cd9e47ea964",
-          "title": "中国“登月计划”在实现人工智能突破后六个月内计划进行首次公开募股",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T07:18:24.264000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "76d22b96d84e4863fdbab97d76d0be92a0c061e2",
-          "title": "Moonshot计划在中国实现人工智能突破后六个月内进行首次公开募股",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T13:29:25.835000Z"
-        },
-        {
-          "id": "7e687aa16dad3755b6ae4a36681a1cd9e47ea964",
-          "title": "中国“登月计划”在实现人工智能突破后六个月内计划进行首次公开募股",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T07:18:24.264000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8625,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T07:18:24.264000Z",
-      "latest_at": "2026-07-19T13:29:25.835000Z",
-      "primary_item": {
-        "id": "76d22b96d84e4863fdbab97d76d0be92a0c061e2",
-        "title": "Moonshot计划在中国实现人工智能突破后六个月内进行首次公开募股",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-19/china-s-moonshot-plans-ipo-in-six-months-after-ai-breakthrough",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_42ff174aec0d",
-      "title": "当人工智能开始进行足球博彩时，会发生什么？",
-      "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
-      "primary_url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "176fa5b65296d1bb9c6eff1c6d5b6960cc6ee84e",
-          "title": "当人工智能开始进行足球博彩时，会发生什么？",
-          "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T11:21:29.886000Z"
-        },
-        {
-          "id": "d0b7cc0bc89e1ddd7f1ebed4b357f8032f7db6e4",
-          "title": "当人工智能开始进行足球博彩时，会发生什么？ / What happens when AI starts gambling on soccer?",
-          "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T10:00:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "176fa5b65296d1bb9c6eff1c6d5b6960cc6ee84e",
-          "title": "当人工智能开始进行足球博彩时，会发生什么？",
-          "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-19T11:21:29.886000Z"
-        },
-        {
-          "id": "d0b7cc0bc89e1ddd7f1ebed4b357f8032f7db6e4",
-          "title": "当人工智能开始进行足球博彩时，会发生什么？ / What happens when AI starts gambling on soccer?",
-          "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-19T10:00:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5163,
-      "importance": 0.5163,
-      "importance_score": 0.5163,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8363,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T10:00:01Z",
-      "latest_at": "2026-07-19T11:21:29.886000Z",
-      "primary_item": {
-        "id": "176fa5b65296d1bb9c6eff1c6d5b6960cc6ee84e",
-        "title": "当人工智能开始进行足球博彩时，会发生什么？",
-        "url": "https://www.businessinsider.com/new-ai-benchmark-betting-on-world-cup-soccer-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ddebaf62488a",
-      "title": "Qwen 3.8",
-      "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "primary_url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "3ae9ca0146762249b5511bd86305e8ad702f47de",
-          "title": "Qwen 3.8",
-          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-19T08:44:57Z"
-        },
-        {
-          "id": "9aae45aab0e918d6b87ba8657ea8b0bd706a8b28",
-          "title": "Qwen3.8 即将发布，并很快将开放权重 / Qwen3.8 is launching and going open-weight soon",
-          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-19T08:44:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "3ae9ca0146762249b5511bd86305e8ad702f47de",
-          "title": "Qwen 3.8",
-          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-19T08:44:57Z"
-        },
-        {
-          "id": "9aae45aab0e918d6b87ba8657ea8b0bd706a8b28",
-          "title": "Qwen3.8 即将发布，并很快将开放权重 / Qwen3.8 is launching and going open-weight soon",
-          "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-19T08:44:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5108,
-      "importance": 0.5108,
-      "importance_score": 0.5108,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8054,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T08:44:57Z",
-      "latest_at": "2026-07-19T08:44:57Z",
-      "primary_item": {
-        "id": "3ae9ca0146762249b5511bd86305e8ad702f47de",
-        "title": "Qwen 3.8",
-        "url": "https://twitter.com/Alibaba_Qwen/status/2078759124914098291",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
