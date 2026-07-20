@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T16:50:20.899995Z",
+  "generated_at": "2026-07-20T18:47:28.430058Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_8030c8e0dc09",
-      "title": "Cosmos 3 Edge 简介 / Introducing Cosmos 3 Edge",
+      "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
       "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
       "primary_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
       "source": "Hugging Face Blog",
@@ -13,45 +13,65 @@
       "sources": [
         {
           "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
-          "title": "Cosmos 3 Edge 简介 / Introducing Cosmos 3 Edge",
+          "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
           "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-20T15:58:51Z"
+        },
+        {
+          "id": "48b5febd9e34d2df1d498ff00566ad5bd7cc0718",
+          "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T15:58:51Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
       ],
       "items": [
         {
           "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
-          "title": "Cosmos 3 Edge 简介 / Introducing Cosmos 3 Edge",
+          "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
           "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-20T15:58:51Z"
+        },
+        {
+          "id": "48b5febd9e34d2df1d498ff00566ad5bd7cc0718",
+          "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T15:58:51Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8578,
-      "importance": 0.8578,
-      "importance_score": 0.8578,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8778,
+      "importance": 0.8778,
+      "importance_score": 0.8778,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9877,
-        "story_heat": 0.0
+        "recency": 0.9602,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -59,28 +79,110 @@
       "latest_at": "2026-07-20T15:58:51Z",
       "primary_item": {
         "id": "2c503dcdedf18d5c8ed3527eb239b92ad9eaa01a",
-        "title": "Cosmos 3 Edge 简介 / Introducing Cosmos 3 Edge",
+        "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
         "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_c3556096c82e",
-      "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "story_id": "story_d4ff9ec891b7",
+      "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系 / Safety and alignment in an era of long-horizon models",
+      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "primary_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c81dd37d71e440ff2dcd40744732287ef9858e55",
+          "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系 / Safety and alignment in an era of long-horizon models",
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T10:00:00Z"
+        },
+        {
+          "id": "3d15a603b50a03a92a4b367554b73a5aae999d2a",
+          "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T10:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "c81dd37d71e440ff2dcd40744732287ef9858e55",
+          "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系 / Safety and alignment in an era of long-horizon models",
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T10:00:00Z"
+        },
+        {
+          "id": "3d15a603b50a03a92a4b367554b73a5aae999d2a",
+          "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
+          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T10:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8555,
+      "importance": 0.8555,
+      "importance_score": 0.8555,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8808,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T10:00:00Z",
+      "latest_at": "2026-07-20T10:00:00Z",
+      "primary_item": {
+        "id": "c81dd37d71e440ff2dcd40744732287ef9858e55",
+        "title": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系 / Safety and alignment in an era of long-horizon models",
+        "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_907952925737",
+      "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
+      "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
+      "primary_url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "id": "c4797d399f3b08c3517e7396453d98a469814bc6",
+          "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
+          "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-20T13:01:24Z"
+          "published_at": "2026-07-20T16:00:14Z"
         }
       ],
       "source_count": 1,
@@ -89,26 +191,26 @@
       ],
       "items": [
         {
-          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "id": "c4797d399f3b08c3517e7396453d98a469814bc6",
+          "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
+          "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-20T13:01:24Z"
+          "published_at": "2026-07-20T16:00:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8449,
+      "importance": 0.8449,
+      "importance_score": 0.8449,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9464,
+        "ai_relevance": 0.91,
+        "recency": 0.9605,
         "story_heat": 0.0
       },
       "category": "official",
@@ -117,14 +219,157 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T13:01:24Z",
-      "latest_at": "2026-07-20T13:01:24Z",
+      "earliest_at": "2026-07-20T16:00:14Z",
+      "latest_at": "2026-07-20T16:00:14Z",
       "primary_item": {
-        "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-        "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+        "id": "c4797d399f3b08c3517e7396453d98a469814bc6",
+        "title": "Copilot 用户现在可以查看每个计费周期使用的 AI 积分 / Copilot users can now see AI credits used per billing cycle",
+        "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a4b8abada7fb",
+      "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+      "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+      "primary_url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+          "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+          "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T18:24:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+          "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+          "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T18:24:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9944,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T18:24:14Z",
+      "latest_at": "2026-07-20T18:24:14Z",
+      "primary_item": {
+        "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+        "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+        "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e665a7f0b623",
+      "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
+      "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+      "primary_url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7a444cb04f8963eb2df183444c28ca7a82bd7f3c",
+          "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
+          "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T17:32:41Z"
+        },
+        {
+          "id": "697dac40e0e8367e5c8a53068f771b670e0fc2e4",
+          "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》 / District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+          "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-20T17:32:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7a444cb04f8963eb2df183444c28ca7a82bd7f3c",
+          "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
+          "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T17:32:41Z"
+        },
+        {
+          "id": "697dac40e0e8367e5c8a53068f771b670e0fc2e4",
+          "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》 / District 9 director Neill Blomkamp releases first short film made entirely with AI video generation",
+          "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-20T17:32:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9822,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T17:32:41Z",
+      "latest_at": "2026-07-20T17:32:41Z",
+      "primary_item": {
+        "id": "7a444cb04f8963eb2df183444c28ca7a82bd7f3c",
+        "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
+        "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -200,15 +445,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9373,
+        "recency": 0.9112,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -228,84 +473,65 @@
       }
     },
     {
-      "story_id": "story_c4ff01821c40",
-      "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-      "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-      "primary_url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_c3556096c82e",
+      "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:12:47Z"
-        },
-        {
-          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-20T12:12:47Z"
+          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T13:01:24Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:12:47Z"
-        },
-        {
-          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-20T12:12:47Z"
+          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T13:01:24Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8296,
+      "importance": 0.8296,
+      "importance_score": 0.8296,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9354,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9201,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T12:12:47Z",
-      "latest_at": "2026-07-20T12:12:47Z",
+      "earliest_at": "2026-07-20T13:01:24Z",
+      "latest_at": "2026-07-20T13:01:24Z",
       "primary_item": {
-        "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
-        "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-        "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
+        "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
+        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -362,15 +588,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8791,
+        "recency": 0.8546,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -443,15 +669,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8676,
+        "recency": 0.8435,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -471,63 +697,83 @@
       }
     },
     {
-      "story_id": "story_750b59cf8263",
-      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-      "url": "https://x.ai/news/introducing-excel-addin",
-      "primary_url": "https://x.ai/news/introducing-excel-addin",
-      "source": "xAI：News（网页）",
+      "story_id": "story_c4ff01821c40",
+      "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+      "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+      "primary_url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-          "url": "https://x.ai/news/introducing-excel-addin",
-          "source": "xAI：News（网页）",
+          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-20T16:19:52.655000Z"
+          "published_at": "2026-07-20T12:12:47Z"
+        },
+        {
+          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-20T12:12:47Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "xAI：News（网页）"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-          "url": "https://x.ai/news/introducing-excel-addin",
-          "source": "xAI：News（网页）",
+          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-20T16:19:52.655000Z"
+          "published_at": "2026-07-20T12:12:47Z"
+        },
+        {
+          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
+          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
+          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-20T12:12:47Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7853,
+      "importance": 0.7853,
+      "importance_score": 0.7853,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.69,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9927,
-        "story_heat": 0.0
+        "recency": 0.9094,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T16:19:52.655000Z",
-      "latest_at": "2026-07-20T16:19:52.655000Z",
+      "earliest_at": "2026-07-20T12:12:47Z",
+      "latest_at": "2026-07-20T12:12:47Z",
       "primary_item": {
-        "id": "f6697f4ca470f898348aef165d8193b250e8b902",
-        "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
-        "url": "https://x.ai/news/introducing-excel-addin",
-        "source": "xAI：News（网页）",
+        "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
+        "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
+        "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -585,15 +831,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7538,
+        "recency": 0.7329,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -609,6 +855,67 @@
         "title": "黄仁勋访日：Nvidia 联手日本打造物理 AI 时代，Noetra 主权 AI 工厂与 Cosmos 机器人联盟落地",
         "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_750b59cf8263",
+      "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+      "url": "https://x.ai/news/introducing-excel-addin",
+      "primary_url": "https://x.ai/news/introducing-excel-addin",
+      "source": "xAI：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+          "url": "https://x.ai/news/introducing-excel-addin",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T16:19:52.655000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "xAI：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+          "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+          "url": "https://x.ai/news/introducing-excel-addin",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T16:19:52.655000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9651,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T16:19:52.655000Z",
+      "latest_at": "2026-07-20T16:19:52.655000Z",
+      "primary_item": {
+        "id": "f6697f4ca470f898348aef165d8193b250e8b902",
+        "title": "Grok for Excel 发布：在 Microsoft Excel 中用自然语言提问、写公式和运行场景",
+        "url": "https://x.ai/news/introducing-excel-addin",
+        "source": "xAI：News（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -647,21 +954,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8296,
+        "recency": 0.8065,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T03:54:08Z",
       "latest_at": "2026-07-20T03:54:08Z",
@@ -708,15 +1014,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9882,
+        "recency": 0.9607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -768,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8915,
+        "recency": 0.8667,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -828,15 +1134,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7857,
+        "recency": 0.7638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -907,15 +1213,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7664,
+      "importance": 0.7664,
+      "importance_score": 0.7664,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8791,
+        "recency": 0.8546,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -932,6 +1238,66 @@
         "url": "https://www.aibase.com/news/29720",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_83085757836c",
+      "title": "中国AI几乎追平美国，Kimi K3开源模型引发市场震荡",
+      "url": "https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us",
+      "primary_url": "https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a5e048933dd418c20308963b9b2edd2b0fd0a1da",
+          "title": "中国AI几乎追平美国，Kimi K3开源模型引发市场震荡",
+          "url": "https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T17:27:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a5e048933dd418c20308963b9b2edd2b0fd0a1da",
+          "title": "中国AI几乎追平美国，Kimi K3开源模型引发市场震荡",
+          "url": "https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T17:27:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.981,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T17:27:55Z",
+      "latest_at": "2026-07-20T17:27:55Z",
+      "primary_item": {
+        "id": "a5e048933dd418c20308963b9b2edd2b0fd0a1da",
+        "title": "中国AI几乎追平美国，Kimi K3开源模型引发市场震荡",
+        "url": "https://garymarcus.substack.com/p/china-has-all-but-caught-up-the-us",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -969,15 +1335,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8803,
+        "recency": 0.8559,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -995,493 +1361,63 @@
       }
     },
     {
-      "story_id": "story_2df82173bb28",
-      "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-20",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "1859789e9cb14f4f969cf088859689b94aa807bc",
-          "title": "AI 把写代码、做原型、跑分析的门槛一下子降低了，但Netflix反而更看重“能把系统看完整的人”。这篇从Netflix 的CTO Elizabeth Stone和Lenny的访谈聊起，特别适合正在用 AI 提效的产品、技术和设计同学读一读：工具会让产出变快，真正决定上限的，是你能不能看见业务、数据、工程、体验和风险之间的连锁反应，并对最终结果负责。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T16:50:20.899995Z"
-        },
-        {
-          "id": "b52b0298f017ae791b847fc7f274ad45f897080c",
-          "title": "AI音乐圈这周像被按了快进键。Suno一边冲刺 IPO，一边被源码泄露扯出版权和隐私风险；另一边，MiniMax、阿里、昆仑万维、Google、Ace Studio又在音乐生成、MV 制作、录音重混上密集上新。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T16:50:20.899995Z"
-        },
-        {
-          "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
-          "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T16:50:20.899995Z"
-        },
-        {
-          "id": "2ee33a16ed14fa8b3a7d2ec094cf514222f5ea69",
-          "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T15:11:00.018024Z"
-        },
-        {
-          "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
-          "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:26:58.398947Z"
-        },
-        {
-          "id": "eaaefd0997e994162a8df0ce04b97977a376430c",
-          "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:26:58.398947Z"
-        },
-        {
-          "id": "36a3d43945170de328b3aa234329e827aee300c4",
-          "title": "LangChain开源了一个软件工程智能体工厂：dcode负责本地交互式编码，OpenSWE负责云端后台跑任务和提PR，OpenSWE Review 接入GitHub做自动代码审查，OpenWiki则为仓库持续生成文档和智能体记忆。快来体验一下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T17:29:51.526360Z"
-        },
-        {
-          "id": "3c2c634094ab1883d2369847a8237615af84da24",
-          "title": "如果你已经厌倦了反复给 AI 改错，这篇文章会很有启发。它把“自我纠错的 AI 循环”拆成构建者、评审者、管理者三层：先产出，再用真实依据核查，最后决定返工、通过或升级给人。这其中的关键在于结构化交接、独立评审、硬性停止条件和故障测试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T17:29:51.526360Z"
-        }
-      ],
-      "source_count": 8,
-      "source_names": [
-        "社区更新 · 2026-07-19",
-        "社区更新 · 2026-07-20"
-      ],
-      "items": [
-        {
-          "id": "1859789e9cb14f4f969cf088859689b94aa807bc",
-          "title": "AI 把写代码、做原型、跑分析的门槛一下子降低了，但Netflix反而更看重“能把系统看完整的人”。这篇从Netflix 的CTO Elizabeth Stone和Lenny的访谈聊起，特别适合正在用 AI 提效的产品、技术和设计同学读一读：工具会让产出变快，真正决定上限的，是你能不能看见业务、数据、工程、体验和风险之间的连锁反应，并对最终结果负责。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T16:50:20.899995Z"
-        },
-        {
-          "id": "b52b0298f017ae791b847fc7f274ad45f897080c",
-          "title": "AI音乐圈这周像被按了快进键。Suno一边冲刺 IPO，一边被源码泄露扯出版权和隐私风险；另一边，MiniMax、阿里、昆仑万维、Google、Ace Studio又在音乐生成、MV 制作、录音重混上密集上新。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T16:50:20.899995Z"
-        },
-        {
-          "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
-          "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T16:50:20.899995Z"
-        },
-        {
-          "id": "2ee33a16ed14fa8b3a7d2ec094cf514222f5ea69",
-          "title": "Kimi K3刚冲上 Code Arena 第一，官方又因为算力紧张暂停新会员订阅。小歪直接花99 元实测了一轮，从价格、入口、API 成本，到3D 交互网页、知识可视化、无缝循环动效、多文件数据看板，带你快速判断K3哪些场景值得上手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-20",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-20T15:11:00.018024Z"
-        },
-        {
-          "id": "09e99af366792cddd98b2c04fb458c11810bfa29",
-          "title": "CY把Codex Micro的“Agent 状态外显”思路做成了Codex + Claude Code都能用的硬件版。他用EasyInput开发板跑通了从Codex / CC、本地Bridge、蓝牙 GATT到实体灯效的完整链路，让Agent的空闲、思考、未读、等待确认、报错等状态都可以直接显示在桌面灯光上。接下来，也会把它放进WaytoAGI AI 硬件训练营，带大家从零跑通相关设置和操作。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:26:58.398947Z"
-        },
-        {
-          "id": "eaaefd0997e994162a8df0ce04b97977a376430c",
-          "title": "这期AI论文精选很适合关注Agent落地的人看：自我改进、元认知、路由评估、失败追踪、运行框架演化，这几篇都在围绕一个核心问题打转——怎样让智能体更可靠、更可调试、更能长期运行。后半部分论文还延伸到了世界模型、安全监控优化、兼顾推理多样性的强化学习算法和高性能开源人形机器人模型。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T18:26:58.398947Z"
-        },
-        {
-          "id": "36a3d43945170de328b3aa234329e827aee300c4",
-          "title": "LangChain开源了一个软件工程智能体工厂：dcode负责本地交互式编码，OpenSWE负责云端后台跑任务和提PR，OpenSWE Review 接入GitHub做自动代码审查，OpenWiki则为仓库持续生成文档和智能体记忆。快来体验一下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T17:29:51.526360Z"
-        },
-        {
-          "id": "3c2c634094ab1883d2369847a8237615af84da24",
-          "title": "如果你已经厌倦了反复给 AI 改错，这篇文章会很有启发。它把“自我纠错的 AI 循环”拆成构建者、评审者、管理者三层：先产出，再用真实依据核查，最后决定返工、通过或升级给人。这其中的关键在于结构化交接、独立评审、硬性停止条件和故障测试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-19T17:29:51.526360Z"
-        }
-      ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.715,
-      "importance": 0.715,
-      "importance_score": 0.715,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.54,
-        "ai_relevance": 0.76,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-19T17:29:51.526360Z",
-      "latest_at": "2026-07-20T16:50:20.899995Z",
-      "primary_item": {
-        "id": "7f1d3418a485614fba323bc36061660ed0c4e054",
-        "title": "机器人“听懂人话”这件事，没我们想得那么简单。一句“把绿色积木放进右边盒子”，对大模型来说只是理解语义；对机器人来说，却意味着要看见目标、判断位置、规划动作，还要在环境变化后继续修正。CY 这篇借 MiniCPM-Robot 的开源发布，把VLA 模型、机械臂操作、自然语言跟随、本地推理和安全控制串了起来。看完会更清楚：具身智能要跑进现实世界，拼的不只是模型聪不聪明，更是整条系统链路能不能稳稳接住它。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-20",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_5051d31999f6",
-      "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-      "url": "https://ollama.com/blog/all-aboard-open-models",
-      "primary_url": "https://ollama.com/blog/all-aboard-open-models",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_32d427eb72d1",
+      "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "primary_url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "source": "Cursor Blog",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "url": "https://ollama.com/blog/all-aboard-open-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Cursor Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-20T01:45:09.765000Z"
+          "published_at": "2026-07-20T12:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Cursor Blog"
       ],
       "items": [
         {
-          "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-          "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-          "url": "https://ollama.com/blog/all-aboard-open-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
+          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Cursor Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-20T01:45:09.765000Z"
+          "published_at": "2026-07-20T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8042,
+        "recency": 0.9066,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-20T01:45:09.765000Z",
-      "latest_at": "2026-07-20T01:45:09.765000Z",
+      "earliest_at": "2026-07-20T12:00:00Z",
+      "latest_at": "2026-07-20T12:00:00Z",
       "primary_item": {
-        "id": "f0f9925f2426dd77e20a930b9f6571263a9e3069",
-        "title": "Ollama 获 8800 万美元融资，加速开放模型生态发展",
-        "url": "https://ollama.com/blog/all-aboard-open-models",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
+        "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
+        "url": "https://cursor.com/blog/agent-swarm-model-economics",
+        "source": "Cursor Blog",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fdabc12803be",
-      "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-      "url": "https://www.aibase.com/news/29725",
-      "primary_url": "https://www.aibase.com/news/29725",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
-          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-          "url": "https://www.aibase.com/news/29725",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:37:29.909178Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
-          "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-          "url": "https://www.aibase.com/news/29725",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:37:29.909178Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9142,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T10:37:29.909178Z",
-      "latest_at": "2026-07-20T10:37:29.909178Z",
-      "primary_item": {
-        "id": "08c230d02928604c55b8e4d146b35880ff52c1af",
-        "title": "100 亿次下载破纪录：工信部亮出开源半年报，OpenHarmony设备已超13. 5 亿台",
-        "url": "https://www.aibase.com/news/29725",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d29a6c3c6768",
-      "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-      "url": "https://www.aibase.com/news/29722",
-      "primary_url": "https://www.aibase.com/news/29722",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-          "url": "https://www.aibase.com/news/29722",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:37:29.909178Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-          "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-          "url": "https://www.aibase.com/news/29722",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:37:29.909178Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9142,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T10:37:29.909178Z",
-      "latest_at": "2026-07-20T10:37:29.909178Z",
-      "primary_item": {
-        "id": "4de799b163daeaa977ae4e3e72e0663b4eba033a",
-        "title": "一行GitHub代码出卖了AMD：Anthropic被曝成其新客户，算力去英伟达化加速",
-        "url": "https://www.aibase.com/news/29722",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5a4e22d48263",
-      "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
-      "url": "https://www.aibase.com/news/29724",
-      "primary_url": "https://www.aibase.com/news/29724",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
-          "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
-          "url": "https://www.aibase.com/news/29724",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:37:29.909178Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
-          "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
-          "url": "https://www.aibase.com/news/29724",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T10:37:29.909178Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9142,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T10:37:29.909178Z",
-      "latest_at": "2026-07-20T10:37:29.909178Z",
-      "primary_item": {
-        "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
-        "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
-        "url": "https://www.aibase.com/news/29724",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_859168d2d8f2",
-      "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-      "url": "https://www.aibase.com/news/29718",
-      "primary_url": "https://www.aibase.com/news/29718",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
-          "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-          "url": "https://www.aibase.com/news/29718",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T07:54:45.362716Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
-          "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-          "url": "https://www.aibase.com/news/29718",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-20T07:54:45.362716Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8791,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T07:54:45.362716Z",
-      "latest_at": "2026-07-20T07:54:45.362716Z",
-      "primary_item": {
-        "id": "5e1382416a261ffa53e55dfd6fb7dfd807a682b3",
-        "title": "8800 万美元加注开源：Ollama跑进85%财富 500 强，喊出\"全体上车\"",
-        "url": "https://www.aibase.com/news/29718",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
