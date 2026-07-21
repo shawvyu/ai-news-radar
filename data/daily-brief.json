@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T11:43:56.986416Z",
+  "generated_at": "2026-07-21T13:09:43.521752Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8551,
-      "importance": 0.8551,
-      "importance_score": 0.8551,
+      "score": 0.8517,
+      "importance": 0.8517,
+      "importance_score": 0.8517,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9192,
+        "recency": 0.9005,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7518,
+        "recency": 0.7365,
         "story_heat": 0.25
       },
       "category": "official",
@@ -277,15 +277,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9206,
+        "recency": 0.9017,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -339,15 +339,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8442,
+        "recency": 0.8269,
         "story_heat": 0.0
       },
       "category": "official",
@@ -401,15 +401,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7521,
+        "recency": 0.7367,
         "story_heat": 0.0
       },
       "category": "official",
@@ -463,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
+      "score": 0.7894,
+      "importance": 0.7894,
+      "importance_score": 0.7894,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9911,
+        "recency": 0.9709,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -486,125 +486,6 @@
         "title": "小红书 dots 模型获 IMO 2026 满分金牌",
         "url": "https://mp.weixin.qq.com/s/EITf-SrP5o62Ljp7UGzPVw",
         "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_32d427eb72d1",
-      "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "primary_url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9a0ec36f6f8791f3a36883b7a3e2a4b2f2a40f84",
-          "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T00:35:26.928000Z"
-        },
-        {
-          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
-          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:00:00Z"
-        },
-        {
-          "id": "0f7b1a9c982e3a0e860acf56d601bfcbbb63cec7",
-          "title": "代理群与新经济模式",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T00:35:26.928000Z"
-        },
-        {
-          "id": "ba63a889be06175186b81bb35172e9a594e1cc65",
-          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试 / Agent swarms and the new model economics",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T18:06:13Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Cursor Blog",
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "cursor.com"
-      ],
-      "items": [
-        {
-          "id": "9a0ec36f6f8791f3a36883b7a3e2a4b2f2a40f84",
-          "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T00:35:26.928000Z"
-        },
-        {
-          "id": "9967527d5e5b535c1b7e8fa13dd7b9a991ec71fa",
-          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "Cursor Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:00:00Z"
-        },
-        {
-          "id": "0f7b1a9c982e3a0e860acf56d601bfcbbb63cec7",
-          "title": "代理群与新经济模式",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T00:35:26.928000Z"
-        },
-        {
-          "id": "ba63a889be06175186b81bb35172e9a594e1cc65",
-          "title": "Cursor 测试新型 AI 智能体集群：规划者+执行者分工，4小时通过80% SQL测试 / Agent swarms and the new model economics",
-          "url": "https://cursor.com/blog/agent-swarm-model-economics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T18:06:13Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8514,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T12:00:00Z",
-      "latest_at": "2026-07-21T00:35:26.928000Z",
-      "primary_item": {
-        "id": "9a0ec36f6f8791f3a36883b7a3e2a4b2f2a40f84",
-        "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
-        "url": "https://cursor.com/blog/agent-swarm-model-economics",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -662,15 +543,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9398,
+        "recency": 0.9206,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -687,6 +568,125 @@
         "url": "https://www.aibase.com/news/29753",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2b4b6588b1d6",
+      "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "primary_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "unslop.run",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "44dc8dd3d7ec855ff1eaccf51cd71cd032284642",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T16:36:36Z"
+        },
+        {
+          "id": "3cbd95b51eb65716652cf72caf1ee928cc34607b",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / Over 30% of new ArXiv submissions now read as AI-written",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T16:36:36Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "unslop.run"
+      ],
+      "items": [
+        {
+          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "unslop.run",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "44dc8dd3d7ec855ff1eaccf51cd71cd032284642",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T16:36:36Z"
+        },
+        {
+          "id": "3cbd95b51eb65716652cf72caf1ee928cc34607b",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / Over 30% of new ArXiv submissions now read as AI-written",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T16:36:36Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7635,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T16:36:36Z",
+      "latest_at": "2026-07-20T18:28:23.600000Z",
+      "primary_item": {
+        "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+        "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -724,15 +724,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.8013,
+      "importance": 0.8013,
+      "importance_score": 0.8013,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7786,
+        "recency": 0.7627,
         "story_heat": 0.0
       },
       "category": "official",
@@ -805,15 +805,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7719,
-      "importance": 0.7719,
-      "importance_score": 0.7719,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8684,
+        "recency": 0.8507,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -886,15 +886,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.769,
+        "recency": 0.7533,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -910,124 +910,6 @@
         "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
         "url": "https://the-decoder.com/district-9-director-neill-blomkamp-releases-first-short-film-made-entirely-with-ai-video-generation",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2b4b6588b1d6",
-      "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "primary_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
-          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "unslop.run",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "3c5cafa69cae492adc835a138f64ec57c7d6bfdb",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T16:36:36Z"
-        },
-        {
-          "id": "3cbd95b51eb65716652cf72caf1ee928cc34607b",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / Over 30% of new ArXiv submissions now read as AI-written",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T16:36:36Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "unslop.run"
-      ],
-      "items": [
-        {
-          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
-          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "unslop.run",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "3c5cafa69cae492adc835a138f64ec57c7d6bfdb",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T16:36:36Z"
-        },
-        {
-          "id": "3cbd95b51eb65716652cf72caf1ee928cc34607b",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / Over 30% of new ArXiv submissions now read as AI-written",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T16:36:36Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7794,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T16:36:36Z",
-      "latest_at": "2026-07-20T18:28:23.600000Z",
-      "primary_item": {
-        "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
-        "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1085,15 +967,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7751,
-      "importance": 0.7751,
-      "importance_score": 0.7751,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9029,
+        "recency": 0.8844,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1113,65 +995,103 @@
       }
     },
     {
-      "story_id": "story_c3556096c82e",
-      "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_32d427eb72d1",
+      "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "primary_url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T13:01:24Z"
+          "id": "9a0ec36f6f8791f3a36883b7a3e2a4b2f2a40f84",
+          "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T00:35:26.928000Z"
+        },
+        {
+          "id": "0f7b1a9c982e3a0e860acf56d601bfcbbb63cec7",
+          "title": "代理群与新经济模式",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T00:35:26.928000Z"
+        },
+        {
+          "id": "ba63a889be06175186b81bb35172e9a594e1cc65",
+          "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率 / Agent swarms and the new model economics",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T18:06:13Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cursor.com"
       ],
       "items": [
         {
-          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T13:01:24Z"
+          "id": "9a0ec36f6f8791f3a36883b7a3e2a4b2f2a40f84",
+          "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T00:35:26.928000Z"
+        },
+        {
+          "id": "0f7b1a9c982e3a0e860acf56d601bfcbbb63cec7",
+          "title": "代理群与新经济模式",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T00:35:26.928000Z"
+        },
+        {
+          "id": "ba63a889be06175186b81bb35172e9a594e1cc65",
+          "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率 / Agent swarms and the new model economics",
+          "url": "https://cursor.com/blog/agent-swarm-model-economics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T18:06:13Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
-      "importance_label": "官方更新",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7847,
+      "importance": 0.7847,
+      "importance_score": 0.7847,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7204,
-        "story_heat": 0.0
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.834,
+        "story_heat": 0.5
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T13:01:24Z",
-      "latest_at": "2026-07-20T13:01:24Z",
+      "earliest_at": "2026-07-20T18:06:13Z",
+      "latest_at": "2026-07-21T00:35:26.928000Z",
       "primary_item": {
-        "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-        "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "9a0ec36f6f8791f3a36883b7a3e2a4b2f2a40f84",
+        "title": "代理群（Agent Swarm）通过树状分解在构建 SQLite（Rust 版）任务中达到 80% 测试通过率",
+        "url": "https://cursor.com/blog/agent-swarm-model-economics",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1209,15 +1129,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8886,
+        "recency": 0.8704,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1231,86 +1151,6 @@
         "title": "腾讯混元推出Hyra-1.0递归自我改进研究智能体",
         "url": "https://mp.weixin.qq.com/s/upwDQ_6ZfmszBUcRQjR_Dg",
         "source": "公众号：腾讯混元",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c4ff01821c40",
-      "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-      "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-      "primary_url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:12:47Z"
-        },
-        {
-          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-20T12:12:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:12:47Z"
-        },
-        {
-          "id": "6b3edb0ee695ad9f0fab9396e5c875c67d15ad10",
-          "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析 / Hugging Face says an AI agent hacked its infrastructure, and it used AI to fight back",
-          "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-20T12:12:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.712,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T12:12:47Z",
-      "latest_at": "2026-07-20T12:12:47Z",
-      "primary_item": {
-        "id": "62714f13b7fe5cf878071c5f443df4b5d52f7906",
-        "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
-        "url": "https://the-decoder.com/hugging-face-says-an-ai-agent-hacked-its-infrastructure-and-it-used-ai-to-fight-back",
-        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1349,15 +1189,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1410,15 +1250,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9748,
+        "recency": 0.9548,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1598,15 +1438,15 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.672,
-      "importance": 0.672,
-      "importance_score": 0.672,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.54,
         "ai_relevance": 0.76,
-        "recency": 0.7612,
+        "recency": 0.7457,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1624,83 +1464,186 @@
       }
     },
     {
-      "story_id": "story_157f79bd67e3",
-      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "primary_url": "https://github.com/Saivineeth147/lora-speedrun",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_db4933908fbc",
+      "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+      "url": "https://www.aibase.com/news/29755",
+      "primary_url": "https://www.aibase.com/news/29755",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
-          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-          "url": "https://github.com/Saivineeth147/lora-speedrun",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:21:09.021000Z"
-        },
-        {
-          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
-          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
-          "url": "https://github.com/Saivineeth147/lora-speedrun",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T12:21:09.021000Z"
+          "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
+          "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+          "url": "https://www.aibase.com/news/29755",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T09:57:43.545883Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
-          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-          "url": "https://github.com/Saivineeth147/lora-speedrun",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:21:09.021000Z"
-        },
-        {
-          "id": "4e726cae0601b10c3192da887c86074b0b4a7bc9",
-          "title": "LoRA Speedrun——一个针对微调技术的公开实际运行时间排行榜",
-          "url": "https://github.com/Saivineeth147/lora-speedrun",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T12:21:09.021000Z"
+          "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
+          "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+          "url": "https://www.aibase.com/news/29755",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T09:57:43.545883Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7135,
-        "story_heat": 0.25
+        "recency": 0.9548,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-20T12:21:09.021000Z",
-      "latest_at": "2026-07-20T12:21:09.021000Z",
+      "earliest_at": "2026-07-21T09:57:43.545883Z",
+      "latest_at": "2026-07-21T09:57:43.545883Z",
       "primary_item": {
-        "id": "4ae616fd44dae4d7e25ba518ae7bb2a13987c887",
-        "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-        "url": "https://github.com/Saivineeth147/lora-speedrun",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "4b3cd8ccb379262a1b99305db95e3598e0cffba2",
+        "title": "Kimi3引发访问热潮:月之暗面回应资源紧张，优先保障付费用户",
+        "url": "https://www.aibase.com/news/29755",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3b41417a4f6b",
+      "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
+      "url": "https://www.aibase.com/news/29759",
+      "primary_url": "https://www.aibase.com/news/29759",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dc24079ba3525f8a0de78f68d6af5e115a870379",
+          "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
+          "url": "https://www.aibase.com/news/29759",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T09:57:43.545883Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "dc24079ba3525f8a0de78f68d6af5e115a870379",
+          "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
+          "url": "https://www.aibase.com/news/29759",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T09:57:43.545883Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9548,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T09:57:43.545883Z",
+      "latest_at": "2026-07-21T09:57:43.545883Z",
+      "primary_item": {
+        "id": "dc24079ba3525f8a0de78f68d6af5e115a870379",
+        "title": "OpenAI扩大ChatGPT家长通知，青少年暴力违规将触发提醒",
+        "url": "https://www.aibase.com/news/29759",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f21e1902b7f0",
+      "title": "​YouTube 收紧政策，严打低质 AI 内容",
+      "url": "https://www.aibase.com/news/29757",
+      "primary_url": "https://www.aibase.com/news/29757",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "874fe2260571662c8ad88e9b5fc8b514a9ce4af1",
+          "title": "​YouTube 收紧政策，严打低质 AI 内容",
+          "url": "https://www.aibase.com/news/29757",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T09:57:43.545883Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "874fe2260571662c8ad88e9b5fc8b514a9ce4af1",
+          "title": "​YouTube 收紧政策，严打低质 AI 内容",
+          "url": "https://www.aibase.com/news/29757",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T09:57:43.545883Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9548,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T09:57:43.545883Z",
+      "latest_at": "2026-07-21T09:57:43.545883Z",
+      "primary_item": {
+        "id": "874fe2260571662c8ad88e9b5fc8b514a9ce4af1",
+        "title": "​YouTube 收紧政策，严打低质 AI 内容",
+        "url": "https://www.aibase.com/news/29757",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
