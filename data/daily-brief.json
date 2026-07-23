@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T07:26:04.868914Z",
+  "generated_at": "2026-07-23T09:43:50.365597Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -30,6 +30,15 @@
           "published_at": "2026-07-22T23:51:33Z"
         },
         {
+          "id": "03864af9db6e4e44ace2be9bd954dcf9e60580ae",
+          "title": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T08:11:48.077000Z"
+        },
+        {
           "id": "619fb34cebe6ea8c8bd808d1e0ac7c2c064830f1",
           "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction",
           "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
@@ -48,12 +57,13 @@
           "published_at": "2026-07-23T01:16:14Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
         "Hacker News",
         "Hacker News · 24h最热",
         "Simon Willison",
-        "Simon Willison 博客"
+        "Simon Willison 博客",
+        "simonwillison.net"
       ],
       "items": [
         {
@@ -75,6 +85,15 @@
           "published_at": "2026-07-22T23:51:33Z"
         },
         {
+          "id": "03864af9db6e4e44ace2be9bd954dcf9e60580ae",
+          "title": "OpenAI对Hugging Face的意外攻击，堪称“现实版科幻故事”",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "simonwillison.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T08:11:48.077000Z"
+        },
+        {
           "id": "619fb34cebe6ea8c8bd808d1e0ac7c2c064830f1",
           "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI's accidental cyberattack against Hugging Face is science fiction",
           "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
@@ -93,18 +112,18 @@
           "published_at": "2026-07-23T01:16:14Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8419,
-      "importance": 0.8419,
-      "importance_score": 0.8419,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8617,
+      "importance": 0.8617,
+      "importance_score": 0.8617,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8964,
-        "story_heat": 0.75
+        "recency": 0.8671,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -113,13 +132,75 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-22T23:51:33Z",
-      "latest_at": "2026-07-23T01:16:14Z",
+      "latest_at": "2026-07-23T08:11:48.077000Z",
       "primary_item": {
         "id": "58244cf6838cc24631a179988eb42df28e0b44cb",
         "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
         "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
         "source": "Simon Willison 博客",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_37c9890bc32e",
+      "title": "将 Nunchaku 4 位扩散推理引入扩散器 / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "primary_url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f8aff7e85b5148594e968854ce8edf596c17f4e4",
+          "title": "将 Nunchaku 4 位扩散推理引入扩散器 / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+          "url": "https://huggingface.co/blog/nunchaku-diffusers",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f8aff7e85b5148594e968854ce8edf596c17f4e4",
+          "title": "将 Nunchaku 4 位扩散推理引入扩散器 / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+          "url": "https://huggingface.co/blog/nunchaku-diffusers",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.8689,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T00:00:00Z",
+      "latest_at": "2026-07-23T00:00:00Z",
+      "primary_item": {
+        "id": "f8aff7e85b5148594e968854ce8edf596c17f4e4",
+        "title": "将 Nunchaku 4 位扩散推理引入扩散器 / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+        "url": "https://huggingface.co/blog/nunchaku-diffusers",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -176,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8282,
-      "importance": 0.8282,
-      "importance_score": 0.8282,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7735,
+        "recency": 0.7483,
         "story_heat": 0.25
       },
       "category": "official",
@@ -239,15 +320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8224,
-      "importance": 0.8224,
-      "importance_score": 0.8224,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8356,
+        "recency": 0.8084,
         "story_heat": 0.0
       },
       "category": "official",
@@ -301,15 +382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8044,
+        "recency": 0.7782,
         "story_heat": 0.0
       },
       "category": "official",
@@ -363,15 +444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8054,
+      "importance": 0.8054,
+      "importance_score": 0.8054,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7663,
+        "recency": 0.7413,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,15 +525,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8013,
+      "importance": 0.8013,
+      "importance_score": 0.8013,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8425,
+        "recency": 0.815,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -506,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7663,
+        "recency": 0.7413,
         "story_heat": 0.0
       },
       "category": "official",
@@ -606,15 +687,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8339,
+        "recency": 0.8067,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -634,26 +715,26 @@
       }
     },
     {
-      "story_id": "story_31d1d471a9ff",
-      "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-      "url": "https://www.aibase.com/news/29834",
-      "primary_url": "https://www.aibase.com/news/29834",
+      "story_id": "story_959e9d757ff8",
+      "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+      "url": "https://www.aibase.com/news/29843",
+      "primary_url": "https://www.aibase.com/news/29843",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-          "url": "https://www.aibase.com/news/29834",
+          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "url": "https://www.aibase.com/news/29843",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T07:26:04.868914Z"
+          "published_at": "2026-07-23T09:43:50.365597Z"
         },
         {
-          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
-          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
-          "url": "https://www.aibase.com/zh/news/29834",
+          "id": "77beaf1957d446f9335a039d9cba068e13a7fd52",
+          "title": "Claude 语音模式即将升级：支持切换 Opus 和 Sonnet 更强模型，告别 Haiku 独撑局面",
+          "url": "https://www.aibase.com/zh/news/29843",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -667,18 +748,18 @@
       ],
       "items": [
         {
-          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-          "url": "https://www.aibase.com/news/29834",
+          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "url": "https://www.aibase.com/news/29843",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T07:26:04.868914Z"
+          "published_at": "2026-07-23T09:43:50.365597Z"
         },
         {
-          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
-          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
-          "url": "https://www.aibase.com/zh/news/29834",
+          "id": "77beaf1957d446f9335a039d9cba068e13a7fd52",
+          "title": "Claude 语音模式即将升级：支持切换 Opus 和 Sonnet 更强模型，告别 Haiku 独撑局面",
+          "url": "https://www.aibase.com/zh/news/29843",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -704,12 +785,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T07:26:04.868914Z",
-      "latest_at": "2026-07-23T07:26:04.868914Z",
+      "earliest_at": "2026-07-23T09:43:50.365597Z",
+      "latest_at": "2026-07-23T09:43:50.365597Z",
       "primary_item": {
-        "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
-        "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
-        "url": "https://www.aibase.com/news/29834",
+        "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
+        "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+        "url": "https://www.aibase.com/news/29843",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -768,15 +849,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.7825,
+      "importance": 0.7825,
+      "importance_score": 0.7825,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.838,
+        "recency": 0.8107,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -830,15 +911,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8054,
+      "importance": 0.8054,
+      "importance_score": 0.8054,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7663,
+        "recency": 0.7413,
         "story_heat": 0.0
       },
       "category": "official",
@@ -911,15 +992,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7726,
+      "importance": 0.7726,
+      "importance_score": 0.7726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9362,
+        "recency": 0.9056,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -973,15 +1054,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7897,
+        "recency": 0.764,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1035,15 +1116,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9516,
+        "recency": 0.9206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1062,26 +1143,26 @@
       }
     },
     {
-      "story_id": "story_b4c8a52eb5bb",
-      "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-      "url": "https://www.aibase.com/news/29816",
-      "primary_url": "https://www.aibase.com/news/29816",
+      "story_id": "story_31d1d471a9ff",
+      "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+      "url": "https://www.aibase.com/news/29834",
+      "primary_url": "https://www.aibase.com/news/29834",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
-          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-          "url": "https://www.aibase.com/news/29816",
+          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+          "url": "https://www.aibase.com/news/29834",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T04:43:55.706542Z"
+          "published_at": "2026-07-23T07:26:04.868914Z"
         },
         {
-          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
-          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
-          "url": "https://www.aibase.com/zh/news/29816",
+          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
+          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
+          "url": "https://www.aibase.com/zh/news/29834",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1095,18 +1176,18 @@
       ],
       "items": [
         {
-          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
-          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-          "url": "https://www.aibase.com/news/29816",
+          "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+          "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+          "url": "https://www.aibase.com/news/29834",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-23T04:43:55.706542Z"
+          "published_at": "2026-07-23T07:26:04.868914Z"
         },
         {
-          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
-          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
-          "url": "https://www.aibase.com/zh/news/29816",
+          "id": "68ee536c80f727da30ffe3e5fe63ec01d5d4d995",
+          "title": "Alphabet 发布最新财报：AI 功能推动谷歌搜索收入增长 17%，月活突破 10 亿",
+          "url": "https://www.aibase.com/zh/news/29834",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1115,15 +1196,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7857,
-      "importance": 0.7857,
-      "importance_score": 0.7857,
+      "score": 0.7867,
+      "importance": 0.7867,
+      "importance_score": 0.7867,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9617,
+        "recency": 0.9674,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1132,14 +1213,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T04:43:55.706542Z",
-      "latest_at": "2026-07-23T04:43:55.706542Z",
+      "earliest_at": "2026-07-23T07:26:04.868914Z",
+      "latest_at": "2026-07-23T07:26:04.868914Z",
       "primary_item": {
-        "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
-        "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
-        "url": "https://www.aibase.com/news/29816",
+        "id": "35ee645c203289ce97fb8c585eed6b8e6504b752",
+        "title": "Alphabet发布最新财报:AI功能推动谷歌搜索收入增长17%，月活突破10亿",
+        "url": "https://www.aibase.com/news/29834",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d40d58c64573",
+      "title": "Google Q2 资本支出创纪录，AI 基建投资激增",
+      "url": "https://x.com/rohanpaul_ai/status/2080039839521800274",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2080039839521800274",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "30855b921c262df5638781dc4efbbde8d1611c40",
+          "title": "Google Q2 资本支出创纪录，AI 基建投资激增",
+          "url": "https://x.com/rohanpaul_ai/status/2080039839521800274",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T21:18:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "30855b921c262df5638781dc4efbbde8d1611c40",
+          "title": "Google Q2 资本支出创纪录，AI 基建投资激增",
+          "url": "https://x.com/rohanpaul_ai/status/2080039839521800274",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T21:18:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8358,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-22T21:18:37Z",
+      "latest_at": "2026-07-22T21:18:37Z",
+      "primary_item": {
+        "id": "30855b921c262df5638781dc4efbbde8d1611c40",
+        "title": "Google Q2 资本支出创纪录，AI 基建投资激增",
+        "url": "https://x.com/rohanpaul_ai/status/2080039839521800274",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1196,15 +1337,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9765,
+        "recency": 0.9447,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1220,67 +1361,6 @@
         "title": "Cactus 发布 Gemma 4 E2B Hybrid：可在设备端为每个回答输出置信度分数，低分时自动路由至更大模型",
         "url": "https://github.com/cactus-compute/cactus-hybrid",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d40d58c64573",
-      "title": "Google Q2 资本支出创纪录，AI 基建投资激增",
-      "url": "https://x.com/rohanpaul_ai/status/2080039839521800274",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2080039839521800274",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "30855b921c262df5638781dc4efbbde8d1611c40",
-          "title": "Google Q2 资本支出创纪录，AI 基建投资激增",
-          "url": "https://x.com/rohanpaul_ai/status/2080039839521800274",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T21:18:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "30855b921c262df5638781dc4efbbde8d1611c40",
-          "title": "Google Q2 资本支出创纪录，AI 基建投资激增",
-          "url": "https://x.com/rohanpaul_ai/status/2080039839521800274",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T21:18:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7521,
-      "importance": 0.7521,
-      "importance_score": 0.7521,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.864,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T21:18:37Z",
-      "latest_at": "2026-07-22T21:18:37Z",
-      "primary_item": {
-        "id": "30855b921c262df5638781dc4efbbde8d1611c40",
-        "title": "Google Q2 资本支出创纪录，AI 基建投资激增",
-        "url": "https://x.com/rohanpaul_ai/status/2080039839521800274",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -1319,15 +1399,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7553,
+        "recency": 0.7307,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1381,15 +1461,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8602,
+        "recency": 0.8321,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1403,66 +1483,6 @@
         "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
         "url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
         "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5ab660276dcf",
-      "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-      "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-      "primary_url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-          "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T05:13:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-          "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T05:13:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9686,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T05:13:37Z",
-      "latest_at": "2026-07-23T05:13:37Z",
-      "primary_item": {
-        "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-        "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-        "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     }
