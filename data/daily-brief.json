@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T04:40:57.672881Z",
+  "generated_at": "2026-07-24T07:24:01.805535Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8427,
-      "importance": 0.8427,
-      "importance_score": 0.8427,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9151,
+        "recency": 0.8799,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8796,
+        "recency": 0.8458,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,6 +125,87 @@
         "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_37e28291df02",
+      "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+      "url": "https://www.ithome.com/0/981/137.htm",
+      "primary_url": "https://www.ithome.com/0/981/137.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "url": "https://www.ithome.com/0/981/137.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T06:48:04Z"
+        },
+        {
+          "id": "62bcc0d11d0dc1598af8fbe54037057aec7de792",
+          "title": "FLUX 3 多模态 AI 模型登场：支持单次生成 20 秒多样化视频",
+          "url": "https://www.ithome.com/0/981/137.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T06:48:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+          "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+          "url": "https://www.ithome.com/0/981/137.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T06:48:04Z"
+        },
+        {
+          "id": "62bcc0d11d0dc1598af8fbe54037057aec7de792",
+          "title": "FLUX 3 多模态 AI 模型登场：支持单次生成 20 秒多样化视频",
+          "url": "https://www.ithome.com/0/981/137.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-24T06:48:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9914,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T06:48:04Z",
+      "latest_at": "2026-07-24T06:48:04Z",
+      "primary_item": {
+        "id": "50ab6583849f884bd6093cd24bb4f14edf02de34",
+        "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+        "url": "https://www.ithome.com/0/981/137.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -200,15 +281,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8846,
+        "recency": 0.8506,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -228,107 +309,26 @@
       }
     },
     {
-      "story_id": "story_d70d846b51ce",
-      "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-      "url": "https://www.ithome.com/0/980/890.htm",
-      "primary_url": "https://www.ithome.com/0/980/890.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://www.ithome.com/0/980/890.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T23:30:43Z"
-        },
-        {
-          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
-          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://www.ithome.com/0/980/890.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T23:30:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://www.ithome.com/0/980/890.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T23:30:43Z"
-        },
-        {
-          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
-          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://www.ithome.com/0/980/890.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T23:30:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7946,
-      "importance": 0.7946,
-      "importance_score": 0.7946,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9281,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T23:30:43Z",
-      "latest_at": "2026-07-23T23:30:43Z",
-      "primary_item": {
-        "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
-        "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-        "url": "https://www.ithome.com/0/980/890.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a4d552ab2dc7",
-      "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
-      "url": "https://www.aibase.com/news/29855",
-      "primary_url": "https://www.aibase.com/news/29855",
+      "story_id": "story_4efe088ce067",
+      "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+      "url": "https://www.aibase.com/news/29870",
+      "primary_url": "https://www.aibase.com/news/29870",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b623a138752f2054b382ede5cc91f4f9579fe7b6",
-          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
-          "url": "https://www.aibase.com/news/29855",
+          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
+          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "url": "https://www.aibase.com/news/29870",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T04:40:57.672881Z"
+          "published_at": "2026-07-24T07:24:01.805535Z"
         },
         {
-          "id": "0f042855bc73176bf1aef7b1d8d94ec71aaa5e6e",
-          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
-          "url": "https://www.aibase.com/zh/news/29855",
+          "id": "6c28fad4160110e958f4ea6ff7e868b01640a370",
+          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "url": "https://www.aibase.com/zh/news/29870",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -342,18 +342,18 @@
       ],
       "items": [
         {
-          "id": "b623a138752f2054b382ede5cc91f4f9579fe7b6",
-          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
-          "url": "https://www.aibase.com/news/29855",
+          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
+          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "url": "https://www.aibase.com/news/29870",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T04:40:57.672881Z"
+          "published_at": "2026-07-24T07:24:01.805535Z"
         },
         {
-          "id": "0f042855bc73176bf1aef7b1d8d94ec71aaa5e6e",
-          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
-          "url": "https://www.aibase.com/zh/news/29855",
+          "id": "6c28fad4160110e958f4ea6ff7e868b01640a370",
+          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "url": "https://www.aibase.com/zh/news/29870",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -379,12 +379,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T04:40:57.672881Z",
-      "latest_at": "2026-07-24T04:40:57.672881Z",
+      "earliest_at": "2026-07-24T07:24:01.805535Z",
+      "latest_at": "2026-07-24T07:24:01.805535Z",
       "primary_item": {
-        "id": "b623a138752f2054b382ede5cc91f4f9579fe7b6",
-        "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
-        "url": "https://www.aibase.com/news/29855",
+        "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
+        "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+        "url": "https://www.aibase.com/news/29870",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -461,15 +461,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8193,
+        "recency": 0.7877,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -523,15 +523,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8903,
+        "recency": 0.8561,
         "story_heat": 0.0
       },
       "category": "official",
@@ -548,6 +548,87 @@
         "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_95b1a68f21aa",
+      "title": "德国黑森林实验室发布Flux3 多模态模型：原生音频生成， 20 秒音视频同步输出",
+      "url": "https://www.aibase.com/news/29865",
+      "primary_url": "https://www.aibase.com/news/29865",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b00270cbadede8a5f07839b1d3db8f69424deb3f",
+          "title": "德国黑森林实验室发布Flux3 多模态模型：原生音频生成， 20 秒音视频同步输出",
+          "url": "https://www.aibase.com/news/29865",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T07:24:01.805535Z"
+        },
+        {
+          "id": "bf868498ddc784929084cf9bf3b0ca22cc18702a",
+          "title": "德国黑森林实验室发布 Flux3 多模态模型：原生音频生成，20 秒音视频同步输出",
+          "url": "https://www.aibase.com/zh/news/29865",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b00270cbadede8a5f07839b1d3db8f69424deb3f",
+          "title": "德国黑森林实验室发布Flux3 多模态模型：原生音频生成， 20 秒音视频同步输出",
+          "url": "https://www.aibase.com/news/29865",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T07:24:01.805535Z"
+        },
+        {
+          "id": "bf868498ddc784929084cf9bf3b0ca22cc18702a",
+          "title": "德国黑森林实验室发布 Flux3 多模态模型：原生音频生成，20 秒音视频同步输出",
+          "url": "https://www.aibase.com/zh/news/29865",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T07:24:01.805535Z",
+      "latest_at": "2026-07-24T07:24:01.805535Z",
+      "primary_item": {
+        "id": "b00270cbadede8a5f07839b1d3db8f69424deb3f",
+        "title": "德国黑森林实验室发布Flux3 多模态模型：原生音频生成， 20 秒音视频同步输出",
+        "url": "https://www.aibase.com/news/29865",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -585,15 +666,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.8448,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -612,68 +693,68 @@
       }
     },
     {
-      "story_id": "story_6f71cb92a83a",
-      "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
-      "url": "https://www.aibase.com/news/29856",
-      "primary_url": "https://www.aibase.com/news/29856",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_d70d846b51ce",
+      "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+      "url": "https://www.ithome.com/0/980/890.htm",
+      "primary_url": "https://www.ithome.com/0/980/890.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
-          "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
-          "url": "https://www.aibase.com/news/29856",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T04:40:57.672881Z"
+          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T23:30:43Z"
         },
         {
-          "id": "fa62b035cf45d7ce812c458adb6fed83766d31e1",
-          "title": "黑森林实验室发布 Flux3 多模态模型，首次支持 20 秒原生音视频同步生成",
-          "url": "https://www.aibase.com/zh/news/29856",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
+          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T23:30:43Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
-          "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
-          "url": "https://www.aibase.com/news/29856",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T04:40:57.672881Z"
+          "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T23:30:43Z"
         },
         {
-          "id": "fa62b035cf45d7ce812c458adb6fed83766d31e1",
-          "title": "黑森林实验室发布 Flux3 多模态模型，首次支持 20 秒原生音视频同步生成",
-          "url": "https://www.aibase.com/zh/news/29856",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
+          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T23:30:43Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7882,
+      "importance": 0.7882,
+      "importance_score": 0.7882,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8923,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -682,14 +763,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T04:40:57.672881Z",
-      "latest_at": "2026-07-24T04:40:57.672881Z",
+      "earliest_at": "2026-07-23T23:30:43Z",
+      "latest_at": "2026-07-23T23:30:43Z",
       "primary_item": {
-        "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
-        "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
-        "url": "https://www.aibase.com/news/29856",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "8bc90c40a6536a690373cc42456b6735218b4d67",
+        "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+        "url": "https://www.ithome.com/0/980/890.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -746,15 +827,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8451,
+        "recency": 0.8125,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -827,15 +908,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8089,
+        "recency": 0.7778,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -889,21 +970,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7552,
-      "importance": 0.7552,
-      "importance_score": 0.7552,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8812,
+        "recency": 0.8473,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T19:55:29.530000Z",
       "latest_at": "2026-07-23T19:55:29.530000Z",
@@ -950,21 +1030,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7923,
+        "recency": 0.7618,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T12:33:27Z",
       "latest_at": "2026-07-23T12:33:27Z",
@@ -1030,15 +1109,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8644,
+        "recency": 0.8311,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1092,15 +1171,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8562,
+        "recency": 0.8232,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1115,6 +1194,87 @@
         "url": "https://x.com/gdb/status/2080351159638704615",
         "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a4d552ab2dc7",
+      "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+      "url": "https://www.aibase.com/news/29855",
+      "primary_url": "https://www.aibase.com/news/29855",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b623a138752f2054b382ede5cc91f4f9579fe7b6",
+          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+          "url": "https://www.aibase.com/news/29855",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T04:40:57.672881Z"
+        },
+        {
+          "id": "0f042855bc73176bf1aef7b1d8d94ec71aaa5e6e",
+          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+          "url": "https://www.aibase.com/zh/news/29855",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b623a138752f2054b382ede5cc91f4f9579fe7b6",
+          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+          "url": "https://www.aibase.com/news/29855",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T04:40:57.672881Z"
+        },
+        {
+          "id": "0f042855bc73176bf1aef7b1d8d94ec71aaa5e6e",
+          "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+          "url": "https://www.aibase.com/zh/news/29855",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9615,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T04:40:57.672881Z",
+      "latest_at": "2026-07-24T04:40:57.672881Z",
+      "primary_item": {
+        "id": "b623a138752f2054b382ede5cc91f4f9579fe7b6",
+        "title": "马斯克官宣 Grok 4.5 全平台上线：比不过 Fable，但快、便宜、能干活",
+        "url": "https://www.aibase.com/news/29855",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1152,15 +1312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.861,
+        "recency": 0.8279,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1180,26 +1340,26 @@
       }
     },
     {
-      "story_id": "story_9b4d67af0b1a",
-      "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
-      "url": "https://www.aibase.com/news/29852",
-      "primary_url": "https://www.aibase.com/news/29852",
+      "story_id": "story_6f71cb92a83a",
+      "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+      "url": "https://www.aibase.com/news/29856",
+      "primary_url": "https://www.aibase.com/news/29856",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
-          "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
-          "url": "https://www.aibase.com/news/29852",
+          "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
+          "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/news/29856",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T01:21:43.357653Z"
+          "published_at": "2026-07-24T04:40:57.672881Z"
         },
         {
-          "id": "a336f463e47c45591162cc3b6da9f10a9f5518d1",
-          "title": "谷歌 Gemini 月活突破 9.5 亿，逼近 ChatGPT 十亿用户里程碑",
-          "url": "https://www.aibase.com/zh/news/29852",
+          "id": "fa62b035cf45d7ce812c458adb6fed83766d31e1",
+          "title": "黑森林实验室发布 Flux3 多模态模型，首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/zh/news/29856",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1213,18 +1373,18 @@
       ],
       "items": [
         {
-          "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
-          "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
-          "url": "https://www.aibase.com/news/29852",
+          "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
+          "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/news/29856",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T01:21:43.357653Z"
+          "published_at": "2026-07-24T04:40:57.672881Z"
         },
         {
-          "id": "a336f463e47c45591162cc3b6da9f10a9f5518d1",
-          "title": "谷歌 Gemini 月活突破 9.5 亿，逼近 ChatGPT 十亿用户里程碑",
-          "url": "https://www.aibase.com/zh/news/29852",
+          "id": "fa62b035cf45d7ce812c458adb6fed83766d31e1",
+          "title": "黑森林实验室发布 Flux3 多模态模型，首次支持 20 秒原生音视频同步生成",
+          "url": "https://www.aibase.com/zh/news/29856",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1233,15 +1393,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9532,
+        "recency": 0.9615,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1250,12 +1410,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T01:21:43.357653Z",
+      "earliest_at": "2026-07-24T04:40:57.672881Z",
       "latest_at": "2026-07-24T04:40:57.672881Z",
       "primary_item": {
-        "id": "c8a3296319449b7d4a68da4c7b023fe9e879a619",
-        "title": "谷歌Gemini月活突破9.5亿大关，逼近ChatGPT十亿用户里程碑",
-        "url": "https://www.aibase.com/news/29852",
+        "id": "8d2d30f341231c571b15f177f21f2d492ede9ecc",
+        "title": "黑森林实验室发布Flux3 多模态模型 首次支持 20 秒原生音视频同步生成",
+        "url": "https://www.aibase.com/news/29856",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1295,15 +1455,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8268,
+        "recency": 0.7949,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1320,128 +1480,6 @@
         "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_21b584178115",
-      "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
-      "url": "https://www.aibase.com/news/29854",
-      "primary_url": "https://www.aibase.com/news/29854",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "197bca315ac314dc4a157e6a952edc64b88104bd",
-          "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
-          "url": "https://www.aibase.com/news/29854",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T04:40:57.672881Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "197bca315ac314dc4a157e6a952edc64b88104bd",
-          "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
-          "url": "https://www.aibase.com/news/29854",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T04:40:57.672881Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T04:40:57.672881Z",
-      "latest_at": "2026-07-24T04:40:57.672881Z",
-      "primary_item": {
-        "id": "197bca315ac314dc4a157e6a952edc64b88104bd",
-        "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
-        "url": "https://www.aibase.com/news/29854",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f88067ea7234",
-      "title": "OpenAI 模型黑了 Hugging Face：美国会顺势抛出 AI\"终止开关\"法案",
-      "url": "https://www.aibase.com/news/29857",
-      "primary_url": "https://www.aibase.com/news/29857",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "98d595aabf6b61b919b4fc658522587d64296ab9",
-          "title": "OpenAI 模型黑了 Hugging Face：美国会顺势抛出 AI\"终止开关\"法案",
-          "url": "https://www.aibase.com/news/29857",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T04:40:57.672881Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "98d595aabf6b61b919b4fc658522587d64296ab9",
-          "title": "OpenAI 模型黑了 Hugging Face：美国会顺势抛出 AI\"终止开关\"法案",
-          "url": "https://www.aibase.com/news/29857",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T04:40:57.672881Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T04:40:57.672881Z",
-      "latest_at": "2026-07-24T04:40:57.672881Z",
-      "primary_item": {
-        "id": "98d595aabf6b61b919b4fc658522587d64296ab9",
-        "title": "OpenAI 模型黑了 Hugging Face：美国会顺势抛出 AI\"终止开关\"法案",
-        "url": "https://www.aibase.com/news/29857",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
