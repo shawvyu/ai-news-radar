@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T15:35:01.998259Z",
+  "generated_at": "2026-07-26T16:42:45.046851Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8242,
+      "importance": 0.8242,
+      "importance_score": 0.8242,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8449,
+        "recency": 0.8313,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -176,15 +176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9621,
+        "recency": 0.9465,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -257,15 +257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.904,
+        "recency": 0.8894,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -338,15 +338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8653,
+        "recency": 0.8513,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8034,
+        "recency": 0.7904,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -427,13 +427,31 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
+      "title": "Claude 5 这一代模型来了之后，Anthropic 删掉 Claude Code 80% 以上的系统提示词，也顺手把一套更轻的上下文工程方法讲清楚了。大家最关心的肯定是：那我自己的项目到底该怎么弄？可以来试试作者这段提示词。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-25",
+      "source": "社区更新 · 2026-07-26",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "b29739372b4ee3cd716f8fe4f4906a5ef2057a44",
+          "title": "Claude 5 这一代模型来了之后，Anthropic 删掉 Claude Code 80% 以上的系统提示词，也顺手把一套更轻的上下文工程方法讲清楚了。大家最关心的肯定是：那我自己的项目到底该怎么弄？可以来试试作者这段提示词。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-26T16:42:45.046851Z"
+        },
+        {
+          "id": "b71e03557acf60939e074c5f69d635ec3b889a86",
+          "title": "长期用Codex的开发者可以用老金这套设置大幅压缩重复操作、提升协作的流畅度。这份实操优化指南覆盖语音、权限、模型、提示词这些核心设置，快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-26T16:42:45.046851Z"
+        },
+        {
           "id": "75b2d0780822c91405a0dec36835176c263d4ab6",
           "title": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -470,12 +488,31 @@
           "published_at": "2026-07-25T17:46:05.796014Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 6,
       "source_names": [
-        "社区更新 · 2026-07-25"
+        "社区更新 · 2026-07-25",
+        "社区更新 · 2026-07-26"
       ],
       "items": [
         {
+          "id": "b29739372b4ee3cd716f8fe4f4906a5ef2057a44",
+          "title": "Claude 5 这一代模型来了之后，Anthropic 删掉 Claude Code 80% 以上的系统提示词，也顺手把一套更轻的上下文工程方法讲清楚了。大家最关心的肯定是：那我自己的项目到底该怎么弄？可以来试试作者这段提示词。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-26T16:42:45.046851Z"
+        },
+        {
+          "id": "b71e03557acf60939e074c5f69d635ec3b889a86",
+          "title": "长期用Codex的开发者可以用老金这套设置大幅压缩重复操作、提升协作的流畅度。这份实操优化指南覆盖语音、权限、模型、提示词这些核心设置，快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-26",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-26T16:42:45.046851Z"
+        },
+        {
           "id": "75b2d0780822c91405a0dec36835176c263d4ab6",
           "title": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -512,41 +549,50 @@
           "published_at": "2026-07-25T17:46:05.796014Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6,
-      "importance": 0.6,
-      "importance_score": 0.6,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7543,
-        "story_heat": 0.75
+        "recency": 1.0,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-07-25T17:46:05.796014Z",
-      "latest_at": "2026-07-25T20:03:12.886901Z",
+      "latest_at": "2026-07-26T16:42:45.046851Z",
       "primary_item": {
-        "id": "75b2d0780822c91405a0dec36835176c263d4ab6",
-        "title": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
+        "id": "b29739372b4ee3cd716f8fe4f4906a5ef2057a44",
+        "title": "Claude 5 这一代模型来了之后，Anthropic 删掉 Claude Code 80% 以上的系统提示词，也顺手把一套更轻的上下文工程方法讲清楚了。大家最关心的肯定是：那我自己的项目到底该怎么弄？可以来试试作者这段提示词。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-25",
+        "source": "社区更新 · 2026-07-26",
         "source_name": "WaytoAGI"
       }
     },
     {
       "story_id": "story_10e81be27811",
-      "title": "Debian 中 LLM 的应用：三项提案",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
+      "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+      "url": "https://news.ycombinator.com/item?id=49050859",
+      "primary_url": "https://news.ycombinator.com/item?id=49050859",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
+        {
+          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
+          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T04:36:46.464000Z"
+        },
         {
           "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
           "title": "Debian 中 LLM 的应用：三项提案",
@@ -557,8 +603,17 @@
           "published_at": "2026-07-26T03:54:52.336000Z"
         },
         {
+          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:06:07.579000Z"
+        },
+        {
           "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+          "title": "Debian 中 LLM 的应用：三项提案 / General Resolution: LLM Usage in Debian",
           "url": "https://www.debian.org/vote/2026/vote_002",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -567,31 +622,32 @@
         },
         {
           "id": "99e8214f738422118ebf82a01fed4ba438a21132",
-          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
+          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
           "url": "https://www.debian.org/vote/2026/vote_002",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
         "Hacker News",
         "Hacker News (黑客新闻)",
+        "hackernews",
         "www.debian.org"
       ],
       "items": [
         {
+          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
+          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T04:36:46.464000Z"
+        },
+        {
           "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
           "title": "Debian 中 LLM 的应用：三项提案",
           "url": "https://www.debian.org/vote/2026/vote_002",
@@ -601,8 +657,17 @@
           "published_at": "2026-07-26T03:54:52.336000Z"
         },
         {
+          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
+          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://news.ycombinator.com/item?id=49050859",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T23:06:07.579000Z"
+        },
+        {
           "id": "c38cc1a0119d03a6b3b6e9207bc9a898ba5e87a8",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+          "title": "Debian 中 LLM 的应用：三项提案 / General Resolution: LLM Usage in Debian",
           "url": "https://www.debian.org/vote/2026/vote_002",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -611,48 +676,39 @@
         },
         {
           "id": "99e8214f738422118ebf82a01fed4ba438a21132",
-          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
+          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
           "url": "https://www.debian.org/vote/2026/vote_002",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5679,
-      "importance": 0.5679,
-      "importance_score": 0.5679,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5919,
+      "importance": 0.5919,
+      "importance_score": 0.5919,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8449,
-        "story_heat": 0.75
+        "recency": 0.8397,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T16:27:16.797000Z",
-      "latest_at": "2026-07-26T03:54:52.336000Z",
+      "earliest_at": "2026-07-25T19:44:39Z",
+      "latest_at": "2026-07-26T04:36:46.464000Z",
       "primary_item": {
-        "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-        "title": "Debian 中 LLM 的应用：三项提案",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
-        "source_name": "Buzzing"
+        "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
+        "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
+        "url": "https://news.ycombinator.com/item?id=49050859",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -728,15 +784,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5595,
-      "importance": 0.5595,
-      "importance_score": 0.5595,
+      "score": 0.5568,
+      "importance": 0.5568,
+      "importance_score": 0.5568,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9375,
+        "recency": 0.9223,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -826,15 +882,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5519,
-      "importance": 0.5519,
-      "importance_score": 0.5519,
+      "score": 0.5493,
+      "importance": 0.5493,
+      "importance_score": 0.5493,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8952,
+        "recency": 0.8807,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -849,85 +905,6 @@
         "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
         "source": "blog.cloudflare.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b6ef92302bcf",
-      "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-      "url": "https://news.ycombinator.com/item?id=49058669",
-      "primary_url": "https://news.ycombinator.com/item?id=49058669",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "url": "https://news.ycombinator.com/item?id=49058669",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:35:40.452000Z"
-        },
-        {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T14:40:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "url": "https://news.ycombinator.com/item?id=49058669",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T15:35:40.452000Z"
-        },
-        {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-26T14:40:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T14:40:27Z",
-      "latest_at": "2026-07-26T15:35:40.452000Z",
-      "primary_item": {
-        "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-        "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-        "url": "https://news.ycombinator.com/item?id=49058669",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1003,15 +980,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8449,
+        "recency": 0.8313,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1082,15 +1059,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9706,
+        "recency": 0.9549,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1180,15 +1157,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7914,
+        "recency": 0.7786,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1259,15 +1236,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5263,
-      "importance": 0.5263,
-      "importance_score": 0.5263,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8917,
+        "recency": 0.8773,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1285,30 +1262,30 @@
       }
     },
     {
-      "story_id": "story_8a43a7c831c0",
-      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-      "url": "https://news.ycombinator.com/item?id=49057877",
-      "primary_url": "https://news.ycombinator.com/item?id=49057877",
+      "story_id": "story_b6ef92302bcf",
+      "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+      "url": "https://news.ycombinator.com/item?id=49058669",
+      "primary_url": "https://news.ycombinator.com/item?id=49058669",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://news.ycombinator.com/item?id=49057877",
+          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://news.ycombinator.com/item?id=49058669",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-26T15:35:40.452000Z"
         },
         {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
+          "published_at": "2026-07-26T14:40:27Z"
         }
       ],
       "source_count": 2,
@@ -1318,47 +1295,47 @@
       ],
       "items": [
         {
-          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://news.ycombinator.com/item?id=49057877",
+          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://news.ycombinator.com/item?id=49058669",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-26T15:35:40.452000Z"
         },
         {
-          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
-          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-26T13:13:03Z"
+          "published_at": "2026-07-26T14:40:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.984,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T13:13:03Z",
+      "earliest_at": "2026-07-26T14:40:27Z",
       "latest_at": "2026-07-26T15:35:40.452000Z",
       "primary_item": {
-        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
-        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
-        "url": "https://news.ycombinator.com/item?id=49057877",
+        "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+        "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+        "url": "https://news.ycombinator.com/item?id=49058669",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1416,15 +1393,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8263,
+        "recency": 0.813,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1495,15 +1472,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5117,
-      "importance": 0.5117,
-      "importance_score": 0.5117,
+      "score": 0.5094,
+      "importance": 0.5094,
+      "importance_score": 0.5094,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8107,
+        "recency": 0.7976,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1574,15 +1551,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9267,
+        "recency": 0.9117,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1653,15 +1630,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5013,
-      "importance": 0.5013,
-      "importance_score": 0.5013,
+      "score": 0.4991,
+      "importance": 0.4991,
+      "importance_score": 0.4991,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7529,
+        "recency": 0.7407,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1679,82 +1656,160 @@
       }
     },
     {
-      "story_id": "story_17d8da54b5aa",
-      "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
-      "url": "https://news.ycombinator.com/item?id=49048571",
-      "primary_url": "https://news.ycombinator.com/item?id=49048571",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
+      "story_id": "story_8a43a7c831c0",
+      "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+      "url": "https://news.ycombinator.com/item?id=49057877",
+      "primary_url": "https://news.ycombinator.com/item?id=49057877",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "2aaf61fd26b52a84b495b2f33097ed48909b8afe",
-          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
-          "url": "https://news.ycombinator.com/item?id=49048571",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T15:55:06.362000Z"
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:35:40.452000Z"
         },
         {
-          "id": "f59872de45e6940547b686b79f30b7cb5ca463ce",
-          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？ / Ask HN: What happens when we do compress the context in Claude Code?",
-          "url": "https://news.ycombinator.com/item?id=49048571",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-25T15:44:38Z"
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "2aaf61fd26b52a84b495b2f33097ed48909b8afe",
-          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
-          "url": "https://news.ycombinator.com/item?id=49048571",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T15:55:06.362000Z"
+          "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://news.ycombinator.com/item?id=49057877",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T15:35:40.452000Z"
         },
         {
-          "id": "f59872de45e6940547b686b79f30b7cb5ca463ce",
-          "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？ / Ask HN: What happens when we do compress the context in Claude Code?",
-          "url": "https://news.ycombinator.com/item?id=49048571",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-25T15:44:38Z"
+          "id": "af35245db0dd08e13b1aac103b17c7ef174246dc",
+          "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+          "url": "https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T13:13:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4937,
-      "importance": 0.4937,
-      "importance_score": 0.4937,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7105,
+        "recency": 0.984,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T15:44:38Z",
-      "latest_at": "2026-07-25T15:55:06.362000Z",
+      "earliest_at": "2026-07-26T13:13:03Z",
+      "latest_at": "2026-07-26T15:35:40.452000Z",
       "primary_item": {
-        "id": "2aaf61fd26b52a84b495b2f33097ed48909b8afe",
-        "title": "Ask HN: 如果我们在Claude Code中对上下文进行压缩，会发生什么？",
-        "url": "https://news.ycombinator.com/item?id=49048571",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
+        "id": "847f85af48af097f0bfa8d7d4cb4331ea3ab1317",
+        "title": "新的人工智能超级大国：专注和跟进 / The New AI Superpowers: Focus and Followthrough",
+        "url": "https://news.ycombinator.com/item?id=49057877",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_9130fcc2d02a",
+      "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+      "url": "https://fly.io/blog/kurt-scott-money-sprites",
+      "primary_url": "https://fly.io/blog/kurt-scott-money-sprites",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:43:11Z"
+        },
+        {
+          "id": "8db0b6f3c45763469c5d0672e114b957f864723f",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Turn And Face The Strange",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:43:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:43:11Z"
+        },
+        {
+          "id": "8db0b6f3c45763469c5d0672e114b957f864723f",
+          "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Turn And Face The Strange",
+          "url": "https://fly.io/blog/kurt-scott-money-sprites",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T20:43:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5007,
+      "importance": 0.5007,
+      "importance_score": 0.5007,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7492,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T20:43:11Z",
+      "latest_at": "2026-07-25T20:43:11Z",
+      "primary_item": {
+        "id": "54b179311029d9f90feb1c8cd787eeb303525bbb",
+        "title": "Fly.io 首席执行官库尔特·麦基即将卸任 / Fly.io CEO Kurt Mackey is stepping down",
+        "url": "https://fly.io/blog/kurt-scott-money-sprites",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
