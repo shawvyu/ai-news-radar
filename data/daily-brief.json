@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-07-29T07:35:11.222550Z",
+  "generated_at": "2026-07-29T10:25:09.525513Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_ee3da82e3a26",
+      "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "primary_url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T09:45:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+          "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T09:45:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8423,
+      "importance": 0.8423,
+      "importance_score": 0.8423,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9904,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T09:45:11Z",
+      "latest_at": "2026-07-29T09:45:11Z",
+      "primary_item": {
+        "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
+        "title": "CodeQL 2.26.1 提高了分析准确性和框架覆盖率 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
+        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_91992ed9f82d",
       "title": "法典 CLI 0.146.0 / Codex CLI 0.146.0",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8473,
-      "importance": 0.8473,
-      "importance_score": 0.8473,
+      "score": 0.8409,
+      "importance": 0.8409,
+      "importance_score": 0.8409,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8962,
+        "recency": 0.8603,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8428,
-      "importance": 0.8428,
-      "importance_score": 0.8428,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8101,
+        "recency": 0.7776,
         "story_heat": 0.25
       },
       "category": "official",
@@ -201,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7985,
+        "recency": 0.7665,
         "story_heat": 0.25
       },
       "category": "official",
@@ -226,68 +288,6 @@
         "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a6ec8a388aad",
-      "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-      "primary_url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T23:35:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T23:35:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8909,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T23:35:01Z",
-      "latest_at": "2026-07-28T23:35:01Z",
-      "primary_item": {
-        "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
-        "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
-        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -326,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7873,
+        "recency": 0.7558,
         "story_heat": 0.0
       },
       "category": "official",
@@ -351,6 +351,149 @@
         "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a6ec8a388aad",
+      "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+      "primary_url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T23:35:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+          "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T23:35:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8259,
+      "importance": 0.8259,
+      "importance_score": 0.8259,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8552,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T23:35:01Z",
+      "latest_at": "2026-07-28T23:35:01Z",
+      "primary_item": {
+        "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+        "title": "GitHub Copilot 应用程序使用指标现在可跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9e9ac0b74498",
+      "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+      "url": "https://www.aibase.com/news/29979",
+      "primary_url": "https://www.aibase.com/news/29979",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
+          "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+          "url": "https://www.aibase.com/news/29979",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:25:09.525513Z"
+        },
+        {
+          "id": "8ef251a370c5aca967cfca813b36228308e8ffe5",
+          "title": "Grok 长出「建造」本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+          "url": "https://www.aibase.com/zh/news/29979",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
+          "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+          "url": "https://www.aibase.com/news/29979",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:25:09.525513Z"
+        },
+        {
+          "id": "8ef251a370c5aca967cfca813b36228308e8ffe5",
+          "title": "Grok 长出「建造」本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+          "url": "https://www.aibase.com/zh/news/29979",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T10:25:09.525513Z",
+      "latest_at": "2026-07-29T10:25:09.525513Z",
+      "primary_item": {
+        "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
+        "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
+        "url": "https://www.aibase.com/news/29979",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -407,15 +550,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7646,
+        "recency": 0.734,
         "story_heat": 0.25
       },
       "category": "official",
@@ -470,15 +613,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8038,
+        "recency": 0.7716,
         "story_heat": 0.0
       },
       "category": "official",
@@ -495,149 +638,6 @@
         "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_575a114743a2",
-      "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-      "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-      "primary_url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T22:50:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-          "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T22:50:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8813,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T22:50:05Z",
-      "latest_at": "2026-07-28T22:50:05Z",
-      "primary_item": {
-        "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
-        "title": "npm 发布时恶意软件扫描和双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
-        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_42a640510980",
-      "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
-      "url": "https://www.aibase.com/news/29972",
-      "primary_url": "https://www.aibase.com/news/29972",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "034e53df47a51f30706c341f422edefe2833d210",
-          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
-          "url": "https://www.aibase.com/news/29972",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T07:35:11.222550Z"
-        },
-        {
-          "id": "7823578edbe07d5d11af2038dc96843ad02c4da3",
-          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
-          "url": "https://www.aibase.com/zh/news/29972",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "034e53df47a51f30706c341f422edefe2833d210",
-          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
-          "url": "https://www.aibase.com/news/29972",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T07:35:11.222550Z"
-        },
-        {
-          "id": "7823578edbe07d5d11af2038dc96843ad02c4da3",
-          "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
-          "url": "https://www.aibase.com/zh/news/29972",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T07:35:11.222550Z",
-      "latest_at": "2026-07-29T07:35:11.222550Z",
-      "primary_item": {
-        "id": "034e53df47a51f30706c341f422edefe2833d210",
-        "title": "1100 多名 AI 员工联名呼吁美国政府踩刹车，奥尔特曼罕见表态支持",
-        "url": "https://www.aibase.com/news/29972",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -694,15 +694,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9335,
+        "recency": 0.8961,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -775,15 +775,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9007,
+        "recency": 0.8646,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -856,15 +856,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8363,
+        "recency": 0.8028,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -918,15 +918,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7739,
-      "importance": 0.7739,
-      "importance_score": 0.7739,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8515,
+        "recency": 0.8174,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -998,15 +998,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8494,
+        "recency": 0.8154,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1026,26 +1026,26 @@
       }
     },
     {
-      "story_id": "story_aee53df4f287",
-      "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
-      "url": "https://www.aibase.com/news/29977",
-      "primary_url": "https://www.aibase.com/news/29977",
+      "story_id": "story_13327f6db245",
+      "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+      "url": "https://www.aibase.com/news/29983",
+      "primary_url": "https://www.aibase.com/news/29983",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cd45b57a667c8c59ce4b0ecad528f6454e1af77b",
-          "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
-          "url": "https://www.aibase.com/news/29977",
+          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "url": "https://www.aibase.com/news/29983",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-29T07:35:11.222550Z"
+          "published_at": "2026-07-29T10:25:09.525513Z"
         },
         {
-          "id": "c703c80937dfb7b5e0f5a06df699a96e38550433",
-          "title": "ChatGPT 周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
-          "url": "https://www.aibase.com/zh/news/29977",
+          "id": "467bb7db924e7839805e7d3ee8bd609da76762ee",
+          "title": "MCP 协议迎来问世以来最大改版：彻底「无状态」，全面适配 Serverless",
+          "url": "https://www.aibase.com/zh/news/29983",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1059,18 +1059,18 @@
       ],
       "items": [
         {
-          "id": "cd45b57a667c8c59ce4b0ecad528f6454e1af77b",
-          "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
-          "url": "https://www.aibase.com/news/29977",
+          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+          "url": "https://www.aibase.com/news/29983",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-29T07:35:11.222550Z"
+          "published_at": "2026-07-29T10:25:09.525513Z"
         },
         {
-          "id": "c703c80937dfb7b5e0f5a06df699a96e38550433",
-          "title": "ChatGPT 周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
-          "url": "https://www.aibase.com/zh/news/29977",
+          "id": "467bb7db924e7839805e7d3ee8bd609da76762ee",
+          "title": "MCP 协议迎来问世以来最大改版：彻底「无状态」，全面适配 Serverless",
+          "url": "https://www.aibase.com/zh/news/29983",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1096,12 +1096,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T07:35:11.222550Z",
-      "latest_at": "2026-07-29T07:35:11.222550Z",
+      "earliest_at": "2026-07-29T10:25:09.525513Z",
+      "latest_at": "2026-07-29T10:25:09.525513Z",
       "primary_item": {
-        "id": "cd45b57a667c8c59ce4b0ecad528f6454e1af77b",
-        "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
-        "url": "https://www.aibase.com/news/29977",
+        "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
+        "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
+        "url": "https://www.aibase.com/news/29983",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1141,15 +1141,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.836,
+        "recency": 0.8025,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1203,15 +1203,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8846,
+        "recency": 0.8492,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1264,15 +1264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.85,
+        "recency": 0.8159,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1325,21 +1325,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8697,
+        "recency": 0.8349,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T21:55:12Z",
       "latest_at": "2026-07-28T21:55:12Z",
@@ -1386,21 +1385,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.873,
+        "recency": 0.838,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T22:10:39Z",
       "latest_at": "2026-07-28T22:10:39Z",
