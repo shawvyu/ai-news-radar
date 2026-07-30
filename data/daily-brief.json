@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T00:52:48.348851Z",
+  "generated_at": "2026-07-30T03:48:29.430820Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8724,
-      "importance": 0.8724,
-      "importance_score": 0.8724,
+      "score": 0.8659,
+      "importance": 0.8659,
+      "importance_score": 0.8659,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8801,
+        "recency": 0.8437,
         "story_heat": 0.5
       },
       "category": "official",
@@ -101,68 +101,6 @@
         "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
         "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
         "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6683db9728fe",
-      "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8593,
-      "importance": 0.8593,
-      "importance_score": 0.8593,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.9515,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T21:26:19Z",
-      "latest_at": "2026-07-29T21:26:19Z",
-      "primary_item": {
-        "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-        "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-        "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -220,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8591,
-      "importance": 0.8591,
-      "importance_score": 0.8591,
+      "score": 0.8526,
+      "importance": 0.8526,
+      "importance_score": 0.8526,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.867,
+        "recency": 0.8311,
         "story_heat": 0.25
       },
       "category": "official",
@@ -246,6 +184,149 @@
         "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6683db9728fe",
+      "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
+      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
+          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
+          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T21:26:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
+          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
+          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T21:26:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8522,
+      "importance": 0.8522,
+      "importance_score": 0.8522,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.9121,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T21:26:19Z",
+      "latest_at": "2026-07-29T21:26:19Z",
+      "primary_item": {
+        "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
+        "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
+        "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_38cc0483c3d0",
+      "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+      "url": "https://www.aibase.com/news/29994",
+      "primary_url": "https://www.aibase.com/news/29994",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
+          "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+          "url": "https://www.aibase.com/news/29994",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T03:48:29.430820Z"
+        },
+        {
+          "id": "e900cbd316ab4fcb269f4b8b6ef79f7a84be3b2a",
+          "title": "AI 自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+          "url": "https://www.aibase.com/zh/news/29994",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
+          "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+          "url": "https://www.aibase.com/news/29994",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T03:48:29.430820Z"
+        },
+        {
+          "id": "e900cbd316ab4fcb269f4b8b6ef79f7a84be3b2a",
+          "title": "AI 自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+          "url": "https://www.aibase.com/zh/news/29994",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T03:48:29.430820Z",
+      "latest_at": "2026-07-30T03:48:29.430820Z",
+      "primary_item": {
+        "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
+        "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
+        "url": "https://www.aibase.com/news/29994",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -283,15 +364,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8548,
+        "recency": 0.8194,
         "story_heat": 0.0
       },
       "category": "official",
@@ -345,15 +426,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8066,
+        "recency": 0.7732,
         "story_heat": 0.0
       },
       "category": "official",
@@ -426,15 +507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9802,
+        "recency": 0.9396,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -507,15 +588,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7864,
-      "importance": 0.7864,
-      "importance_score": 0.7864,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9154,
+        "recency": 0.8775,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -588,15 +669,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8816,
+        "recency": 0.8451,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -613,6 +694,148 @@
         "url": "https://github.com/drumih/turbo-fieldfare",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_46c8d10a3322",
+      "title": "腾讯混元Hyra破解50年数学难题",
+      "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
+      "primary_url": "https://x.com/TencentHunyuan/status/2082655737541726636",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
+          "title": "腾讯混元Hyra破解50年数学难题",
+          "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
+          "source": "X：腾讯混元 (@TencentHunyuan)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T02:33:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：腾讯混元 (@TencentHunyuan)"
+      ],
+      "items": [
+        {
+          "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
+          "title": "腾讯混元Hyra破解50年数学难题",
+          "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
+          "source": "X：腾讯混元 (@TencentHunyuan)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T02:33:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9821,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T02:33:16Z",
+      "latest_at": "2026-07-30T02:33:16Z",
+      "primary_item": {
+        "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
+        "title": "腾讯混元Hyra破解50年数学难题",
+        "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
+        "source": "X：腾讯混元 (@TencentHunyuan)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6bc925122a55",
+      "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+      "url": "https://www.aibase.com/news/30000",
+      "primary_url": "https://www.aibase.com/news/30000",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
+          "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+          "url": "https://www.aibase.com/news/30000",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T03:48:29.430820Z"
+        },
+        {
+          "id": "f569265a10fdb5a1cf268437e2e05afcbb49b0e2",
+          "title": "OpenAI CEO 泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+          "url": "https://www.aibase.com/zh/news/30000",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
+          "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+          "url": "https://www.aibase.com/news/30000",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T03:48:29.430820Z"
+        },
+        {
+          "id": "f569265a10fdb5a1cf268437e2e05afcbb49b0e2",
+          "title": "OpenAI CEO 泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+          "url": "https://www.aibase.com/zh/news/30000",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T03:48:29.430820Z",
+      "latest_at": "2026-07-30T03:48:29.430820Z",
+      "primary_item": {
+        "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
+        "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
+        "url": "https://www.aibase.com/news/30000",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -669,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8292,
+        "recency": 0.7948,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -731,15 +954,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9423,
+        "recency": 0.9033,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -758,68 +981,68 @@
       }
     },
     {
-      "story_id": "story_9e9ac0b74498",
-      "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-      "url": "https://www.aibase.com/news/29979",
-      "primary_url": "https://www.aibase.com/news/29979",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_cf352dddb40c",
+      "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+      "url": "https://www.ithome.com/0/983/444.htm",
+      "primary_url": "https://www.ithome.com/0/983/444.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
-          "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/news/29979",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T10:25:09.525513Z"
+          "id": "2f2c2962adb80539002c13357b644f38857975fc",
+          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+          "url": "https://www.ithome.com/0/983/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T02:49:47Z"
         },
         {
-          "id": "8ef251a370c5aca967cfca813b36228308e8ffe5",
-          "title": "Grok 长出「建造」本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/zh/news/29979",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b7b3015852d443a90d3912bfdee9f469c2399767",
+          "title": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
+          "url": "https://www.ithome.com/0/983/444.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-30T02:49:47Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
-          "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/news/29979",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T10:25:09.525513Z"
+          "id": "2f2c2962adb80539002c13357b644f38857975fc",
+          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+          "url": "https://www.ithome.com/0/983/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T02:49:47Z"
         },
         {
-          "id": "8ef251a370c5aca967cfca813b36228308e8ffe5",
-          "title": "Grok 长出「建造」本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-          "url": "https://www.aibase.com/zh/news/29979",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b7b3015852d443a90d3912bfdee9f469c2399767",
+          "title": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
+          "url": "https://www.ithome.com/0/983/444.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-30T02:49:47Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8115,
+        "recency": 0.986,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -828,14 +1051,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T10:25:09.525513Z",
-      "latest_at": "2026-07-29T10:25:09.525513Z",
+      "earliest_at": "2026-07-30T02:49:47Z",
+      "latest_at": "2026-07-30T02:49:47Z",
       "primary_item": {
-        "id": "e867bec5a2d58e4f14c2d72b68acd5717619a01e",
-        "title": "Grok 长出\"建造\"本能：动动嘴就能生出带域名的网站与应用，xAI 把聊天框推向开发台",
-        "url": "https://www.aibase.com/news/29979",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "2f2c2962adb80539002c13357b644f38857975fc",
+        "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+        "url": "https://www.ithome.com/0/983/444.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -873,15 +1096,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8038,
+        "recency": 0.7705,
         "story_heat": 0.0
       },
       "category": "official",
@@ -898,66 +1121,6 @@
         "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b250f943b483",
-      "title": "腾讯混元开源 AngelSpec 投机解码框架",
-      "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
-      "primary_url": "https://x.com/TencentHunyuan/status/2082447023626944936",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
-          "title": "腾讯混元开源 AngelSpec 投机解码框架",
-          "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T12:43:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：腾讯混元 (@TencentHunyuan)"
-      ],
-      "items": [
-        {
-          "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
-          "title": "腾讯混元开源 AngelSpec 投机解码框架",
-          "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T12:43:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8391,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T12:43:55Z",
-      "latest_at": "2026-07-29T12:43:55Z",
-      "primary_item": {
-        "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
-        "title": "腾讯混元开源 AngelSpec 投机解码框架",
-        "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
-        "source": "X：腾讯混元 (@TencentHunyuan)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1014,15 +1177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8744,
+        "recency": 0.8382,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1076,15 +1239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9034,
+        "recency": 0.866,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1099,6 +1262,87 @@
         "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0e317c0ef367",
+      "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+      "url": "https://www.aibase.com/news/29992",
+      "primary_url": "https://www.aibase.com/news/29992",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
+          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "url": "https://www.aibase.com/news/29992",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T03:48:29.430820Z"
+        },
+        {
+          "id": "0ddbeef83058024f9433a22150588dba9521bd73",
+          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "url": "https://www.aibase.com/zh/news/29992",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
+          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "url": "https://www.aibase.com/news/29992",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T03:48:29.430820Z"
+        },
+        {
+          "id": "0ddbeef83058024f9433a22150588dba9521bd73",
+          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+          "url": "https://www.aibase.com/zh/news/29992",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T03:48:29.430820Z",
+      "latest_at": "2026-07-30T03:48:29.430820Z",
+      "primary_item": {
+        "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
+        "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
+        "url": "https://www.aibase.com/news/29992",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1136,15 +1380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8674,
+        "recency": 0.8315,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1196,15 +1440,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8928,
+        "recency": 0.8558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1219,228 +1463,6 @@
         "url": "https://x.com/perplexity_ai/status/2082511900580196596",
         "source": "X：Perplexity (@perplexity_ai)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1d50a0b3fba4",
-      "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-      "url": "https://www.ithome.com/0/983/298.htm",
-      "primary_url": "https://www.ithome.com/0/983/298.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
-          "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-          "url": "https://www.ithome.com/0/983/298.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T12:12:21Z"
-        },
-        {
-          "id": "11eaa9c43709f9e2ceac622414ec18b15ca957ca",
-          "title": "马斯克旗下 SpaceXAI 起诉明尼苏达州，反对“AI 脱衣”应用禁令",
-          "url": "https://www.ithome.com/0/983/298.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T12:12:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
-          "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-          "url": "https://www.ithome.com/0/983/298.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T12:12:21Z"
-        },
-        {
-          "id": "11eaa9c43709f9e2ceac622414ec18b15ca957ca",
-          "title": "马斯克旗下 SpaceXAI 起诉明尼苏达州，反对“AI 脱衣”应用禁令",
-          "url": "https://www.ithome.com/0/983/298.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T12:12:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8327,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T12:12:21Z",
-      "latest_at": "2026-07-29T12:12:21Z",
-      "primary_item": {
-        "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
-        "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
-        "url": "https://www.ithome.com/0/983/298.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_26d010619d13",
-      "title": "OpenAI 为学术研究者免费提供前沿模型",
-      "url": "https://x.com/sherwinwu/status/2082517015944741342",
-      "primary_url": "https://x.com/sherwinwu/status/2082517015944741342",
-      "source": "X：Sherwin Wu（@sherwinwu）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
-          "title": "OpenAI 为学术研究者免费提供前沿模型",
-          "url": "https://x.com/sherwinwu/status/2082517015944741342",
-          "source": "X：Sherwin Wu（@sherwinwu）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:22:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sherwin Wu（@sherwinwu）"
-      ],
-      "items": [
-        {
-          "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
-          "title": "OpenAI 为学术研究者免费提供前沿模型",
-          "url": "https://x.com/sherwinwu/status/2082517015944741342",
-          "source": "X：Sherwin Wu（@sherwinwu）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:22:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7311,
-      "importance": 0.7311,
-      "importance_score": 0.7311,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8972,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T17:22:02Z",
-      "latest_at": "2026-07-29T17:22:02Z",
-      "primary_item": {
-        "id": "5c1a77f65599db8385acc9dcb87c9af76cc59996",
-        "title": "OpenAI 为学术研究者免费提供前沿模型",
-        "url": "https://x.com/sherwinwu/status/2082517015944741342",
-        "source": "X：Sherwin Wu（@sherwinwu）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_13327f6db245",
-      "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
-      "url": "https://www.aibase.com/news/29983",
-      "primary_url": "https://www.aibase.com/news/29983",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
-          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
-          "url": "https://www.aibase.com/news/29983",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T10:25:09.525513Z"
-        },
-        {
-          "id": "467bb7db924e7839805e7d3ee8bd609da76762ee",
-          "title": "MCP 协议迎来问世以来最大改版：彻底「无状态」，全面适配 Serverless",
-          "url": "https://www.aibase.com/zh/news/29983",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
-          "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
-          "url": "https://www.aibase.com/news/29983",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T10:25:09.525513Z"
-        },
-        {
-          "id": "467bb7db924e7839805e7d3ee8bd609da76762ee",
-          "title": "MCP 协议迎来问世以来最大改版：彻底「无状态」，全面适配 Serverless",
-          "url": "https://www.aibase.com/zh/news/29983",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8115,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T10:25:09.525513Z",
-      "latest_at": "2026-07-29T10:25:09.525513Z",
-      "primary_item": {
-        "id": "cffdf5b5a4b7864fc3d5fedaf647373fb496a81c",
-        "title": "MCP协议迎来问世以来最大改版：彻底\"无状态\"，全面适配Serverless",
-        "url": "https://www.aibase.com/news/29983",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
