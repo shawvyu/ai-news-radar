@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T06:15:20.713866Z",
+  "generated_at": "2026-07-30T09:08:59.274711Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8606,
-      "importance": 0.8606,
-      "importance_score": 0.8606,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8144,
+        "recency": 0.781,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8474,
-      "importance": 0.8474,
-      "importance_score": 0.8474,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8023,
+        "recency": 0.7694,
         "story_heat": 0.25
       },
       "category": "official",
@@ -221,15 +221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8465,
-      "importance": 0.8465,
-      "importance_score": 0.8465,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8804,
+        "recency": 0.8444,
         "story_heat": 0.0
       },
       "category": "official",
@@ -249,26 +249,107 @@
       }
     },
     {
-      "story_id": "story_38cc0483c3d0",
-      "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-      "url": "https://www.aibase.com/news/29994",
-      "primary_url": "https://www.aibase.com/news/29994",
+      "story_id": "story_285fa51c6c4a",
+      "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+      "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+      "primary_url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T07:43:29Z"
+        },
+        {
+          "id": "ae4dcc41e0f294185dab4f2e03d87b670b7472f0",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T07:43:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T07:43:29Z"
+        },
+        {
+          "id": "ae4dcc41e0f294185dab4f2e03d87b670b7472f0",
+          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+          "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-30T07:43:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7949,
+      "importance": 0.7949,
+      "importance_score": 0.7949,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9796,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T07:43:29Z",
+      "latest_at": "2026-07-30T07:43:29Z",
+      "primary_item": {
+        "id": "faa3723bd4e32fd587c1d3a5b3732658213b4a85",
+        "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
+        "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_14eaa03c292b",
+      "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+      "url": "https://www.aibase.com/news/30014",
+      "primary_url": "https://www.aibase.com/news/30014",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
-          "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "url": "https://www.aibase.com/news/29994",
+          "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
+          "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+          "url": "https://www.aibase.com/news/30014",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T03:48:29.430820Z"
+          "published_at": "2026-07-30T09:08:59.274711Z"
         },
         {
-          "id": "e900cbd316ab4fcb269f4b8b6ef79f7a84be3b2a",
-          "title": "AI 自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "url": "https://www.aibase.com/zh/news/29994",
+          "id": "f550c5395f7398287a13d13e99bb015f78e96431",
+          "title": "WorkBuddy 重大升级：「人机双写」上线，AI 时代的 Office 来了！",
+          "url": "https://www.leiphone.com/category/industrynews/8MKR072E5thjAEJQ.html",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -282,18 +363,18 @@
       ],
       "items": [
         {
-          "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
-          "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "url": "https://www.aibase.com/news/29994",
+          "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
+          "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+          "url": "https://www.aibase.com/news/30014",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-30T03:48:29.430820Z"
+          "published_at": "2026-07-30T09:08:59.274711Z"
         },
         {
-          "id": "e900cbd316ab4fcb269f4b8b6ef79f7a84be3b2a",
-          "title": "AI 自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-          "url": "https://www.aibase.com/zh/news/29994",
+          "id": "f550c5395f7398287a13d13e99bb015f78e96431",
+          "title": "WorkBuddy 重大升级：「人机双写」上线，AI 时代的 Office 来了！",
+          "url": "https://www.leiphone.com/category/industrynews/8MKR072E5thjAEJQ.html",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -302,15 +383,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7863,
-      "importance": 0.7863,
-      "importance_score": 0.7863,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9653,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,76 +400,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T03:48:29.430820Z",
-      "latest_at": "2026-07-30T03:48:29.430820Z",
+      "earliest_at": "2026-07-30T06:15:20.713866Z",
+      "latest_at": "2026-07-30T09:08:59.274711Z",
       "primary_item": {
-        "id": "0d2c8c623b872c2407599deabd09c668d1ec2733",
-        "title": "AI自主攻防战实录：智能体如何突破 Hugging Face 沙盒与防御系统？",
-        "url": "https://www.aibase.com/news/29994",
+        "id": "bc6edf1c1cfdcac2dca84c3ec80b5f2c352806d1",
+        "title": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
+        "url": "https://www.aibase.com/news/30014",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_65e0a5db5254",
-      "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
-      "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-      "primary_url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
-          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T14:01:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
-          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T14:01:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.791,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T14:01:07Z",
-      "latest_at": "2026-07-29T14:01:07Z",
-      "primary_item": {
-        "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-        "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
-        "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -426,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7464,
+        "recency": 0.7158,
         "story_heat": 0.0
       },
       "category": "official",
@@ -450,6 +469,68 @@
         "title": "通过 ChatGPT 为学术研究人员加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
         "url": "https://openai.com/index/chatgpt-for-academic-researchers",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_65e0a5db5254",
+      "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+      "primary_url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T14:01:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+          "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T14:01:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7586,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T14:01:07Z",
+      "latest_at": "2026-07-29T14:01:07Z",
+      "primary_item": {
+        "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
+        "title": "Copilot Business 和 Enterprise 的默认模型启用 / Default model enablement for Copilot Business and Enterprise",
+        "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -507,15 +588,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.7752,
+      "importance": 0.7752,
+      "importance_score": 0.7752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.907,
+        "recency": 0.8698,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -588,15 +669,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.847,
+        "recency": 0.8123,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -613,6 +694,87 @@
         "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8ab9010e1e3f",
+      "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+      "url": "https://www.aibase.com/news/30013",
+      "primary_url": "https://www.aibase.com/news/30013",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
+          "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "url": "https://www.aibase.com/news/30013",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:08:59.274711Z"
+        },
+        {
+          "id": "0721b5055bc9ca0c78fb3a0f53076ef361a5459a",
+          "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "url": "https://www.aibase.com/zh/news/30013",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
+          "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "url": "https://www.aibase.com/news/30013",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:08:59.274711Z"
+        },
+        {
+          "id": "0721b5055bc9ca0c78fb3a0f53076ef361a5459a",
+          "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "url": "https://www.aibase.com/zh/news/30013",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T09:08:59.274711Z",
+      "latest_at": "2026-07-30T09:08:59.274711Z",
+      "primary_item": {
+        "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
+        "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+        "url": "https://www.aibase.com/news/30013",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -669,15 +831,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8158,
+        "recency": 0.7824,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -731,15 +893,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.948,
+        "recency": 0.9092,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -811,15 +973,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7672,
+        "recency": 0.7358,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -836,87 +998,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6bc925122a55",
-      "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-      "url": "https://www.aibase.com/news/30000",
-      "primary_url": "https://www.aibase.com/news/30000",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-          "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/news/30000",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:48:29.430820Z"
-        },
-        {
-          "id": "f569265a10fdb5a1cf268437e2e05afcbb49b0e2",
-          "title": "OpenAI CEO 泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/zh/news/30000",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-          "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/news/30000",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:48:29.430820Z"
-        },
-        {
-          "id": "f569265a10fdb5a1cf268437e2e05afcbb49b0e2",
-          "title": "OpenAI CEO 泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/zh/news/30000",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7863,
-      "importance": 0.7863,
-      "importance_score": 0.7863,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9653,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T03:48:29.430820Z",
-      "latest_at": "2026-07-30T03:48:29.430820Z",
-      "primary_item": {
-        "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-        "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-        "url": "https://www.aibase.com/news/30000",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -954,21 +1035,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8719,
+        "recency": 0.8362,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T20:45:42Z",
       "latest_at": "2026-07-29T20:45:42Z",
@@ -1034,15 +1114,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9517,
+        "recency": 0.9128,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1059,6 +1139,87 @@
         "url": "https://www.ithome.com/0/983/444.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f94517e704d2",
+      "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+      "url": "https://www.aibase.com/news/30009",
+      "primary_url": "https://www.aibase.com/news/30009",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
+          "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+          "url": "https://www.aibase.com/news/30009",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:08:59.274711Z"
+        },
+        {
+          "id": "ba6ad434521b66aaaab1c6a276f1c01a761d2adb",
+          "title": "微软确认开发 Copilot AI 超级应用，整合聊天、编程与智能代理能力",
+          "url": "https://www.aibase.com/zh/news/30009",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
+          "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+          "url": "https://www.aibase.com/news/30009",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:08:59.274711Z"
+        },
+        {
+          "id": "ba6ad434521b66aaaab1c6a276f1c01a761d2adb",
+          "title": "微软确认开发 Copilot AI 超级应用，整合聊天、编程与智能代理能力",
+          "url": "https://www.aibase.com/zh/news/30009",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T09:08:59.274711Z",
+      "latest_at": "2026-07-30T09:08:59.274711Z",
+      "primary_item": {
+        "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
+        "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+        "url": "https://www.aibase.com/news/30009",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1096,15 +1257,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7437,
+        "recency": 0.7133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1177,15 +1338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8091,
+        "recency": 0.776,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1239,15 +1400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
+      "score": 0.7229,
+      "importance": 0.7229,
+      "importance_score": 0.7229,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8359,
+        "recency": 0.8017,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1262,87 +1423,6 @@
         "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0e317c0ef367",
-      "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-      "url": "https://www.aibase.com/news/29992",
-      "primary_url": "https://www.aibase.com/news/29992",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
-          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-          "url": "https://www.aibase.com/news/29992",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:48:29.430820Z"
-        },
-        {
-          "id": "0ddbeef83058024f9433a22150588dba9521bd73",
-          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-          "url": "https://www.aibase.com/zh/news/29992",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
-          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-          "url": "https://www.aibase.com/news/29992",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T03:48:29.430820Z"
-        },
-        {
-          "id": "0ddbeef83058024f9433a22150588dba9521bd73",
-          "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-          "url": "https://www.aibase.com/zh/news/29992",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7863,
-      "importance": 0.7863,
-      "importance_score": 0.7863,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9653,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T03:48:29.430820Z",
-      "latest_at": "2026-07-30T03:48:29.430820Z",
-      "primary_item": {
-        "id": "e1e4eb50aab5fb709449bafd6c141e5b9be3d89d",
-        "title": "Waymo 首款从零设计网约车 Ojai 亮相：Gemini 上车，三屏各有分工",
-        "url": "https://www.aibase.com/news/29992",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1380,15 +1460,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8026,
+        "recency": 0.7697,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1402,66 +1482,6 @@
         "title": "算力价格未来可能上涨 10 倍以上",
         "url": "https://www.dwarkesh.com/p/why-compute-might-get-10x-more-expensive",
         "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a7ac5683488c",
-      "title": "Perplexity 开源智能体检测层 Numbat",
-      "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-      "primary_url": "https://x.com/perplexity_ai/status/2082511900580196596",
-      "source": "X：Perplexity (@perplexity_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "85fe51a745459cf4dbac7cef58fc0c1e764a95c3",
-          "title": "Perplexity 开源智能体检测层 Numbat",
-          "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:01:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Perplexity (@perplexity_ai)"
-      ],
-      "items": [
-        {
-          "id": "85fe51a745459cf4dbac7cef58fc0c1e764a95c3",
-          "title": "Perplexity 开源智能体检测层 Numbat",
-          "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-          "source": "X：Perplexity (@perplexity_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:01:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7213,
-      "importance": 0.7213,
-      "importance_score": 0.7213,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8261,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T17:01:42Z",
-      "latest_at": "2026-07-29T17:01:42Z",
-      "primary_item": {
-        "id": "85fe51a745459cf4dbac7cef58fc0c1e764a95c3",
-        "title": "Perplexity 开源智能体检测层 Numbat",
-        "url": "https://x.com/perplexity_ai/status/2082511900580196596",
-        "source": "X：Perplexity (@perplexity_ai)",
         "source_name": "AI HOT"
       }
     }
