@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T19:58:50.526439Z",
+  "generated_at": "2026-07-31T21:01:26.779129Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -66,21 +66,21 @@
       }
     },
     {
-      "story_id": "story_3bde4c44877d",
-      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "story_id": "story_337d712579d2",
+      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
+          "published_at": "2026-07-31T20:04:01Z"
         }
       ],
       "source_count": 1,
@@ -89,26 +89,26 @@
       ],
       "items": [
         {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
+          "published_at": "2026-07-31T20:04:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8394,
-      "importance": 0.8394,
-      "importance_score": 0.8394,
+      "score": 0.8495,
+      "importance": 0.8495,
+      "importance_score": 0.8495,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9746,
+        "ai_relevance": 0.91,
+        "recency": 0.9863,
         "story_heat": 0.0
       },
       "category": "official",
@@ -117,14 +117,233 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T18:11:50Z",
-      "latest_at": "2026-07-31T18:11:50Z",
+      "earliest_at": "2026-07-31T20:04:01Z",
+      "latest_at": "2026-07-31T20:04:01Z",
       "primary_item": {
-        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+        "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+        "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_32fd60636e2b",
+      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "primary_url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "086ab5b93578ee816486b17186f5647a99496989",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T20:25:20.686000Z"
+        },
+        {
+          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
+          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "tailscale.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T20:25:20.686000Z"
+        },
+        {
+          "id": "3445eb71333debbe6a7ffa4df431b1cf8f4e77cc",
+          "title": "Tailscale 并没有阻止 Hugging Face 的入侵 / Tailscale didn't stop the Hugging Face intrusion",
+          "url": "https://news.ycombinator.com/item?id=49127306",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-31T19:59:24.911000Z"
+        },
+        {
+          "id": "54f74dc6d2dc2c17a7743f632d65c637573e79bb",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘 / Tailscale didn't stop the Hugging Face intrusion",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-31T19:03:45Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "tailscale.com"
+      ],
+      "items": [
+        {
+          "id": "086ab5b93578ee816486b17186f5647a99496989",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T20:25:20.686000Z"
+        },
+        {
+          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
+          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "tailscale.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T20:25:20.686000Z"
+        },
+        {
+          "id": "3445eb71333debbe6a7ffa4df431b1cf8f4e77cc",
+          "title": "Tailscale 并没有阻止 Hugging Face 的入侵 / Tailscale didn't stop the Hugging Face intrusion",
+          "url": "https://news.ycombinator.com/item?id=49127306",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-31T19:59:24.911000Z"
+        },
+        {
+          "id": "54f74dc6d2dc2c17a7743f632d65c637573e79bb",
+          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘 / Tailscale didn't stop the Hugging Face intrusion",
+          "url": "https://tailscale.com/blog/hugging-face-intrusion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-31T19:03:45Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9913,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T19:03:45Z",
+      "latest_at": "2026-07-31T20:25:20.686000Z",
+      "primary_item": {
+        "id": "086ab5b93578ee816486b17186f5647a99496989",
+        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
+        "url": "https://tailscale.com/blog/hugging-face-intrusion",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_11f347ce3cd8",
+      "title": "Claude 模型在测试中入侵 3 家真实公司生产环境",
+      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
+      "primary_url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "446e8f056a38e58b5f56f8dd0c9a7fb66ad463a1",
+          "title": "Claude 模型在测试中入侵 3 家真实公司生产环境",
+          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T20:39:14Z"
+        },
+        {
+          "id": "f58d39d6118b9206755a2ce511b4cd4a6e355064",
+          "title": "Claude 模型在测试中入侵 3 家真实公司生产环境 / Claude published malicious code to the Internet and attacked 3 real companies",
+          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-31T20:39:14Z"
+        },
+        {
+          "id": "f9dbac5eb66ae7e2a90b228269201195adcfb7d9",
+          "title": "Claude 模型在测试中入侵 3 家真实公司生产环境 / Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-31T20:39:14Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica (科技媒体)",
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "446e8f056a38e58b5f56f8dd0c9a7fb66ad463a1",
+          "title": "Claude 模型在测试中入侵 3 家真实公司生产环境",
+          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T20:39:14Z"
+        },
+        {
+          "id": "f58d39d6118b9206755a2ce511b4cd4a6e355064",
+          "title": "Claude 模型在测试中入侵 3 家真实公司生产环境 / Claude published malicious code to the Internet and attacked 3 real companies",
+          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-31T20:39:14Z"
+        },
+        {
+          "id": "f9dbac5eb66ae7e2a90b228269201195adcfb7d9",
+          "title": "Claude 模型在测试中入侵 3 家真实公司生产环境 / Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
+          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-31T20:39:14Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9947,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T20:39:14Z",
+      "latest_at": "2026-07-31T20:39:14Z",
+      "primary_item": {
+        "id": "446e8f056a38e58b5f56f8dd0c9a7fb66ad463a1",
+        "title": "Claude 模型在测试中入侵 3 家真实公司生产环境",
+        "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -162,15 +381,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9306,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "official",
@@ -190,21 +409,21 @@
       }
     },
     {
-      "story_id": "story_40a9fce1f45e",
-      "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "story_id": "story_3bde4c44877d",
+      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
+          "published_at": "2026-07-31T18:11:50Z"
         }
       ],
       "source_count": 1,
@@ -213,26 +432,26 @@
       ],
       "items": [
         {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
+          "published_at": "2026-07-31T18:11:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8358,
-      "importance": 0.8358,
-      "importance_score": 0.8358,
+      "score": 0.8368,
+      "importance": 0.8368,
+      "importance_score": 0.8368,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9546,
+        "recency": 0.96,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,12 +460,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T16:45:50Z",
-      "latest_at": "2026-07-31T16:45:50Z",
+      "earliest_at": "2026-07-31T18:11:50Z",
+      "latest_at": "2026-07-31T18:11:50Z",
       "primary_item": {
-        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-        "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -305,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9676,
+        "recency": 0.9531,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -367,15 +586,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9306,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "official",
@@ -395,84 +614,65 @@
       }
     },
     {
-      "story_id": "story_945ecdf346e3",
-      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "primary_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_40a9fce1f45e",
+      "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
-          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T04:57:18.494000Z"
-        },
-        {
-          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
-          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "www.ctgt.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T04:57:18.494000Z"
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T16:45:50Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.ctgt.ai"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
-          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T04:57:18.494000Z"
-        },
-        {
-          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
-          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
-          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-          "source": "www.ctgt.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T04:57:18.494000Z"
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T16:45:50Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8049,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9403,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-31T04:57:18.494000Z",
-      "latest_at": "2026-07-31T04:57:18.494000Z",
+      "earliest_at": "2026-07-31T16:45:50Z",
+      "latest_at": "2026-07-31T16:45:50Z",
       "primary_item": {
-        "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
-        "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
-        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+        "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -529,15 +729,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7694,
-      "importance": 0.7694,
-      "importance_score": 0.7694,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8711,
+        "recency": 0.858,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -591,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9446,
+        "recency": 0.9304,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -671,15 +871,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8249,
+        "recency": 0.8125,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -733,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8526,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -794,15 +994,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.8906,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -855,15 +1055,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8597,
+        "recency": 0.8468,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,15 +1135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8647,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -963,82 +1163,83 @@
       }
     },
     {
-      "story_id": "story_2875a4400bb8",
-      "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-      "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-      "primary_url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_945ecdf346e3",
+      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "primary_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
-          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T20:26:38Z"
+          "published_at": "2026-07-31T04:57:18.494000Z"
         },
         {
-          "id": "52fdf4e033f46fb07a2435877d766ad648ea8cca",
-          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
-          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-30T20:26:38Z"
+          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
+          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "www.ctgt.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T04:57:18.494000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.ctgt.ai"
       ],
       "items": [
         {
-          "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
-          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-30T20:26:38Z"
+          "published_at": "2026-07-31T04:57:18.494000Z"
         },
         {
-          "id": "52fdf4e033f46fb07a2435877d766ad648ea8cca",
-          "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险 / Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
-          "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-30T20:26:38Z"
+          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
+          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "www.ctgt.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T04:57:18.494000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7437,
-      "importance": 0.7437,
-      "importance_score": 0.7437,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7119,
+        "recency": 0.7929,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-30T20:26:38Z",
-      "latest_at": "2026-07-30T20:26:38Z",
+      "earliest_at": "2026-07-31T04:57:18.494000Z",
+      "latest_at": "2026-07-31T04:57:18.494000Z",
       "primary_item": {
-        "id": "31349a627e6af3b7a002736b636c9b6c28420f11",
-        "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
-        "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+        "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1077,15 +1278,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.88,
+        "recency": 0.8668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1156,15 +1357,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8376,
+        "recency": 0.8251,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1218,15 +1419,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8291,
+        "recency": 0.8167,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1243,147 +1444,6 @@
         "url": "https://openai.com/index/unive",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_11290e610f9d",
-      "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-      "url": "https://www.ithome.com/0/984/365.htm",
-      "primary_url": "https://www.ithome.com/0/984/365.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
-          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "url": "https://www.ithome.com/0/984/365.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:40:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
-          "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-          "url": "https://www.ithome.com/0/984/365.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T11:40:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8869,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T11:40:12Z",
-      "latest_at": "2026-07-31T11:40:12Z",
-      "primary_item": {
-        "id": "4207883dfe56195b7076cbccf3ec343449ed502b",
-        "title": "欧盟《人工智能法》新增透明度要求，8 月 2 日起正式执行",
-        "url": "https://www.ithome.com/0/984/365.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_50c27142bb03",
-      "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
-      "url": "https://www.aibase.com/news/30044",
-      "primary_url": "https://www.aibase.com/news/30044",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "36da0614f523ee93147d5c8ff1a64b83cf429bcf",
-          "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
-          "url": "https://www.aibase.com/news/30044",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T07:42:42.817322Z"
-        },
-        {
-          "id": "53bec70486733b445e4fe4ec7169886d8a6ac08f",
-          "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
-          "url": "https://x.com/deepseek_ai/status/2083084415157022911",
-          "source": "X：DeepSeek (@deepseek_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T06:56:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "X：DeepSeek (@deepseek_ai)"
-      ],
-      "items": [
-        {
-          "id": "36da0614f523ee93147d5c8ff1a64b83cf429bcf",
-          "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
-          "url": "https://www.aibase.com/news/30044",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T07:42:42.817322Z"
-        },
-        {
-          "id": "53bec70486733b445e4fe4ec7169886d8a6ac08f",
-          "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级",
-          "url": "https://x.com/deepseek_ai/status/2083084415157022911",
-          "source": "X：DeepSeek (@deepseek_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T06:56:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8376,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T06:56:41Z",
-      "latest_at": "2026-07-31T07:42:42.817322Z",
-      "primary_item": {
-        "id": "36da0614f523ee93147d5c8ff1a64b83cf429bcf",
-        "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
-        "url": "https://www.aibase.com/news/30044",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
