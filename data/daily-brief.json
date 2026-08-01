@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T10:57:51.484638Z",
+  "generated_at": "2026-08-01T11:58:29.902409Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8536,
+        "recency": 0.8412,
         "story_heat": 0.25
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8151,
+      "importance": 0.8151,
+      "importance_score": 0.8151,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8064,
+        "recency": 0.7948,
         "story_heat": 0.0
       },
       "category": "official",
@@ -301,15 +301,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8133,
+        "recency": 0.8015,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -420,15 +420,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8025,
-      "importance": 0.8025,
-      "importance_score": 0.8025,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8106,
+        "recency": 0.7988,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -444,6 +444,87 @@
         "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
         "url": "https://tailscale.com/blog/hugging-face-intrusion",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a86f05568153",
+      "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+      "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+      "primary_url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T10:40:50Z"
+        },
+        {
+          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-01T10:40:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T10:40:50Z"
+        },
+        {
+          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-01T10:40:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9815,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-01T10:40:50Z",
+      "latest_at": "2026-08-01T10:40:50Z",
+      "primary_item": {
+        "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+        "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+        "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -482,15 +563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.785,
+        "recency": 0.7736,
         "story_heat": 0.0
       },
       "category": "official",
@@ -563,15 +644,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.83,
+      "importance": 0.83,
+      "importance_score": 0.83,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7495,
+        "recency": 0.7387,
         "story_heat": 0.25
       },
       "category": "official",
@@ -645,15 +726,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8204,
+        "recency": 0.8085,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -707,15 +788,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9037,
+        "recency": 0.8906,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -768,15 +849,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7519,
+      "importance": 0.7519,
+      "importance_score": 0.7519,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8249,
+        "recency": 0.813,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -829,15 +910,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
+      "score": 0.7507,
+      "importance": 0.7507,
+      "importance_score": 0.7507,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9533,
+        "recency": 0.9395,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -853,6 +934,190 @@
         "url": "https://x.com/gdb/status/2083457463337287721",
         "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_40a9fce1f45e",
+      "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T16:45:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T16:45:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7577,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T16:45:50Z",
+      "latest_at": "2026-07-31T16:45:50Z",
+      "primary_item": {
+        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+        "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d395a9992155",
+      "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
+      "url": "https://x.com/OpenBMB/status/2083175856563003724",
+      "primary_url": "https://x.com/OpenBMB/status/2083175856563003724",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
+          "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
+          "url": "https://x.com/OpenBMB/status/2083175856563003724",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T13:00:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：面壁智能 OpenBMB (@OpenBMB)"
+      ],
+      "items": [
+        {
+          "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
+          "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
+          "url": "https://x.com/OpenBMB/status/2083175856563003724",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T13:00:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7177,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-31T13:00:02Z",
+      "latest_at": "2026-07-31T13:00:02Z",
+      "primary_item": {
+        "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
+        "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
+        "url": "https://x.com/OpenBMB/status/2083175856563003724",
+        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b86dc435d64a",
+      "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "primary_url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+          "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
+          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+          "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
+          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7387,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T15:00:00Z",
+      "latest_at": "2026-07-31T15:00:00Z",
+      "primary_item": {
+        "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+        "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
+        "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -909,15 +1174,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7793,
+        "recency": 0.768,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -933,190 +1198,6 @@
         "url": "https://the-decoder.com/thinking-machines-bets-on-efficiency-over-size-with-its-second-model-inkling-small",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_40a9fce1f45e",
-      "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-          "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T16:45:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7689,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T16:45:50Z",
-      "latest_at": "2026-07-31T16:45:50Z",
-      "primary_item": {
-        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
-        "title": "限制 npmbypass-2FA 粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d395a9992155",
-      "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
-      "url": "https://x.com/OpenBMB/status/2083175856563003724",
-      "primary_url": "https://x.com/OpenBMB/status/2083175856563003724",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
-          "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
-          "url": "https://x.com/OpenBMB/status/2083175856563003724",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T13:00:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：面壁智能 OpenBMB (@OpenBMB)"
-      ],
-      "items": [
-        {
-          "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
-          "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
-          "url": "https://x.com/OpenBMB/status/2083175856563003724",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T13:00:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7277,
-      "importance": 0.7277,
-      "importance_score": 0.7277,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7282,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T13:00:02Z",
-      "latest_at": "2026-07-31T13:00:02Z",
-      "primary_item": {
-        "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
-        "title": "面壁智能ALIGN：自动对齐智能体与环境接口",
-        "url": "https://x.com/OpenBMB/status/2083175856563003724",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b86dc435d64a",
-      "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
-      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "primary_url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
-          "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
-          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
-          "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
-          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7495,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T15:00:00Z",
-      "latest_at": "2026-07-31T15:00:00Z",
-      "primary_item": {
-        "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
-        "title": "在整个欧洲推进负责任的人工智能 / Advancing responsible AI across Europe",
-        "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1154,15 +1235,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7335,
-      "importance": 0.7335,
-      "importance_score": 0.7335,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7608,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1304,15 +1385,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.651,
-      "importance": 0.651,
-      "importance_score": 0.651,
+      "score": 0.6489,
+      "importance": 0.6489,
+      "importance_score": 0.6489,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.54,
         "ai_relevance": 0.7,
-        "recency": 0.7832,
+        "recency": 0.7718,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1382,15 +1463,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5789,
-      "importance": 0.5789,
-      "importance_score": 0.5789,
+      "score": 0.5768,
+      "importance": 0.5768,
+      "importance_score": 0.5768,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7967,
+        "recency": 0.7851,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1408,199 +1489,101 @@
       }
     },
     {
-      "story_id": "story_25475716ab25",
-      "title": "Flint：面向人工智能时代的可视化语言",
-      "url": "https://microsoft.github.io/flint-chart",
-      "primary_url": "https://microsoft.github.io/flint-chart",
-      "source": "microsoft.github.io",
+      "story_id": "story_ba7326102fca",
+      "title": "人工智能无法生成可用的产品，这仍然是你的工作",
+      "url": "https://weeraman.com/the-prototype-isnt-the-product",
+      "primary_url": "https://weeraman.com/the-prototype-isnt-the-product",
+      "source": "weeraman.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
-          "title": "Flint：面向人工智能时代的可视化语言",
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "microsoft.github.io",
+          "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "weeraman.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-01T08:41:23.781000Z"
+          "published_at": "2026-08-01T11:05:25.825000Z"
         },
         {
-          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
-          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "url": "https://news.ycombinator.com/item?id=49130604",
+          "id": "0327dc4de97b5e0cb0ae3765b12eee1bdb53f4f0",
+          "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+          "url": "https://news.ycombinator.com/item?id=49132130",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-01T04:20:37.831000Z"
+          "published_at": "2026-08-01T09:30:04.126000Z"
         },
         {
-          "id": "a0c1c63603f2363a96e0f45f9d9fbeab30867423",
-          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T02:45:09Z"
+          "id": "ad94fcf3894d44f206272c59af3e1f58bc2e74d5",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T07:52:10Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews",
-        "microsoft.github.io"
+        "weeraman.com"
       ],
       "items": [
         {
-          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
-          "title": "Flint：面向人工智能时代的可视化语言",
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "microsoft.github.io",
+          "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作",
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "weeraman.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-01T08:41:23.781000Z"
+          "published_at": "2026-08-01T11:05:25.825000Z"
         },
         {
-          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
-          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "url": "https://news.ycombinator.com/item?id=49130604",
+          "id": "0327dc4de97b5e0cb0ae3765b12eee1bdb53f4f0",
+          "title": "人工智能不会生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+          "url": "https://news.ycombinator.com/item?id=49132130",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-01T04:20:37.831000Z"
+          "published_at": "2026-08-01T09:30:04.126000Z"
         },
         {
-          "id": "a0c1c63603f2363a96e0f45f9d9fbeab30867423",
-          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
-          "url": "https://microsoft.github.io/flint-chart",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T02:45:09Z"
+          "id": "ad94fcf3894d44f206272c59af3e1f58bc2e74d5",
+          "title": "人工智能无法生成可用的产品，这仍然是你的工作 / AI doesn't generate working products, that's still your job",
+          "url": "https://weeraman.com/the-prototype-isnt-the-product",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T07:52:10Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.565,
-      "importance": 0.565,
-      "importance_score": 0.565,
+      "score": 0.5685,
+      "importance": 0.5685,
+      "importance_score": 0.5685,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9677,
+        "recency": 0.9873,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-01T02:45:09Z",
-      "latest_at": "2026-08-01T08:41:23.781000Z",
+      "earliest_at": "2026-08-01T07:52:10Z",
+      "latest_at": "2026-08-01T11:05:25.825000Z",
       "primary_item": {
-        "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
-        "title": "Flint：面向人工智能时代的可视化语言",
-        "url": "https://microsoft.github.io/flint-chart",
-        "source": "microsoft.github.io",
+        "id": "35d0d2be42f141daa5899f5588b0cf48c1146021",
+        "title": "人工智能无法生成可用的产品，这仍然是你的工作",
+        "url": "https://weeraman.com/the-prototype-isnt-the-product",
+        "source": "weeraman.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3ceada312631",
-      "title": "Show HN: 我花两年时间开发的新浏览器，今天通过了 Acid 3 测试",
-      "url": "https://code.intellios.ai/cwbrowser",
-      "primary_url": "https://code.intellios.ai/cwbrowser",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "38cff767f05a8b4bc3559fe80017b913aa0ddde7",
-          "title": "Show HN: 我花两年时间开发的新浏览器，今天通过了 Acid 3 测试",
-          "url": "https://code.intellios.ai/cwbrowser",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2dfd097e7ca2b14386ccfc65ef0016aa3ab7b2cd",
-          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
-          "url": "https://code.intellios.ai/cwbrowser",
-          "source": "code.intellios.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T21:45:09.957000Z"
-        },
-        {
-          "id": "a37b230e732fac4861f0a64aa6d0bc9bb253fe21",
-          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试 / Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-          "url": "https://code.intellios.ai/cwbrowser",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-31T21:39:52Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Readhub · AI",
-        "code.intellios.ai"
-      ],
-      "items": [
-        {
-          "id": "38cff767f05a8b4bc3559fe80017b913aa0ddde7",
-          "title": "Show HN: 我花两年时间开发的新浏览器，今天通过了 Acid 3 测试",
-          "url": "https://code.intellios.ai/cwbrowser",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2dfd097e7ca2b14386ccfc65ef0016aa3ab7b2cd",
-          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
-          "url": "https://code.intellios.ai/cwbrowser",
-          "source": "code.intellios.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T21:45:09.957000Z"
-        },
-        {
-          "id": "a37b230e732fac4861f0a64aa6d0bc9bb253fe21",
-          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试 / Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
-          "url": "https://code.intellios.ai/cwbrowser",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-31T21:39:52Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5553,
-      "importance": 0.5553,
-      "importance_score": 0.5553,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9141,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-31T21:39:52Z",
-      "latest_at": "2026-08-01T04:44:28.646655Z",
-      "primary_item": {
-        "id": "38cff767f05a8b4bc3559fe80017b913aa0ddde7",
-        "title": "Show HN: 我花两年时间开发的新浏览器，今天通过了 Acid 3 测试",
-        "url": "https://code.intellios.ai/cwbrowser",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
