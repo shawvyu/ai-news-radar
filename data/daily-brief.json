@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T09:29:29.904769Z",
+  "generated_at": "2026-08-01T10:57:51.484638Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -66,6 +66,88 @@
       }
     },
     {
+      "story_id": "story_6d58997b466c",
+      "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-01T00:00:00Z"
+        },
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-01T00:00:00Z"
+        },
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8506,
+      "importance": 0.8506,
+      "importance_score": 0.8506,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8536,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-01T00:00:00Z",
+      "latest_at": "2026-08-01T10:17:30.122000Z",
+      "primary_item": {
+        "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+        "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
       "story_id": "story_337d712579d2",
       "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
       "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
@@ -100,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8238,
+        "recency": 0.8064,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +301,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8308,
+        "recency": 0.8133,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -282,18 +364,18 @@
           "published_at": "2026-07-31T19:59:24.911000Z"
         },
         {
-          "id": "54f74dc6d2dc2c17a7743f632d65c637573e79bb",
+          "id": "5598868dae222b2b59cfb7d0dc2e3f5b5edbc2a6",
           "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘 / Tailscale didn't stop the Hugging Face intrusion",
           "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-31T19:03:45Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "hackernews",
         "tailscale.com"
@@ -327,26 +409,26 @@
           "published_at": "2026-07-31T19:59:24.911000Z"
         },
         {
-          "id": "54f74dc6d2dc2c17a7743f632d65c637573e79bb",
+          "id": "5598868dae222b2b59cfb7d0dc2e3f5b5edbc2a6",
           "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘 / Tailscale didn't stop the Hugging Face intrusion",
           "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-31T19:03:45Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.828,
+        "recency": 0.8106,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -363,6 +445,68 @@
         "url": "https://tailscale.com/blog/hugging-face-intrusion",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3bde4c44877d",
+      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T18:11:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T18:11:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.785,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T18:11:50Z",
+      "latest_at": "2026-07-31T18:11:50Z",
+      "primary_item": {
+        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
+        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -419,15 +563,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8348,
-      "importance": 0.8348,
-      "importance_score": 0.8348,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7657,
+        "recency": 0.7495,
         "story_heat": 0.25
       },
       "category": "official",
@@ -443,130 +587,6 @@
         "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
         "title": "构建丰富的智能 / Building abundant intelligence",
         "url": "https://openai.com/index/building-abundant-intelligence",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3bde4c44877d",
-      "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-          "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T18:11:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8018,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T18:11:50Z",
-      "latest_at": "2026-07-31T18:11:50Z",
-      "primary_item": {
-        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
-        "title": "企业团队在公共预览版中对策略定位进行建模 / Enterprise teams model policy targeting in public preview",
-        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6d58997b466c",
-      "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-          "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-01T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-          "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-01T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8289,
-      "importance": 0.8289,
-      "importance_score": 0.8289,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8719,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-01T00:00:00Z",
-      "latest_at": "2026-08-01T00:00:00Z",
-      "primary_item": {
-        "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-        "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
-        "url": "https://openai.com/index/ten-advances-in-mathematics",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -625,15 +645,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.838,
+        "recency": 0.8204,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -687,15 +707,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9231,
+        "recency": 0.9037,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -748,15 +768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8426,
+        "recency": 0.8249,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -809,15 +829,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9738,
+        "recency": 0.9533,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -889,15 +909,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7961,
+        "recency": 0.7793,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -950,15 +970,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7854,
+        "recency": 0.7689,
         "story_heat": 0.0
       },
       "category": "official",
@@ -975,146 +995,6 @@
         "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c666711b89d3",
-      "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-      "url": "https://www.aibase.com/news/30045",
-      "primary_url": "https://www.aibase.com/news/30045",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
-          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-          "url": "https://www.aibase.com/news/30045",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T10:25:19.873842Z"
-        },
-        {
-          "id": "a0747c96f3c05c9aefacbbbc75ebe865929c6d0f",
-          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-          "url": "https://www.aibase.com/zh/news/30045",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
-          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-          "url": "https://www.aibase.com/news/30045",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T10:25:19.873842Z"
-        },
-        {
-          "id": "a0747c96f3c05c9aefacbbbc75ebe865929c6d0f",
-          "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-          "url": "https://www.aibase.com/zh/news/30045",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7167,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T10:25:19.873842Z",
-      "latest_at": "2026-07-31T10:25:19.873842Z",
-      "primary_item": {
-        "id": "4d4ff196ca405f24c462f32c91b9e4563db588f7",
-        "title": "我国人工智能迎来全产业链突破，将加快《人工智能法》立法",
-        "url": "https://www.aibase.com/news/30045",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e29bceaab5cd",
-      "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-      "url": "https://www.minimax.io/blog/minimax-h3",
-      "primary_url": "https://www.minimax.io/blog/minimax-h3",
-      "source": "MiniMax：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
-          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-          "url": "https://www.minimax.io/blog/minimax-h3",
-          "source": "MiniMax：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:59:02.996000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MiniMax：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
-          "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-          "url": "https://www.minimax.io/blog/minimax-h3",
-          "source": "MiniMax：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:59:02.996000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7338,
-      "importance": 0.7338,
-      "importance_score": 0.7338,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7122,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T09:59:02.996000Z",
-      "latest_at": "2026-07-31T09:59:02.996000Z",
-      "primary_item": {
-        "id": "36deacf6e462ddac3ac60b8fd225c67e6636640b",
-        "title": "MiniMax H3 发布：开源全能多模态生成模型，支持 2K 原生立体声视频",
-        "url": "https://www.minimax.io/blog/minimax-h3",
-        "source": "MiniMax：Blog（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1152,15 +1032,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7439,
+        "recency": 0.7282,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1212,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7657,
+        "recency": 0.7495,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1237,86 +1117,6 @@
         "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_7d5564383d5e",
-      "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-      "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-      "primary_url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ab0635703e0933894481269c608233802bd21ae6",
-          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-          "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T10:57:37Z"
-        },
-        {
-          "id": "f4e41d2e7560181712995b595583eabcfda28b5d",
-          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-          "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-31T10:57:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ab0635703e0933894481269c608233802bd21ae6",
-          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-          "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T10:57:37Z"
-        },
-        {
-          "id": "f4e41d2e7560181712995b595583eabcfda28b5d",
-          "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统 / Anthropic follows OpenAI in admitting its Claude models reached out of test environments and attacked real-world systems",
-          "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-31T10:57:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7223,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T10:57:37Z",
-      "latest_at": "2026-07-31T10:57:37Z",
-      "primary_item": {
-        "id": "ab0635703e0933894481269c608233802bd21ae6",
-        "title": "Anthropic 承认三款 Claude 模型逃出测试环境攻击真实系统",
-        "url": "https://the-decoder.com/anthropic-follows-openai-in-admitting-its-claude-models-reached-out-of-test-environments-and-attacked-real-world-systems",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1354,15 +1154,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7771,
+        "recency": 0.7608,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1380,63 +1180,427 @@
       }
     },
     {
-      "story_id": "story_0ae4eaaaeeda",
-      "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-      "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-      "primary_url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-      "source": "X：Artificial Analysis (@ArtificialAnlys)",
-      "source_name": "AI HOT",
+      "story_id": "story_2df82173bb28",
+      "title": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-07-31",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
-          "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-          "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:30:43Z"
+          "id": "97de2c9659b842c9b6ff070df28eddf3f12b434a",
+          "title": "7月26日，我们和全国52个城市的小伙伴们，在博物馆过了个周末。这期AI切磋大会的主题是「博物馆奇妙日」。上午先去逛逛自己城市的博物馆，看文物、记故事、拍照片，下午回来，用 AI 把它做成一件作品，不管是网页、视频、海报，还是3D 交互都行。最终我们收到了160多件作品，并把它摆上了线上展厅，欢迎来逛👏🏻",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:02:21.077728Z"
+        },
+        {
+          "id": "98c29b83fba7c42f34657b9623d34f8b6feff382",
+          "title": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:02:21.077728Z"
+        },
+        {
+          "id": "3e8703cd50efa319f1c696c41916396cff6c48a9",
+          "title": "DeepSeek V4 Flash 正式版API上线公测中，在九项Agent测试里全部超过V4 Pro Preview了；同时原生支持 Responses API，并针对Codex做了适配，可一键配置。长文档读取、批量管理文件、浏览器自动化、新闻清洗这类高频任务，很值得用Flash试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:02:21.077728Z"
+        },
+        {
+          "id": "f5570c7b2dd191c1243212e2edd1245c2108db14",
+          "title": "MiniMax H3正式发布。这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:02:21.077728Z"
+        },
+        {
+          "id": "1610e8ea69d8ce3c58ac3a262ed597379d81295c",
+          "title": "很多亚马逊卖家优化 Listing 还停留在“凭经验看标题、图片、五点”的阶段，但新的规则和AI购物助手介入后，靠感觉很容易漏掉真正影响流量的扣分项。作者开源了Amazon Listing Doctor这个Skill，用 CDQ、A9、COSMO、Alexa四套逻辑检查标题75字符规则、关键词收录、用户意图覆盖、AI 购物助手可发现性。做亚马逊运营的小伙伴儿可以试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:02:21.077728Z"
+        },
+        {
+          "id": "f42c1e962ad0695823fc0a0f187961671d255c03",
+          "title": "很多人做AI 视频或3D场景，麻烦的是角色、镜头、地形、分镜和录制分散在不同工具里，流程很难串起来。awplanet 是一个开源的AI原生3D导演工作台，基于React、Three.js、Vite和Electron构建，把可视化场景编辑、角色骨骼、电影化运镜、分镜时间轴、地形雕刻、物件布置放进同一套工作流，适合快速搭场景、走镜头、验证画面调度。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:02:21.077728Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 6,
       "source_names": [
-        "X：Artificial Analysis (@ArtificialAnlys)"
+        "社区更新 · 2026-07-31"
       ],
       "items": [
         {
-          "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
-          "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-          "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-          "source": "X：Artificial Analysis (@ArtificialAnlys)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T09:30:43Z"
+          "id": "97de2c9659b842c9b6ff070df28eddf3f12b434a",
+          "title": "7月26日，我们和全国52个城市的小伙伴们，在博物馆过了个周末。这期AI切磋大会的主题是「博物馆奇妙日」。上午先去逛逛自己城市的博物馆，看文物、记故事、拍照片，下午回来，用 AI 把它做成一件作品，不管是网页、视频、海报，还是3D 交互都行。最终我们收到了160多件作品，并把它摆上了线上展厅，欢迎来逛👏🏻",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:02:21.077728Z"
+        },
+        {
+          "id": "98c29b83fba7c42f34657b9623d34f8b6feff382",
+          "title": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:02:21.077728Z"
+        },
+        {
+          "id": "3e8703cd50efa319f1c696c41916396cff6c48a9",
+          "title": "DeepSeek V4 Flash 正式版API上线公测中，在九项Agent测试里全部超过V4 Pro Preview了；同时原生支持 Responses API，并针对Codex做了适配，可一键配置。长文档读取、批量管理文件、浏览器自动化、新闻清洗这类高频任务，很值得用Flash试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:02:21.077728Z"
+        },
+        {
+          "id": "f5570c7b2dd191c1243212e2edd1245c2108db14",
+          "title": "MiniMax H3正式发布。这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持 15s 2K 分辨率。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:02:21.077728Z"
+        },
+        {
+          "id": "1610e8ea69d8ce3c58ac3a262ed597379d81295c",
+          "title": "很多亚马逊卖家优化 Listing 还停留在“凭经验看标题、图片、五点”的阶段，但新的规则和AI购物助手介入后，靠感觉很容易漏掉真正影响流量的扣分项。作者开源了Amazon Listing Doctor这个Skill，用 CDQ、A9、COSMO、Alexa四套逻辑检查标题75字符规则、关键词收录、用户意图覆盖、AI 购物助手可发现性。做亚马逊运营的小伙伴儿可以试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:02:21.077728Z"
+        },
+        {
+          "id": "f42c1e962ad0695823fc0a0f187961671d255c03",
+          "title": "很多人做AI 视频或3D场景，麻烦的是角色、镜头、地形、分镜和录制分散在不同工具里，流程很难串起来。awplanet 是一个开源的AI原生3D导演工作台，基于React、Three.js、Vite和Electron构建，把可视化场景编辑、角色骨骼、电影化运镜、分镜时间轴、地形雕刻、物件布置放进同一套工作流，适合快速搭场景、走镜头、验证画面调度。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-31",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-31T18:02:21.077728Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
-      "importance_label": "行业动态",
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.651,
+      "importance": 0.651,
+      "importance_score": 0.651,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7073,
-        "story_heat": 0.0
+        "editorial": 0.504,
+        "source_tier": 0.54,
+        "ai_relevance": 0.7,
+        "recency": 0.7832,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-31T09:30:43Z",
-      "latest_at": "2026-07-31T09:30:43Z",
+      "earliest_at": "2026-07-31T18:02:21.077728Z",
+      "latest_at": "2026-07-31T18:02:21.077728Z",
       "primary_item": {
-        "id": "c9ea765a549630b1225f52ace49b6d1c6619d979",
-        "title": "DeepSeek V4 Flash 0731 发布，智能指数跃升 10 分",
-        "url": "https://x.com/ArtificialAnlys/status/2083123180869496865",
-        "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
+        "id": "98c29b83fba7c42f34657b9623d34f8b6feff382",
+        "title": "AI 信息越多，越容易焦虑：今天追模型，明天追框架，但真正难的是判断技术边界——哪些现在值得做，哪些再等几个月模型自己就会补上。作者借谢青池两年读200多篇AI论文的经历，讲他如何用历史、范式变迁和人物三个视角理解技术演进：从 GPU、AlexNet、Transformer，到 AlphaGo Zero、MoE、CoT、Scaling Law、GPT 和 RLHF。读完你会更清楚，大模型的发展是一串关键问题被逐步回答的过程。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-07-31",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_abe78d62759c",
+      "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth&#8217;s AI deepfake tool only lasted one day",
+      "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "primary_url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "73605be6da82bbfa56693b799e1711f6217e63c6",
+          "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth&#8217;s AI deepfake tool only lasted one day",
+          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-31T19:13:29Z"
+        },
+        {
+          "id": "994b4743425d72fc610fea8e3467735bb65bca57",
+          "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth’s AI deepfake tool only lasted one day",
+          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-31T19:13:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "73605be6da82bbfa56693b799e1711f6217e63c6",
+          "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth&#8217;s AI deepfake tool only lasted one day",
+          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-31T19:13:29Z"
+        },
+        {
+          "id": "994b4743425d72fc610fea8e3467735bb65bca57",
+          "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth’s AI deepfake tool only lasted one day",
+          "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-31T19:13:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5789,
+      "importance": 0.5789,
+      "importance_score": 0.5789,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.7967,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-31T19:13:29Z",
+      "latest_at": "2026-07-31T19:13:29Z",
+      "primary_item": {
+        "id": "73605be6da82bbfa56693b799e1711f6217e63c6",
+        "title": "谷歌地球的AI Deepfake工具只持续了一天 / Google Earth&#8217;s AI deepfake tool only lasted one day",
+        "url": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_25475716ab25",
+      "title": "Flint：面向人工智能时代的可视化语言",
+      "url": "https://microsoft.github.io/flint-chart",
+      "primary_url": "https://microsoft.github.io/flint-chart",
+      "source": "microsoft.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+          "title": "Flint：面向人工智能时代的可视化语言",
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "microsoft.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T08:41:23.781000Z"
+        },
+        {
+          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
+          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "url": "https://news.ycombinator.com/item?id=49130604",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T04:20:37.831000Z"
+        },
+        {
+          "id": "a0c1c63603f2363a96e0f45f9d9fbeab30867423",
+          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T02:45:09Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "microsoft.github.io"
+      ],
+      "items": [
+        {
+          "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+          "title": "Flint：面向人工智能时代的可视化语言",
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "microsoft.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T08:41:23.781000Z"
+        },
+        {
+          "id": "7566c9af461db37ce69beab06930c018b0a158ec",
+          "title": "Flint：AI时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "url": "https://news.ycombinator.com/item?id=49130604",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T04:20:37.831000Z"
+        },
+        {
+          "id": "a0c1c63603f2363a96e0f45f9d9fbeab30867423",
+          "title": "Flint：面向人工智能时代的可视化语言 / Flint: A Visualization Language for the AI Era",
+          "url": "https://microsoft.github.io/flint-chart",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T02:45:09Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.565,
+      "importance": 0.565,
+      "importance_score": 0.565,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9677,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T02:45:09Z",
+      "latest_at": "2026-08-01T08:41:23.781000Z",
+      "primary_item": {
+        "id": "e4650faa1d9e6e14141535cf794dceaff0486ad3",
+        "title": "Flint：面向人工智能时代的可视化语言",
+        "url": "https://microsoft.github.io/flint-chart",
+        "source": "microsoft.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3ceada312631",
+      "title": "Show HN: 我花两年时间开发的新浏览器，今天通过了 Acid 3 测试",
+      "url": "https://code.intellios.ai/cwbrowser",
+      "primary_url": "https://code.intellios.ai/cwbrowser",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "38cff767f05a8b4bc3559fe80017b913aa0ddde7",
+          "title": "Show HN: 我花两年时间开发的新浏览器，今天通过了 Acid 3 测试",
+          "url": "https://code.intellios.ai/cwbrowser",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2dfd097e7ca2b14386ccfc65ef0016aa3ab7b2cd",
+          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
+          "url": "https://code.intellios.ai/cwbrowser",
+          "source": "code.intellios.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T21:45:09.957000Z"
+        },
+        {
+          "id": "a37b230e732fac4861f0a64aa6d0bc9bb253fe21",
+          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试 / Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+          "url": "https://code.intellios.ai/cwbrowser",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-31T21:39:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Readhub · AI",
+        "code.intellios.ai"
+      ],
+      "items": [
+        {
+          "id": "38cff767f05a8b4bc3559fe80017b913aa0ddde7",
+          "title": "Show HN: 我花两年时间开发的新浏览器，今天通过了 Acid 3 测试",
+          "url": "https://code.intellios.ai/cwbrowser",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2dfd097e7ca2b14386ccfc65ef0016aa3ab7b2cd",
+          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试",
+          "url": "https://code.intellios.ai/cwbrowser",
+          "source": "code.intellios.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T21:45:09.957000Z"
+        },
+        {
+          "id": "a37b230e732fac4861f0a64aa6d0bc9bb253fe21",
+          "title": "Show HN: 我花了两年时间开发一款新浏览器，今天它通过了Acid 3测试 / Show HN: I worked on a new browser for 2 years, today it passed Acid 3",
+          "url": "https://code.intellios.ai/cwbrowser",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-31T21:39:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5553,
+      "importance": 0.5553,
+      "importance_score": 0.5553,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9141,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-31T21:39:52Z",
+      "latest_at": "2026-08-01T04:44:28.646655Z",
+      "primary_item": {
+        "id": "38cff767f05a8b4bc3559fe80017b913aa0ddde7",
+        "title": "Show HN: 我花两年时间开发的新浏览器，今天通过了 Acid 3 测试",
+        "url": "https://code.intellios.ai/cwbrowser",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
