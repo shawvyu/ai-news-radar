@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:02:54.236287Z",
+  "generated_at": "2026-08-01T21:13:30.922311Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7486,
+        "recency": 0.736,
         "story_heat": 0.25
       },
       "category": "official",
@@ -145,187 +145,6 @@
         "url": "https://openai.com/index/ten-advances-in-mathematics",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_337d712579d2",
-      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-      "primary_url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T20:04:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-31T20:04:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7073,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T20:04:01Z",
-      "latest_at": "2026-07-31T20:04:01Z",
-      "primary_item": {
-        "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
-        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
-        "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_11f347ce3cd8",
-      "title": "Claude 模型在测试中入侵 3 家真实公司生产环境",
-      "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
-      "primary_url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "446e8f056a38e58b5f56f8dd0c9a7fb66ad463a1",
-          "title": "Claude 模型在测试中入侵 3 家真实公司生产环境",
-          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T20:39:14Z"
-        },
-        {
-          "id": "1f61d28f35ae5979294b4e1d73ab8dfe0d46ad24",
-          "title": "克劳德很可能通过非法手段入侵了3个网络。Anthropic公司是否会因此被追究责任？",
-          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:57:37.246000Z"
-        },
-        {
-          "id": "f58d39d6118b9206755a2ce511b4cd4a6e355064",
-          "title": "Claude 模型在测试中入侵 3 家真实公司生产环境 / Claude published malicious code to the Internet and attacked 3 real companies",
-          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-31T20:39:14Z"
-        },
-        {
-          "id": "f9dbac5eb66ae7e2a90b228269201195adcfb7d9",
-          "title": "Claude 模型在测试中入侵 3 家真实公司生产环境 / Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
-          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-31T20:39:14Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Ars Technica",
-        "Ars Technica (科技媒体)",
-        "Ars Technica：AI（RSS）",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "446e8f056a38e58b5f56f8dd0c9a7fb66ad463a1",
-          "title": "Claude 模型在测试中入侵 3 家真实公司生产环境",
-          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T20:39:14Z"
-        },
-        {
-          "id": "1f61d28f35ae5979294b4e1d73ab8dfe0d46ad24",
-          "title": "克劳德很可能通过非法手段入侵了3个网络。Anthropic公司是否会因此被追究责任？",
-          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:57:37.246000Z"
-        },
-        {
-          "id": "f58d39d6118b9206755a2ce511b4cd4a6e355064",
-          "title": "Claude 模型在测试中入侵 3 家真实公司生产环境 / Claude published malicious code to the Internet and attacked 3 real companies",
-          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-31T20:39:14Z"
-        },
-        {
-          "id": "f9dbac5eb66ae7e2a90b228269201195adcfb7d9",
-          "title": "Claude 模型在测试中入侵 3 家真实公司生产环境 / Likely illegally, Claude gained access to 3 networks. Will Anthropic be held to account?",
-          "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-31T20:39:14Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7133,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T20:39:14Z",
-      "latest_at": "2026-07-31T20:57:37.246000Z",
-      "primary_item": {
-        "id": "446e8f056a38e58b5f56f8dd0c9a7fb66ad463a1",
-        "title": "Claude 模型在测试中入侵 3 家真实公司生产环境",
-        "url": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -382,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8735,
+        "recency": 0.8588,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -463,15 +282,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7195,
+        "recency": 0.7074,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -524,15 +343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7369,
+      "importance": 0.7369,
+      "importance_score": 0.7369,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7926,
+        "recency": 0.7792,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -584,15 +403,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7235,
+        "recency": 0.7113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,86 +425,6 @@
         "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三",
         "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
         "source": "X：Artificial Analysis (@ArtificialAnlys)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_32fd60636e2b",
-      "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-      "url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "primary_url": "https://tailscale.com/blog/hugging-face-intrusion",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "086ab5b93578ee816486b17186f5647a99496989",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "tailscale.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "tailscale.com"
-      ],
-      "items": [
-        {
-          "id": "086ab5b93578ee816486b17186f5647a99496989",
-          "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        },
-        {
-          "id": "f1cccf8a9a7cd3bc4ae783b3ff76dde586e404d2",
-          "title": "Tailscale 未能阻止 Hugging Face 的入侵",
-          "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "tailscale.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-31T20:25:20.686000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7109,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T20:25:20.686000Z",
-      "latest_at": "2026-07-31T20:25:20.686000Z",
-      "primary_item": {
-        "id": "086ab5b93578ee816486b17186f5647a99496989",
-        "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
-        "url": "https://tailscale.com/blog/hugging-face-intrusion",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -724,15 +463,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8361,
+        "recency": 0.822,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,15 +595,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6677,
-      "importance": 0.6677,
-      "importance_score": 0.6677,
+      "score": 0.6647,
+      "importance": 0.6647,
+      "importance_score": 0.6647,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.9683,
+        "recency": 0.952,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -934,15 +673,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6016,
-      "importance": 0.6016,
-      "importance_score": 0.6016,
+      "score": 0.599,
+      "importance": 0.599,
+      "importance_score": 0.599,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.8587,
+        "recency": 0.8442,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1051,15 +790,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5913,
-      "importance": 0.5913,
-      "importance_score": 0.5913,
+      "score": 0.5883,
+      "importance": 0.5883,
+      "importance_score": 0.5883,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9749,
+        "recency": 0.9585,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1149,15 +888,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5643,
-      "importance": 0.5643,
-      "importance_score": 0.5643,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9637,
+        "recency": 0.9475,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1247,15 +986,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.549,
-      "importance": 0.549,
-      "importance_score": 0.549,
+      "score": 0.5463,
+      "importance": 0.5463,
+      "importance_score": 0.5463,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8787,
+        "recency": 0.8639,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1269,6 +1008,85 @@
         "title": "人工智能无法生成可用的产品，这仍然是你的工作",
         "url": "https://weeraman.com/the-prototype-isnt-the-product",
         "source": "weeraman.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fcf0520a7f7d",
+      "title": "YouTube网红汉克·格林在向粉丝致歉时表示，自己“过度依赖”了人工智能",
+      "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+      "primary_url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f48cb1b7101fde524f8401f69aa94a9728e40bd3",
+          "title": "YouTube网红汉克·格林在向粉丝致歉时表示，自己“过度依赖”了人工智能",
+          "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T20:57:27.309000Z"
+        },
+        {
+          "id": "da9bce8e7a1216bdaab56501e640932babe4e05d",
+          "title": "YouTube网红汉克·格林在向粉丝致歉时表示，自己“过度依赖”了人工智能 / YouTube star Hank Green says he's relied 'too heavily' on AI in an apology to fans",
+          "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T19:55:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "f48cb1b7101fde524f8401f69aa94a9728e40bd3",
+          "title": "YouTube网红汉克·格林在向粉丝致歉时表示，自己“过度依赖”了人工智能",
+          "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T20:57:27.309000Z"
+        },
+        {
+          "id": "da9bce8e7a1216bdaab56501e640932babe4e05d",
+          "title": "YouTube网红汉克·格林在向粉丝致歉时表示，自己“过度依赖”了人工智能 / YouTube star Hank Green says he's relied 'too heavily' on AI in an apology to fans",
+          "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T19:55:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9961,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T19:55:38Z",
+      "latest_at": "2026-08-01T20:57:27.309000Z",
+      "primary_item": {
+        "id": "f48cb1b7101fde524f8401f69aa94a9728e40bd3",
+        "title": "YouTube网红汉克·格林在向粉丝致歉时表示，自己“过度依赖”了人工智能",
+        "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1344,15 +1162,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8586,
+        "recency": 0.8441,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1442,15 +1260,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8487,
+        "recency": 0.8344,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1520,15 +1338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9701,
+        "recency": 0.9537,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1599,15 +1417,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9167,
+        "recency": 0.9013,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1621,6 +1439,85 @@
         "title": "随着Reddit股价下跌，首席执行官对谷歌AI概览的价值提出质疑",
         "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win",
         "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2d226c6ef4b2",
+      "title": "Show HN: Wienerdog——适用于Claude Code/Codex的记忆与自我提升技能",
+      "url": "https://github.com/wienerdog-ai/wienerdog",
+      "primary_url": "https://github.com/wienerdog-ai/wienerdog",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6c4480e318382550e97917ce602c98672ca78840",
+          "title": "Show HN: Wienerdog——适用于Claude Code/Codex的记忆与自我提升技能",
+          "url": "https://github.com/wienerdog-ai/wienerdog",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T13:45:22.777000Z"
+        },
+        {
+          "id": "e19bc83b1a308f048d3e92491d10fcd33b7b4cc3",
+          "title": "Show HN: Wienerdog——适用于Claude Code/Codex的记忆与自我提升技能 / Show HN: Wienerdog – memory and self-improving skills for Claude Code/Codex",
+          "url": "https://github.com/wienerdog-ai/wienerdog",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-01T13:44:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "6c4480e318382550e97917ce602c98672ca78840",
+          "title": "Show HN: Wienerdog——适用于Claude Code/Codex的记忆与自我提升技能",
+          "url": "https://github.com/wienerdog-ai/wienerdog",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T13:45:22.777000Z"
+        },
+        {
+          "id": "e19bc83b1a308f048d3e92491d10fcd33b7b4cc3",
+          "title": "Show HN: Wienerdog——适用于Claude Code/Codex的记忆与自我提升技能 / Show HN: Wienerdog – memory and self-improving skills for Claude Code/Codex",
+          "url": "https://github.com/wienerdog-ai/wienerdog",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-01T13:44:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8978,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T13:44:05Z",
+      "latest_at": "2026-08-01T13:45:22.777000Z",
+      "primary_item": {
+        "id": "6c4480e318382550e97917ce602c98672ca78840",
+        "title": "Show HN: Wienerdog——适用于Claude Code/Codex的记忆与自我提升技能",
+        "url": "https://github.com/wienerdog-ai/wienerdog",
+        "source": "github.com",
         "source_name": "Buzzing"
       }
     },
@@ -1678,15 +1575,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.5233,
+      "importance": 0.5233,
+      "importance_score": 0.5233,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.89,
+        "recency": 0.875,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1701,6 +1598,85 @@
         "url": "https://github.com/microsoft/generative-ai-for-beginners",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_8a79f599b334",
+      "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+      "url": "https://news.ycombinator.com/item?id=49132341",
+      "primary_url": "https://news.ycombinator.com/item?id=49132341",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7486e821c90af531ddb5b3bd905bc7e2dd491eed",
+          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+          "url": "https://news.ycombinator.com/item?id=49132341",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T10:37:55.073000Z"
+        },
+        {
+          "id": "202e2ee3bb16183ae87f4d80e594848b6635d4ee",
+          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+          "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T08:26:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7486e821c90af531ddb5b3bd905bc7e2dd491eed",
+          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+          "url": "https://news.ycombinator.com/item?id=49132341",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T10:37:55.073000Z"
+        },
+        {
+          "id": "202e2ee3bb16183ae87f4d80e594848b6635d4ee",
+          "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+          "url": "https://www.engadget.com/2227966/eu-mandate-labels-on-authentic-looking-ai-content",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T08:26:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8582,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T08:26:55Z",
+      "latest_at": "2026-08-01T10:37:55.073000Z",
+      "primary_item": {
+        "id": "7486e821c90af531ddb5b3bd905bc7e2dd491eed",
+        "title": "欧盟将从 8 月 2 日起强制在真实的人工智能内容上贴上标签 / EU will mandate labels on authentic-looking AI content starting August 2",
+        "url": "https://news.ycombinator.com/item?id=49132341",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
