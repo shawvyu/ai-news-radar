@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T21:14:19.897643Z",
+  "generated_at": "2026-08-02T22:15:19.979709Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,21 +100,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.86,
+        "recency": 0.8474,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-02T10:47:27Z",
       "latest_at": "2026-08-02T10:47:27Z",
@@ -123,6 +122,66 @@
         "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
         "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
         "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_26d6fbe9c252",
+      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "primary_url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T21:25:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
+      ],
+      "items": [
+        {
+          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T21:25:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9881,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-02T21:25:27Z",
+      "latest_at": "2026-08-02T21:25:27Z",
+      "primary_item": {
+        "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
+        "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
+        "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -161,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8071,
+        "recency": 0.7953,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -293,15 +352,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6703,
-      "importance": 0.6703,
-      "importance_score": 0.6703,
+      "score": 0.6678,
+      "importance": 0.6678,
+      "importance_score": 0.6678,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9368,
+        "recency": 0.9231,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -316,6 +375,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-02",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_42cdc0dbe85c",
+      "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+      "url": "https://news.ycombinator.com/item?id=49147842",
+      "primary_url": "https://news.ycombinator.com/item?id=49147842",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b02401c080930792e17dc012904ecbea963e8d3c",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "url": "https://news.ycombinator.com/item?id=49147842",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T21:55:16.950000Z"
+        },
+        {
+          "id": "7a5b1bdbdb3eb69848db16685662d46369ab335e",
+          "title": "Show HN: MicroCodex 编码代理——用 C 重构的 OpenAI/Codex 1MB 二进制文件",
+          "url": "https://github.com/paoloanzn/microcodex",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T20:24:41.873000Z"
+        },
+        {
+          "id": "1eafc6bd65713bf0ac88c09d44c540c13e9441dc",
+          "title": "Show HN: MicroCodex 编码代理——用 C 重构的 OpenAI/Codex 1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "url": "https://github.com/paoloanzn/microcodex",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:11:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b02401c080930792e17dc012904ecbea963e8d3c",
+          "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "url": "https://news.ycombinator.com/item?id=49147842",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T21:55:16.950000Z"
+        },
+        {
+          "id": "7a5b1bdbdb3eb69848db16685662d46369ab335e",
+          "title": "Show HN: MicroCodex 编码代理——用 C 重构的 OpenAI/Codex 1MB 二进制文件",
+          "url": "https://github.com/paoloanzn/microcodex",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T20:24:41.873000Z"
+        },
+        {
+          "id": "1eafc6bd65713bf0ac88c09d44c540c13e9441dc",
+          "title": "Show HN: MicroCodex 编码代理——用 C 重构的 OpenAI/Codex 1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+          "url": "https://github.com/paoloanzn/microcodex",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:11:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9952,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T20:11:35Z",
+      "latest_at": "2026-08-02T21:55:16.950000Z",
+      "primary_item": {
+        "id": "b02401c080930792e17dc012904ecbea963e8d3c",
+        "title": "Show HN：MicroCodex Coding Agent – 用 C++ 重新实现 OpenAI/codex <1MB 二进制文件 / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+        "url": "https://news.ycombinator.com/item?id=49147842",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -391,15 +548,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5659,
-      "importance": 0.5659,
-      "importance_score": 0.5659,
+      "score": 0.5634,
+      "importance": 0.5634,
+      "importance_score": 0.5634,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.973,
+        "recency": 0.9589,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -470,15 +627,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5546,
-      "importance": 0.5546,
-      "importance_score": 0.5546,
+      "score": 0.5526,
+      "importance": 0.5526,
+      "importance_score": 0.5526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7828,
+        "recency": 0.7714,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -587,15 +744,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5496,
-      "importance": 0.5496,
-      "importance_score": 0.5496,
+      "score": 0.5476,
+      "importance": 0.5476,
+      "importance_score": 0.5476,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7432,
+        "recency": 0.7324,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -610,85 +767,6 @@
         "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
         "source": "mitsloan.mit.edu",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_87444f9634f8",
-      "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-      "url": "https://news.ycombinator.com/item?id=49147622",
-      "primary_url": "https://news.ycombinator.com/item?id=49147622",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
-          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9954,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T19:42:08Z",
-      "latest_at": "2026-08-02T20:55:13.221000Z",
-      "primary_item": {
-        "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-        "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-        "url": "https://news.ycombinator.com/item?id=49147622",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -744,15 +822,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.968,
+        "recency": 0.9539,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -823,15 +901,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9656,
+        "recency": 0.9515,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -902,15 +980,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9363,
+        "recency": 0.9226,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -981,15 +1059,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9079,
+        "recency": 0.8947,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1060,15 +1138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8621,
+        "recency": 0.8495,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1139,15 +1217,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5206,
-      "importance": 0.5206,
-      "importance_score": 0.5206,
+      "score": 0.5184,
+      "importance": 0.5184,
+      "importance_score": 0.5184,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8602,
+        "recency": 0.8477,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1165,80 +1243,80 @@
       }
     },
     {
-      "story_id": "story_cfdd2789b4ea",
-      "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-      "url": "https://news.ycombinator.com/item?id=49147606",
-      "primary_url": "https://news.ycombinator.com/item?id=49147606",
+      "story_id": "story_caf37ae6194c",
+      "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+      "url": "https://news.ycombinator.com/item?id=49148159",
+      "primary_url": "https://news.ycombinator.com/item?id=49148159",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://news.ycombinator.com/item?id=49147606",
+          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "url": "https://news.ycombinator.com/item?id=49148159",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
+          "published_at": "2026-08-02T21:55:16.950000Z"
         },
         {
-          "id": "4842584487e246c8b5668035cc702a8bfe34b3ca",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T19:40:19Z"
+          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:48:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://news.ycombinator.com/item?id=49147606",
+          "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "url": "https://news.ycombinator.com/item?id=49148159",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
+          "published_at": "2026-08-02T21:55:16.950000Z"
         },
         {
-          "id": "4842584487e246c8b5668035cc702a8bfe34b3ca",
-          "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-          "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T19:40:19Z"
+          "id": "c99078445d20a0c205cf63fe673cac175a57b94e",
+          "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+          "url": "https://seanhelvey.com/tools-and-their-tools",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T20:48:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9954,
+        "recency": 0.9952,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T19:40:19Z",
-      "latest_at": "2026-08-02T20:55:13.221000Z",
+      "earliest_at": "2026-08-02T20:48:28Z",
+      "latest_at": "2026-08-02T21:55:16.950000Z",
       "primary_item": {
-        "id": "22d23d553d32775a95bc6a7675c3cfb7edd56004",
-        "title": "欧盟关于人工智能模型的规则变得可执行。将会发生什么变化？ / EU rules on AI models become enforceable. What's going to change?",
-        "url": "https://news.ycombinator.com/item?id=49147606",
+        "id": "88dc85283bb17267354ebd5702c07e1fc7709030",
+        "title": "人工智能狂热：从郁金香到代币 / AI Mania: From Tulips to Tokens",
+        "url": "https://news.ycombinator.com/item?id=49148159",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1297,15 +1375,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5131,
-      "importance": 0.5131,
-      "importance_score": 0.5131,
+      "score": 0.511,
+      "importance": 0.511,
+      "importance_score": 0.511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8183,
+        "recency": 0.8064,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1376,15 +1454,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.952,
+        "recency": 0.9381,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1455,15 +1533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5154,
-      "importance": 0.5154,
-      "importance_score": 0.5154,
+      "score": 0.5132,
+      "importance": 0.5132,
+      "importance_score": 0.5132,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8309,
+        "recency": 0.8188,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1481,178 +1559,80 @@
       }
     },
     {
-      "story_id": "story_09e43c4dbf4f",
-      "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-      "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4880101.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_87444f9634f8",
+      "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+      "url": "https://news.ycombinator.com/item?id=49147622",
+      "primary_url": "https://news.ycombinator.com/item?id=49147622",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "524fbfe15cde7d42399fe84b98ed195169dcf858",
-          "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:55:13.221000Z"
         },
         {
-          "id": "2dac4fa96e89ff3739eaa5f2f1d5e3c6a93a7467",
-          "title": "AI正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T16:04:41Z"
+          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T19:42:08Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "524fbfe15cde7d42399fe84b98ed195169dcf858",
-          "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://news.ycombinator.com/item?id=49147622",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T20:55:13.221000Z"
         },
         {
-          "id": "2dac4fa96e89ff3739eaa5f2f1d5e3c6a93a7467",
-          "title": "AI正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-          "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T16:04:41Z"
+          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
+          "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+          "url": "https://frogs.vaguespac.es",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T19:42:08Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.952,
+        "recency": 0.9809,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-02T16:04:41Z",
-      "latest_at": "2026-08-02T17:49:51.616256Z",
+      "earliest_at": "2026-08-02T19:42:08Z",
+      "latest_at": "2026-08-02T20:55:13.221000Z",
       "primary_item": {
-        "id": "524fbfe15cde7d42399fe84b98ed195169dcf858",
-        "title": "AI 正导致一场知识的转基因危机，多数人将沦为认知肉鸡？",
-        "url": "https://www.huxiu.com/article/4880101.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_aebc4b890a8b",
-      "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-      "url": "https://news.ycombinator.com/item?id=49140340",
-      "primary_url": "https://news.ycombinator.com/item?id=49140340",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "206af265b950be5f12e82285bf43bfc57041e321",
-          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "url": "https://news.ycombinator.com/item?id=49140340",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T04:22:16.640000Z"
-        },
-        {
-          "id": "94b722cdb7dc5fd8479e73dbee0e694962e45b97",
-          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器",
-          "url": "https://costperprompt.com",
-          "source": "costperprompt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T02:01:09.958000Z"
-        },
-        {
-          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
-          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "url": "https://costperprompt.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T01:56:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "costperprompt.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "206af265b950be5f12e82285bf43bfc57041e321",
-          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "url": "https://news.ycombinator.com/item?id=49140340",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T04:22:16.640000Z"
-        },
-        {
-          "id": "94b722cdb7dc5fd8479e73dbee0e694962e45b97",
-          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器",
-          "url": "https://costperprompt.com",
-          "source": "costperprompt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T02:01:09.958000Z"
-        },
-        {
-          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
-          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "url": "https://costperprompt.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T01:56:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7838,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T01:56:44Z",
-      "latest_at": "2026-08-02T04:22:16.640000Z",
-      "primary_item": {
-        "id": "206af265b950be5f12e82285bf43bfc57041e321",
-        "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-        "url": "https://news.ycombinator.com/item?id=49140340",
+        "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
+        "title": "我个人的 AI 基准：“生成带有哈布斯堡下巴的青蛙的 SVG。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
+        "url": "https://news.ycombinator.com/item?id=49147622",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
