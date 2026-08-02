@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T18:48:55.609501Z",
+  "generated_at": "2026-08-02T20:03:13.743204Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8906,
+        "recency": 0.8748,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -161,15 +161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8358,
+        "recency": 0.821,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -293,15 +293,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6763,
-      "importance": 0.6763,
-      "importance_score": 0.6763,
+      "score": 0.6732,
+      "importance": 0.6732,
+      "importance_score": 0.6732,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9701,
+        "recency": 0.9529,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -316,6 +316,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-02",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_8bfd4174f55c",
+      "title": "人工智能：《Ars Notoria》与即时知识的承诺",
+      "url": "https://publicdomainreview.org/essay/ars-notoria",
+      "primary_url": "https://publicdomainreview.org/essay/ars-notoria",
+      "source": "publicdomainreview.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
+          "title": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "publicdomainreview.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T19:20:48.057000Z"
+        },
+        {
+          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "url": "https://news.ycombinator.com/item?id=49143001",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T10:57:48.311000Z"
+        },
+        {
+          "id": "0139bdc1a3ad559df6e57656bb2b5beece076bc1",
+          "title": "人工智能：《Ars Notoria》与即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T10:18:24Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "publicdomainreview.org"
+      ],
+      "items": [
+        {
+          "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
+          "title": "人工智能：《Ars Notoria》与即时知识的承诺",
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "publicdomainreview.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T19:20:48.057000Z"
+        },
+        {
+          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "url": "https://news.ycombinator.com/item?id=49143001",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T10:57:48.311000Z"
+        },
+        {
+          "id": "0139bdc1a3ad559df6e57656bb2b5beece076bc1",
+          "title": "人工智能：《Ars Notoria》与即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T10:18:24Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.569,
+      "importance": 0.569,
+      "importance_score": 0.569,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9898,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T10:18:24Z",
+      "latest_at": "2026-08-02T19:20:48.057000Z",
+      "primary_item": {
+        "id": "9bd646e11821729d4ce7d7df6b6ee9bfc374e134",
+        "title": "人工智能：《Ars Notoria》与即时知识的承诺",
+        "url": "https://publicdomainreview.org/essay/ars-notoria",
+        "source": "publicdomainreview.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -372,15 +470,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5596,
-      "importance": 0.5596,
-      "importance_score": 0.5596,
+      "score": 0.5571,
+      "importance": 0.5571,
+      "importance_score": 0.5571,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8107,
+        "recency": 0.7963,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -489,15 +587,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5543,
-      "importance": 0.5543,
-      "importance_score": 0.5543,
+      "score": 0.5519,
+      "importance": 0.5519,
+      "importance_score": 0.5519,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7697,
+        "recency": 0.756,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -568,15 +666,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9823,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -647,15 +745,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9696,
+        "recency": 0.9525,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -745,15 +843,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8117,
+        "recency": 0.7973,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -824,15 +922,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9402,
+        "recency": 0.9236,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -903,15 +1001,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8928,
+        "recency": 0.877,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -982,15 +1080,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5233,
+      "importance": 0.5233,
+      "importance_score": 0.5233,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8909,
+        "recency": 0.8751,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1061,15 +1159,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5183,
-      "importance": 0.5183,
-      "importance_score": 0.5183,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8475,
+        "recency": 0.8325,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1140,15 +1238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9859,
+        "recency": 0.9684,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1236,15 +1334,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8117,
+        "recency": 0.7973,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1315,15 +1413,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4976,
-      "importance": 0.4976,
-      "importance_score": 0.4976,
+      "score": 0.4952,
+      "importance": 0.4952,
+      "importance_score": 0.4952,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7321,
+        "recency": 0.7191,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1394,15 +1492,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5207,
-      "importance": 0.5207,
-      "importance_score": 0.5207,
+      "score": 0.5179,
+      "importance": 0.5179,
+      "importance_score": 0.5179,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8605,
+        "recency": 0.8453,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1473,15 +1571,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9859,
+        "recency": 0.9684,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1552,15 +1650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9198,
+        "recency": 0.9035,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1575,84 +1673,6 @@
         "url": "https://news.ycombinator.com/item?id=49143688",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_65ef8d2bbdc6",
-      "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
-      "url": "https://hub.baai.ac.cn/view/56822",
-      "primary_url": "https://hub.baai.ac.cn/view/56822",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
-          "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
-          "url": "https://hub.baai.ac.cn/view/56822",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "71d4355c0b9a9716b61f04fe9e4cf6ff40d06f43",
-          "title": "Nat. Comput. Sci. | 结构比对驱动的跨图建模实现功能性 RNA 设计",
-          "url": "https://hub.baai.ac.cn/view/56822",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
-          "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
-          "url": "https://hub.baai.ac.cn/view/56822",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "71d4355c0b9a9716b61f04fe9e4cf6ff40d06f43",
-          "title": "Nat. Comput. Sci. | 结构比对驱动的跨图建模实现功能性 RNA 设计",
-          "url": "https://hub.baai.ac.cn/view/56822",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9579,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T10:57:13.848430Z",
-      "latest_at": "2026-08-02T15:50:16.128817Z",
-      "primary_item": {
-        "id": "c58c6df89cf2e91ff13781f9b351e4429f6b565c",
-        "title": "结构比对驱动的跨图建模实现功能性 RNA 设计",
-        "url": "https://hub.baai.ac.cn/view/56822",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
