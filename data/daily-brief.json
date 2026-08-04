@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T07:28:58.181233Z",
+  "generated_at": "2026-08-04T10:08:18.790794Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.854,
-      "importance": 0.854,
-      "importance_score": 0.854,
+      "score": 0.8481,
+      "importance": 0.8481,
+      "importance_score": 0.8481,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.872,
+        "recency": 0.8392,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8906,
+        "recency": 0.8571,
         "story_heat": 0.0
       },
       "category": "official",
@@ -145,6 +145,106 @@
         "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+      "source": "公众号：面壁智能（MiniCPM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "51868ebba24a0c391770271a0455d8d630015049",
+          "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T08:12:36Z"
+        },
+        {
+          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T04:20:28Z"
+        },
+        {
+          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
+          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T00:06:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "公众号：数字生命卡兹克",
+        "公众号：腾讯混元",
+        "公众号：面壁智能（MiniCPM）"
+      ],
+      "items": [
+        {
+          "id": "51868ebba24a0c391770271a0455d8d630015049",
+          "title": "腾讯混元发布 Hy ASR 3.0 preview：真正懂上下文的语音识别",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkwODU2OTQyNQ%3D%3D&mid=2247498223&idx=1&sn=ae271ec2c72723393d3e1d8074a33205",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T08:12:36Z"
+        },
+        {
+          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T04:20:28Z"
+        },
+        {
+          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
+          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T00:06:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9197,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T00:06:00Z",
+      "latest_at": "2026-08-04T08:12:36Z",
+      "primary_item": {
+        "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
+        "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
+        "source": "公众号：面壁智能（MiniCPM）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -183,18 +283,18 @@
           "published_at": "2026-08-03T13:43:49.239000Z"
         },
         {
-          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
+          "id": "5e789e6901c860cf0d22a598817495f485fae7f1",
           "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
           "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-03T11:15:48Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "github.com",
         "hackernews"
@@ -228,26 +328,26 @@
           "published_at": "2026-08-03T13:43:49.239000Z"
         },
         {
-          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
+          "id": "5e789e6901c860cf0d22a598817495f485fae7f1",
           "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
           "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-03T11:15:48Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8044,
+        "recency": 0.7742,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -301,15 +401,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8336,
-      "importance": 0.8336,
-      "importance_score": 0.8336,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8976,
+        "recency": 0.8638,
         "story_heat": 0.0
       },
       "category": "official",
@@ -329,169 +429,26 @@
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
-          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T04:20:28Z"
-        },
-        {
-          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
-          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T00:06:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "公众号：数字生命卡兹克",
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
-          "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T04:20:28Z"
-        },
-        {
-          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
-          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T00:06:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9556,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T00:06:00Z",
-      "latest_at": "2026-08-04T04:20:28Z",
-      "primary_item": {
-        "id": "d5388abcb5209fc4738af4e6a63a378b7ac7d398",
-        "title": "面壁智能开源 ForgeStencil：一周自动优化 100+ 工业与科学软件，全程零人工介入",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247498861&idx=1&sn=d2d16692dd7eb27f9d466803f25c2b78",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_36483847691e",
-      "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-      "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
-      "primary_url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T22:55:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T22:55:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8837,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T22:55:29Z",
-      "latest_at": "2026-08-03T22:55:29Z",
-      "primary_item": {
-        "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-        "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
-        "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_907b84e5fc92",
-      "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
-      "url": "https://www.aibase.com/news/30099",
-      "primary_url": "https://www.aibase.com/news/30099",
+      "story_id": "story_468690ebbddb",
+      "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
+      "url": "https://www.aibase.com/news/30108",
+      "primary_url": "https://www.aibase.com/news/30108",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "04bb3d9fd4a71e099e4dc9e5d3ca40bd049b1609",
-          "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
-          "url": "https://www.aibase.com/news/30099",
+          "id": "0f757fad71736acfef7fd98a285c67608c8d46e8",
+          "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
+          "url": "https://www.aibase.com/news/30108",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T07:28:58.181233Z"
+          "published_at": "2026-08-04T10:08:18.790794Z"
         },
         {
-          "id": "1b26d7273a37560686d281726f0f09d6c873d763",
-          "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
-          "url": "https://www.aibase.com/zh/news/30099",
+          "id": "4bb7fa6146d31be883cf8b8302030a572f56182b",
+          "title": "腾讯混元发布 Hy ASR3.0preview: 语音识别迈入「懂语境」新阶段",
+          "url": "https://www.aibase.com/zh/news/30108",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -505,18 +462,18 @@
       ],
       "items": [
         {
-          "id": "04bb3d9fd4a71e099e4dc9e5d3ca40bd049b1609",
-          "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
-          "url": "https://www.aibase.com/news/30099",
+          "id": "0f757fad71736acfef7fd98a285c67608c8d46e8",
+          "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
+          "url": "https://www.aibase.com/news/30108",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T07:28:58.181233Z"
+          "published_at": "2026-08-04T10:08:18.790794Z"
         },
         {
-          "id": "1b26d7273a37560686d281726f0f09d6c873d763",
-          "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
-          "url": "https://www.aibase.com/zh/news/30099",
+          "id": "4bb7fa6146d31be883cf8b8302030a572f56182b",
+          "title": "腾讯混元发布 Hy ASR3.0preview: 语音识别迈入「懂语境」新阶段",
+          "url": "https://www.aibase.com/zh/news/30108",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -542,14 +499,137 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T07:28:58.181233Z",
-      "latest_at": "2026-08-04T07:28:58.181233Z",
+      "earliest_at": "2026-08-04T10:08:18.790794Z",
+      "latest_at": "2026-08-04T10:08:18.790794Z",
       "primary_item": {
-        "id": "04bb3d9fd4a71e099e4dc9e5d3ca40bd049b1609",
-        "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
-        "url": "https://www.aibase.com/news/30099",
+        "id": "0f757fad71736acfef7fd98a285c67608c8d46e8",
+        "title": "腾讯混元发布Hy ASR3.0preview:语音识别迈入“懂语境”新阶段",
+        "url": "https://www.aibase.com/news/30108",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9d307834399b",
+      "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+      "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+      "primary_url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T19:14:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T19:14:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8065,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T19:14:58Z",
+      "latest_at": "2026-08-03T19:14:58Z",
+      "primary_item": {
+        "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+        "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+        "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_96066178f07d",
+      "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+      "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+      "primary_url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6676da1c0816f6c83fae984e4a133542cf2fe647",
+          "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+          "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T08:57:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6676da1c0816f6c83fae984e4a133542cf2fe647",
+          "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+          "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T08:57:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9832,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T08:57:47Z",
+      "latest_at": "2026-08-04T08:57:47Z",
+      "primary_item": {
+        "id": "6676da1c0816f6c83fae984e4a133542cf2fe647",
+        "title": "Reflex 开源 XY：基于 Rust 的超快 Python 绘图库，可保持 1 亿点图表交互流畅",
+        "url": "https://www.marktechpost.com/2026/08/04/reflex-open-sources-xy-a-rust-backed-super-fast-python-charting-library-that-keeps-100-million-point-charts-interactive",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -606,15 +686,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8105,
+      "importance": 0.8105,
+      "importance_score": 0.8105,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9866,
+        "recency": 0.9494,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -687,15 +767,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9665,
+        "recency": 0.9302,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -768,15 +848,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8889,
+        "recency": 0.8555,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -849,15 +929,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8189,
+        "recency": 0.7881,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -877,21 +957,21 @@
       }
     },
     {
-      "story_id": "story_9d307834399b",
-      "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-      "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-      "primary_url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+      "story_id": "story_36483847691e",
+      "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+      "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+      "primary_url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T19:14:58Z"
+          "published_at": "2026-08-03T22:55:29Z"
         }
       ],
       "source_count": 1,
@@ -900,26 +980,26 @@
       ],
       "items": [
         {
-          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-          "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T19:14:58Z"
+          "published_at": "2026-08-03T22:55:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8381,
+        "ai_relevance": 0.87,
+        "recency": 0.8505,
         "story_heat": 0.0
       },
       "category": "official",
@@ -928,37 +1008,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T19:14:58Z",
-      "latest_at": "2026-08-03T19:14:58Z",
+      "earliest_at": "2026-08-03T22:55:29Z",
+      "latest_at": "2026-08-03T22:55:29Z",
       "primary_item": {
-        "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-        "title": "通过评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-        "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+        "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+        "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+        "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_3f407814a854",
-      "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
-      "url": "https://www.aibase.com/news/30091",
-      "primary_url": "https://www.aibase.com/news/30091",
+      "story_id": "story_907b84e5fc92",
+      "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
+      "url": "https://www.aibase.com/news/30099",
+      "primary_url": "https://www.aibase.com/news/30099",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
-          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
-          "url": "https://www.aibase.com/news/30091",
+          "id": "04bb3d9fd4a71e099e4dc9e5d3ca40bd049b1609",
+          "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
+          "url": "https://www.aibase.com/news/30099",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T04:51:40.569926Z"
+          "published_at": "2026-08-04T07:28:58.181233Z"
         },
         {
-          "id": "d5b21ba98d3b0c1f5ee44f5e862eae6d51c0a779",
-          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需 10 天内导出书签",
-          "url": "https://www.aibase.com/zh/news/30091",
+          "id": "1b26d7273a37560686d281726f0f09d6c873d763",
+          "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
+          "url": "https://www.aibase.com/zh/news/30099",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -972,18 +1052,18 @@
       ],
       "items": [
         {
-          "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
-          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
-          "url": "https://www.aibase.com/news/30091",
+          "id": "04bb3d9fd4a71e099e4dc9e5d3ca40bd049b1609",
+          "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
+          "url": "https://www.aibase.com/news/30099",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-04T04:51:40.569926Z"
+          "published_at": "2026-08-04T07:28:58.181233Z"
         },
         {
-          "id": "d5b21ba98d3b0c1f5ee44f5e862eae6d51c0a779",
-          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需 10 天内导出书签",
-          "url": "https://www.aibase.com/zh/news/30091",
+          "id": "1b26d7273a37560686d281726f0f09d6c873d763",
+          "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
+          "url": "https://www.aibase.com/zh/news/30099",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -992,15 +1072,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9629,
+        "recency": 0.9624,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1009,12 +1089,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-04T04:51:40.569926Z",
-      "latest_at": "2026-08-04T04:51:40.569926Z",
+      "earliest_at": "2026-08-04T07:28:58.181233Z",
+      "latest_at": "2026-08-04T07:28:58.181233Z",
       "primary_item": {
-        "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
-        "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
-        "url": "https://www.aibase.com/news/30091",
+        "id": "04bb3d9fd4a71e099e4dc9e5d3ca40bd049b1609",
+        "title": "苹果申请初步禁令，要把 OpenAI 和两名前员工挡在商业秘密门外",
+        "url": "https://www.aibase.com/news/30099",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1073,15 +1153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.83,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1153,15 +1233,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7444,
-      "importance": 0.7444,
-      "importance_score": 0.7444,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7657,
+        "recency": 0.7369,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1176,6 +1256,67 @@
         "title": "Cloudflare 推出 Billable Usage API：为自助账户提供按产品与计费周期的程序化成本可见性",
         "url": "https://blog.cloudflare.com/billable-usage-api",
         "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_816cf70e8aa0",
+      "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
+      "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+      "primary_url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "14623a3657214a0e035814d6230e1127908fe081",
+          "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
+          "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T08:12:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "14623a3657214a0e035814d6230e1127908fe081",
+          "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
+          "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T08:12:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9725,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T08:12:36Z",
+      "latest_at": "2026-08-04T08:12:36Z",
+      "primary_item": {
+        "id": "14623a3657214a0e035814d6230e1127908fe081",
+        "title": "用 NVIDIA SkillSpector、LangGraph、YARA 规则、SARIF 与 CI 策略门构建高级 AI 技能安全审计流水线",
+        "url": "https://www.marktechpost.com/2026/08/04/building-an-advanced-ai-skill-security-auditing-pipeline-with-nvidia-skillspector-langgraph-yara-rules-sarif-and-ci-policy-gates",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1214,15 +1355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
+      "score": 0.7216,
+      "importance": 0.7216,
+      "importance_score": 0.7216,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8775,
+        "recency": 0.8445,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1240,26 +1381,26 @@
       }
     },
     {
-      "story_id": "story_b6f027be6c66",
-      "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
-      "url": "https://www.aibase.com/news/30093",
-      "primary_url": "https://www.aibase.com/news/30093",
+      "story_id": "story_3f407814a854",
+      "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
+      "url": "https://www.aibase.com/news/30091",
+      "primary_url": "https://www.aibase.com/news/30091",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5d5e23f87ea4ea25bad4cd17e371d4ec41248a57",
-          "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
-          "url": "https://www.aibase.com/news/30093",
+          "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
+          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
+          "url": "https://www.aibase.com/news/30091",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-04T04:51:40.569926Z"
         },
         {
-          "id": "f0aad609e39f62c7f3f769a652a79ac79a5fa35e",
-          "title": "IBM 报告：92% AI 安全事件源于访问控制缺失，AI 相关泄露成本达 533 万美元",
-          "url": "https://www.aibase.com/zh/news/30093",
+          "id": "d5b21ba98d3b0c1f5ee44f5e862eae6d51c0a779",
+          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需 10 天内导出书签",
+          "url": "https://www.aibase.com/zh/news/30091",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1273,18 +1414,18 @@
       ],
       "items": [
         {
-          "id": "5d5e23f87ea4ea25bad4cd17e371d4ec41248a57",
-          "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
-          "url": "https://www.aibase.com/news/30093",
+          "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
+          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
+          "url": "https://www.aibase.com/news/30091",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-08-04T04:51:40.569926Z"
         },
         {
-          "id": "f0aad609e39f62c7f3f769a652a79ac79a5fa35e",
-          "title": "IBM 报告：92% AI 安全事件源于访问控制缺失，AI 相关泄露成本达 533 万美元",
-          "url": "https://www.aibase.com/zh/news/30093",
+          "id": "d5b21ba98d3b0c1f5ee44f5e862eae6d51c0a779",
+          "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需 10 天内导出书签",
+          "url": "https://www.aibase.com/zh/news/30091",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1293,15 +1434,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9629,
+        "recency": 0.9266,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1313,9 +1454,9 @@
       "earliest_at": "2026-08-04T04:51:40.569926Z",
       "latest_at": "2026-08-04T04:51:40.569926Z",
       "primary_item": {
-        "id": "5d5e23f87ea4ea25bad4cd17e371d4ec41248a57",
-        "title": "IBM报告:92% AI安全事件源于访问控制缺失，AI相关泄露成本达533万美元",
-        "url": "https://www.aibase.com/news/30093",
+        "id": "16b7c7018289b2a489810c3c1cf7161284d7bc53",
+        "title": "ChatGPT Atlas 浏览器 8 月 9 日停止服务，用户需10天内导出书签",
+        "url": "https://www.aibase.com/news/30091",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1355,15 +1496,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8122,
+        "recency": 0.7816,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1378,149 +1519,6 @@
         "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
         "title": "分类角色可以绕过问题创建限制 / Triage role can bypass issue creation restrictions",
         "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_df2d2241c86e",
-      "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
-      "url": "https://www.aibase.com/news/30096",
-      "primary_url": "https://www.aibase.com/news/30096",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
-          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
-          "url": "https://www.aibase.com/news/30096",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T04:51:40.569926Z"
-        },
-        {
-          "id": "9a68aa6443998240366e96f84e334c4375dbc004",
-          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂「反乌托邦」",
-          "url": "https://www.aibase.com/zh/news/30096",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
-          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
-          "url": "https://www.aibase.com/news/30096",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-04T04:51:40.569926Z"
-        },
-        {
-          "id": "9a68aa6443998240366e96f84e334c4375dbc004",
-          "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂「反乌托邦」",
-          "url": "https://www.aibase.com/zh/news/30096",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9629,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T04:51:40.569926Z",
-      "latest_at": "2026-08-04T04:51:40.569926Z",
-      "primary_item": {
-        "id": "9cff6cc6d202ead97fcafb57e05c741cab949ff8",
-        "title": "OpenAI 砸钱办奢华夏令营讨好网红，一晚 2000 美元被骂\"反乌托邦\"",
-        "url": "https://www.aibase.com/news/30096",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_545d6c402c71",
-      "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T16:33:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-          "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T16:33:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8061,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T16:33:13Z",
-      "latest_at": "2026-08-03T16:33:13Z",
-      "primary_item": {
-        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-        "title": "使用 GitHub Enterprise Importer 从 GitLab 迁移到 GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
