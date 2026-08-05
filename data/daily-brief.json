@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T04:35:36.692092Z",
+  "generated_at": "2026-08-05T07:29:59.381904Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8657,
-      "importance": 0.8657,
-      "importance_score": 0.8657,
+      "score": 0.8593,
+      "importance": 0.8593,
+      "importance_score": 0.8593,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.8706,
+        "recency": 0.8348,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8726,
+        "recency": 0.8368,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8224,
+      "importance": 0.8224,
+      "importance_score": 0.8224,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8712,
+        "recency": 0.8354,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,15 +282,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9355,
+        "recency": 0.897,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -344,15 +344,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8097,
+        "recency": 0.7764,
         "story_heat": 0.0
       },
       "category": "official",
@@ -406,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7984,
+        "recency": 0.7656,
         "story_heat": 0.0
       },
       "category": "official",
@@ -431,6 +431,87 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_df0c9d1fbfff",
+      "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+      "url": "https://www.aibase.com/news/30130",
+      "primary_url": "https://www.aibase.com/news/30130",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "45d71f070884471c1302c577a523eae2763a2385",
+          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+          "url": "https://www.aibase.com/news/30130",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T07:29:59.381904Z"
+        },
+        {
+          "id": "22c2c6eaf5044c34334f901e8d723162d0afcbe0",
+          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+          "url": "https://www.aibase.com/zh/news/30130",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "45d71f070884471c1302c577a523eae2763a2385",
+          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+          "url": "https://www.aibase.com/news/30130",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-05T07:29:59.381904Z"
+        },
+        {
+          "id": "22c2c6eaf5044c34334f901e8d723162d0afcbe0",
+          "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+          "url": "https://www.aibase.com/zh/news/30130",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T07:29:59.381904Z",
+      "latest_at": "2026-08-05T07:29:59.381904Z",
+      "primary_item": {
+        "id": "45d71f070884471c1302c577a523eae2763a2385",
+        "title": "Visa 豪掷 24 亿美元收购 AI 防诈公司 BioCatch：每月分析 190 亿次交互，从源头掐断金融诈骗",
+        "url": "https://www.aibase.com/news/30130",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -487,15 +568,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.797,
-      "importance": 0.797,
-      "importance_score": 0.797,
+      "score": 0.7899,
+      "importance": 0.7899,
+      "importance_score": 0.7899,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9183,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -587,15 +668,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7957,
-      "importance": 0.7957,
-      "importance_score": 0.7957,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8618,
+        "recency": 0.8264,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -610,6 +691,168 @@
         "id": "8d5499bc41b144977a04da7896ca72402e875895",
         "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
         "url": "https://github.com/MakazhanAlpamys/Soup",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_353fa9ae93b8",
+      "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
+      "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
+      "primary_url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
+          "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
+          "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T19:15:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
+          "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
+          "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T19:15:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8379,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T19:15:23Z",
+      "latest_at": "2026-08-04T19:15:23Z",
+      "primary_item": {
+        "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
+        "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
+        "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_070483894b02",
+      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "primary_url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
+          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T12:56:45.712000Z"
+        },
+        {
+          "id": "fe23b655ac31a39a4dfd3489dde1f938a88992f5",
+          "title": "单个 AMD MI300X 上的 DeepSeek V4 闪存 / DeepSeek V4 Flash on a Single AMD MI300X",
+          "url": "https://news.ycombinator.com/item?id=49166386",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-04T12:07:23.270000Z"
+        },
+        {
+          "id": "8fe8f424a56011b2665d26523b23c4eae573977c",
+          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash / DeepSeek V4 Flash on a Single AMD MI300X",
+          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-04T10:00:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
+          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T12:56:45.712000Z"
+        },
+        {
+          "id": "fe23b655ac31a39a4dfd3489dde1f938a88992f5",
+          "title": "单个 AMD MI300X 上的 DeepSeek V4 闪存 / DeepSeek V4 Flash on a Single AMD MI300X",
+          "url": "https://news.ycombinator.com/item?id=49166386",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-04T12:07:23.270000Z"
+        },
+        {
+          "id": "8fe8f424a56011b2665d26523b23c4eae573977c",
+          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash / DeepSeek V4 Flash on a Single AMD MI300X",
+          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-04T10:00:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.765,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T10:00:55Z",
+      "latest_at": "2026-08-04T12:56:45.712000Z",
+      "primary_item": {
+        "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
+        "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+        "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -668,15 +911,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7852,
+      "importance": 0.7852,
+      "importance_score": 0.7852,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9589,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -691,249 +934,6 @@
         "id": "5f819bc4bf7dfb2df3a126cb77d3a0bcfc2d1714",
         "title": "Anthropic 首设全球事务官：前卡内基和平基金会主席库埃拉尔出任，押注 AI 政策博弈",
         "url": "https://www.aibase.com/news/30121",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_353fa9ae93b8",
-      "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
-      "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-      "primary_url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
-          "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
-          "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:15:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
-          "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
-          "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T19:15:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8739,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T19:15:23Z",
-      "latest_at": "2026-08-04T19:15:23Z",
-      "primary_item": {
-        "id": "fb48f64f87b4c9d1dd8db21d448df632f759e46e",
-        "title": "大规模自定义代码扫描默认设置 / Customize code scanning default setup at scale",
-        "url": "https://github.blog/changelog/2026-08-04-customize-code-scanning-default-setup-at-scale",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_070483894b02",
-      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "primary_url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T12:56:45.712000Z"
-        },
-        {
-          "id": "fe23b655ac31a39a4dfd3489dde1f938a88992f5",
-          "title": "单个 AMD MI300X 上的 DeepSeek V4 闪存 / DeepSeek V4 Flash on a Single AMD MI300X",
-          "url": "https://news.ycombinator.com/item?id=49166386",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-04T12:07:23.270000Z"
-        },
-        {
-          "id": "1dc5cb276aab8e0592de6e5f7a70da7e3aefdaa9",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash / DeepSeek V4 Flash on a Single AMD MI300X",
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-04T10:00:55Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T12:56:45.712000Z"
-        },
-        {
-          "id": "fe23b655ac31a39a4dfd3489dde1f938a88992f5",
-          "title": "单个 AMD MI300X 上的 DeepSeek V4 闪存 / DeepSeek V4 Flash on a Single AMD MI300X",
-          "url": "https://news.ycombinator.com/item?id=49166386",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-04T12:07:23.270000Z"
-        },
-        {
-          "id": "1dc5cb276aab8e0592de6e5f7a70da7e3aefdaa9",
-          "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash / DeepSeek V4 Flash on a Single AMD MI300X",
-          "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-04T10:00:55Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7978,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T10:00:55Z",
-      "latest_at": "2026-08-04T12:56:45.712000Z",
-      "primary_item": {
-        "id": "533360a468b15f35ed161fde2f00a5721f3b33d5",
-        "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-        "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e05d16c8c6c2",
-      "title": "京东开源视频实时编辑模型：30 帧秒级推理，边看边改重新定义视频创作",
-      "url": "https://www.aibase.com/news/30123",
-      "primary_url": "https://www.aibase.com/news/30123",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fb17bcce0daff574b82826ebe91af9e4b0a39d3c",
-          "title": "京东开源视频实时编辑模型：30 帧秒级推理，边看边改重新定义视频创作",
-          "url": "https://www.aibase.com/news/30123",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T04:35:36.692092Z"
-        },
-        {
-          "id": "98a0784aeeba26c215674e55068bf5ee3e17f964",
-          "title": "京东开源视频实时编辑模型：30 帧秒级推理，边看边改重新定义视频创作",
-          "url": "https://www.aibase.com/zh/news/30123",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "fb17bcce0daff574b82826ebe91af9e4b0a39d3c",
-          "title": "京东开源视频实时编辑模型：30 帧秒级推理，边看边改重新定义视频创作",
-          "url": "https://www.aibase.com/news/30123",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-05T04:35:36.692092Z"
-        },
-        {
-          "id": "98a0784aeeba26c215674e55068bf5ee3e17f964",
-          "title": "京东开源视频实时编辑模型：30 帧秒级推理，边看边改重新定义视频创作",
-          "url": "https://www.aibase.com/zh/news/30123",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T04:35:36.692092Z",
-      "latest_at": "2026-08-05T04:35:36.692092Z",
-      "primary_item": {
-        "id": "fb17bcce0daff574b82826ebe91af9e4b0a39d3c",
-        "title": "京东开源视频实时编辑模型：30 帧秒级推理，边看边改重新定义视频创作",
-        "url": "https://www.aibase.com/news/30123",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -973,15 +973,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.901,
+        "recency": 0.864,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1034,21 +1034,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8337,
+        "recency": 0.7995,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T16:00:00Z",
       "latest_at": "2026-08-04T16:00:00Z",
@@ -1095,15 +1094,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8327,
+        "recency": 0.7985,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1157,21 +1156,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8215,
+        "recency": 0.7877,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T14:58:39Z",
       "latest_at": "2026-08-04T14:58:39Z",
@@ -1218,21 +1216,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9727,
+        "recency": 0.9327,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-05T02:40:31Z",
       "latest_at": "2026-08-05T02:40:31Z",
@@ -1241,66 +1238,6 @@
         "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
         "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
         "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ee5fdd47cccb",
-      "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-      "url": "https://x.com/elonmusk/status/2084857373555101726",
-      "primary_url": "https://x.com/elonmusk/status/2084857373555101726",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-          "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-          "url": "https://x.com/elonmusk/status/2084857373555101726",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T04:21:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-          "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-          "url": "https://x.com/elonmusk/status/2084857373555101726",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T04:21:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9967,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T04:21:47Z",
-      "latest_at": "2026-08-05T04:21:47Z",
-      "primary_item": {
-        "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-        "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-        "url": "https://x.com/elonmusk/status/2084857373555101726",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
         "source_name": "AI HOT"
       }
     },
@@ -1358,15 +1295,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7485,
-      "importance": 0.7485,
-      "importance_score": 0.7485,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8219,
+        "recency": 0.7881,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1381,6 +1318,66 @@
         "title": "NVIDIA Alpamayo 2 Super 开放商用，面向 Robotaxi 与自动驾驶的前沿开源模型",
         "url": "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available",
         "source": "NVIDIA Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ee5fdd47cccb",
+      "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+      "url": "https://x.com/elonmusk/status/2084857373555101726",
+      "primary_url": "https://x.com/elonmusk/status/2084857373555101726",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
+          "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+          "url": "https://x.com/elonmusk/status/2084857373555101726",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T04:21:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
+          "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+          "url": "https://x.com/elonmusk/status/2084857373555101726",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T04:21:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9557,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-05T04:21:47Z",
+      "latest_at": "2026-08-05T04:21:47Z",
+      "primary_item": {
+        "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
+        "title": "Grok 4.5 免费体验，推荐 Build 工具链",
+        "url": "https://x.com/elonmusk/status/2084857373555101726",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
         "source_name": "AI HOT"
       }
     },
@@ -1438,15 +1435,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8728,
+        "recency": 0.8369,
         "story_heat": 0.25
       },
       "category": "industry",
