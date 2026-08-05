@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T10:07:30.791226Z",
+  "generated_at": "2026-08-05T12:21:19.830460Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8537,
-      "importance": 0.8537,
-      "importance_score": 0.8537,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.8038,
+        "recency": 0.7783,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8056,
+        "recency": 0.7801,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8043,
+        "recency": 0.7788,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7475,
+        "recency": 0.7238,
         "story_heat": 0.0
       },
       "category": "official",
@@ -344,15 +344,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.8091,
+      "importance": 0.8091,
+      "importance_score": 0.8091,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8636,
+        "recency": 0.8363,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -368,6 +368,249 @@
         "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志",
         "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
         "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a0201a182310",
+      "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
+      "url": "https://www.ithome.com/0/986/174.htm",
+      "primary_url": "https://www.ithome.com/0/986/174.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2601e70e4d0afe6546d42c26115eb203b2b078ec",
+          "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
+          "url": "https://www.ithome.com/0/986/174.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T10:12:57Z"
+        },
+        {
+          "id": "47e0a0705115da4c58d15d418087eb853e3a6a61",
+          "title": "Google Assistant 下月起逐步退场，“Hey Google”将由谷歌 Gemini 接棒",
+          "url": "https://www.ithome.com/0/986/174.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-05T10:12:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2601e70e4d0afe6546d42c26115eb203b2b078ec",
+          "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
+          "url": "https://www.ithome.com/0/986/174.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T10:12:57Z"
+        },
+        {
+          "id": "47e0a0705115da4c58d15d418087eb853e3a6a61",
+          "title": "Google Assistant 下月起逐步退场，“Hey Google”将由谷歌 Gemini 接棒",
+          "url": "https://www.ithome.com/0/986/174.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-05T10:12:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9696,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T10:12:57Z",
+      "latest_at": "2026-08-05T10:12:57Z",
+      "primary_item": {
+        "id": "2601e70e4d0afe6546d42c26115eb203b2b078ec",
+        "title": "Google Assistant 下月起逐步退场，\"Hey Google\"将由谷歌 Gemini 接棒",
+        "url": "https://www.ithome.com/0/986/174.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6bcc72be98e2",
+      "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+      "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+      "primary_url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
+          "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+          "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T08:25:11Z"
+        },
+        {
+          "id": "a34bae8b0cb986763e63c3ebb6e7c26017b06202",
+          "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型 / NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+          "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-05T08:25:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
+          "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+          "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T08:25:11Z"
+        },
+        {
+          "id": "a34bae8b0cb986763e63c3ebb6e7c26017b06202",
+          "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型 / NVIDIA Releases Alpamayo 2 Super: A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+          "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-05T08:25:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9447,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T08:25:11Z",
+      "latest_at": "2026-08-05T08:25:11Z",
+      "primary_item": {
+        "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
+        "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
+        "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_94d891c34e3e",
+      "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+      "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+      "primary_url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5b1866d89464f0a220d48fe86c182625be178854",
+          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T10:31:42Z"
+        },
+        {
+          "id": "709df0050eb6d24a9cbc1c54f64cb7f02bfe360a",
+          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
+          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-05T10:31:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5b1866d89464f0a220d48fe86c182625be178854",
+          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T10:31:42Z"
+        },
+        {
+          "id": "709df0050eb6d24a9cbc1c54f64cb7f02bfe360a",
+          "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon / US appeals court allows Perplexity's AI shopping agent back on Amazon",
+          "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-05T10:31:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.974,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T10:31:42Z",
+      "latest_at": "2026-08-05T10:31:42Z",
+      "primary_item": {
+        "id": "5b1866d89464f0a220d48fe86c182625be178854",
+        "title": "美国上诉法院推翻禁令，Perplexity AI 购物智能体重返 Amazon",
+        "url": "https://the-decoder.com/us-appeals-court-allows-perplexitys-ai-shopping-agent-back-on-amazon",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -406,15 +649,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7967,
-      "importance": 0.7967,
-      "importance_score": 0.7967,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7371,
+        "recency": 0.7137,
         "story_heat": 0.0
       },
       "category": "official",
@@ -487,15 +730,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7869,
+      "importance": 0.7869,
+      "importance_score": 0.7869,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9683,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -568,15 +811,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7901,
-      "importance": 0.7901,
-      "importance_score": 0.7901,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9527,
+        "recency": 0.9225,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -592,167 +835,6 @@
         "title": "烧了5亿token后，我给Codex和Claude Code做Skill上下文瘦身的新技巧",
         "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509161&idx=1&sn=bd9aa077bbc46a6049ad66af6d15af0f",
         "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6bcc72be98e2",
-      "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
-      "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
-      "primary_url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
-          "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
-          "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T08:25:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
-          "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
-          "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T08:25:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9757,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-05T08:25:11Z",
-      "latest_at": "2026-08-05T08:25:11Z",
-      "primary_item": {
-        "id": "b12c4fe282e82a37bd26f037f6b19fe64d9dab67",
-        "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型",
-        "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_100723b5206a",
-      "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "primary_url": "https://github.com/MakazhanAlpamys/Soup",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8d5499bc41b144977a04da7896ca72402e875895",
-          "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-          "url": "https://github.com/MakazhanAlpamys/Soup",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T18:17:29.648000Z"
-        },
-        {
-          "id": "9f2d4c348aab2a43964ff7b92286fad78830e4e8",
-          "title": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
-          "url": "https://github.com/MakazhanAlpamys/Soup",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-04T11:21:03.388000Z"
-        },
-        {
-          "id": "a0c19a834d1bf23907d897e77456117cf170ec76",
-          "title": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调 / Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
-          "url": "https://github.com/MakazhanAlpamys/Soup",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-04T11:17:57Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "8d5499bc41b144977a04da7896ca72402e875895",
-          "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-          "url": "https://github.com/MakazhanAlpamys/Soup",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T18:17:29.648000Z"
-        },
-        {
-          "id": "9f2d4c348aab2a43964ff7b92286fad78830e4e8",
-          "title": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调",
-          "url": "https://github.com/MakazhanAlpamys/Soup",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-04T11:21:03.388000Z"
-        },
-        {
-          "id": "a0c19a834d1bf23907d897e77456117cf170ec76",
-          "title": "Show HN: 在配备4 GB显存的笔记本电脑GPU上对8B模型进行微调 / Show HN: Fine-tune an 8B model on a 4 GB laptop GPU",
-          "url": "https://github.com/MakazhanAlpamys/Soup",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-04T11:17:57Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7956,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T11:17:57Z",
-      "latest_at": "2026-08-04T18:17:29.648000Z",
-      "primary_item": {
-        "id": "8d5499bc41b144977a04da7896ca72402e875895",
-        "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-        "url": "https://github.com/MakazhanAlpamys/Soup",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -791,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8068,
+        "recency": 0.7812,
         "story_heat": 0.0
       },
       "category": "official",
@@ -872,15 +954,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9628,
+        "recency": 0.9323,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -934,15 +1016,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8318,
+        "recency": 0.8055,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -994,15 +1076,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7697,
+        "recency": 0.7453,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1054,15 +1136,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7687,
+        "recency": 0.7444,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1116,15 +1198,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7584,
+        "recency": 0.7344,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1138,6 +1220,67 @@
         "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
         "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b47fe15e164b",
+      "title": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+      "url": "https://www.ithome.com/0/986/180.htm",
+      "primary_url": "https://www.ithome.com/0/986/180.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a98cd5c2f4359447d8f401f5c6e022ed2f32fc1d",
+          "title": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+          "url": "https://www.ithome.com/0/986/180.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T10:18:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a98cd5c2f4359447d8f401f5c6e022ed2f32fc1d",
+          "title": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+          "url": "https://www.ithome.com/0/986/180.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T10:18:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9708,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T10:18:17Z",
+      "latest_at": "2026-08-05T10:18:17Z",
+      "primary_item": {
+        "id": "a98cd5c2f4359447d8f401f5c6e022ed2f32fc1d",
+        "title": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
+        "url": "https://www.ithome.com/0/986/180.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1195,15 +1338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7588,
+        "recency": 0.7348,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1256,15 +1399,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7321,
+      "importance": 0.7321,
+      "importance_score": 0.7321,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.898,
+        "recency": 0.8695,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1278,147 +1421,6 @@
         "title": "Qwen-Image-3.0-Pro 上线 Qwen Cloud",
         "url": "https://x.com/Alibaba_Qwen/status/2084831888729072121",
         "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ee5fdd47cccb",
-      "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-      "url": "https://x.com/elonmusk/status/2084857373555101726",
-      "primary_url": "https://x.com/elonmusk/status/2084857373555101726",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-          "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-          "url": "https://x.com/elonmusk/status/2084857373555101726",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T04:21:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-          "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-          "url": "https://x.com/elonmusk/status/2084857373555101726",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T04:21:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9202,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-05T04:21:47Z",
-      "latest_at": "2026-08-05T04:21:47Z",
-      "primary_item": {
-        "id": "718675e68a68d5c3f90cacea31f7be3087de4a0e",
-        "title": "Grok 4.5 免费体验，推荐 Build 工具链",
-        "url": "https://x.com/elonmusk/status/2084857373555101726",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0b96c123f27e",
-      "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
-      "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-      "primary_url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c75bf49805b56e7bf9b19e9f534894d6a1304dbc",
-          "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
-          "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T19:10:09Z"
-        },
-        {
-          "id": "42219f735d9e0b3bb77337444bf157a5e7255dd9",
-          "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行 / PipeNetwork/minimax-h3-mlx",
-          "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "c75bf49805b56e7bf9b19e9f534894d6a1304dbc",
-          "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
-          "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-04T19:10:09Z"
-        },
-        {
-          "id": "42219f735d9e0b3bb77337444bf157a5e7255dd9",
-          "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行 / PipeNetwork/minimax-h3-mlx",
-          "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8058,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T19:10:09Z",
-      "latest_at": "2026-08-04T20:05:09.549692Z",
-      "primary_item": {
-        "id": "c75bf49805b56e7bf9b19e9f534894d6a1304dbc",
-        "title": "MiniMax-H3 通过 MLX 移植可在 Apple Silicon 上运行",
-        "url": "https://simonwillison.net/2026/Aug/4/minimax-h3-mlx",
-        "source": "Simon Willison 博客",
         "source_name": "AI HOT"
       }
     }
