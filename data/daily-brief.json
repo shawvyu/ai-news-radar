@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T17:25:13.780311Z",
+  "generated_at": "2026-08-13T18:13:38.297715Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -28,10 +28,20 @@
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "0da95d0920a7077beace9b3340245448028dd120",
+          "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-13T16:59:06Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
+        "Hacker News · 24h最热",
         "OpenAI News",
         "Readhub · AI"
       ],
@@ -53,20 +63,29 @@
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "0da95d0920a7077beace9b3340245448028dd120",
+          "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT‑5.6 Sol at up to 14X the speed",
+          "url": "https://openai.com/index/previewing-ultrafast",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-13T16:59:06Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8667,
-      "importance": 0.8667,
-      "importance_score": 0.8667,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8898,
+      "importance": 0.8898,
+      "importance_score": 0.8898,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8984,
-        "story_heat": 0.25
+        "recency": 0.888,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
@@ -82,6 +101,170 @@
         "title": "OpenAI 预览 Ultrafast 模式：GPT-5.6 Sol 速度提升至 14 倍 / Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
         "url": "https://openai.com/index/previewing-ultrafast",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e83d70611f6b",
+      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:04:18Z"
+        },
+        {
+          "id": "02675bae99f5356d65724bcde95733a4987e2c98",
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T17:04:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google DeepMind",
+        "Google DeepMind：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T17:04:18Z"
+        },
+        {
+          "id": "02675bae99f5356d65724bcde95733a4987e2c98",
+          "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T17:04:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.874,
+      "importance": 0.874,
+      "importance_score": 0.874,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9835,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T17:04:18Z",
+      "latest_at": "2026-08-13T17:04:18Z",
+      "primary_item": {
+        "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
+        "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
+        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_76c77512e473",
+      "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "primary_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T16:45:00Z"
+        },
+        {
+          "id": "b72ff7f4bd7ca0bacb42b3e69eccd854c132c104",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T16:45:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google AI Blog",
+        "Google Blog：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-13T16:45:00Z"
+        },
+        {
+          "id": "b72ff7f4bd7ca0bacb42b3e69eccd854c132c104",
+          "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用",
+          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T16:45:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8652,
+      "importance": 0.8652,
+      "importance_score": 0.8652,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9789,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T16:45:00Z",
+      "latest_at": "2026-08-13T16:45:00Z",
+      "primary_item": {
+        "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
+        "title": "Google Sheets 推出 Sheets canvas：用 Gemini 将表格数据变为交互式迷你应用 / Bring your spreadsheet data to life with Sheets canvas",
+        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -120,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8656,
-      "importance": 0.8656,
-      "importance_score": 0.8656,
+      "score": 0.8635,
+      "importance": 0.8635,
+      "importance_score": 0.8635,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9978,
+        "recency": 0.9862,
         "story_heat": 0.0
       },
       "category": "official",
@@ -144,130 +327,6 @@
         "title": "使用 Strands Agents、LeRobot 和 Hugging Face Storage Buckets 从一处进行记录、训练和部署 / Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
         "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e83d70611f6b",
-      "title": "Gemini 3.7 闪存简介 / Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-          "title": "Gemini 3.7 闪存简介 / Introducing Gemini 3.7 Flash",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T17:04:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-          "title": "Gemini 3.7 闪存简介 / Introducing Gemini 3.7 Flash",
-          "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T17:04:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8511,
-      "importance": 0.8511,
-      "importance_score": 0.8511,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.995,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T17:04:18Z",
-      "latest_at": "2026-08-13T17:04:18Z",
-      "primary_item": {
-        "id": "6541800c8fc6716f162ab7ebc701f8883a0e9db5",
-        "title": "Gemini 3.7 闪存简介 / Introducing Gemini 3.7 Flash",
-        "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_76c77512e473",
-      "title": "使用表格画布让您的电子表格数据栩栩如生 / Bring your spreadsheet data to life with Sheets canvas",
-      "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "primary_url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-          "title": "使用表格画布让您的电子表格数据栩栩如生 / Bring your spreadsheet data to life with Sheets canvas",
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T16:45:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-          "title": "使用表格画布让您的电子表格数据栩栩如生 / Bring your spreadsheet data to life with Sheets canvas",
-          "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-13T16:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.8423,
-      "importance_score": 0.8423,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9904,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T16:45:00Z",
-      "latest_at": "2026-08-13T16:45:00Z",
-      "primary_item": {
-        "id": "777014cd6f2be6787e73dcd64d3b79c4e131fa91",
-        "title": "使用表格画布让您的电子表格数据栩栩如生 / Bring your spreadsheet data to life with Sheets canvas",
-        "url": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets",
-        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -306,15 +365,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7234,
+        "recency": 0.715,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,15 +464,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8982,
+        "recency": 0.8878,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -467,15 +526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7198,
+        "recency": 0.7115,
         "story_heat": 0.0
       },
       "category": "official",
@@ -529,15 +588,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8855,
+        "recency": 0.8752,
         "story_heat": 0.0
       },
       "category": "official",
@@ -591,15 +650,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
+      "score": 0.8183,
+      "importance": 0.8183,
+      "importance_score": 0.8183,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7776,
+        "recency": 0.7686,
         "story_heat": 0.0
       },
       "category": "official",
@@ -653,15 +712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7793,
-      "importance": 0.7793,
-      "importance_score": 0.7793,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9151,
+        "recency": 0.9045,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -733,15 +792,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7763,
-      "importance": 0.7763,
-      "importance_score": 0.7763,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9092,
+        "recency": 0.8987,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -795,15 +854,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7183,
+        "recency": 0.71,
         "story_heat": 0.0
       },
       "category": "official",
@@ -857,21 +916,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7513,
-      "importance": 0.7513,
-      "importance_score": 0.7513,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7929,
+        "recency": 0.7837,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-13T01:20:54.259000Z",
       "latest_at": "2026-08-13T01:20:54.259000Z",
@@ -918,15 +976,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9529,
+        "recency": 0.9419,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -997,15 +1055,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8934,
+        "recency": 0.8831,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1059,15 +1117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9921,
+        "recency": 0.9806,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1119,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9386,
+        "recency": 0.9278,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1198,15 +1256,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8748,
+        "recency": 0.8647,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1279,15 +1337,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8748,
+        "recency": 0.8647,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1307,102 +1365,172 @@
       }
     },
     {
-      "story_id": "story_3daa30d9847f",
-      "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它 / Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-      "primary_url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_2df82173bb28",
+      "title": "DeepSeek V4 Pro 正式版已同步在 APP、网页端和 API 更新上线。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-13",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "ba04b292f882d774f76209dc8c842a0dd0159311",
-          "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它 / Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-12T22:26:37Z"
+          "id": "2f81464cacda2fa62566d97a2c651e6f236b8b27",
+          "title": "DeepSeek V4 Pro 正式版已同步在 APP、网页端和 API 更新上线。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-13T18:13:38.297715Z"
         },
         {
-          "id": "207fe486cf41e0d55d4e1087f8f5e7fd35c927fe",
-          "title": "Claude 用户很生气 Anthropic 的新水印会发现他​​们在使用它 / Claude users are mad that Anthropic's new watermarks will catch them using it",
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-13T10:23:51Z"
+          "id": "dd673775ee410bf405a7e0e643b19b760318d053",
+          "title": "一个月前，Anthropic 在Slack里上线了Claude Tag。阿颖这篇文章把Claude Tag和Claude Code、Codex、OpenClaw放在一起进行了对比，发现Claude Tag或许会是下一个现象级 AI 产品。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-13T08:09:28.978184Z"
         },
         {
-          "id": "ca8495aa3f2663da155feaa9edf5dd84db4ae4e7",
-          "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊 / Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-12T22:26:37Z"
+          "id": "d52afdb342404795febb0fc34ec80624380b8e30",
+          "title": "作者在走访纽约大学、卡内基梅隆、南加大、UCLA、ACCD后发现，美国高校的 AI 恐慌正在退潮，老师们更关心一项作业里哪些步骤能交给 AI，哪些必须学生亲手完成。AI 让答案变便宜了，人的判断、过程和责任反而更值钱。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-13T08:09:28.978184Z"
+        },
+        {
+          "id": "c153803fa8b2b7216ccd97d6e8386d8c63576078",
+          "title": "很多人用Claude/Codex来vibe coding，都会遇到一个很烦的问题。上下文一乱，新想法塞进当前对话会带偏主线，重开一条又要补充背景、重复解释踩过的坑。Claude/Codex能跨会话传消息后，就可以探索所有可行路径还不丢上下文。Codex适合用会话ID精确寻址，Claude Code则更适合按项目、日期、主题搜索历史会话。快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-13T08:09:28.978184Z"
+        },
+        {
+          "id": "929b848224528b4b9d7ae8c8d96569740661e985",
+          "title": "智能体会自己写代码、自己改提示词、自己跑循环，看起来越来越聪明；但如果你没先定义什么叫“好”，它很可能只是把分数刷漂亮，真实效果反而变差。来一起看看Google官方的自改进智能体循环是如何避免这一问题的！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-13T08:09:28.978184Z"
+        },
+        {
+          "id": "3233ca193e2ccd125cfe50e616e4f17ec945da67",
+          "title": "现在用 AI 半天搓个产品上线，已经不稀奇了，但最容易被忽略的往往是安全：权限没收紧、数据库没校验、接口没防护，前期看不出问题，真有流量后就可能变成事故。OpenAI 开源的Codex Security可以直接装成npm包，在项目里扫描漏洞，还会先验证风险、给出位置和修复建议，支持日常检查和深度扫描，也能对比修复前后的结果。产品上线前用它跑一遍，至少能少踩几个安全坑。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-13T08:09:28.978184Z"
+        },
+        {
+          "id": "ad91e1eb19f28dbbe8dbcd0918a4eff6b18e1653",
+          "title": "这篇文章把从RAG到上下文图的路线拆成 9 步：先找一个RAG答不好的多跳问题，再抽实体和关系、做实体规范化、建正反向边、给边加权并保留来源，最后按路径检索并带引用生成答案。适合做企业知识库、GraphRAG、Agent上下文工程的人看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-13T08:09:28.978184Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 7,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "TechCrunch",
-        "TechCrunch AI"
+        "社区更新 · 2026-08-11",
+        "社区更新 · 2026-08-13"
       ],
       "items": [
         {
-          "id": "ba04b292f882d774f76209dc8c842a0dd0159311",
-          "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它 / Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-12T22:26:37Z"
+          "id": "2f81464cacda2fa62566d97a2c651e6f236b8b27",
+          "title": "DeepSeek V4 Pro 正式版已同步在 APP、网页端和 API 更新上线。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-13",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-13T18:13:38.297715Z"
         },
         {
-          "id": "207fe486cf41e0d55d4e1087f8f5e7fd35c927fe",
-          "title": "Claude 用户很生气 Anthropic 的新水印会发现他​​们在使用它 / Claude users are mad that Anthropic's new watermarks will catch them using it",
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-13T10:23:51Z"
+          "id": "dd673775ee410bf405a7e0e643b19b760318d053",
+          "title": "一个月前，Anthropic 在Slack里上线了Claude Tag。阿颖这篇文章把Claude Tag和Claude Code、Codex、OpenClaw放在一起进行了对比，发现Claude Tag或许会是下一个现象级 AI 产品。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-13T08:09:28.978184Z"
         },
         {
-          "id": "ca8495aa3f2663da155feaa9edf5dd84db4ae4e7",
-          "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上作弊 / Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
-          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-12T22:26:37Z"
+          "id": "d52afdb342404795febb0fc34ec80624380b8e30",
+          "title": "作者在走访纽约大学、卡内基梅隆、南加大、UCLA、ACCD后发现，美国高校的 AI 恐慌正在退潮，老师们更关心一项作业里哪些步骤能交给 AI，哪些必须学生亲手完成。AI 让答案变便宜了，人的判断、过程和责任反而更值钱。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-13T08:09:28.978184Z"
+        },
+        {
+          "id": "c153803fa8b2b7216ccd97d6e8386d8c63576078",
+          "title": "很多人用Claude/Codex来vibe coding，都会遇到一个很烦的问题。上下文一乱，新想法塞进当前对话会带偏主线，重开一条又要补充背景、重复解释踩过的坑。Claude/Codex能跨会话传消息后，就可以探索所有可行路径还不丢上下文。Codex适合用会话ID精确寻址，Claude Code则更适合按项目、日期、主题搜索历史会话。快来试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-13T08:09:28.978184Z"
+        },
+        {
+          "id": "929b848224528b4b9d7ae8c8d96569740661e985",
+          "title": "智能体会自己写代码、自己改提示词、自己跑循环，看起来越来越聪明；但如果你没先定义什么叫“好”，它很可能只是把分数刷漂亮，真实效果反而变差。来一起看看Google官方的自改进智能体循环是如何避免这一问题的！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-13T08:09:28.978184Z"
+        },
+        {
+          "id": "3233ca193e2ccd125cfe50e616e4f17ec945da67",
+          "title": "现在用 AI 半天搓个产品上线，已经不稀奇了，但最容易被忽略的往往是安全：权限没收紧、数据库没校验、接口没防护，前期看不出问题，真有流量后就可能变成事故。OpenAI 开源的Codex Security可以直接装成npm包，在项目里扫描漏洞，还会先验证风险、给出位置和修复建议，支持日常检查和深度扫描，也能对比修复前后的结果。产品上线前用它跑一遍，至少能少踩几个安全坑。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-13T08:09:28.978184Z"
+        },
+        {
+          "id": "ad91e1eb19f28dbbe8dbcd0918a4eff6b18e1653",
+          "title": "这篇文章把从RAG到上下文图的路线拆成 9 步：先找一个RAG答不好的多跳问题，再抽实体和关系、做实体规范化、建正反向边、给边加权并保留来源，最后按路径检索并带引用生成答案。适合做企业知识库、GraphRAG、Agent上下文工程的人看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-13T08:09:28.978184Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6556,
-      "importance": 0.6556,
-      "importance_score": 0.6556,
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.7603,
-        "story_heat": 0.5
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-12T22:26:37Z",
-      "latest_at": "2026-08-13T10:23:51Z",
+      "earliest_at": "2026-08-13T08:09:28.978184Z",
+      "latest_at": "2026-08-13T18:13:38.297715Z",
       "primary_item": {
-        "id": "ba04b292f882d774f76209dc8c842a0dd0159311",
-        "title": "一些 Claude 用户很生气，因为 Anthropic 的新水印会让他们在工作、课堂上使用它 / Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "id": "2f81464cacda2fa62566d97a2c651e6f236b8b27",
+        "title": "DeepSeek V4 Pro 正式版已同步在 APP、网页端和 API 更新上线。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-13",
+        "source_name": "WaytoAGI"
       }
     }
   ]
