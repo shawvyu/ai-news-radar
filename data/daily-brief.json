@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:12:09.889545Z",
+  "generated_at": "2026-08-15T19:41:03.144097Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.744,
+        "recency": 0.7389,
         "story_heat": 0.0
       },
       "category": "official",
@@ -118,15 +118,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8885,
+        "recency": 0.8823,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -146,102 +146,101 @@
       }
     },
     {
-      "story_id": "story_8a4a811ddfc4",
-      "title": "Claude 文本水印机制如何运作",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "primary_url": "https://www.anthropic.com/news/claude-text-watermark",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_627a59aedf96",
+      "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "primary_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "source": "davidepiffer.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-          "title": "Claude 文本水印机制如何运作",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48.546000Z"
+          "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "davidepiffer.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T19:18:02.348000Z"
         },
         {
-          "id": "fe86574ca496c3a94e40f1684926fedb63bf2118",
-          "title": "克劳德的文本水印如何工作 / How Claude's text watermarking works",
-          "url": "https://news.ycombinator.com/item?id=49303350",
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://news.ycombinator.com/item?id=49312845",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-14T20:36:23.700000Z"
+          "published_at": "2026-08-15T18:39:17.058000Z"
         },
         {
-          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:15:51Z"
+          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T18:13:02Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
+        "davidepiffer.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-          "title": "Claude 文本水印机制如何运作",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T19:22:48.546000Z"
+          "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "davidepiffer.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T19:18:02.348000Z"
         },
         {
-          "id": "fe86574ca496c3a94e40f1684926fedb63bf2118",
-          "title": "克劳德的文本水印如何工作 / How Claude's text watermarking works",
-          "url": "https://news.ycombinator.com/item?id=49303350",
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://news.ycombinator.com/item?id=49312845",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-14T20:36:23.700000Z"
+          "published_at": "2026-08-15T18:39:17.058000Z"
         },
         {
-          "id": "7b946844ac98669709ef2245347e4b36c2a4534c",
-          "title": "Claude 文本水印机制如何运作 / How Claude's text watermarking works",
-          "url": "https://www.anthropic.com/news/claude-text-watermark",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:15:51Z"
+          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T18:13:02Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7089,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9945,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-14T19:15:51Z",
-      "latest_at": "2026-08-14T20:36:23.700000Z",
+      "earliest_at": "2026-08-15T18:13:02Z",
+      "latest_at": "2026-08-15T19:18:02.348000Z",
       "primary_item": {
-        "id": "68cb2a8a92118d1fe106cd90cb8041ad02b60b28",
-        "title": "Claude 文本水印机制如何运作",
-        "url": "https://www.anthropic.com/news/claude-text-watermark",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
+        "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
+        "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+        "source": "davidepiffer.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -317,15 +316,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5642,
-      "importance": 0.5642,
-      "importance_score": 0.5642,
+      "score": 0.563,
+      "importance": 0.563,
+      "importance_score": 0.563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9636,
+        "recency": 0.9569,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -415,15 +414,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5596,
-      "importance": 0.5596,
-      "importance_score": 0.5596,
+      "score": 0.5584,
+      "importance": 0.5584,
+      "importance_score": 0.5584,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9376,
+        "recency": 0.9311,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -513,15 +512,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5577,
-      "importance": 0.5577,
-      "importance_score": 0.5577,
+      "score": 0.5565,
+      "importance": 0.5565,
+      "importance_score": 0.5565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9272,
+        "recency": 0.9208,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -611,15 +610,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8293,
+        "recency": 0.8235,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -690,15 +689,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5252,
-      "importance": 0.5252,
-      "importance_score": 0.5252,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8853,
+        "recency": 0.8792,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -769,15 +768,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5252,
-      "importance": 0.5252,
-      "importance_score": 0.5252,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8853,
+        "recency": 0.8792,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -848,15 +847,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5168,
-      "importance": 0.5168,
-      "importance_score": 0.5168,
+      "score": 0.5158,
+      "importance": 0.5158,
+      "importance_score": 0.5158,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8391,
+        "recency": 0.8333,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -874,30 +873,30 @@
       }
     },
     {
-      "story_id": "story_627a59aedf96",
-      "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-      "url": "https://news.ycombinator.com/item?id=49312845",
-      "primary_url": "https://news.ycombinator.com/item?id=49312845",
+      "story_id": "story_611835edca3b",
+      "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+      "url": "https://news.ycombinator.com/item?id=49313367",
+      "primary_url": "https://news.ycombinator.com/item?id=49313367",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://news.ycombinator.com/item?id=49312845",
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://news.ycombinator.com/item?id=49313367",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T18:39:17.058000Z"
+          "published_at": "2026-08-15T19:41:34.724000Z"
         },
         {
-          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-15T18:13:02Z"
+          "published_at": "2026-08-15T19:12:53Z"
         }
       ],
       "source_count": 2,
@@ -907,47 +906,47 @@
       ],
       "items": [
         {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://news.ycombinator.com/item?id=49312845",
+          "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://news.ycombinator.com/item?id=49313367",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T18:39:17.058000Z"
+          "published_at": "2026-08-15T19:41:34.724000Z"
         },
         {
-          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
+          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-15T18:13:02Z"
+          "published_at": "2026-08-15T19:12:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9921,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T18:13:02Z",
-      "latest_at": "2026-08-15T18:39:17.058000Z",
+      "earliest_at": "2026-08-15T19:12:53Z",
+      "latest_at": "2026-08-15T19:41:34.724000Z",
       "primary_item": {
-        "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-        "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-        "url": "https://news.ycombinator.com/item?id=49312845",
+        "id": "d9c365b593a27d563d4819163086a2a24ccf6621",
+        "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
+        "url": "https://news.ycombinator.com/item?id=49313367",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1006,15 +1005,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5067,
-      "importance": 0.5067,
-      "importance_score": 0.5067,
+      "score": 0.5057,
+      "importance": 0.5057,
+      "importance_score": 0.5057,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7827,
+        "recency": 0.7772,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1084,15 +1083,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5035,
-      "importance": 0.5035,
-      "importance_score": 0.5035,
+      "score": 0.5026,
+      "importance": 0.5026,
+      "importance_score": 0.5026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.765,
+        "recency": 0.7597,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1162,15 +1161,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4962,
-      "importance": 0.4962,
-      "importance_score": 0.4962,
+      "score": 0.4953,
+      "importance": 0.4953,
+      "importance_score": 0.4953,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7244,
+        "recency": 0.7194,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,15 +1240,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8819,
+        "recency": 0.8758,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1339,15 +1338,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5414,
-      "importance": 0.5414,
-      "importance_score": 0.5414,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8366,
+        "recency": 0.8308,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1418,15 +1417,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5077,
-      "importance": 0.5077,
-      "importance_score": 0.5077,
+      "score": 0.5067,
+      "importance": 0.5067,
+      "importance_score": 0.5067,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7885,
+        "recency": 0.783,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1497,15 +1496,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.5228,
+      "importance": 0.5228,
+      "importance_score": 0.5228,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8786,
+        "recency": 0.8725,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1520,84 +1519,6 @@
         "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8b934f0a1cfa",
-      "title": "开发自己的游戏引擎能带来什么 / Soup Raiders goes native: What you gain by building your own game engine",
-      "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-      "primary_url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "b20a4cc420856d6bed0c91d46f628800c507fb61",
-          "title": "开发自己的游戏引擎能带来什么 / Soup Raiders goes native: What you gain by building your own game engine",
-          "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:20:20Z"
-        },
-        {
-          "id": "27acf0af8b6d0b5c0055b49ffc99f55523c43323",
-          "title": "开发自己的游戏引擎能带来什么 / What You Gain by Building Your Own Game Engine",
-          "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:20:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "b20a4cc420856d6bed0c91d46f628800c507fb61",
-          "title": "开发自己的游戏引擎能带来什么 / Soup Raiders goes native: What you gain by building your own game engine",
-          "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:20:20Z"
-        },
-        {
-          "id": "27acf0af8b6d0b5c0055b49ffc99f55523c43323",
-          "title": "开发自己的游戏引擎能带来什么 / What You Gain by Building Your Own Game Engine",
-          "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-14T19:20:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4933,
-      "importance": 0.4933,
-      "importance_score": 0.4933,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7085,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T19:20:20Z",
-      "latest_at": "2026-08-14T19:20:20Z",
-      "primary_item": {
-        "id": "b20a4cc420856d6bed0c91d46f628800c507fb61",
-        "title": "开发自己的游戏引擎能带来什么 / Soup Raiders goes native: What you gain by building your own game engine",
-        "url": "https://eliasfarhan.ch/gamedev/cpp/2026/08/14/srnative-01-why-a-custom-engine.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1654,15 +1575,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9575,
+        "recency": 0.9508,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1677,6 +1598,85 @@
         "url": "https://news.ycombinator.com/item?id=49311445",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_595cbaf350dd",
+      "title": "荣耀 YOYO Claw 接入智谱 GLM-5.3 大模型",
+      "url": "https://www.ithome.com/0/989/989.htm",
+      "primary_url": "https://www.ithome.com/0/989/989.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "3fe537ea6ade42c4f59c0f847a91b586e9d01aaf",
+          "title": "荣耀 YOYO Claw 接入智谱 GLM-5.3 大模型",
+          "url": "https://www.ithome.com/0/989/989.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ca07ff58c77e59ced7ccd43d5fd40e0bb39e38ac",
+          "title": "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型",
+          "url": "https://www.ithome.com/0/989/989.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T00:54:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3fe537ea6ade42c4f59c0f847a91b586e9d01aaf",
+          "title": "荣耀 YOYO Claw 接入智谱 GLM-5.3 大模型",
+          "url": "https://www.ithome.com/0/989/989.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ca07ff58c77e59ced7ccd43d5fd40e0bb39e38ac",
+          "title": "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型",
+          "url": "https://www.ithome.com/0/989/989.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T00:54:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5051,
+      "importance": 0.5051,
+      "importance_score": 0.5051,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.774,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T00:54:23Z",
+      "latest_at": "2026-08-15T01:56:49.120381Z",
+      "primary_item": {
+        "id": "3fe537ea6ade42c4f59c0f847a91b586e9d01aaf",
+        "title": "荣耀 YOYO Claw 接入智谱 GLM-5.3 大模型",
+        "url": "https://www.ithome.com/0/989/989.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
