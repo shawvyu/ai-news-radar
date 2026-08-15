@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T16:09:35.102879Z",
+  "generated_at": "2026-08-15T16:46:14.285881Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7775,
+        "recency": 0.7706,
         "story_heat": 0.0
       },
       "category": "official",
@@ -118,15 +118,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9284,
+        "recency": 0.9202,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -143,68 +143,6 @@
         "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_61fc6209c742",
-      "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T16:17:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T16:17:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7085,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T16:17:46Z",
-      "latest_at": "2026-08-14T16:17:46Z",
-      "primary_item": {
-        "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-        "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -280,15 +218,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7408,
+        "recency": 0.7343,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -307,160 +245,101 @@
       }
     },
     {
-      "story_id": "story_0a600d7e7744",
-      "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-      "primary_url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_1b995b323154",
+      "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+      "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+      "primary_url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+      "source": "allen.bargi.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "41db97c21c7ec12e29a0218159544d14266d235a",
-          "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T16:13:40Z"
+          "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "allen.bargi.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T16:38:01.653000Z"
         },
         {
-          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
-          "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
-          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T19:04:42Z"
+          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
+          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+          "url": "https://news.ycombinator.com/item?id=49309451",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T13:38:18.857000Z"
+        },
+        {
+          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI Feels More Like Leadership Than Coding",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T10:39:41Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Engadget",
-        "TechCrunch AI"
+        "Hacker News (黑客新闻)",
+        "allen.bargi.org",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "41db97c21c7ec12e29a0218159544d14266d235a",
-          "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-          "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T16:13:40Z"
+          "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "allen.bargi.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T16:38:01.653000Z"
         },
         {
-          "id": "6adb60493d96c069a788a53b36818711f4f36db6",
-          "title": "谷歌现在将允许用户从人工智能内容中删除可见水印 / Google will now allow users to remove visible watermarks from AI content",
-          "url": "https://www.engadget.com/2237340/google-will-now-allow-users-to-remove-visible-watermarks-from-ai-content",
-          "source": "Engadget",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T19:04:42Z"
+          "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
+          "title": "与人工智能一起工作感觉更像是领导而不是编码 / Working with AI Feels More Like Leadership Than Coding",
+          "url": "https://news.ycombinator.com/item?id=49309451",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T13:38:18.857000Z"
+        },
+        {
+          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
+          "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI Feels More Like Leadership Than Coding",
+          "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T10:39:41Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5962,
-      "importance": 0.5962,
-      "importance_score": 0.5962,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5704,
+      "importance": 0.5704,
+      "importance_score": 0.5704,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7078,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.998,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-14T16:13:40Z",
-      "latest_at": "2026-08-14T19:04:42Z",
+      "earliest_at": "2026-08-15T10:39:41Z",
+      "latest_at": "2026-08-15T16:38:01.653000Z",
       "primary_item": {
-        "id": "41db97c21c7ec12e29a0218159544d14266d235a",
-        "title": "谷歌现在将允许用户删除其人工智能各代产品中的可见水印 / Google will now allow users to remove visible watermark from its AI generations",
-        "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_d469d19d5d59",
-      "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "primary_url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
-          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
-          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T16:39:32Z"
-        },
-        {
-          "id": "32b164e7c3dfdb3140aa50a9755dc2b81bf015ad",
-          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini’s visible watermarks",
-          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T16:39:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
-          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
-          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T16:39:32Z"
-        },
-        {
-          "id": "32b164e7c3dfdb3140aa50a9755dc2b81bf015ad",
-          "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini’s visible watermarks",
-          "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T16:39:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5762,
-      "importance": 0.5762,
-      "importance_score": 0.5762,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.58,
-        "ai_relevance": 0.71,
-        "recency": 0.7122,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T16:39:32Z",
-      "latest_at": "2026-08-14T16:39:32Z",
-      "primary_item": {
-        "id": "25948c144546574537dcb949f9f1e1f17264c5e1",
-        "title": "您现在可以关闭 Google Gemini 的可见水印 / You can now turn off Google Gemini&#8217;s visible watermarks",
-        "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "id": "75443a8cd653f571b5a8ca0103a27e4a20ca7a4d",
+        "title": "从事人工智能工作，与其说是编程，不如说是领导工作",
+        "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
+        "source": "allen.bargi.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -536,15 +415,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5672,
-      "importance": 0.5672,
-      "importance_score": 0.5672,
+      "score": 0.5656,
+      "importance": 0.5656,
+      "importance_score": 0.5656,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9798,
+        "recency": 0.9712,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -634,15 +513,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5652,
-      "importance": 0.5652,
-      "importance_score": 0.5652,
+      "score": 0.5637,
+      "importance": 0.5637,
+      "importance_score": 0.5637,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9688,
+        "recency": 0.9603,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -732,15 +611,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5468,
-      "importance": 0.5468,
-      "importance_score": 0.5468,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8665,
+        "recency": 0.8589,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -811,15 +690,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9251,
+        "recency": 0.9169,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -890,15 +769,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9251,
+        "recency": 0.9169,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -912,104 +791,6 @@
         "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
         "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9f1cc05b1c69",
-      "title": "充分利用您的克劳德代码（Claude Code）会话",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "primary_url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-      "source": "claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d1203a05303ec32139953b9c7a5de83604e12a84",
-          "title": "充分利用您的克劳德代码（Claude Code）会话",
-          "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T22:16:05.719000Z"
-        },
-        {
-          "id": "102f1dd730b5a437e3a775e4302021a489092a36",
-          "title": "最大限度地发挥克劳德代码课程的价值 / Maximizing the value of your Claude Code sessions",
-          "url": "https://news.ycombinator.com/item?id=49300800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T17:05:46.600000Z"
-        },
-        {
-          "id": "818b81921514c8713b0e788454486ce71e568efa",
-          "title": "充分利用您的克劳德代码（Claude Code）会话 / Maximizing the value of your Claude Code sessions",
-          "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-14T16:15:21Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "claude.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d1203a05303ec32139953b9c7a5de83604e12a84",
-          "title": "充分利用您的克劳德代码（Claude Code）会话",
-          "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-14T22:16:05.719000Z"
-        },
-        {
-          "id": "102f1dd730b5a437e3a775e4302021a489092a36",
-          "title": "最大限度地发挥克劳德代码课程的价值 / Maximizing the value of your Claude Code sessions",
-          "url": "https://news.ycombinator.com/item?id=49300800",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T17:05:46.600000Z"
-        },
-        {
-          "id": "818b81921514c8713b0e788454486ce71e568efa",
-          "title": "充分利用您的克劳德代码（Claude Code）会话 / Maximizing the value of your Claude Code sessions",
-          "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-14T16:15:21Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7723,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T16:15:21Z",
-      "latest_at": "2026-08-14T22:16:05.719000Z",
-      "primary_item": {
-        "id": "d1203a05303ec32139953b9c7a5de83604e12a84",
-        "title": "充分利用您的克劳德代码（Claude Code）会话",
-        "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-        "source": "claude.com",
         "source_name": "Buzzing"
       }
     },
@@ -1067,15 +848,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5233,
+      "importance": 0.5233,
+      "importance_score": 0.5233,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8828,
+        "recency": 0.8751,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1146,15 +927,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8768,
+        "recency": 0.8691,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1244,15 +1025,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5482,
-      "importance": 0.5482,
-      "importance_score": 0.5482,
+      "score": 0.5468,
+      "importance": 0.5468,
+      "importance_score": 0.5468,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8742,
+        "recency": 0.8665,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1323,15 +1104,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.513,
-      "importance": 0.513,
-      "importance_score": 0.513,
+      "score": 0.5117,
+      "importance": 0.5117,
+      "importance_score": 0.5117,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8178,
+        "recency": 0.8106,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1401,15 +1182,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5097,
-      "importance": 0.5097,
-      "importance_score": 0.5097,
+      "score": 0.5084,
+      "importance": 0.5084,
+      "importance_score": 0.5084,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7994,
+        "recency": 0.7924,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1480,15 +1261,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5317,
-      "importance": 0.5317,
-      "importance_score": 0.5317,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9215,
+        "recency": 0.9134,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1559,15 +1340,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4956,
-      "importance": 0.4956,
-      "importance_score": 0.4956,
+      "score": 0.4944,
+      "importance": 0.4944,
+      "importance_score": 0.4944,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.721,
+        "recency": 0.7147,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1638,15 +1419,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5443,
+      "importance": 0.5443,
+      "importance_score": 0.5443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9917,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1661,6 +1442,242 @@
         "url": "https://news.ycombinator.com/item?id=49311445",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_760bd4034f95",
+      "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
+      "url": "https://www.ithome.com/0/989/999.htm",
+      "primary_url": "https://www.ithome.com/0/989/999.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
+          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
+          "url": "https://www.ithome.com/0/989/999.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f4de1ce779eddcb8e5a0def32244748020c82612",
+          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
+          "url": "https://www.ithome.com/0/989/999.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T01:43:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
+          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
+          "url": "https://www.ithome.com/0/989/999.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f4de1ce779eddcb8e5a0def32244748020c82612",
+          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
+          "url": "https://www.ithome.com/0/989/999.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T01:43:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8166,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T01:43:10Z",
+      "latest_at": "2026-08-15T02:44:38.249009Z",
+      "primary_item": {
+        "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
+        "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
+        "url": "https://www.ithome.com/0/989/999.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_085e5e417efb",
+      "title": "“隐身”现象与执法部门黑客攻击时代 / Everything is about to \"go dark\"",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
+      "primary_url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "842e80c0ce1c1612980ed546a11e235f2ad73b47",
+          "title": "“隐身”现象与执法部门黑客攻击时代 / Everything is about to \"go dark\"",
+          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T20:52:44Z"
+        },
+        {
+          "id": "c3cbfe41ae3294c0a80909028e2ef9c5ac8ea5e0",
+          "title": "“隐身”现象与执法部门黑客攻击时代 / Going Dark, and the era of law enforcement hacking",
+          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T20:52:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "842e80c0ce1c1612980ed546a11e235f2ad73b47",
+          "title": "“隐身”现象与执法部门黑客攻击时代 / Everything is about to \"go dark\"",
+          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T20:52:44Z"
+        },
+        {
+          "id": "c3cbfe41ae3294c0a80909028e2ef9c5ac8ea5e0",
+          "title": "“隐身”现象与执法部门黑客攻击时代 / Going Dark, and the era of law enforcement hacking",
+          "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T20:52:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5009,
+      "importance": 0.5009,
+      "importance_score": 0.5009,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7503,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T20:52:44Z",
+      "latest_at": "2026-08-14T20:52:44Z",
+      "primary_item": {
+        "id": "842e80c0ce1c1612980ed546a11e235f2ad73b47",
+        "title": "“隐身”现象与执法部门黑客攻击时代 / Everything is about to \"go dark\"",
+        "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_fdec6775b90c",
+      "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
+      "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+      "primary_url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
+          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
+          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T10:14:10.909000Z"
+        },
+        {
+          "id": "675fb42a69b1b3c2840cbab77e95dc5f9f6753a4",
+          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。 / I stared deep into the heart of LinkedIn AI cringe slop. Darkness (and engagement) stared back.",
+          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:02:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
+          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
+          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T10:14:10.909000Z"
+        },
+        {
+          "id": "675fb42a69b1b3c2840cbab77e95dc5f9f6753a4",
+          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。 / I stared deep into the heart of LinkedIn AI cringe slop. Darkness (and engagement) stared back.",
+          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T10:02:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.91,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T10:02:01Z",
+      "latest_at": "2026-08-15T10:14:10.909000Z",
+      "primary_item": {
+        "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
+        "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
+        "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
