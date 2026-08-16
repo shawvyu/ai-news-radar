@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T14:11:01.800631Z",
+  "generated_at": "2026-08-16T14:44:31.178929Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
+      "score": 0.7869,
+      "importance": 0.7869,
+      "importance_score": 0.7869,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9592,
+        "recency": 0.9515,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.854,
+        "recency": 0.8471,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -198,15 +198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7702,
+        "recency": 0.764,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -278,15 +278,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6301,
-      "importance": 0.6301,
-      "importance_score": 0.6301,
+      "score": 0.629,
+      "importance": 0.629,
+      "importance_score": 0.629,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7578,
+        "recency": 0.7517,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -414,15 +414,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5848,
-      "importance": 0.5848,
-      "importance_score": 0.5848,
+      "score": 0.5836,
+      "importance": 0.5836,
+      "importance_score": 0.5836,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8,
+        "recency": 0.7936,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -530,15 +530,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5685,
-      "importance": 0.5685,
-      "importance_score": 0.5685,
+      "score": 0.5672,
+      "importance": 0.5672,
+      "importance_score": 0.5672,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8481,
+        "recency": 0.8413,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -628,15 +628,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5595,
-      "importance": 0.5595,
-      "importance_score": 0.5595,
+      "score": 0.5582,
+      "importance": 0.5582,
+      "importance_score": 0.5582,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9373,
+        "recency": 0.9298,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -650,6 +650,85 @@
         "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
         "url": "https://littlelearner-ll.github.io",
         "source": "littlelearner-ll.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9ffac573dcb5",
+      "title": "克劳德：系统提示",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "primary_url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "source": "platform.claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+          "title": "克劳德：系统提示",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "platform.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T14:30:18.432000Z"
+        },
+        {
+          "id": "1ad0eb1cf08472e153add8531ec7eb5aac577200",
+          "title": "克劳德：系统提示 / Claude: System Prompts",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T12:48:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "platform.claude.com"
+      ],
+      "items": [
+        {
+          "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+          "title": "克劳德：系统提示",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "platform.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T14:30:18.432000Z"
+        },
+        {
+          "id": "1ad0eb1cf08472e153add8531ec7eb5aac577200",
+          "title": "克劳德：系统提示 / Claude: System Prompts",
+          "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T12:48:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9966,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T12:48:21Z",
+      "latest_at": "2026-08-16T14:30:18.432000Z",
+      "primary_item": {
+        "id": "f652679f24bb81d021d5b62102e00cba581f8d6c",
+        "title": "克劳德：系统提示",
+        "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+        "source": "platform.claude.com",
         "source_name": "Buzzing"
       }
     },
@@ -707,15 +786,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9741,
+        "recency": 0.9663,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -786,15 +865,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.962,
+        "recency": 0.9542,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -864,15 +943,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9562,
+        "recency": 0.9486,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -943,15 +1022,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5312,
+      "importance": 0.5312,
+      "importance_score": 0.5312,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9263,
+        "recency": 0.9188,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -966,6 +1045,85 @@
         "url": "https://www.ithome.com/0/990/295.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_332bc90701f1",
+      "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+      "url": "https://news.ycombinator.com/item?id=49320144",
+      "primary_url": "https://news.ycombinator.com/item?id=49320144",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
+          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://news.ycombinator.com/item?id=49320144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T14:45:05.920000Z"
+        },
+        {
+          "id": "cb2b2d9b9bd159491e81661eb7eb6d0218f7d48f",
+          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T13:58:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
+          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://news.ycombinator.com/item?id=49320144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T14:45:05.920000Z"
+        },
+        {
+          "id": "cb2b2d9b9bd159491e81661eb7eb6d0218f7d48f",
+          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T13:58:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T13:58:17Z",
+      "latest_at": "2026-08-16T14:45:05.920000Z",
+      "primary_item": {
+        "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
+        "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+        "url": "https://news.ycombinator.com/item?id=49320144",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1022,15 +1180,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9518,
+        "recency": 0.9442,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1100,15 +1258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5055,
-      "importance": 0.5055,
-      "importance_score": 0.5055,
+      "score": 0.5044,
+      "importance": 0.5044,
+      "importance_score": 0.5044,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7761,
+        "recency": 0.7699,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1123,6 +1281,85 @@
         "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_92d5ed5d2fd7",
+      "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
+      "url": "https://www.ithome.com/0/990/270.htm",
+      "primary_url": "https://www.ithome.com/0/990/270.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "aed78b34a9de1a9f017520009a95b3aa7f5da56c",
+          "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
+          "url": "https://www.ithome.com/0/990/270.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f91c421393cbd4ef96fc5a9e522772e5a9d9ef15",
+          "title": "索尼 PlayStation 新专利公开：利用 AI 驱动账号模拟未成年人，主动识别潜在恶意用户",
+          "url": "https://www.ithome.com/0/990/270.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T04:30:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "aed78b34a9de1a9f017520009a95b3aa7f5da56c",
+          "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
+          "url": "https://www.ithome.com/0/990/270.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f91c421393cbd4ef96fc5a9e522772e5a9d9ef15",
+          "title": "索尼 PlayStation 新专利公开：利用 AI 驱动账号模拟未成年人，主动识别潜在恶意用户",
+          "url": "https://www.ithome.com/0/990/270.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T04:30:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8727,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T04:30:46Z",
+      "latest_at": "2026-08-16T05:18:46.144990Z",
+      "primary_item": {
+        "id": "aed78b34a9de1a9f017520009a95b3aa7f5da56c",
+        "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
+        "url": "https://www.ithome.com/0/990/270.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1198,15 +1435,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8,
+        "recency": 0.7936,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1219,242 +1456,6 @@
         "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
         "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
         "url": "https://news.ycombinator.com/item?id=49314594",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_92d5ed5d2fd7",
-      "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
-      "url": "https://www.ithome.com/0/990/270.htm",
-      "primary_url": "https://www.ithome.com/0/990/270.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "aed78b34a9de1a9f017520009a95b3aa7f5da56c",
-          "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
-          "url": "https://www.ithome.com/0/990/270.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f91c421393cbd4ef96fc5a9e522772e5a9d9ef15",
-          "title": "索尼 PlayStation 新专利公开：利用 AI 驱动账号模拟未成年人，主动识别潜在恶意用户",
-          "url": "https://www.ithome.com/0/990/270.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T04:30:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "aed78b34a9de1a9f017520009a95b3aa7f5da56c",
-          "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
-          "url": "https://www.ithome.com/0/990/270.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f91c421393cbd4ef96fc5a9e522772e5a9d9ef15",
-          "title": "索尼 PlayStation 新专利公开：利用 AI 驱动账号模拟未成年人，主动识别潜在恶意用户",
-          "url": "https://www.ithome.com/0/990/270.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T04:30:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8798,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T04:30:46Z",
-      "latest_at": "2026-08-16T05:18:46.144990Z",
-      "primary_item": {
-        "id": "aed78b34a9de1a9f017520009a95b3aa7f5da56c",
-        "title": "索尼 PlayStation 新专利：用 AI 模拟未成年人账号，识别恶意用户",
-        "url": "https://www.ithome.com/0/990/270.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_50618d963157",
-      "title": "Printytron – 描述零件，获取可打印的 STL / Printytron – Describe a part, get a printable STL",
-      "url": "https://printytron.com",
-      "primary_url": "https://printytron.com",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "ec1e1494f1e49fba6cc04e492b65c5a1f4585e6a",
-          "title": "Printytron – 描述零件，获取可打印的 STL / Printytron – Describe a part, get a printable STL",
-          "url": "https://printytron.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:22:20Z"
-        },
-        {
-          "id": "0902537b4469e04e076cfd8789274f15921961e2",
-          "title": "Printytron – 输入。 3D 打印它 / Printytron – Type it. 3D Print it",
-          "url": "https://printytron.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:22:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "ec1e1494f1e49fba6cc04e492b65c5a1f4585e6a",
-          "title": "Printytron – 描述零件，获取可打印的 STL / Printytron – Describe a part, get a printable STL",
-          "url": "https://printytron.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:22:20Z"
-        },
-        {
-          "id": "0902537b4469e04e076cfd8789274f15921961e2",
-          "title": "Printytron – 输入。 3D 打印它 / Printytron – Type it. 3D Print it",
-          "url": "https://printytron.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:22:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4934,
-      "importance": 0.4934,
-      "importance_score": 0.4934,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.709,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T14:22:20Z",
-      "latest_at": "2026-08-15T14:22:20Z",
-      "primary_item": {
-        "id": "ec1e1494f1e49fba6cc04e492b65c5a1f4585e6a",
-        "title": "Printytron – 描述零件，获取可打印的 STL / Printytron – Describe a part, get a printable STL",
-        "url": "https://printytron.com",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_814092b1670d",
-      "title": "21,000 台 MCP 服务器暴露：协议达到安全拐点 / 21,000 MCP servers exposed: the protocol reaches a security inflection point",
-      "url": "https://news.ycombinator.com/item?id=49316815",
-      "primary_url": "https://news.ycombinator.com/item?id=49316815",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "80071067543ae8e314a666a88de3ab2f903cb548",
-          "title": "21,000 台 MCP 服务器暴露：协议达到安全拐点 / 21,000 MCP servers exposed: the protocol reaches a security inflection point",
-          "url": "https://news.ycombinator.com/item?id=49316815",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T05:10:44.244000Z"
-        },
-        {
-          "id": "a773b796fb3fdafa8bde47bf55f21a7a3c71738d",
-          "title": "21,000 台 MCP 服务器暴露：协议达到安全拐点 / 21,000 MCP servers exposed: the protocol reaches a security inflection point",
-          "url": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T04:07:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "80071067543ae8e314a666a88de3ab2f903cb548",
-          "title": "21,000 台 MCP 服务器暴露：协议达到安全拐点 / 21,000 MCP servers exposed: the protocol reaches a security inflection point",
-          "url": "https://news.ycombinator.com/item?id=49316815",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T05:10:44.244000Z"
-        },
-        {
-          "id": "a773b796fb3fdafa8bde47bf55f21a7a3c71738d",
-          "title": "21,000 台 MCP 服务器暴露：协议达到安全拐点 / 21,000 MCP servers exposed: the protocol reaches a security inflection point",
-          "url": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T04:07:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8781,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T04:07:18Z",
-      "latest_at": "2026-08-16T05:10:44.244000Z",
-      "primary_item": {
-        "id": "80071067543ae8e314a666a88de3ab2f903cb548",
-        "title": "21,000 台 MCP 服务器暴露：协议达到安全拐点 / 21,000 MCP servers exposed: the protocol reaches a security inflection point",
-        "url": "https://news.ycombinator.com/item?id=49316815",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1513,15 +1514,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5136,
-      "importance": 0.5136,
-      "importance_score": 0.5136,
+      "score": 0.5124,
+      "importance": 0.5124,
+      "importance_score": 0.5124,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8209,
+        "recency": 0.8143,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1592,15 +1593,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
+      "score": 0.5038,
+      "importance": 0.5038,
+      "importance_score": 0.5038,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7731,
+        "recency": 0.7669,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1618,80 +1619,80 @@
       }
     },
     {
-      "story_id": "story_78464e78aa4b",
-      "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-      "url": "https://news.ycombinator.com/item?id=49316605",
-      "primary_url": "https://news.ycombinator.com/item?id=49316605",
+      "story_id": "story_814092b1670d",
+      "title": "21,000 台 MCP 服务器暴露：协议达到安全拐点 / 21,000 MCP servers exposed: the protocol reaches a security inflection point",
+      "url": "https://news.ycombinator.com/item?id=49316815",
+      "primary_url": "https://news.ycombinator.com/item?id=49316815",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49316605",
+          "id": "80071067543ae8e314a666a88de3ab2f903cb548",
+          "title": "21,000 台 MCP 服务器暴露：协议达到安全拐点 / 21,000 MCP servers exposed: the protocol reaches a security inflection point",
+          "url": "https://news.ycombinator.com/item?id=49316815",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-16T05:10:44.244000Z"
         },
         {
-          "id": "21b0027bbef147692576a393bcc41524018907e7",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://github.com/yebiguo/ProofRun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T03:22:15Z"
+          "id": "a773b796fb3fdafa8bde47bf55f21a7a3c71738d",
+          "title": "21,000 台 MCP 服务器暴露：协议达到安全拐点 / 21,000 MCP servers exposed: the protocol reaches a security inflection point",
+          "url": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T04:07:18Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49316605",
+          "id": "80071067543ae8e314a666a88de3ab2f903cb548",
+          "title": "21,000 台 MCP 服务器暴露：协议达到安全拐点 / 21,000 MCP servers exposed: the protocol reaches a security inflection point",
+          "url": "https://news.ycombinator.com/item?id=49316815",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-16T05:10:44.244000Z"
         },
         {
-          "id": "21b0027bbef147692576a393bcc41524018907e7",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://github.com/yebiguo/ProofRun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T03:22:15Z"
+          "id": "a773b796fb3fdafa8bde47bf55f21a7a3c71738d",
+          "title": "21,000 台 MCP 服务器暴露：协议达到安全拐点 / 21,000 MCP servers exposed: the protocol reaches a security inflection point",
+          "url": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T04:07:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.5226,
+      "importance": 0.5226,
+      "importance_score": 0.5226,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8781,
+        "recency": 0.871,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T03:22:15Z",
+      "earliest_at": "2026-08-16T04:07:18Z",
       "latest_at": "2026-08-16T05:10:44.244000Z",
       "primary_item": {
-        "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-        "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-        "url": "https://news.ycombinator.com/item?id=49316605",
+        "id": "80071067543ae8e314a666a88de3ab2f903cb548",
+        "title": "21,000 台 MCP 服务器暴露：协议达到安全拐点 / 21,000 MCP servers exposed: the protocol reaches a security inflection point",
+        "url": "https://news.ycombinator.com/item?id=49316815",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
