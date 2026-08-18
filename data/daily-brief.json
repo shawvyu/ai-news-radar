@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T07:58:54.395984Z",
+  "generated_at": "2026-08-18T08:32:58.581118Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8687,
+        "recency": 0.8616,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8384,
+        "recency": 0.8315,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,6 +182,105 @@
         "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_18f01657010d",
+      "title": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+      "url": "https://www.aibase.com/news/30429",
+      "primary_url": "https://www.aibase.com/news/30429",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bc231d7de78f2c83c89f432c904568eee93a6661",
+          "title": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "url": "https://www.aibase.com/news/30429",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T08:32:58.581118Z"
+        },
+        {
+          "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
+          "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "url": "https://www.aibase.com/news/30429",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T06:20:54.349732Z"
+        },
+        {
+          "id": "33db18a733972cd9fecc2b14db4df86ee77bb97d",
+          "title": "AI 版权危机升级：独立音乐出版商起诉 Anthropic 与 Suno，索赔或超 10 亿美元",
+          "url": "https://www.aibase.com/zh/news/30429",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bc231d7de78f2c83c89f432c904568eee93a6661",
+          "title": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "url": "https://www.aibase.com/news/30429",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T08:32:58.581118Z"
+        },
+        {
+          "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
+          "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+          "url": "https://www.aibase.com/news/30429",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T06:20:54.349732Z"
+        },
+        {
+          "id": "33db18a733972cd9fecc2b14db4df86ee77bb97d",
+          "title": "AI 版权危机升级：独立音乐出版商起诉 Anthropic 与 Suno，索赔或超 10 亿美元",
+          "url": "https://www.aibase.com/zh/news/30429",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T06:20:54.349732Z",
+      "latest_at": "2026-08-18T08:32:58.581118Z",
+      "primary_item": {
+        "id": "bc231d7de78f2c83c89f432c904568eee93a6661",
+        "title": "独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
+        "url": "https://www.aibase.com/news/30429",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -219,15 +318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7939,
+        "recency": 0.7874,
         "story_heat": 0.0
       },
       "category": "official",
@@ -395,15 +494,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.8333,
-      "importance": 0.8333,
-      "importance_score": 0.8333,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8263,
+        "recency": 0.8195,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -423,130 +522,68 @@
       }
     },
     {
-      "story_id": "story_cfb1ad6d5c2e",
-      "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
-      "primary_url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a91b14668f19e9c4b49f9e20ab96e03d79f7e084",
-          "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
-          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T08:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "a91b14668f19e9c4b49f9e20ab96e03d79f7e084",
-          "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
-          "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T08:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7073,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T08:00:00Z",
-      "latest_at": "2026-08-17T08:00:00Z",
-      "primary_item": {
-        "id": "a91b14668f19e9c4b49f9e20ab96e03d79f7e084",
-        "title": "与 Gemini 和 Pixel 一起近距离接触游戏 / Get closer to the game with Gemini and Pixel",
-        "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_13e9f34b82b7",
-      "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-      "url": "https://www.aibase.com/news/30432",
-      "primary_url": "https://www.aibase.com/news/30432",
+      "story_id": "story_d274e2e9ef1d",
+      "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+      "url": "https://www.aibase.com/news/30439",
+      "primary_url": "https://www.aibase.com/news/30439",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-          "url": "https://www.aibase.com/news/30432",
+          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "url": "https://www.aibase.com/news/30439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T07:11:03.941243Z"
+          "published_at": "2026-08-18T08:32:58.581118Z"
         },
         {
-          "id": "c1b6bc90bb6380c4257f7acc0b90f38938b89e7e",
-          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把「图」当源码",
-          "url": "https://www.aibase.com/zh/news/30432",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "e0bc3fe0e7e9fdb2675fa99c3c4cfa2ff4af6ea5",
+          "title": "Anthropic 披露 Model 2 模型，能力略高于公开最强 AI Claude Mythos 5",
+          "url": "https://www.ithome.com/0/991/074.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T06:15:12Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "AIbase",
-        "Readhub · AI"
+        "IT之家 (ITHome)"
       ],
       "items": [
         {
-          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-          "url": "https://www.aibase.com/news/30432",
+          "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+          "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+          "url": "https://www.aibase.com/news/30439",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T07:11:03.941243Z"
+          "published_at": "2026-08-18T08:32:58.581118Z"
         },
         {
-          "id": "c1b6bc90bb6380c4257f7acc0b90f38938b89e7e",
-          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把「图」当源码",
-          "url": "https://www.aibase.com/zh/news/30432",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "e0bc3fe0e7e9fdb2675fa99c3c4cfa2ff4af6ea5",
+          "title": "Anthropic 披露 Model 2 模型，能力略高于公开最强 AI Claude Mythos 5",
+          "url": "https://www.ithome.com/0/991/074.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T06:15:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7905,
-      "importance": 0.7905,
-      "importance_score": 0.7905,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9886,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -555,12 +592,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T07:11:03.941243Z",
-      "latest_at": "2026-08-18T07:58:54.395984Z",
+      "earliest_at": "2026-08-18T06:15:12Z",
+      "latest_at": "2026-08-18T08:32:58.581118Z",
       "primary_item": {
-        "id": "597ed88674a898548c4f5920b32a5572603d64e3",
-        "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
-        "url": "https://www.aibase.com/news/30432",
+        "id": "72ab8e2d8d7669b0abbe45f11dc2f7c02e424596",
+        "title": "Anthropic 披露 Model 2：性能略超公开最强 Claude Mythos 5",
+        "url": "https://www.aibase.com/news/30439",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -619,15 +656,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7557,
+        "recency": 0.7495,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -644,87 +681,6 @@
         "url": "https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence",
         "source": "NVIDIA Blog（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d2b7f2daf188",
-      "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-      "url": "https://www.aibase.com/news/30430",
-      "primary_url": "https://www.aibase.com/news/30430",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
-          "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-          "url": "https://www.aibase.com/news/30430",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T07:11:03.941243Z"
-        },
-        {
-          "id": "da0afb97ddc47dc3223f2f8f5892299f46ced311",
-          "title": "昆仑万维发布 Mureka V9.5：AI 音乐告别「机械堆砌」，转向「人情味」创作",
-          "url": "https://www.aibase.com/zh/news/30430",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
-          "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-          "url": "https://www.aibase.com/news/30430",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T07:11:03.941243Z"
-        },
-        {
-          "id": "da0afb97ddc47dc3223f2f8f5892299f46ced311",
-          "title": "昆仑万维发布 Mureka V9.5：AI 音乐告别「机械堆砌」，转向「人情味」创作",
-          "url": "https://www.aibase.com/zh/news/30430",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7905,
-      "importance": 0.7905,
-      "importance_score": 0.7905,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9886,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T07:11:03.941243Z",
-      "latest_at": "2026-08-18T07:11:03.941243Z",
-      "primary_item": {
-        "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
-        "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-        "url": "https://www.aibase.com/news/30430",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -780,15 +736,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7567,
+        "recency": 0.7505,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -842,21 +798,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9859,
+        "recency": 0.9779,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-18T07:00:00Z",
       "latest_at": "2026-08-18T07:00:00Z",
@@ -903,15 +858,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8907,
+        "recency": 0.8834,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1020,15 +975,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8168,
+        "recency": 0.8101,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1082,15 +1037,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8831,
+        "recency": 0.8759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1108,26 +1063,26 @@
       }
     },
     {
-      "story_id": "story_18f01657010d",
-      "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-      "url": "https://www.aibase.com/news/30429",
-      "primary_url": "https://www.aibase.com/news/30429",
+      "story_id": "story_f96b6150f13a",
+      "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+      "url": "https://www.aibase.com/news/30435",
+      "primary_url": "https://www.aibase.com/news/30435",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
-          "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-          "url": "https://www.aibase.com/news/30429",
+          "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
+          "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+          "url": "https://www.aibase.com/news/30435",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T06:20:54.349732Z"
+          "published_at": "2026-08-18T07:58:54.395984Z"
         },
         {
-          "id": "33db18a733972cd9fecc2b14db4df86ee77bb97d",
-          "title": "AI 版权危机升级：独立音乐出版商起诉 Anthropic 与 Suno，索赔或超 10 亿美元",
-          "url": "https://www.aibase.com/zh/news/30429",
+          "id": "66d6150be44dc5d6bd98733db972e3eb89dd9acf",
+          "title": "OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费，输入输出均半价",
+          "url": "https://www.aibase.com/zh/news/30435",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1141,18 +1096,18 @@
       ],
       "items": [
         {
-          "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
-          "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-          "url": "https://www.aibase.com/news/30429",
+          "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
+          "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+          "url": "https://www.aibase.com/news/30435",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T06:20:54.349732Z"
+          "published_at": "2026-08-18T07:58:54.395984Z"
         },
         {
-          "id": "33db18a733972cd9fecc2b14db4df86ee77bb97d",
-          "title": "AI 版权危机升级：独立音乐出版商起诉 Anthropic 与 Suno，索赔或超 10 亿美元",
-          "url": "https://www.aibase.com/zh/news/30429",
+          "id": "66d6150be44dc5d6bd98733db972e3eb89dd9acf",
+          "title": "OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费，输入输出均半价",
+          "url": "https://www.aibase.com/zh/news/30435",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1161,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7884,
-      "importance": 0.7884,
-      "importance_score": 0.7884,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9767,
+        "recency": 0.9918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1178,12 +1133,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T06:20:54.349732Z",
-      "latest_at": "2026-08-18T07:11:03.941243Z",
+      "earliest_at": "2026-08-18T07:58:54.395984Z",
+      "latest_at": "2026-08-18T08:32:58.581118Z",
       "primary_item": {
-        "id": "e32729d5292817c9c557c76fc9fdaad1bf706caf",
-        "title": "AI版权危机再度升级：独立音乐出版商起诉Anthropic与Suno，索赔或超 10 亿美元",
-        "url": "https://www.aibase.com/news/30429",
+        "id": "17e8eb0524d244838f20ce6a3c312ed062890012",
+        "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
+        "url": "https://www.aibase.com/news/30435",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1223,15 +1178,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7263,
-      "importance": 0.7263,
-      "importance_score": 0.7263,
+      "score": 0.7252,
+      "importance": 0.7252,
+      "importance_score": 0.7252,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.754,
+        "recency": 0.7478,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1249,26 +1204,26 @@
       }
     },
     {
-      "story_id": "story_80f87858c9c7",
-      "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-      "url": "https://www.aibase.com/news/30426",
-      "primary_url": "https://www.aibase.com/news/30426",
+      "story_id": "story_038b70333907",
+      "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+      "url": "https://www.aibase.com/news/30434",
+      "primary_url": "https://www.aibase.com/news/30434",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "url": "https://www.aibase.com/news/30426",
+          "id": "f83591abed7de311be34b00e2db89cff34da7523",
+          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "url": "https://www.aibase.com/news/30434",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:22:41.406384Z"
+          "published_at": "2026-08-18T07:58:54.395984Z"
         },
         {
-          "id": "9825ec55a77981fd99da5bb06dfcce5b6e6c8ae2",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "url": "https://www.aibase.com/zh/news/30426",
+          "id": "79782962e8864b192f2ce5a886b849da8049fcd0",
+          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成「分水岭」，企业速做 10 件事",
+          "url": "https://www.aibase.com/zh/news/30434",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1282,18 +1237,18 @@
       ],
       "items": [
         {
-          "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "url": "https://www.aibase.com/news/30426",
+          "id": "f83591abed7de311be34b00e2db89cff34da7523",
+          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "url": "https://www.aibase.com/news/30434",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T04:22:41.406384Z"
+          "published_at": "2026-08-18T07:58:54.395984Z"
         },
         {
-          "id": "9825ec55a77981fd99da5bb06dfcce5b6e6c8ae2",
-          "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-          "url": "https://www.aibase.com/zh/news/30426",
+          "id": "79782962e8864b192f2ce5a886b849da8049fcd0",
+          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成「分水岭」，企业速做 10 件事",
+          "url": "https://www.aibase.com/zh/news/30434",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1302,15 +1257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9493,
+        "recency": 0.9918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1319,37 +1274,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T04:22:41.406384Z",
-      "latest_at": "2026-08-18T04:22:41.406384Z",
+      "earliest_at": "2026-08-18T07:58:54.395984Z",
+      "latest_at": "2026-08-18T08:32:58.581118Z",
       "primary_item": {
-        "id": "48f4b70d03ab350b265876c89f22187a5f1e8baa",
-        "title": "Google AI 重组内幕：Brin 亲自督战，DeepMind 权力洗牌",
-        "url": "https://www.aibase.com/news/30426",
+        "id": "f83591abed7de311be34b00e2db89cff34da7523",
+        "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+        "url": "https://www.aibase.com/news/30434",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_1bbf8c8dfb76",
-      "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-      "url": "https://www.aibase.com/news/30425",
-      "primary_url": "https://www.aibase.com/news/30425",
+      "story_id": "story_13e9f34b82b7",
+      "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+      "url": "https://www.aibase.com/news/30432",
+      "primary_url": "https://www.aibase.com/news/30432",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
-          "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-          "url": "https://www.aibase.com/news/30425",
+          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "url": "https://www.aibase.com/news/30432",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T03:33:44.577968Z"
+          "published_at": "2026-08-18T07:11:03.941243Z"
         },
         {
-          "id": "9918c1521cd2db22d4c58b6de2e078f566168a11",
-          "title": "企业微信 5.0.10 打通 AI Agent，十大办公能力全面开放",
-          "url": "https://www.aibase.com/zh/news/30425",
+          "id": "c1b6bc90bb6380c4257f7acc0b90f38938b89e7e",
+          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把「图」当源码",
+          "url": "https://www.aibase.com/zh/news/30432",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1363,18 +1318,18 @@
       ],
       "items": [
         {
-          "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
-          "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-          "url": "https://www.aibase.com/news/30425",
+          "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+          "url": "https://www.aibase.com/news/30432",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T03:33:44.577968Z"
+          "published_at": "2026-08-18T07:11:03.941243Z"
         },
         {
-          "id": "9918c1521cd2db22d4c58b6de2e078f566168a11",
-          "title": "企业微信 5.0.10 打通 AI Agent，十大办公能力全面开放",
-          "url": "https://www.aibase.com/zh/news/30425",
+          "id": "c1b6bc90bb6380c4257f7acc0b90f38938b89e7e",
+          "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把「图」当源码",
+          "url": "https://www.aibase.com/zh/news/30432",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1383,15 +1338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9382,
+        "recency": 0.9805,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1400,12 +1355,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T03:33:44.577968Z",
-      "latest_at": "2026-08-18T04:22:41.406384Z",
+      "earliest_at": "2026-08-18T07:11:03.941243Z",
+      "latest_at": "2026-08-18T07:58:54.395984Z",
       "primary_item": {
-        "id": "72d49b34813673901937a3d3c2c713f703fc79a5",
-        "title": "企业微信5.0.10打通AI Agent，十大办公能力全面开放",
-        "url": "https://www.aibase.com/news/30425",
+        "id": "597ed88674a898548c4f5920b32a5572603d64e3",
+        "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
+        "url": "https://www.aibase.com/news/30432",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d2b7f2daf188",
+      "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+      "url": "https://www.aibase.com/news/30430",
+      "primary_url": "https://www.aibase.com/news/30430",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
+          "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+          "url": "https://www.aibase.com/news/30430",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T07:11:03.941243Z"
+        },
+        {
+          "id": "da0afb97ddc47dc3223f2f8f5892299f46ced311",
+          "title": "昆仑万维发布 Mureka V9.5：AI 音乐告别「机械堆砌」，转向「人情味」创作",
+          "url": "https://www.aibase.com/zh/news/30430",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
+          "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+          "url": "https://www.aibase.com/news/30430",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T07:11:03.941243Z"
+        },
+        {
+          "id": "da0afb97ddc47dc3223f2f8f5892299f46ced311",
+          "title": "昆仑万维发布 Mureka V9.5：AI 音乐告别「机械堆砌」，转向「人情味」创作",
+          "url": "https://www.aibase.com/zh/news/30430",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9805,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T07:11:03.941243Z",
+      "latest_at": "2026-08-18T07:11:03.941243Z",
+      "primary_item": {
+        "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
+        "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+        "url": "https://www.aibase.com/news/30430",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1462,18 +1498,9 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-17T10:02:23.768544Z"
-        },
-        {
-          "id": "97d3ec9e967f81286c3aaab38967ea39494d3974",
-          "title": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-17T08:28:27.756956Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 5,
       "source_names": [
         "社区更新 · 2026-08-16",
         "社区更新 · 2026-08-17"
@@ -1523,35 +1550,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-08-17T10:02:23.768544Z"
-        },
-        {
-          "id": "97d3ec9e967f81286c3aaab38967ea39494d3974",
-          "title": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-17T08:28:27.756956Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6339,
-      "importance": 0.6339,
-      "importance_score": 0.6339,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6327,
+      "importance": 0.6327,
+      "importance_score": 0.6327,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8037,
+        "recency": 0.7972,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-17T08:28:27.756956Z",
+      "earliest_at": "2026-08-17T10:02:23.768544Z",
       "latest_at": "2026-08-17T16:51:05.115422Z",
       "primary_item": {
         "id": "ebc199a5cbed9810e41b24ccc4882fcbbafdaf02",
@@ -1559,87 +1577,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-17",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_6a7fff61cbab",
-      "title": "谷歌斥资千万美元收购破产精神航空企业数据，加码 AI 与产品研发",
-      "url": "https://www.aibase.com/news/30423",
-      "primary_url": "https://www.aibase.com/news/30423",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "854cb5a213eba8ebb93154afb74c4f60fa9c9137",
-          "title": "谷歌斥资千万美元收购破产精神航空企业数据，加码 AI 与产品研发",
-          "url": "https://www.aibase.com/news/30423",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T03:33:44.577968Z"
-        },
-        {
-          "id": "c4936f91cb299ca30037b31f9ad8825d885fcd7c",
-          "title": "谷歌斥资千万美元收购破产精神航空企业数据，加码 AI 与产品研发",
-          "url": "https://www.aibase.com/zh/news/30423",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "854cb5a213eba8ebb93154afb74c4f60fa9c9137",
-          "title": "谷歌斥资千万美元收购破产精神航空企业数据，加码 AI 与产品研发",
-          "url": "https://www.aibase.com/news/30423",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T03:33:44.577968Z"
-        },
-        {
-          "id": "c4936f91cb299ca30037b31f9ad8825d885fcd7c",
-          "title": "谷歌斥资千万美元收购破产精神航空企业数据，加码 AI 与产品研发",
-          "url": "https://www.aibase.com/zh/news/30423",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9382,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T03:33:44.577968Z",
-      "latest_at": "2026-08-18T04:22:41.406384Z",
-      "primary_item": {
-        "id": "854cb5a213eba8ebb93154afb74c4f60fa9c9137",
-        "title": "谷歌斥资千万美元收购破产精神航空企业数据，加码 AI 与产品研发",
-        "url": "https://www.aibase.com/news/30423",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1695,15 +1632,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.613,
-      "importance": 0.613,
-      "importance_score": 0.613,
+      "score": 0.6118,
+      "importance": 0.6118,
+      "importance_score": 0.6118,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8013,
+        "recency": 0.7948,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1717,6 +1654,85 @@
         "title": "曾经的在线书商亚马逊正在销毁善本书籍来训练人工智能模型 / Amazon, once an online bookseller, is destroying rare books to train AI models",
         "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
         "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_4f997d6e653c",
+      "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+      "primary_url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+      "source": "The Decoder AI News",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
+          "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T14:43:04Z"
+        },
+        {
+          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
+          "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T17:55:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "The Decoder AI News"
+      ],
+      "items": [
+        {
+          "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
+          "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-17T14:43:04Z"
+        },
+        {
+          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
+          "title": "Apple AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / Apple AirTag reveals how Amazon destroys rare books for AI training",
+          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T17:55:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6079,
+      "importance": 0.6079,
+      "importance_score": 0.6079,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.773,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T14:43:04Z",
+      "latest_at": "2026-08-17T17:55:50Z",
+      "primary_item": {
+        "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
+        "title": "AirTag 揭露亚马逊如何销毁用于人工智能训练的善本 / AirTag reveals how Amazon destroys rare books for AI training",
+        "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
+        "source": "The Decoder AI News",
         "source_name": "Curated Media"
       }
     }
