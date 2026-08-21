@@ -1,171 +1,8 @@
 {
-  "generated_at": "2026-08-21T16:17:12.466423Z",
+  "generated_at": "2026-08-21T16:57:13.378892Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_c7cdb6722fd8",
-      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T16:52:57Z"
-        },
-        {
-          "id": "0c6f1fc6bfff8ea3774ad3b6ffcb23a7430ec3ab",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:52:57Z"
-        },
-        {
-          "id": "0ada2ec63296334c4ebabce43e4fe8b9a8d82036",
-          "title": "LFM2.5-DSpark 实现最高 3.2 倍推理加速",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T16:52:57Z"
-        },
-        {
-          "id": "0c6f1fc6bfff8ea3774ad3b6ffcb23a7430ec3ab",
-          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T16:52:57Z"
-        },
-        {
-          "id": "0ada2ec63296334c4ebabce43e4fe8b9a8d82036",
-          "title": "LFM2.5-DSpark 实现最高 3.2 倍推理加速",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8584,
-      "importance": 0.8584,
-      "importance_score": 0.8584,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7132,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T16:52:57Z",
-      "latest_at": "2026-08-20T17:52:22.503687Z",
-      "primary_item": {
-        "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
-        "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e42b7af4138c",
-      "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "primary_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
-          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T11:59:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
-          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T11:59:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9399,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T11:59:48Z",
-      "latest_at": "2026-08-21T11:59:48Z",
-      "primary_item": {
-        "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
-        "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_68e9fb1705e1",
       "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象 / Measuring benchmark optimization in speech recognition",
@@ -220,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8533,
-      "importance": 0.8533,
-      "importance_score": 0.8533,
+      "score": 0.8519,
+      "importance": 0.8519,
+      "importance_score": 0.8519,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7904,
+        "recency": 0.7828,
         "story_heat": 0.25
       },
       "category": "official",
@@ -249,21 +86,21 @@
       }
     },
     {
-      "story_id": "story_8049599f3b1e",
-      "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
-      "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
-      "primary_url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "story_id": "story_87fedaf94c82",
+      "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+      "primary_url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
-          "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
-          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+          "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+          "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T23:29:34Z"
+          "published_at": "2026-08-21T16:07:15Z"
         }
       ],
       "source_count": 1,
@@ -272,26 +109,26 @@
       ],
       "items": [
         {
-          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
-          "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
-          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+          "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+          "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T23:29:34Z"
+          "published_at": "2026-08-21T16:07:15Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.8498,
+      "importance": 0.8498,
+      "importance_score": 0.8498,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7847,
+        "ai_relevance": 0.91,
+        "recency": 0.988,
         "story_heat": 0.0
       },
       "category": "official",
@@ -300,12 +137,136 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T23:29:34Z",
-      "latest_at": "2026-08-20T23:29:34Z",
+      "earliest_at": "2026-08-21T16:07:15Z",
+      "latest_at": "2026-08-21T16:07:15Z",
       "primary_item": {
-        "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
-        "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
-        "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+        "id": "95be4d894cfb7732cd86896767c25f43138d9629",
+        "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+        "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e42b7af4138c",
+      "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "primary_url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
+          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T11:59:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
+          "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+          "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T11:59:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9309,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T11:59:48Z",
+      "latest_at": "2026-08-21T11:59:48Z",
+      "primary_item": {
+        "id": "170a12f11c9a3347096780bfa4e659b0e9daca01",
+        "title": "从 Atari 到 EVE Online：基于 15 年游戏人工智能研究 / From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+        "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_eb308b8c2b22",
+      "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+      "primary_url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
+          "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+          "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T16:03:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
+          "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+          "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-21T16:03:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8497,
+      "importance": 0.8497,
+      "importance_score": 0.8497,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9872,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T16:03:36Z",
+      "latest_at": "2026-08-21T16:03:36Z",
+      "primary_item": {
+        "id": "decada2ec28c4f5c3a53da129b04075e40cc546e",
+        "title": "在 Microsoft Teams 中与 GitHub Copilot 共享代理工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+        "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -383,15 +344,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7841,
+      "importance": 0.7841,
+      "importance_score": 0.7841,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9058,
+        "recency": 0.8971,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -464,15 +425,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9179,
+        "recency": 0.9091,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -526,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9742,
+        "recency": 0.9648,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -550,68 +511,6 @@
         "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
         "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b9b1ecfd122f",
-      "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7235,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T17:52:38Z",
-      "latest_at": "2026-08-20T17:52:38Z",
-      "primary_item": {
-        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-        "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
-        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -649,15 +548,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9057,
+        "recency": 0.897,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -710,21 +609,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7487,
+      "importance": 0.7487,
+      "importance_score": 0.7487,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9539,
+        "recency": 0.9448,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-21T13:01:13Z",
       "latest_at": "2026-08-21T13:01:13Z",
@@ -790,15 +688,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7769,
-      "importance": 0.7769,
-      "importance_score": 0.7769,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9125,
+        "recency": 0.9038,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -815,6 +713,68 @@
         "url": "https://www.aibase.com/news/30535",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8049599f3b1e",
+      "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+      "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "primary_url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+          "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T23:29:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+          "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T23:29:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7771,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T23:29:34Z",
+      "latest_at": "2026-08-20T23:29:34Z",
+      "primary_item": {
+        "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+        "title": "将保存的视图固定到存储库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+        "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -871,15 +831,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9011,
+        "recency": 0.8925,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -896,6 +856,68 @@
         "url": "https://www.aibase.com/news/30533",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b9b1ecfd122f",
+      "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T17:52:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T17:52:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7166,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T17:52:38Z",
+      "latest_at": "2026-08-20T17:52:38Z",
+      "primary_item": {
+        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+        "title": "Windows 11 arm64 VS2026 镜像正式发布 / Windows 11 arm64 VS2026 image generally available",
+        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -952,15 +974,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8877,
+        "recency": 0.8792,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1033,15 +1055,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8774,
+        "recency": 0.869,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1167,15 +1189,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6203,
-      "importance": 0.6203,
-      "importance_score": 0.6203,
+      "score": 0.619,
+      "importance": 0.619,
+      "importance_score": 0.619,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7282,
+        "recency": 0.7212,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1246,15 +1268,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8583,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1326,15 +1348,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6056,
-      "importance": 0.6056,
-      "importance_score": 0.6056,
+      "score": 0.6039,
+      "importance": 0.6039,
+      "importance_score": 0.6039,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9734,
+        "recency": 0.964,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1405,15 +1427,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8666,
+        "recency": 0.8583,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1505,15 +1527,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5701,
-      "importance": 0.5701,
-      "importance_score": 0.5701,
+      "score": 0.5684,
+      "importance": 0.5684,
+      "importance_score": 0.5684,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9963,
+        "recency": 0.9868,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1528,87 +1550,6 @@
         "url": "https://news.ycombinator.com/item?id=49389493",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_a20c73781736",
-      "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
-      "url": "https://www.aibase.com/news/30522",
-      "primary_url": "https://www.aibase.com/news/30522",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
-          "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
-          "url": "https://www.aibase.com/news/30522",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T03:26:27.295631Z"
-        },
-        {
-          "id": "3cc3f3636dd1bc1dd312480a230adb6616a895d3",
-          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API",
-          "url": "https://www.aibase.com/zh/news/30522",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
-          "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
-          "url": "https://www.aibase.com/news/30522",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T03:26:27.295631Z"
-        },
-        {
-          "id": "3cc3f3636dd1bc1dd312480a230adb6616a895d3",
-          "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API",
-          "url": "https://www.aibase.com/zh/news/30522",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8307,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T03:26:27.295631Z",
-      "latest_at": "2026-08-21T03:26:27.295631Z",
-      "primary_item": {
-        "id": "29723a13da3409d24ae8006c95bbc51698f5d195",
-        "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
-        "url": "https://www.aibase.com/news/30522",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
