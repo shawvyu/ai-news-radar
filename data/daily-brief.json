@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T13:50:43.333628Z",
+  "generated_at": "2026-08-23T14:11:25.227187Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8683,
+        "recency": 0.864,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,15 +98,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8294,
+        "recency": 0.8253,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -230,15 +230,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6303,
-      "importance": 0.6303,
-      "importance_score": 0.6303,
+      "score": 0.6296,
+      "importance": 0.6296,
+      "importance_score": 0.6296,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.7376,
+        "recency": 0.7339,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -335,6 +335,85 @@
       }
     },
     {
+      "story_id": "story_fa9eacb063cb",
+      "title": "OpenAI 推出青少年版 ChatGPT，儿童安全专家质疑安全机制透明度",
+      "url": "https://www.ithome.com/0/993/301.htm",
+      "primary_url": "https://www.ithome.com/0/993/301.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "bb3c993c4eed07fecaf422d587afccc02e504b97",
+          "title": "OpenAI 推出青少年版 ChatGPT，儿童安全专家质疑安全机制透明度",
+          "url": "https://www.ithome.com/0/993/301.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8ba9f4f8c1fb77f3f263aa85aba05ff12d1d351d",
+          "title": "OpenAI 推出青少年版 ChatGPT，多名儿童安全专家质疑安全机制透明度",
+          "url": "https://www.ithome.com/0/993/301.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T13:53:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bb3c993c4eed07fecaf422d587afccc02e504b97",
+          "title": "OpenAI 推出青少年版 ChatGPT，儿童安全专家质疑安全机制透明度",
+          "url": "https://www.ithome.com/0/993/301.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8ba9f4f8c1fb77f3f263aa85aba05ff12d1d351d",
+          "title": "OpenAI 推出青少年版 ChatGPT，多名儿童安全专家质疑安全机制透明度",
+          "url": "https://www.ithome.com/0/993/301.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T13:53:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T13:53:40Z",
+      "latest_at": "2026-08-23T14:11:25.227187Z",
+      "primary_item": {
+        "id": "bb3c993c4eed07fecaf422d587afccc02e504b97",
+        "title": "OpenAI 推出青少年版 ChatGPT，儿童安全专家质疑安全机制透明度",
+        "url": "https://www.ithome.com/0/993/301.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
       "story_id": "story_6f7310105200",
       "title": "我开发了一款爆红的人工智能水印去除工具。我完全没料到会引起这么大的关注。",
       "url": "https://www.businessinsider.com/created-viral-ai-watermark-remover-after-anthropics-announcement-2026-8",
@@ -388,15 +467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9825,
+        "recency": 0.9776,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -466,15 +545,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9712,
+        "recency": 0.9664,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -545,15 +624,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9694,
+        "recency": 0.9646,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -567,85 +646,6 @@
         "title": "NousResearch / hermes-agent",
         "url": "https://github.com/NousResearch/hermes-agent",
         "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_61266559dfa6",
-      "title": "橡鹿机器人全球首发三款烹饪机器人产品",
-      "url": "https://www.ithome.com/0/993/248.htm",
-      "primary_url": "https://www.ithome.com/0/993/248.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
-          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
-          "url": "https://www.ithome.com/0/993/248.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
-          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
-          "url": "https://www.ithome.com/0/993/248.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T10:01:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
-          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
-          "url": "https://www.ithome.com/0/993/248.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
-          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
-          "url": "https://www.ithome.com/0/993/248.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T10:01:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9567,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T10:01:14Z",
-      "latest_at": "2026-08-23T10:46:36.005343Z",
-      "primary_item": {
-        "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
-        "title": "橡鹿机器人全球首发三款烹饪机器人产品",
-        "url": "https://www.ithome.com/0/993/248.htm",
-        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
@@ -703,15 +703,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9491,
+        "recency": 0.9444,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -801,15 +801,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8011,
+        "recency": 0.7972,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -880,15 +880,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5337,
+      "importance": 0.5337,
+      "importance_score": 0.5337,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9373,
+        "recency": 0.9327,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -958,15 +958,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9168,
+        "recency": 0.9122,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1036,15 +1036,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5209,
-      "importance": 0.5209,
-      "importance_score": 0.5209,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8617,
+        "recency": 0.8574,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1134,15 +1134,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5197,
-      "importance": 0.5197,
-      "importance_score": 0.5197,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7162,
+        "recency": 0.7127,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1213,15 +1213,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5157,
-      "importance": 0.5157,
-      "importance_score": 0.5157,
+      "score": 0.5149,
+      "importance": 0.5149,
+      "importance_score": 0.5149,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8327,
+        "recency": 0.8286,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1292,15 +1292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9694,
+        "recency": 0.9646,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1314,6 +1314,85 @@
         "title": "anthropics / claude-plugins-community",
         "url": "https://github.com/anthropics/claude-plugins-community",
         "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_61266559dfa6",
+      "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+      "url": "https://www.ithome.com/0/993/248.htm",
+      "primary_url": "https://www.ithome.com/0/993/248.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
+          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T10:01:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+          "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "efcdc7453daee5ba3b83c7eb305ca79abd3eed7b",
+          "title": "AI 机器人进厨房：橡鹿机器人全球首发三款烹饪机器人产品",
+          "url": "https://www.ithome.com/0/993/248.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T10:01:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9519,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T10:01:14Z",
+      "latest_at": "2026-08-23T10:46:36.005343Z",
+      "primary_item": {
+        "id": "dd50a095b0bb8385e5e07946436c05d8d6f6028d",
+        "title": "橡鹿机器人全球首发三款烹饪机器人产品",
+        "url": "https://www.ithome.com/0/993/248.htm",
+        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
@@ -1371,15 +1450,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5073,
-      "importance": 0.5073,
-      "importance_score": 0.5073,
+      "score": 0.5065,
+      "importance": 0.5065,
+      "importance_score": 0.5065,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7858,
+        "recency": 0.7819,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1394,163 +1473,6 @@
         "url": "https://twitter.com/argofowl/status/2091150597374537729",
         "source": "twitter.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_543f347056f8",
-      "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-      "url": "https://www.ithome.com/0/993/242.htm",
-      "primary_url": "https://www.ithome.com/0/993/242.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
-          "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6059f6bed02a5480252d42ea6f7b3482256bd991",
-          "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T09:49:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
-          "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6059f6bed02a5480252d42ea6f7b3482256bd991",
-          "title": "微软英国超大规模 AI 数据中心项目遇阻，遭 4 万居民联署反对",
-          "url": "https://www.ithome.com/0/993/242.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-23T09:49:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9485,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T09:49:59Z",
-      "latest_at": "2026-08-23T10:11:11.119740Z",
-      "primary_item": {
-        "id": "6ec5d1fe7f53c7dca3608f47369432d88ffc224c",
-        "title": "微软英国超大规模AI数据中心项目遇阻 遭4万居民联署反对",
-        "url": "https://www.ithome.com/0/993/242.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6c66d05f07e2",
-      "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-      "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News (世界新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "ad139d0567388f9c59bc2265be902d2bf5e25415",
-          "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T17:02:06Z"
-        },
-        {
-          "id": "d55a4cd6f81afdc000549614f48ea2f4b8e67855",
-          "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment robot attempts to beat Usain Bolt's 100m record",
-          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T14:10:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News (世界新闻)"
-      ],
-      "items": [
-        {
-          "id": "ad139d0567388f9c59bc2265be902d2bf5e25415",
-          "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T17:02:06Z"
-        },
-        {
-          "id": "d55a4cd6f81afdc000549614f48ea2f4b8e67855",
-          "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment robot attempts to beat Usain Bolt's 100m record",
-          "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T14:10:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4991,
-      "importance": 0.4991,
-      "importance_score": 0.4991,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7404,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T14:10:05Z",
-      "latest_at": "2026-08-22T17:02:06Z",
-      "primary_item": {
-        "id": "ad139d0567388f9c59bc2265be902d2bf5e25415",
-        "title": "视频：机器人挑战尤塞恩·博尔特100米纪录的瞬间 / Watch: Moment humanoid robot beats Usain Bolt's 100m record",
-        "url": "https://www.bbc.co.uk/news/videos/cgljl9zp47xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News (世界新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1607,15 +1529,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4978,
-      "importance": 0.4978,
-      "importance_score": 0.4978,
+      "score": 0.4971,
+      "importance": 0.4971,
+      "importance_score": 0.4971,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7332,
+        "recency": 0.7296,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1630,6 +1552,85 @@
         "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cb08435a825e",
+      "title": "freestylefly / awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "primary_url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
+          "title": "freestylefly / awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3b2fa912249c187adb07c7989a414ac187beec37",
+          "title": "freestylefly /      awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
+          "title": "freestylefly / awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3b2fa912249c187adb07c7989a414ac187beec37",
+          "title": "freestylefly /      awesome-gpt-image-2",
+          "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-23T11:16:45.227000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9646,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T11:16:45.227000Z",
+      "latest_at": "2026-08-23T11:41:28.467792Z",
+      "primary_item": {
+        "id": "ff6cb8ba6d8bcefc9d5a4af907de953ed5c2cd2f",
+        "title": "freestylefly / awesome-gpt-image-2",
+        "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     }
   ]
