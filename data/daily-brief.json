@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T19:32:00.621904Z",
+  "generated_at": "2026-08-30T22:10:46.066756Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8569,
+        "recency": 0.8248,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7641,
+        "recency": 0.7355,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8031,
+        "recency": 0.773,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -258,15 +258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
+      "score": 0.72,
+      "importance": 0.72,
+      "importance_score": 0.72,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7412,
+        "recency": 0.7135,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -391,15 +391,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6817,
-      "importance": 0.6817,
-      "importance_score": 0.6817,
+      "score": 0.6749,
+      "importance": 0.6749,
+      "importance_score": 0.6749,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 1.0,
+        "recency": 0.9625,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -418,12 +418,21 @@
     },
     {
       "story_id": "story_2929f114895f",
-      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-      "url": "https://news.ycombinator.com/item?id=49498787",
-      "primary_url": "https://news.ycombinator.com/item?id=49498787",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+      "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+      "primary_url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+      "source": "thezvi.wordpress.com",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "thezvi.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T19:31:43.820000Z"
+        },
         {
           "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
           "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
@@ -435,12 +444,101 @@
         },
         {
           "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
-          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
           "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-08-30T14:06:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "thezvi.wordpress.com"
+      ],
+      "items": [
+        {
+          "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "thezvi.wordpress.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T19:31:43.820000Z"
+        },
+        {
+          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://news.ycombinator.com/item?id=49498787",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T19:20:47.100000Z"
+        },
+        {
+          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
+          "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告 / METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T14:06:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.564,
+      "importance": 0.564,
+      "importance_score": 0.564,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9624,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T14:06:54Z",
+      "latest_at": "2026-08-30T19:31:43.820000Z",
+      "primary_item": {
+        "id": "ebe8a90985f6b0d5fb7d42a80e3b1d7c99bda9ea",
+        "title": "METR 和 Redwood 发布了关于 HuggingFace 黑客事件的详细复盘报告",
+        "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+        "source": "thezvi.wordpress.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f10775ba975c",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://news.ycombinator.com/item?id=49502611",
+      "primary_url": "https://news.ycombinator.com/item?id=49502611",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://news.ycombinator.com/item?id=49502611",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T21:51:26.572000Z"
+        },
+        {
+          "id": "4528d5917e9906f9602b5e2aadb75c93c9fa2643",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T20:46:53Z"
         }
       ],
       "source_count": 2,
@@ -450,47 +548,47 @@
       ],
       "items": [
         {
-          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
-          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "url": "https://news.ycombinator.com/item?id=49498787",
+          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://news.ycombinator.com/item?id=49502611",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-30T19:20:47.100000Z"
+          "published_at": "2026-08-30T21:51:26.572000Z"
         },
         {
-          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
-          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "id": "4528d5917e9906f9602b5e2aadb75c93c9fa2643",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-30T14:06:54Z"
+          "published_at": "2026-08-30T20:46:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9973,
+        "recency": 0.9954,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-30T14:06:54Z",
-      "latest_at": "2026-08-30T19:20:47.100000Z",
+      "earliest_at": "2026-08-30T20:46:53Z",
+      "latest_at": "2026-08-30T21:51:26.572000Z",
       "primary_item": {
-        "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
-        "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-        "url": "https://news.ycombinator.com/item?id=49498787",
+        "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
+        "title": "Continuous Diffusion Language Models (CDLM's)",
+        "url": "https://news.ycombinator.com/item?id=49502611",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -548,15 +646,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9846,
+        "recency": 0.9477,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -570,85 +668,6 @@
         "title": "Show HN: 技能 MCP",
         "url": "https://news.ycombinator.com/item?id=49501178",
         "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_773e61521fea",
-      "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
-      "url": "https://github.com/anthropics/claude-code/issues/66504",
-      "primary_url": "https://github.com/anthropics/claude-code/issues/66504",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
-          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
-          "url": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T16:35:36.082000Z"
-        },
-        {
-          "id": "d998a4f9dd781af3be200c5325c031b842ed88c4",
-          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
-          "url": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T12:50:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
-          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
-          "url": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-30T16:35:36.082000Z"
-        },
-        {
-          "id": "d998a4f9dd781af3be200c5325c031b842ed88c4",
-          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
-          "url": "https://github.com/anthropics/claude-code/issues/66504",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-30T12:50:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9584,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T12:50:54Z",
-      "latest_at": "2026-08-30T16:35:36.082000Z",
-      "primary_item": {
-        "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
-        "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
-        "url": "https://github.com/anthropics/claude-code/issues/66504",
-        "source": "github.com",
         "source_name": "Buzzing"
       }
     },
@@ -725,15 +744,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8186,
+        "recency": 0.7879,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -747,6 +766,85 @@
         "title": "在 Claude Code Opus 5 自动模式下进行提示注入",
         "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode",
         "source": "embracethered.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_773e61521fea",
+      "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "primary_url": "https://github.com/anthropics/claude-code/issues/66504",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T16:35:36.082000Z"
+        },
+        {
+          "id": "d998a4f9dd781af3be200c5325c031b842ed88c4",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T12:50:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T16:35:36.082000Z"
+        },
+        {
+          "id": "d998a4f9dd781af3be200c5325c031b842ed88c4",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T12:50:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9225,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T12:50:54Z",
+      "latest_at": "2026-08-30T16:35:36.082000Z",
+      "primary_item": {
+        "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
+        "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+        "url": "https://github.com/anthropics/claude-code/issues/66504",
+        "source": "github.com",
         "source_name": "Buzzing"
       }
     },
@@ -804,15 +902,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9401,
+        "recency": 0.9049,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -883,15 +981,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9014,
+        "recency": 0.8676,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -962,15 +1060,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9014,
+        "recency": 0.8676,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1041,15 +1139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9014,
+        "recency": 0.8676,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1119,15 +1217,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8698,
+        "recency": 0.8372,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1198,15 +1296,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.525,
+      "importance": 0.525,
+      "importance_score": 0.525,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9189,
+        "recency": 0.8844,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1277,15 +1375,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9014,
+        "recency": 0.8676,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1320,18 +1418,18 @@
           "published_at": "2026-08-30T12:09:27.785000Z"
         },
         {
-          "id": "6ea3712a57180478af38e676b2674ccbb84d049f",
+          "id": "ffba76ec49a63645449b4de927bd23f04107e052",
           "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
           "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-30T10:20:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1345,26 +1443,26 @@
           "published_at": "2026-08-30T12:09:27.785000Z"
         },
         {
-          "id": "6ea3712a57180478af38e676b2674ccbb84d049f",
+          "id": "ffba76ec49a63645449b4de927bd23f04107e052",
           "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
           "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-30T10:20:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
+      "score": 0.5215,
+      "importance": 0.5215,
+      "importance_score": 0.5215,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.899,
+        "recency": 0.8653,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1435,15 +1533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5157,
-      "importance": 0.5157,
-      "importance_score": 0.5157,
+      "score": 0.5101,
+      "importance": 0.5101,
+      "importance_score": 0.5101,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8328,
+        "recency": 0.8015,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1514,15 +1612,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
+      "score": 0.5215,
+      "importance": 0.5215,
+      "importance_score": 0.5215,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.899,
+        "recency": 0.8653,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1537,85 +1635,6 @@
         "url": "https://news.ycombinator.com/item?id=49497235",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_73be14de88e6",
-      "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
-      "url": "https://github.com/todotge/canonical-basis",
-      "primary_url": "https://github.com/todotge/canonical-basis",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b95d6628369ed6cabde344594c534bf36f77a990",
-          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
-          "url": "https://github.com/todotge/canonical-basis",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T20:20:15.547000Z"
-        },
-        {
-          "id": "bc8897185dc88e1ac83639dee8d810dfd5d8e775",
-          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制 / Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
-          "url": "https://github.com/todotge/canonical-basis",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T20:16:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "b95d6628369ed6cabde344594c534bf36f77a990",
-          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
-          "url": "https://github.com/todotge/canonical-basis",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T20:20:15.547000Z"
-        },
-        {
-          "id": "bc8897185dc88e1ac83639dee8d810dfd5d8e775",
-          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制 / Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
-          "url": "https://github.com/todotge/canonical-basis",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T20:16:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4946,
-      "importance": 0.4946,
-      "importance_score": 0.4946,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7154,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T20:16:54Z",
-      "latest_at": "2026-08-29T20:20:15.547000Z",
-      "primary_item": {
-        "id": "b95d6628369ed6cabde344594c534bf36f77a990",
-        "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
-        "url": "https://github.com/todotge/canonical-basis",
-        "source": "github.com",
-        "source_name": "Buzzing"
       }
     }
   ]
