@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:54:50.604645Z",
+  "generated_at": "2026-09-12T13:11:46.117403Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7997,
+        "recency": 0.7627,
         "story_heat": 0.25
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.836,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "official",
@@ -282,15 +282,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8717,
+        "recency": 0.8314,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -363,15 +363,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.844,
-      "importance": 0.844,
-      "importance_score": 0.844,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7721,
+        "recency": 0.7363,
         "story_heat": 0.25
       },
       "category": "official",
@@ -464,15 +464,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9006,
+        "recency": 0.8589,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -563,15 +563,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8072,
-      "importance": 0.8072,
-      "importance_score": 0.8072,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8589,
+        "recency": 0.8191,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -625,15 +625,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.818,
+        "recency": 0.7801,
         "story_heat": 0.0
       },
       "category": "official",
@@ -706,15 +706,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7484,
+        "recency": 0.7137,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -731,88 +731,6 @@
         "url": "https://the-decoder.com/how-hackers-used-claude-for-missiles-drone-swarms-and-surveillance-while-chinese-labs-mined-it-for-training-data",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c7d3c8aeae42",
-      "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "primary_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
-          "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T10:00:00Z"
-        },
-        {
-          "id": "d2ba51c1450a2b8d19ce126838aaad5b2be66399",
-          "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T10:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
-          "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T10:00:00Z"
-        },
-        {
-          "id": "d2ba51c1450a2b8d19ce126838aaad5b2be66399",
-          "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
-          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T10:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.708,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-11T10:00:00Z",
-      "latest_at": "2026-09-11T10:00:00Z",
-      "primary_item": {
-        "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
-        "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -842,19 +760,19 @@
           "published_at": "2026-09-12T08:31:36.686000Z"
         },
         {
-          "id": "2444e6f08d025a600006bd958358804fc2d4d595",
+          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
           "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
           "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-11T21:35:29Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "www.dwarkesh.com"
       ],
       "items": [
@@ -877,26 +795,26 @@
           "published_at": "2026-09-12T08:31:36.686000Z"
         },
         {
-          "id": "2444e6f08d025a600006bd958358804fc2d4d595",
+          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
           "title": "Beren Millidge、John Schulman、Charlie O'Neill 对谈递归自我改进离我们还有多远 / AI researchers debate how close we are to recursive self-improvement",
           "url": "https://www.dwarkesh.com/p/john-beren-charlie",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-11T21:35:29Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7773,
+        "recency": 0.7413,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -969,22 +887,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7648,
+        "recency": 0.7294,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-11T15:20:59.614001Z",
       "latest_at": "2026-09-11T15:20:59.614001Z",
@@ -1050,22 +967,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7648,
+        "recency": 0.7294,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-11T15:20:59.614001Z",
       "latest_at": "2026-09-11T15:20:59.614001Z",
@@ -1073,186 +989,6 @@
         "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
         "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
         "url": "https://www.aibase.com/news/31002",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_30a50a2636d6",
-      "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-      "url": "https://www.aibase.com/news/31003",
-      "primary_url": "https://www.aibase.com/news/31003",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
-          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "url": "https://www.aibase.com/news/31003",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:20:59.614001Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
-          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-          "url": "https://www.aibase.com/news/31003",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:20:59.614001Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7648,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T15:20:59.614001Z",
-      "latest_at": "2026-09-11T15:20:59.614001Z",
-      "primary_item": {
-        "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
-        "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
-        "url": "https://www.aibase.com/news/31003",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3d3fef8d4330",
-      "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-      "url": "https://www.aibase.com/news/31001",
-      "primary_url": "https://www.aibase.com/news/31001",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
-          "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-          "url": "https://www.aibase.com/news/31001",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:20:59.614001Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
-          "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-          "url": "https://www.aibase.com/news/31001",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:20:59.614001Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7648,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T15:20:59.614001Z",
-      "latest_at": "2026-09-11T15:20:59.614001Z",
-      "primary_item": {
-        "id": "69a2c23e5f99391e1ea81888e087bd4dde1de815",
-        "title": "小米开源工业级目标说话人语音识别大模型 CocktailASR-1",
-        "url": "https://www.aibase.com/news/31001",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_58edfc5c684a",
-      "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-      "url": "https://www.aibase.com/news/31000",
-      "primary_url": "https://www.aibase.com/news/31000",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
-          "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-          "url": "https://www.aibase.com/news/31000",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:20:59.614001Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
-          "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-          "url": "https://www.aibase.com/news/31000",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:20:59.614001Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7648,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T15:20:59.614001Z",
-      "latest_at": "2026-09-11T15:20:59.614001Z",
-      "primary_item": {
-        "id": "fa2e5c4531f76ff098de40d8362790298f98b422",
-        "title": "支付宝“碰一下”推出无界经营，智能体“图图” 服务线下经营",
-        "url": "https://www.aibase.com/news/31000",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1311,15 +1047,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.588,
-      "importance": 0.588,
-      "importance_score": 0.588,
+      "score": 0.5807,
+      "importance": 0.5807,
+      "importance_score": 0.5807,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8755,
+        "recency": 0.835,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1407,15 +1143,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5769,
-      "importance": 0.5769,
-      "importance_score": 0.5769,
+      "score": 0.5705,
+      "importance": 0.5705,
+      "importance_score": 0.5705,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7648,
+        "recency": 0.7294,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1430,66 +1166,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-10",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_747bbac1390c",
-      "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-      "url": "https://www.aibase.com/news/30997",
-      "primary_url": "https://www.aibase.com/news/30997",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "055f63e0db2587418529124abc009ae1b04238f7",
-          "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "url": "https://www.aibase.com/news/30997",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:20:59.614001Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "055f63e0db2587418529124abc009ae1b04238f7",
-          "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-          "url": "https://www.aibase.com/news/30997",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-11T15:20:59.614001Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7648,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-11T15:20:59.614001Z",
-      "latest_at": "2026-09-11T15:20:59.614001Z",
-      "primary_item": {
-        "id": "055f63e0db2587418529124abc009ae1b04238f7",
-        "title": "蚂蚁集团韩歆毅宣告智能体“ChatGPT”时刻已至",
-        "url": "https://www.aibase.com/news/30997",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1545,15 +1221,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5713,
-      "importance": 0.5713,
-      "importance_score": 0.5713,
+      "score": 0.565,
+      "importance": 0.565,
+      "importance_score": 0.565,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7547,
+        "recency": 0.7197,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1568,6 +1244,400 @@
         "url": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
         "source": "The Verge",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_b3bc9058fff0",
+      "title": "Claude Code 之父切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+      "url": "https://www.ithome.com/1/001/633.htm",
+      "primary_url": "https://www.ithome.com/1/001/633.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7719965c9a03c642cdfdaa1d2da29ad01a880c77",
+          "title": "Claude Code 之父切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+          "url": "https://www.ithome.com/1/001/633.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "66a9457889fce9b5b70a6b2a068121d2f7dbb7b1",
+          "title": "“Claude Code 之父”切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+          "url": "https://www.ithome.com/1/001/633.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T12:12:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7719965c9a03c642cdfdaa1d2da29ad01a880c77",
+          "title": "Claude Code 之父切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+          "url": "https://www.ithome.com/1/001/633.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "66a9457889fce9b5b70a6b2a068121d2f7dbb7b1",
+          "title": "“Claude Code 之父”切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+          "url": "https://www.ithome.com/1/001/633.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T12:12:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T12:12:14Z",
+      "latest_at": "2026-09-12T13:11:46.117403Z",
+      "primary_item": {
+        "id": "7719965c9a03c642cdfdaa1d2da29ad01a880c77",
+        "title": "Claude Code 之父切尔尼谈 AI 编程：开发者核心职责是守住代码质量",
+        "url": "https://www.ithome.com/1/001/633.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_b409dc7b8493",
+      "title": "Shubhamsaboo /      awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "primary_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
+          "title": "Shubhamsaboo /      awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-12T13:12:28.255000Z"
+        },
+        {
+          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
+          "title": "Shubhamsaboo / awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
+          "title": "Shubhamsaboo /      awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-12T13:12:28.255000Z"
+        },
+        {
+          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
+          "title": "Shubhamsaboo / awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T13:11:46.117403Z",
+      "latest_at": "2026-09-12T13:12:28.255000Z",
+      "primary_item": {
+        "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
+        "title": "Shubhamsaboo /      awesome-llm-apps",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_5118cb370fdd",
+      "title": "一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。",
+      "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
+      "primary_url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8f9145618878b734cd6a4c3c24c11c7a3d4c4da5",
+          "title": "一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。",
+          "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T10:04:38.036000Z"
+        },
+        {
+          "id": "05c025cbbb8091a08fe2eb14a7ee522f309c5e3c",
+          "title": "一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。 / A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back.",
+          "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T09:47:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "8f9145618878b734cd6a4c3c24c11c7a3d4c4da5",
+          "title": "一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。",
+          "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T10:04:38.036000Z"
+        },
+        {
+          "id": "05c025cbbb8091a08fe2eb14a7ee522f309c5e3c",
+          "title": "一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。 / A developer emailed Claude Code's creator about AI slop. Boris Cherny wrote back.",
+          "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T09:47:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.956,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T09:47:01Z",
+      "latest_at": "2026-09-12T10:04:38.036000Z",
+      "primary_item": {
+        "id": "8f9145618878b734cd6a4c3c24c11c7a3d4c4da5",
+        "title": "一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。",
+        "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fd2d42c80a83",
+      "title": "纳维-斯托克斯公告 / Clay Mathematics Institute on the Navier-Stokes Problem",
+      "url": "https://www.claymath.org/news/navier-stokes-announcement",
+      "primary_url": "https://www.claymath.org/news/navier-stokes-announcement",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "4690b71133a8f5888da74977879e2d3a4f2b5640",
+          "title": "纳维-斯托克斯公告 / Clay Mathematics Institute on the Navier-Stokes Problem",
+          "url": "https://www.claymath.org/news/navier-stokes-announcement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T04:09:43Z"
+        },
+        {
+          "id": "b3e645c11d7ec9c36e6338dbdc6f4f2d3b6f4921",
+          "title": "纳维-斯托克斯公告 / Navier-Stokes Announcement",
+          "url": "https://www.claymath.org/news/navier-stokes-announcement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T04:09:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "4690b71133a8f5888da74977879e2d3a4f2b5640",
+          "title": "纳维-斯托克斯公告 / Clay Mathematics Institute on the Navier-Stokes Problem",
+          "url": "https://www.claymath.org/news/navier-stokes-announcement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T04:09:43Z"
+        },
+        {
+          "id": "b3e645c11d7ec9c36e6338dbdc6f4f2d3b6f4921",
+          "title": "纳维-斯托克斯公告 / Navier-Stokes Announcement",
+          "url": "https://www.claymath.org/news/navier-stokes-announcement",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T04:09:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5238,
+      "importance": 0.5238,
+      "importance_score": 0.5238,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8777,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T04:09:43Z",
+      "latest_at": "2026-09-12T04:09:43Z",
+      "primary_item": {
+        "id": "4690b71133a8f5888da74977879e2d3a4f2b5640",
+        "title": "纳维-斯托克斯公告 / Clay Mathematics Institute on the Navier-Stokes Problem",
+        "url": "https://www.claymath.org/news/navier-stokes-announcement",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_d35afbac075d",
+      "title": "Litelm：精简版 LiteLLM，摒弃冗余",
+      "url": "https://github.com/kennethwolters/litelm",
+      "primary_url": "https://github.com/kennethwolters/litelm",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "393ef363024fcf85cb88bad6d31efff87066af88",
+          "title": "Litelm：精简版 LiteLLM，摒弃冗余",
+          "url": "https://github.com/kennethwolters/litelm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T02:45:28.057000Z"
+        },
+        {
+          "id": "487bee413149b02ad73660916597c54999d79db0",
+          "title": "Litelm：精简版 LiteLLM，摒弃冗余 / Litelm: LiteLLM Without the Bloat",
+          "url": "https://github.com/kennethwolters/litelm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T18:10:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "393ef363024fcf85cb88bad6d31efff87066af88",
+          "title": "Litelm：精简版 LiteLLM，摒弃冗余",
+          "url": "https://github.com/kennethwolters/litelm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T02:45:28.057000Z"
+        },
+        {
+          "id": "487bee413149b02ad73660916597c54999d79db0",
+          "title": "Litelm：精简版 LiteLLM，摒弃冗余 / Litelm: LiteLLM Without the Bloat",
+          "url": "https://github.com/kennethwolters/litelm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T18:10:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5206,
+      "importance": 0.5206,
+      "importance_score": 0.5206,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8601,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T18:10:20Z",
+      "latest_at": "2026-09-12T02:45:28.057000Z",
+      "primary_item": {
+        "id": "393ef363024fcf85cb88bad6d31efff87066af88",
+        "title": "Litelm：精简版 LiteLLM，摒弃冗余",
+        "url": "https://github.com/kennethwolters/litelm",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     }
   ]
