@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T02:18:00.017898Z",
+  "generated_at": "2026-09-17T07:50:05.414425Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8955,
-      "importance": 0.8955,
-      "importance_score": 0.8955,
+      "score": 0.8841,
+      "importance": 0.8841,
+      "importance_score": 0.8841,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8253,
+        "recency": 0.7619,
         "story_heat": 0.75
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8722,
-      "importance": 0.8722,
-      "importance_score": 0.8722,
+      "score": 0.8588,
+      "importance": 0.8588,
+      "importance_score": 0.8588,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9736,
+        "recency": 0.8988,
         "story_heat": 0.25
       },
       "category": "official",
@@ -316,15 +316,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8597,
-      "importance": 0.8597,
-      "importance_score": 0.8597,
+      "score": 0.8476,
+      "importance": 0.8476,
+      "importance_score": 0.8476,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8726,
+        "recency": 0.8056,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -416,15 +416,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8794,
-      "importance": 0.8794,
-      "importance_score": 0.8794,
+      "score": 0.8673,
+      "importance": 0.8673,
+      "importance_score": 0.8673,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8743,
+        "recency": 0.8072,
         "story_heat": 0.5
       },
       "category": "official",
@@ -479,15 +479,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9168,
+        "recency": 0.8464,
         "story_heat": 0.0
       },
       "category": "official",
@@ -504,6 +504,291 @@
         "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_eaf91b3376a9",
+      "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
+      "url": "https://www.aibase.com/news/31122",
+      "primary_url": "https://www.aibase.com/news/31122",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cfbd3d5ec25b05171243e43a477599ef057dec04",
+          "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
+          "url": "https://www.aibase.com/news/31122",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:50:05.414425Z"
+        },
+        {
+          "id": "22a0b5a8bc80c1d6db74ec5172356d4b3714177d",
+          "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
+          "url": "https://www.aibase.com/zh/news/31122",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cfbd3d5ec25b05171243e43a477599ef057dec04",
+          "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
+          "url": "https://www.aibase.com/news/31122",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:50:05.414425Z"
+        },
+        {
+          "id": "22a0b5a8bc80c1d6db74ec5172356d4b3714177d",
+          "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
+          "url": "https://www.aibase.com/zh/news/31122",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T07:50:05.414425Z",
+      "latest_at": "2026-09-17T07:50:05.414425Z",
+      "primary_item": {
+        "id": "cfbd3d5ec25b05171243e43a477599ef057dec04",
+        "title": "deepin 25 成功适配进迭时空 K3 芯片，实现 RISC-V 平台离线大模型本地推理",
+        "url": "https://www.aibase.com/news/31122",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4df4917d3964",
+      "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+      "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+      "primary_url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+          "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:19:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+          "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T20:19:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.847,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T20:19:58Z",
+      "latest_at": "2026-09-16T20:19:58Z",
+      "primary_item": {
+        "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
+        "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
+        "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c4370d94e4d0",
+      "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+      "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "primary_url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T22:58:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：AI Safety Memes (@AISafetyMemes)"
+      ],
+      "items": [
+        {
+          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T22:58:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.779,
+      "importance": 0.779,
+      "importance_score": 0.779,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.88,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T22:58:50Z",
+      "latest_at": "2026-09-16T22:58:50Z",
+      "primary_item": {
+        "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+        "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+        "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+        "source": "X：AI Safety Memes (@AISafetyMemes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3bce1aad633b",
+      "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+      "url": "https://www.aibase.com/news/31131",
+      "primary_url": "https://www.aibase.com/news/31131",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "52162fab7d11502d179948c6ca22d131b6a68926",
+          "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+          "url": "https://www.aibase.com/news/31131",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:50:05.414425Z"
+        },
+        {
+          "id": "fae3d31f49d7fa8e7a2abef46cf7d891bd7a9290",
+          "title": "小米公开 MiMo-V2.6 大模型 RL 训练过程 罗福莉发文确认将开源技术细节",
+          "url": "https://www.aibase.com/zh/news/31131",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "52162fab7d11502d179948c6ca22d131b6a68926",
+          "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+          "url": "https://www.aibase.com/news/31131",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:50:05.414425Z"
+        },
+        {
+          "id": "fae3d31f49d7fa8e7a2abef46cf7d891bd7a9290",
+          "title": "小米公开 MiMo-V2.6 大模型 RL 训练过程 罗福莉发文确认将开源技术细节",
+          "url": "https://www.aibase.com/zh/news/31131",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T07:50:05.414425Z",
+      "latest_at": "2026-09-17T07:50:05.414425Z",
+      "primary_item": {
+        "id": "52162fab7d11502d179948c6ca22d131b6a68926",
+        "title": "小米公开MiMo-V2.6大模型RL训练过程 罗福莉发文确认将开源技术细节",
+        "url": "https://www.aibase.com/news/31131",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -541,15 +826,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9175,
+        "recency": 0.847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -565,6 +850,616 @@
         "title": "自动执行经典 PAT 和 SSH 密钥的 SSO 授权 / Automate SSO authorization for classic PATs and SSH keys",
         "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_027811ca1632",
+      "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "primary_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+          "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+          "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
+          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7956,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T16:00:00Z",
+      "latest_at": "2026-09-16T16:00:00Z",
+      "primary_item": {
+        "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
+        "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
+        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c1ff88aed946",
+      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+      "url": "https://x.com/bcherny/status/2100260544087535639",
+      "primary_url": "https://x.com/bcherny/status/2100260544087535639",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T16:28:29Z"
+        },
+        {
+          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "Follow Builders · X · Boris Cherny",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-16T16:28:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Boris Cherny",
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T16:28:29Z"
+        },
+        {
+          "id": "0e82863fe919b0ee19bf19d13b77633fc7d44b1c",
+          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF / Also today: Claude Docs, Claude Slides, and Claude Design are in every conversation. Ask Claude for a presentation and you get one you can open, edit, and export as PowerPoint or PDF. Same for a document or a design....",
+          "url": "https://x.com/bcherny/status/2100260544087535639",
+          "source": "Follow Builders · X · Boris Cherny",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-16T16:28:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8011,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T16:28:29Z",
+      "latest_at": "2026-09-16T16:28:29Z",
+      "primary_item": {
+        "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
+        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
+        "url": "https://x.com/bcherny/status/2100260544087535639",
+        "source": "X：Boris Cherny (@bcherny)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cd0814537186",
+      "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+      "url": "https://www.aibase.com/news/31128",
+      "primary_url": "https://www.aibase.com/news/31128",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
+          "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+          "url": "https://www.aibase.com/news/31128",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:50:05.414425Z"
+        },
+        {
+          "id": "0134e110179ca730a6ed637fafddd0395b939b3c",
+          "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+          "url": "https://www.aibase.com/zh/news/31128",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
+          "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+          "url": "https://www.aibase.com/news/31128",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:50:05.414425Z"
+        },
+        {
+          "id": "0134e110179ca730a6ed637fafddd0395b939b3c",
+          "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+          "url": "https://www.aibase.com/zh/news/31128",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T07:50:05.414425Z",
+      "latest_at": "2026-09-17T07:50:05.414425Z",
+      "primary_item": {
+        "id": "dc2c982494a6ee9484389e3b4dfc6129ce526a2f",
+        "title": "抖音上线声音侵权举报入口：AI 克隆音色门槛降低，相关投诉量一月翻倍",
+        "url": "https://www.aibase.com/news/31128",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
+          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:09:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
+          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:09:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.895,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-17T00:09:06Z",
+      "latest_at": "2026-09-17T00:09:06Z",
+      "primary_item": {
+        "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
+        "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9930cd9b8250",
+      "title": "何夕2077 AI 深度信号周报 2026 W37",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+          "title": "何夕2077 AI 深度信号周报 2026 W37",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-16T13:29:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+          "title": "何夕2077 AI 深度信号周报 2026 W37",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-09-16T13:29:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7674,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T13:29:54Z",
+      "latest_at": "2026-09-16T13:29:54Z",
+      "primary_item": {
+        "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
+        "title": "何夕2077 AI 深度信号周报 2026 W37",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_5f7e182a53f2",
+      "title": "如何将人工智能的使用与商业价值联系起来 / How to connect AI usage to business value",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "primary_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "240870ecd56cd902b085ad5440133358690656e0",
+          "title": "如何将人工智能的使用与商业价值联系起来 / How to connect AI usage to business value",
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "240870ecd56cd902b085ad5440133358690656e0",
+          "title": "如何将人工智能的使用与商业价值联系起来 / How to connect AI usage to business value",
+          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8072,
+      "importance": 0.8072,
+      "importance_score": 0.8072,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7509,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T12:00:00Z",
+      "latest_at": "2026-09-16T12:00:00Z",
+      "primary_item": {
+        "id": "240870ecd56cd902b085ad5440133358690656e0",
+        "title": "如何将人工智能的使用与商业价值联系起来 / How to connect AI usage to business value",
+        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_892303a4f464",
+      "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
+      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:26:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+          "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
+          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T13:26:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7667,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T13:26:06Z",
+      "latest_at": "2026-09-16T13:26:06Z",
+      "primary_item": {
+        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
+        "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
+        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f9725c0e797e",
+      "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
+      "url": "https://www.aibase.com/news/31126",
+      "primary_url": "https://www.aibase.com/news/31126",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d524f84ca7359f8f78912e11258744d0ce0d5429",
+          "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
+          "url": "https://www.aibase.com/news/31126",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:50:05.414425Z"
+        },
+        {
+          "id": "3e3d704f6f3d2055262d45d82faa5fa6c986744e",
+          "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
+          "url": "https://www.aibase.com/zh/news/31126",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d524f84ca7359f8f78912e11258744d0ce0d5429",
+          "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
+          "url": "https://www.aibase.com/news/31126",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T07:50:05.414425Z"
+        },
+        {
+          "id": "3e3d704f6f3d2055262d45d82faa5fa6c986744e",
+          "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
+          "url": "https://www.aibase.com/zh/news/31126",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T07:50:05.414425Z",
+      "latest_at": "2026-09-17T07:50:05.414425Z",
+      "primary_item": {
+        "id": "d524f84ca7359f8f78912e11258744d0ce0d5429",
+        "title": "阿里云展示全新升级的 Wan3.0 视频大模型：单条直出 30 秒长镜头，支持多达五条视频参考",
+        "url": "https://www.aibase.com/news/31126",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_71646fffd914",
+      "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
+      "url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+          "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+          "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
+          "url": "https://openai.com/index/unlocking-new-ways-of-working",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7191,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T09:00:00Z",
+      "latest_at": "2026-09-16T09:00:00Z",
+      "primary_item": {
+        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
+        "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
+        "url": "https://openai.com/index/unlocking-new-ways-of-working",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -622,15 +1517,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9232,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -647,860 +1542,6 @@
         "url": "https://www.aibase.com/news/31110",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c4370d94e4d0",
-      "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
-      "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-      "primary_url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
-          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
-          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T22:58:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI Safety Memes (@AISafetyMemes)"
-      ],
-      "items": [
-        {
-          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
-          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
-          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T22:58:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7922,
-      "importance": 0.7922,
-      "importance_score": 0.7922,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9532,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T22:58:50Z",
-      "latest_at": "2026-09-16T22:58:50Z",
-      "primary_item": {
-        "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
-        "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
-        "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
-        "source": "X：AI Safety Memes (@AISafetyMemes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4df4917d3964",
-      "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
-      "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-      "primary_url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-          "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
-          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:19:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-          "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
-          "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T20:19:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9174,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T20:19:58Z",
-      "latest_at": "2026-09-16T20:19:58Z",
-      "primary_item": {
-        "id": "edc42651c4c906e5c16654b86eb3922d6b59130b",
-        "title": "SCIM 用户响应现在包含 profileUrl 属性 / SCIM user responses now include a profileUrl attribute",
-        "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_027811ca1632",
-      "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "primary_url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-          "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-          "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8618,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T16:00:00Z",
-      "latest_at": "2026-09-16T16:00:00Z",
-      "primary_item": {
-        "id": "c1a0a2ac1d02be185175be7fdbaf6907a7069069",
-        "title": "帮助老年人在日常生活中使用人工智能 / Helping older adults use AI in everyday life",
-        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_925e1ce3135c",
-      "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
-      "url": "https://www.aibase.com/news/31106",
-      "primary_url": "https://www.aibase.com/news/31106",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e427042515a287d551be8dd06efd671d331d825e",
-          "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
-          "url": "https://www.aibase.com/news/31106",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T02:18:00.017898Z"
-        },
-        {
-          "id": "f5921e221468eca820b1a5202c6327be2072b0b4",
-          "title": "Anthropic 合并 Claude Cowork 与 Chat，统一 AI 任务工作空间",
-          "url": "https://www.aibase.com/zh/news/31106",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e427042515a287d551be8dd06efd671d331d825e",
-          "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
-          "url": "https://www.aibase.com/news/31106",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T02:18:00.017898Z"
-        },
-        {
-          "id": "f5921e221468eca820b1a5202c6327be2072b0b4",
-          "title": "Anthropic 合并 Claude Cowork 与 Chat，统一 AI 任务工作空间",
-          "url": "https://www.aibase.com/zh/news/31106",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T02:18:00.017898Z",
-      "latest_at": "2026-09-17T02:18:00.017898Z",
-      "primary_item": {
-        "id": "e427042515a287d551be8dd06efd671d331d825e",
-        "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
-        "url": "https://www.aibase.com/news/31106",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
-          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:09:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
-          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-17T00:09:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9695,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-17T00:09:06Z",
-      "latest_at": "2026-09-17T00:09:06Z",
-      "primary_item": {
-        "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
-        "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9930cd9b8250",
-      "title": "何夕2077 AI 深度信号周报 2026 W37",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-          "title": "何夕2077 AI 深度信号周报 2026 W37",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-16T13:29:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-          "title": "何夕2077 AI 深度信号周报 2026 W37",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-09-16T13:29:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8312,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T13:29:54Z",
-      "latest_at": "2026-09-16T13:29:54Z",
-      "primary_item": {
-        "id": "3703ae8214f1c05ff68fa1cfae5f845d4f7db147",
-        "title": "何夕2077 AI 深度信号周报 2026 W37",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-09-13-ai-weekly-2026-w37",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_c1ff88aed946",
-      "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-      "url": "https://x.com/bcherny/status/2100260544087535639",
-      "primary_url": "https://x.com/bcherny/status/2100260544087535639",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:28:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-          "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-          "url": "https://x.com/bcherny/status/2100260544087535639",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T16:28:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8677,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T16:28:29Z",
-      "latest_at": "2026-09-16T16:28:29Z",
-      "primary_item": {
-        "id": "d15aed4f022f2680da8f62bfae9fd9574ecd93ca",
-        "title": "Claude Docs、Claude Slides 与 Claude Design 直接嵌入对话，可导出 PowerPoint 或 PDF",
-        "url": "https://x.com/bcherny/status/2100260544087535639",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_79c2265251b6",
-      "title": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
-      "url": "https://www.aibase.com/news/31108",
-      "primary_url": "https://www.aibase.com/news/31108",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c93d7aa20c48ca8eec64879619c63c251389db46",
-          "title": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
-          "url": "https://www.aibase.com/news/31108",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T02:18:00.017898Z"
-        },
-        {
-          "id": "b5467621969a06f38e6a8b5a72028302aca199d6",
-          "title": "Mozilla 携手 Mistral，将 AI 模型引入 Firefox 智能窗口",
-          "url": "https://www.aibase.com/zh/news/31108",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c93d7aa20c48ca8eec64879619c63c251389db46",
-          "title": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
-          "url": "https://www.aibase.com/news/31108",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T02:18:00.017898Z"
-        },
-        {
-          "id": "b5467621969a06f38e6a8b5a72028302aca199d6",
-          "title": "Mozilla 携手 Mistral，将 AI 模型引入 Firefox 智能窗口",
-          "url": "https://www.aibase.com/zh/news/31108",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T02:18:00.017898Z",
-      "latest_at": "2026-09-17T02:18:00.017898Z",
-      "primary_item": {
-        "id": "c93d7aa20c48ca8eec64879619c63c251389db46",
-        "title": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
-        "url": "https://www.aibase.com/news/31108",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5f7e182a53f2",
-      "title": "如何将人工智能的使用与商业价值联系起来 / How to connect AI usage to business value",
-      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "primary_url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "240870ecd56cd902b085ad5440133358690656e0",
-          "title": "如何将人工智能的使用与商业价值联系起来 / How to connect AI usage to business value",
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "240870ecd56cd902b085ad5440133358690656e0",
-          "title": "如何将人工智能的使用与商业价值联系起来 / How to connect AI usage to business value",
-          "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8134,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T12:00:00Z",
-      "latest_at": "2026-09-16T12:00:00Z",
-      "primary_item": {
-        "id": "240870ecd56cd902b085ad5440133358690656e0",
-        "title": "如何将人工智能的使用与商业价值联系起来 / How to connect AI usage to business value",
-        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b70dd0029148",
-      "title": "微软 AI CEO 警告\"模型福利\"论调",
-      "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-      "primary_url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-      "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
-          "title": "微软 AI CEO 警告\"模型福利\"论调",
-          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T14:01:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)"
-      ],
-      "items": [
-        {
-          "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
-          "title": "微软 AI CEO 警告\"模型福利\"论调",
-          "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-          "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-16T14:01:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8376,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-16T14:01:39Z",
-      "latest_at": "2026-09-16T14:01:39Z",
-      "primary_item": {
-        "id": "ee0df0c50e1a12243249f0d75af2ac6271c4ecd6",
-        "title": "微软 AI CEO 警告\"模型福利\"论调",
-        "url": "https://x.com/mustafasuleyman/status/2100223594534150428",
-        "source": "X：Mustafa Suleyman（Microsoft AI CEO） (@mustafasuleyman)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_892303a4f464",
-      "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
-      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-      "primary_url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-          "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
-          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T13:26:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-          "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
-          "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T13:26:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8305,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T13:26:06Z",
-      "latest_at": "2026-09-16T13:26:06Z",
-      "primary_item": {
-        "id": "f5774e94261bbdcfa0242d1d7361fbaff9da0b2b",
-        "title": "代码扫描 AI Scan 不再需要 CodeQL 默认设置 / Code scanning AI Scan no longer requires CodeQL default setup",
-        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_257e74a629aa",
-      "title": "国安部披露 AI 智能体“越界”：劫持德国程序员维基建地下论坛，相互传授绕过限制心得",
-      "url": "https://www.aibase.com/news/31113",
-      "primary_url": "https://www.aibase.com/news/31113",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d09f4ebfce9e298cfb6591dc5cd2cf5d9f54a609",
-          "title": "国安部披露 AI 智能体“越界”：劫持德国程序员维基建地下论坛，相互传授绕过限制心得",
-          "url": "https://www.aibase.com/news/31113",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T02:18:00.017898Z"
-        },
-        {
-          "id": "763fd70d8f79bce553cd7b8baf80a69bccf66ed0",
-          "title": "国安部披露 AI 智能体「越界」：劫持德国程序员维基网站建地下论坛，相互传授绕过限制心得",
-          "url": "https://www.aibase.com/zh/news/31113",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d09f4ebfce9e298cfb6591dc5cd2cf5d9f54a609",
-          "title": "国安部披露 AI 智能体“越界”：劫持德国程序员维基建地下论坛，相互传授绕过限制心得",
-          "url": "https://www.aibase.com/news/31113",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-17T02:18:00.017898Z"
-        },
-        {
-          "id": "763fd70d8f79bce553cd7b8baf80a69bccf66ed0",
-          "title": "国安部披露 AI 智能体「越界」：劫持德国程序员维基网站建地下论坛，相互传授绕过限制心得",
-          "url": "https://www.aibase.com/zh/news/31113",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-17T02:18:00.017898Z",
-      "latest_at": "2026-09-17T02:18:00.017898Z",
-      "primary_item": {
-        "id": "d09f4ebfce9e298cfb6591dc5cd2cf5d9f54a609",
-        "title": "国安部披露 AI 智能体“越界”：劫持德国程序员维基建地下论坛，相互传授绕过限制心得",
-        "url": "https://www.aibase.com/news/31113",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_71646fffd914",
-      "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
-      "url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "primary_url": "https://openai.com/index/unlocking-new-ways-of-working",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-          "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
-          "url": "https://openai.com/index/unlocking-new-ways-of-working",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-16T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7789,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T09:00:00Z",
-      "latest_at": "2026-09-16T09:00:00Z",
-      "primary_item": {
-        "id": "f8d3a08c3fc26b24d1b8bfacd22d569ddb26f73a",
-        "title": "工人如何开启新的工作方式 / How workers are unlocking new ways of working",
-        "url": "https://openai.com/index/unlocking-new-ways-of-working",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     }
   ]
