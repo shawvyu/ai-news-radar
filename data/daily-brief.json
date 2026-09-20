@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T19:07:35.427643Z",
+  "generated_at": "2026-09-20T21:39:49.469408Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8519,
-      "importance": 0.8519,
-      "importance_score": 0.8519,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9852,
+        "recency": 0.9498,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -214,15 +214,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9022,
+        "recency": 0.8697,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -238,6 +238,67 @@
         "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
         "url": "https://qwen.ai/blog?id=qwen-image-2.1",
         "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fcca394b788e",
+      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9812,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T20:20:56Z",
+      "latest_at": "2026-09-20T20:20:56Z",
+      "primary_item": {
+        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -295,15 +356,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9089,
+        "recency": 0.8762,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -376,15 +437,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9089,
+        "recency": 0.8762,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -438,15 +499,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9269,
+        "recency": 0.8936,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -517,15 +578,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7584,
+        "recency": 0.7311,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -598,15 +659,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8419,
+        "recency": 0.8116,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -679,15 +740,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8419,
+        "recency": 0.8116,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -749,56 +810,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-20T19:07:35.427643Z"
-        },
-        {
-          "id": "3a285cdf868234059297077601a1dcca69f67838",
-          "title": "Jev 发布不到一周，网上已经满是“快 200 倍”“永不出错”“LLM 要被取代”。作者这篇文章只做三件事：说清 Jev 是什么、不是什么；把真正跑通的案例按用途分类；把水分讲明白。想追 Jev 热点前，建议先读这份清醒清单。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T19:40:27.215013Z"
-        },
-        {
-          "id": "2d0e779ffecc5ef99e1dabba68b5a764caf73983",
-          "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T19:40:27.215013Z"
-        },
-        {
-          "id": "e43402f14249ce5749e0b2edc088e078aaa1912a",
-          "title": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T19:40:27.215013Z"
-        },
-        {
-          "id": "fc7e6a27150e5ade9d79148b55a32834de0fbb9a",
-          "title": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T19:40:27.215013Z"
-        },
-        {
-          "id": "615dffdbcd9630391c6d0241fe28e3184003d6cb",
-          "title": "这篇把 Trading Agent 拆成一条量化流水线：扫描层找异常，推理层生成假设和回测脚本，证伪层用多重检验、滑点手续费、point-in-time 数据筛掉假策略，执行层只允许确定性代码和模拟盘。文中还梳理了统计套利、期权波动率、因子残差、内部人交易四类方向。想用 AI 做交易系统、策略研究或风控自动化的，建议先看看这套“先证伪，再自动化”的工程思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T19:40:27.215013Z"
         }
       ],
-      "source_count": 9,
+      "source_count": 4,
       "source_names": [
-        "社区更新 · 2026-09-19",
         "社区更新 · 2026-09-20"
       ],
       "items": [
@@ -837,71 +852,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-09-20T19:07:35.427643Z"
-        },
-        {
-          "id": "3a285cdf868234059297077601a1dcca69f67838",
-          "title": "Jev 发布不到一周，网上已经满是“快 200 倍”“永不出错”“LLM 要被取代”。作者这篇文章只做三件事：说清 Jev 是什么、不是什么；把真正跑通的案例按用途分类；把水分讲明白。想追 Jev 热点前，建议先读这份清醒清单。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T19:40:27.215013Z"
-        },
-        {
-          "id": "2d0e779ffecc5ef99e1dabba68b5a764caf73983",
-          "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T19:40:27.215013Z"
-        },
-        {
-          "id": "e43402f14249ce5749e0b2edc088e078aaa1912a",
-          "title": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T19:40:27.215013Z"
-        },
-        {
-          "id": "fc7e6a27150e5ade9d79148b55a32834de0fbb9a",
-          "title": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T19:40:27.215013Z"
-        },
-        {
-          "id": "615dffdbcd9630391c6d0241fe28e3184003d6cb",
-          "title": "这篇把 Trading Agent 拆成一条量化流水线：扫描层找异常，推理层生成假设和回测脚本，证伪层用多重检验、滑点手续费、point-in-time 数据筛掉假策略，执行层只允许确定性代码和模拟盘。文中还梳理了统计套利、期权波动率、因子残差、内部人交易四类方向。想用 AI 做交易系统、策略研究或风控自动化的，建议先看看这套“先证伪，再自动化”的工程思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-19T19:40:27.215013Z"
         }
       ],
-      "item_count": 9,
-      "duplicate_count": 9,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6377,
+      "importance": 0.6377,
+      "importance_score": 0.6377,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
+        "recency": 0.964,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-19T19:40:27.215013Z",
+      "earliest_at": "2026-09-20T19:07:35.427643Z",
       "latest_at": "2026-09-20T19:07:35.427643Z",
       "primary_item": {
         "id": "cd7ee9459a646148a7117f5f7e8cb8a44d011578",
@@ -965,22 +935,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7802,
+        "recency": 0.7521,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-20T01:56:11.046898Z",
       "latest_at": "2026-09-20T01:56:11.046898Z",
@@ -990,6 +959,84 @@
         "url": "https://www.aibase.com/news/31171",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cb03d7f13be9",
+      "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T18:50:18Z"
+        },
+        {
+          "id": "4c2db2373e60e802256489099a61485b7afa431a",
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T18:50:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-20T18:50:18Z"
+        },
+        {
+          "id": "4c2db2373e60e802256489099a61485b7afa431a",
+          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T18:50:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6083,
+      "importance": 0.6083,
+      "importance_score": 0.6083,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.96,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T18:50:18Z",
+      "latest_at": "2026-09-20T18:50:18Z",
+      "primary_item": {
+        "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
+        "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -1046,22 +1093,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7802,
+        "recency": 0.7521,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-20T01:56:11.046898Z",
       "latest_at": "2026-09-20T01:56:11.046898Z",
@@ -1071,85 +1117,6 @@
         "url": "https://www.aibase.com/news/31176",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6cd029fa2ffe",
-      "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-      "primary_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-          "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-19T19:57:47Z"
-        },
-        {
-          "id": "9c9aded36e1ae0b6ae6bde1e2de0d646be86958f",
-          "title": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队 / Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T19:57:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-          "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-19T19:57:47Z"
-        },
-        {
-          "id": "9c9aded36e1ae0b6ae6bde1e2de0d646be86958f",
-          "title": "特朗普建议用新名称重新命名人工智能，并表示他还将创建一支人工智能部队 / Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-          "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-19T19:57:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5976,
-      "importance": 0.5976,
-      "importance_score": 0.5976,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7157,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-19T19:57:47Z",
-      "latest_at": "2026-09-19T19:57:47Z",
-      "primary_item": {
-        "id": "ebb7a30eefec0404abc2763b832dd8a22028427b",
-        "title": "特朗普表示是时候用新名称重新命名人工智能了——他还正在创建一支人工智能部队 / Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-        "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
       }
     },
     {
@@ -1206,22 +1173,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7802,
+        "recency": 0.7521,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-20T01:56:11.046898Z",
       "latest_at": "2026-09-20T07:12:35.863329Z",
@@ -1306,15 +1272,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5655,
-      "importance": 0.5655,
-      "importance_score": 0.5655,
+      "score": 0.5592,
+      "importance": 0.5592,
+      "importance_score": 0.5592,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9705,
+        "recency": 0.9356,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1404,15 +1370,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5622,
-      "importance": 0.5622,
-      "importance_score": 0.5622,
+      "score": 0.556,
+      "importance": 0.556,
+      "importance_score": 0.556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9523,
+        "recency": 0.918,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1447,12 +1413,12 @@
           "published_at": "2026-09-20T12:50:12.972000Z"
         },
         {
-          "id": "510bc5f41a64af0dcb1125f4de5b403c68eed0c3",
+          "id": "c3d6b1a7c9be9799bda91fd866e9e2214ea3f055",
           "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
           "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T10:07:51Z"
         },
         {
@@ -1467,7 +1433,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.chesterwisniewski.com"
       ],
@@ -1482,12 +1448,12 @@
           "published_at": "2026-09-20T12:50:12.972000Z"
         },
         {
-          "id": "510bc5f41a64af0dcb1125f4de5b403c68eed0c3",
+          "id": "c3d6b1a7c9be9799bda91fd866e9e2214ea3f055",
           "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
           "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T10:07:51Z"
         },
         {
@@ -1502,15 +1468,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5552,
-      "importance": 0.5552,
-      "importance_score": 0.5552,
+      "score": 0.5493,
+      "importance": 0.5493,
+      "importance_score": 0.5493,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9132,
+        "recency": 0.8803,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1528,30 +1494,188 @@
       }
     },
     {
-      "story_id": "story_d9a5924bfec1",
-      "title": "特朗普的科技顾问对担心自己正在开发不安全模型的人工智能公司提出建议：“干脆别干了”",
-      "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
-      "primary_url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
+      "story_id": "story_2da09961cf12",
+      "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
+      "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+      "primary_url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T20:32:43Z"
+        },
+        {
+          "id": "c558f647f87148c7e2c88675443ab7db36998518",
+          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报",
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T16:00:21.385000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T20:32:43Z"
+        },
+        {
+          "id": "c558f647f87148c7e2c88675443ab7db36998518",
+          "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报",
+          "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T16:00:21.385000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.984,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T16:00:21.385000Z",
+      "latest_at": "2026-09-20T20:32:43Z",
+      "primary_item": {
+        "id": "372ac4a7ae9fe28bbb4e3231f951d4cb6a0a9f35",
+        "title": "OpenAI的萨姆·阿尔特曼将于下周向联合国安理会作简报 / OpenAI's Sam Altman to Brief UN Security Council Next Week",
+        "url": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_df407510d6b3",
+      "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
+      "url": "https://github.com/marciob/openmsg",
+      "primary_url": "https://github.com/marciob/openmsg",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d0cc68106b560836c0498079914fb9e186255f6a",
+          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
+          "url": "https://github.com/marciob/openmsg",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T20:25:27.018000Z"
+        },
+        {
+          "id": "a4c32f8fc2ab4ffd6259d09474f59c31b8f2ae7d",
+          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode / Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
+          "url": "https://github.com/marciob/openmsg",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-20T20:10:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "d0cc68106b560836c0498079914fb9e186255f6a",
+          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
+          "url": "https://github.com/marciob/openmsg",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-20T20:25:27.018000Z"
+        },
+        {
+          "id": "a4c32f8fc2ab4ffd6259d09474f59c31b8f2ae7d",
+          "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode / Show HN: Openmsg, agent-to-agent talk while they run, Claude<>Codex<>OpenCode",
+          "url": "https://github.com/marciob/openmsg",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-09-20T20:10:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9823,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T20:10:39Z",
+      "latest_at": "2026-09-20T20:25:27.018000Z",
+      "primary_item": {
+        "id": "d0cc68106b560836c0498079914fb9e186255f6a",
+        "title": "Show HN: Openmsg，代理在运行时之间的通信，ClaudeCodexOpenCode",
+        "url": "https://github.com/marciob/openmsg",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bb4fbf2e9746",
+      "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
+      "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
+      "primary_url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "bdd364bf6c98a3c349f976deeffb383ad7a4b316",
-          "title": "特朗普的科技顾问对担心自己正在开发不安全模型的人工智能公司提出建议：“干脆别干了”",
-          "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
+          "id": "ca6e4df44e87e07f1311885613987efb2205a158",
+          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-20T18:36:33.670000Z"
+          "published_at": "2026-09-20T19:38:16.749000Z"
         },
         {
-          "id": "6eac3472b53be86cf335eea0d6130081f6f94bb3",
-          "title": "特朗普的科技顾问对担心自己正在开发不安全模型的人工智能公司提出建议：“干脆别干了” / Trump's tech advisor has advice for AI companies worried they're building unsafe models: 'Just stop'",
-          "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
+          "id": "243d66521b28cc5a360de1439b511103c2b3e91a",
+          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心” / Nvidia's Jensen Huang says AI CEOs have 'ulterior reasons' for warning about doomsday",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T17:47:57Z"
+          "published_at": "2026-09-20T19:17:13Z"
         }
       ],
       "source_count": 2,
@@ -1561,287 +1685,48 @@
       ],
       "items": [
         {
-          "id": "bdd364bf6c98a3c349f976deeffb383ad7a4b316",
-          "title": "特朗普的科技顾问对担心自己正在开发不安全模型的人工智能公司提出建议：“干脆别干了”",
-          "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
+          "id": "ca6e4df44e87e07f1311885613987efb2205a158",
+          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-20T18:36:33.670000Z"
+          "published_at": "2026-09-20T19:38:16.749000Z"
         },
         {
-          "id": "6eac3472b53be86cf335eea0d6130081f6f94bb3",
-          "title": "特朗普的科技顾问对担心自己正在开发不安全模型的人工智能公司提出建议：“干脆别干了” / Trump's tech advisor has advice for AI companies worried they're building unsafe models: 'Just stop'",
-          "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
+          "id": "243d66521b28cc5a360de1439b511103c2b3e91a",
+          "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心” / Nvidia's Jensen Huang says AI CEOs have 'ulterior reasons' for warning about doomsday",
+          "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T17:47:57Z"
+          "published_at": "2026-09-20T19:17:13Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9926,
+        "recency": 0.9712,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T17:47:57Z",
-      "latest_at": "2026-09-20T18:36:33.670000Z",
+      "earliest_at": "2026-09-20T19:17:13Z",
+      "latest_at": "2026-09-20T19:38:16.749000Z",
       "primary_item": {
-        "id": "bdd364bf6c98a3c349f976deeffb383ad7a4b316",
-        "title": "特朗普的科技顾问对担心自己正在开发不安全模型的人工智能公司提出建议：“干脆别干了”",
-        "url": "https://www.businessinsider.com/trump-tech-advisor-ai-slow-down-anthropic-openai-2026-9",
+        "id": "ca6e4df44e87e07f1311885613987efb2205a158",
+        "title": "英伟达的黄仁勋表示，AI公司CEO们警告世界末日来临，背后有“别有用心”",
+        "url": "https://www.businessinsider.com/nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump-2026-9",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_be62fdeb0511",
-      "title": "智谱AI回应ZCode代码上传争议:已修复漏洞，将开源代码库",
-      "url": "https://www.aibase.com/news/31173",
-      "primary_url": "https://www.aibase.com/news/31173",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "87681bbdb6c16ec52e9a9ff497afdcb436b77311",
-          "title": "智谱AI回应ZCode代码上传争议:已修复漏洞，将开源代码库",
-          "url": "https://www.aibase.com/news/31173",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T01:56:11.046898Z"
-        },
-        {
-          "id": "3c1fd4464d6a1ca424fcde7c159db57afb95d38b",
-          "title": "智谱 AI 回应 ZCode 代码上传争议：已修复漏洞，将开源代码库",
-          "url": "https://www.aibase.com/zh/news/31173",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "87681bbdb6c16ec52e9a9ff497afdcb436b77311",
-          "title": "智谱AI回应ZCode代码上传争议:已修复漏洞，将开源代码库",
-          "url": "https://www.aibase.com/news/31173",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-20T01:56:11.046898Z"
-        },
-        {
-          "id": "3c1fd4464d6a1ca424fcde7c159db57afb95d38b",
-          "title": "智谱 AI 回应 ZCode 代码上传争议：已修复漏洞，将开源代码库",
-          "url": "https://www.aibase.com/zh/news/31173",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7802,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T01:56:11.046898Z",
-      "latest_at": "2026-09-20T01:56:11.046898Z",
-      "primary_item": {
-        "id": "87681bbdb6c16ec52e9a9ff497afdcb436b77311",
-        "title": "智谱AI回应ZCode代码上传争议:已修复漏洞，将开源代码库",
-        "url": "https://www.aibase.com/news/31173",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_42e87daf0e86",
-      "title": "提示不真实 / Prompts Aren't Real",
-      "url": "https://evaluation.club",
-      "primary_url": "https://evaluation.club",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "8c9907e389169edf39e60e8683d364dabc863112",
-          "title": "提示不真实 / Prompts Aren't Real",
-          "url": "https://evaluation.club",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T15:59:25Z"
-        },
-        {
-          "id": "a47956e593e95d7421d5dae1122ea42c6b1015bd",
-          "title": "提示不真实 / Prompts aren’t Real",
-          "url": "https://evaluation.club",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:59:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)"
-      ],
-      "items": [
-        {
-          "id": "8c9907e389169edf39e60e8683d364dabc863112",
-          "title": "提示不真实 / Prompts Aren't Real",
-          "url": "https://evaluation.club",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T15:59:25Z"
-        },
-        {
-          "id": "a47956e593e95d7421d5dae1122ea42c6b1015bd",
-          "title": "提示不真实 / Prompts aren’t Real",
-          "url": "https://evaluation.club",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:59:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9557,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T15:59:25Z",
-      "latest_at": "2026-09-20T15:59:25Z",
-      "primary_item": {
-        "id": "8c9907e389169edf39e60e8683d364dabc863112",
-        "title": "提示不真实 / Prompts Aren't Real",
-        "url": "https://evaluation.club",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_60f379c3b3ff",
-      "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-      "url": "https://softwarecrisis.dev/letters/llmentalist",
-      "primary_url": "https://softwarecrisis.dev/letters/llmentalist",
-      "source": "softwarecrisis.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "softwarecrisis.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:28:23.669000Z"
-        },
-        {
-          "id": "e833e45361cefdae5e3786311631db75df845e8d",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:20:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "softwarecrisis.dev"
-      ],
-      "items": [
-        {
-          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "softwarecrisis.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:28:23.669000Z"
-        },
-        {
-          "id": "e833e45361cefdae5e3786311631db75df845e8d",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:20:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9486,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T12:20:13Z",
-      "latest_at": "2026-09-20T15:28:23.669000Z",
-      "primary_item": {
-        "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-        "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-        "url": "https://softwarecrisis.dev/letters/llmentalist",
-        "source": "softwarecrisis.dev",
         "source_name": "Buzzing"
       }
     }
