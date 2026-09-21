@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:56:37.623287Z",
+  "generated_at": "2026-09-21T07:26:22.820059Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8353,
-      "importance": 0.8353,
-      "importance_score": 0.8353,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8928,
+        "recency": 0.8247,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -214,15 +214,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8176,
+        "recency": 0.7552,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -239,6 +239,592 @@
         "url": "https://qwen.ai/blog?id=qwen-image-2.1",
         "source": "Qwen：Blog Retrieval（API）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e03876109744",
+      "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+      "url": "https://www.aibase.com/news/31232",
+      "primary_url": "https://www.aibase.com/news/31232",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "url": "https://www.aibase.com/news/31232",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T07:26:22.820059Z"
+        },
+        {
+          "id": "08bd75ca3f2594fbca0dfac072540a38fe73636f",
+          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "url": "https://www.aibase.com/zh/news/31232",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "url": "https://www.aibase.com/news/31232",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T07:26:22.820059Z"
+        },
+        {
+          "id": "08bd75ca3f2594fbca0dfac072540a38fe73636f",
+          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "url": "https://www.aibase.com/zh/news/31232",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T07:26:22.820059Z",
+      "latest_at": "2026-09-21T07:26:22.820059Z",
+      "primary_item": {
+        "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+        "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+        "url": "https://www.aibase.com/news/31232",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e205f1c31513",
+      "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+      "url": "https://www.aibase.com/news/31228",
+      "primary_url": "https://www.aibase.com/news/31228",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "url": "https://www.aibase.com/news/31228",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T07:26:22.820059Z"
+        },
+        {
+          "id": "cbf7c299e9416e4fc0ef854ba50c8d8d22f56874",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "url": "https://www.aibase.com/zh/news/31228",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "url": "https://www.aibase.com/news/31228",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T07:26:22.820059Z"
+        },
+        {
+          "id": "cbf7c299e9416e4fc0ef854ba50c8d8d22f56874",
+          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "url": "https://www.aibase.com/zh/news/31228",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T07:26:22.820059Z",
+      "latest_at": "2026-09-21T07:26:22.820059Z",
+      "primary_item": {
+        "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
+        "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+        "url": "https://www.aibase.com/news/31228",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fcca394b788e",
+      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T20:20:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.852,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T20:20:56Z",
+      "latest_at": "2026-09-20T20:20:56Z",
+      "primary_item": {
+        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
+        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
+        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bb5dceabc7e5",
+      "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+      "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T02:50:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+      ],
+      "items": [
+        {
+          "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+          "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+          "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T02:50:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9358,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T02:50:40Z",
+      "latest_at": "2026-09-21T02:50:40Z",
+      "primary_item": {
+        "id": "4cf683cc7925451046d7ac1a88797d6d30c01c54",
+        "title": "通义千问发布 Qwen-Image-2.1：7B 单检查点同时支持图像生成与编辑",
+        "url": "https://x.com/Alibaba_Qwen/status/2101866671900401913",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+          "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T01:52:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9229,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T01:52:57Z",
+      "latest_at": "2026-09-21T01:52:57Z",
+      "primary_item": {
+        "id": "08ae5b394d67c4d4e851880749e1ebfb5d6bc312",
+        "title": "数字生命卡兹克访谈汉化组：AI 时代字幕组与漫画组的真实处境",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686509&idx=1&sn=1b5ee8ab30c5825eaff76083e1f8dbcc",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9431f6c40685",
+      "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+      "url": "https://www.aibase.com/news/31224",
+      "primary_url": "https://www.aibase.com/news/31224",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "url": "https://www.aibase.com/news/31224",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T07:26:22.820059Z"
+        },
+        {
+          "id": "8eca55882f34970bd5b3f6d433f5d1c3f08798d5",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
+          "url": "https://www.aibase.com/zh/news/31224",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+          "url": "https://www.aibase.com/news/31224",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T07:26:22.820059Z"
+        },
+        {
+          "id": "8eca55882f34970bd5b3f6d433f5d1c3f08798d5",
+          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成「实时」",
+          "url": "https://www.aibase.com/zh/news/31224",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T07:26:22.820059Z",
+      "latest_at": "2026-09-21T07:26:22.820059Z",
+      "primary_item": {
+        "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
+        "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
+        "url": "https://www.aibase.com/news/31224",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_febf34851806",
+      "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+      "url": "https://www.aibase.com/news/31227",
+      "primary_url": "https://www.aibase.com/news/31227",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
+          "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+          "url": "https://www.aibase.com/news/31227",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T07:26:22.820059Z"
+        },
+        {
+          "id": "3ac4e484336027a100f3aaba063b98329d2feea4",
+          "title": "阿里 70 亿参数图像模型 Qwen-Image-2.1 开源发布，号称以瘦身之躯叫板闭源巨头",
+          "url": "https://www.aibase.com/zh/news/31227",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
+          "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+          "url": "https://www.aibase.com/news/31227",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T07:26:22.820059Z"
+        },
+        {
+          "id": "3ac4e484336027a100f3aaba063b98329d2feea4",
+          "title": "阿里 70 亿参数图像模型 Qwen-Image-2.1 开源发布，号称以瘦身之躯叫板闭源巨头",
+          "url": "https://www.aibase.com/zh/news/31227",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T07:26:22.820059Z",
+      "latest_at": "2026-09-21T07:26:22.820059Z",
+      "primary_item": {
+        "id": "b48d7b82ff56111dc01651b15447ba4b0f5b0554",
+        "title": "阿里 70 亿参数图像模型Qwen-Image-2. 1 开源发布，号称以瘦身之躯叫板闭源巨头",
+        "url": "https://www.aibase.com/news/31227",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_62ef79af4c6f",
+      "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+      "url": "https://www.aibase.com/news/31233",
+      "primary_url": "https://www.aibase.com/news/31233",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "url": "https://www.aibase.com/news/31233",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T07:26:22.820059Z"
+        },
+        {
+          "id": "9bf7acc80de4207fe8277796dc6730ad46250660",
+          "title": "阿里换帅 Qwen 团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "url": "https://www.aibase.com/zh/news/31233",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+          "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "url": "https://www.aibase.com/news/31233",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T07:26:22.820059Z"
+        },
+        {
+          "id": "9bf7acc80de4207fe8277796dc6730ad46250660",
+          "title": "阿里换帅 Qwen 团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+          "url": "https://www.aibase.com/zh/news/31233",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T07:26:22.820059Z",
+      "latest_at": "2026-09-21T07:26:22.820059Z",
+      "primary_item": {
+        "id": "c99022a8e711302a8fe0c74a40c171dfdb418003",
+        "title": "阿里换帅Qwen团队：刘大一恒接掌通义千问大模型，云栖大会前亮相",
+        "url": "https://www.aibase.com/news/31233",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -295,15 +881,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9237,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -323,534 +909,8 @@
       }
     },
     {
-      "story_id": "story_fcca394b788e",
-      "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-      "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-      "primary_url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T20:20:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-          "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-          "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T20:20:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9224,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-20T20:20:56Z",
-      "latest_at": "2026-09-20T20:20:56Z",
-      "primary_item": {
-        "id": "e7934196a7be1cf52a62f81ea6d8d9b348e216c3",
-        "title": "Google 确认 Gemini 在 Irregular 安全测试中访问 3 家真实公司系统，与 OpenAI、Anthropic、Meta 属同一评估事故",
-        "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bcbd9bff6cb5",
-      "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-      "url": "https://www.aibase.com/news/31210",
-      "primary_url": "https://www.aibase.com/news/31210",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
-          "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-          "url": "https://www.aibase.com/news/31210",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:56:37.623287Z"
-        },
-        {
-          "id": "adcedabdcb38e22625dbb014aad2ad149da9103f",
-          "title": "OpenAI 研究员称物理断网也拦不住 AI：BitWhisper 用 CPU 温度传信，每小时仅 8 比特",
-          "url": "https://www.aibase.com/zh/news/31210",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
-          "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-          "url": "https://www.aibase.com/news/31210",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:56:37.623287Z"
-        },
-        {
-          "id": "adcedabdcb38e22625dbb014aad2ad149da9103f",
-          "title": "OpenAI 研究员称物理断网也拦不住 AI：BitWhisper 用 CPU 温度传信，每小时仅 8 比特",
-          "url": "https://www.aibase.com/zh/news/31210",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T01:56:37.623287Z",
-      "latest_at": "2026-09-21T01:56:37.623287Z",
-      "primary_item": {
-        "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
-        "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
-        "url": "https://www.aibase.com/news/31210",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1a380ea379e4",
-      "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-      "url": "https://www.aibase.com/news/31215",
-      "primary_url": "https://www.aibase.com/news/31215",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
-          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-          "url": "https://www.aibase.com/news/31215",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:56:37.623287Z"
-        },
-        {
-          "id": "ee71a056abcbd969cb78ea0a33c660de446b8645",
-          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-          "url": "https://www.aibase.com/zh/news/31215",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
-          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-          "url": "https://www.aibase.com/news/31215",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:56:37.623287Z"
-        },
-        {
-          "id": "ee71a056abcbd969cb78ea0a33c660de446b8645",
-          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-          "url": "https://www.aibase.com/zh/news/31215",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T01:56:37.623287Z",
-      "latest_at": "2026-09-21T01:56:37.623287Z",
-      "primary_item": {
-        "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
-        "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-        "url": "https://www.aibase.com/news/31215",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7652446ef5af",
-      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.84,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T13:52:24Z",
-      "latest_at": "2026-09-20T13:52:24Z",
-      "primary_item": {
-        "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-        "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_125c1d6f7984",
-      "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
-      "url": "https://www.aibase.com/news/31207",
-      "primary_url": "https://www.aibase.com/news/31207",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
-          "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
-          "url": "https://www.aibase.com/news/31207",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:56:37.623287Z"
-        },
-        {
-          "id": "c4b4bb8c7e312690cae536e4d262864422f6a258",
-          "title": "Vals AI 用《我的世界》测试 GPT-6 Astra 141 小时：炸掉一只箱子后，AI 缩进田里种土豆不出来了",
-          "url": "https://www.aibase.com/zh/news/31207",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
-          "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
-          "url": "https://www.aibase.com/news/31207",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:56:37.623287Z"
-        },
-        {
-          "id": "c4b4bb8c7e312690cae536e4d262864422f6a258",
-          "title": "Vals AI 用《我的世界》测试 GPT-6 Astra 141 小时：炸掉一只箱子后，AI 缩进田里种土豆不出来了",
-          "url": "https://www.aibase.com/zh/news/31207",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T01:56:37.623287Z",
-      "latest_at": "2026-09-21T01:56:37.623287Z",
-      "primary_item": {
-        "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
-        "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
-        "url": "https://www.aibase.com/news/31207",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4fad2905f6d2",
-      "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-      "url": "https://www.aibase.com/news/31216",
-      "primary_url": "https://www.aibase.com/news/31216",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
-          "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "url": "https://www.aibase.com/news/31216",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:56:37.623287Z"
-        },
-        {
-          "id": "f9cd2029b371f73aa8797d1ac58de514944b803e",
-          "title": "微软 Copilot 桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "url": "https://www.aibase.com/zh/news/31216",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
-          "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "url": "https://www.aibase.com/news/31216",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:56:37.623287Z"
-        },
-        {
-          "id": "f9cd2029b371f73aa8797d1ac58de514944b803e",
-          "title": "微软 Copilot 桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "url": "https://www.aibase.com/zh/news/31216",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T01:56:37.623287Z",
-      "latest_at": "2026-09-21T01:56:37.623287Z",
-      "primary_item": {
-        "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
-        "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-        "url": "https://www.aibase.com/news/31216",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d263354c1f0a",
-      "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-      "url": "https://www.aibase.com/news/31213",
-      "primary_url": "https://www.aibase.com/news/31213",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "url": "https://www.aibase.com/news/31213",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:56:37.623287Z"
-        },
-        {
-          "id": "4ed1d31bdb4a306e4ea776b5a1ac80e937f3f841",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "url": "https://www.aibase.com/zh/news/31213",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "url": "https://www.aibase.com/news/31213",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T01:56:37.623287Z"
-        },
-        {
-          "id": "4ed1d31bdb4a306e4ea776b5a1ac80e937f3f841",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "url": "https://www.aibase.com/zh/news/31213",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T01:56:37.623287Z",
-      "latest_at": "2026-09-21T01:56:37.623287Z",
-      "primary_item": {
-        "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-        "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-        "url": "https://www.aibase.com/news/31213",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
       "story_id": "story_410fb4adc82c",
-      "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "title": "还剩 6 天，即可为 TechCrunch Disrupt 2026 节省高达 200 美元 / 6 days left to save up to $200 to TechCrunch Disrupt 2026",
       "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
       "primary_url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
       "source": "TechCrunch AI",
@@ -858,7 +918,7 @@
       "sources": [
         {
           "id": "ad4ad93a18b7efa456d3b1d3c24e4f443110f8d3",
-          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+          "title": "还剩 6 天，即可为 TechCrunch Disrupt 2026 节省高达 200 美元 / 6 days left to save up to $200 to TechCrunch Disrupt 2026",
           "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
@@ -882,7 +942,7 @@
       "items": [
         {
           "id": "ad4ad93a18b7efa456d3b1d3c24e4f443110f8d3",
-          "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+          "title": "还剩 6 天，即可为 TechCrunch Disrupt 2026 节省高达 200 美元 / 6 days left to save up to $200 to TechCrunch Disrupt 2026",
           "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
@@ -901,15 +961,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.638,
-      "importance": 0.638,
-      "importance_score": 0.638,
+      "score": 0.6251,
+      "importance": 0.6251,
+      "importance_score": 0.6251,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9404,
+        "recency": 0.8686,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -920,7 +980,7 @@
       "latest_at": "2026-09-20T21:41:08Z",
       "primary_item": {
         "id": "ad4ad93a18b7efa456d3b1d3c24e4f443110f8d3",
-        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "title": "还剩 6 天，即可为 TechCrunch Disrupt 2026 节省高达 200 美元 / 6 days left to save up to $200 to TechCrunch Disrupt 2026",
         "url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
@@ -1015,15 +1075,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6273,
-      "importance": 0.6273,
-      "importance_score": 0.6273,
+      "score": 0.6149,
+      "importance": 0.6149,
+      "importance_score": 0.6149,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9062,
+        "recency": 0.8371,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1041,26 +1101,26 @@
       }
     },
     {
-      "story_id": "story_f40b95622edc",
-      "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
-      "url": "https://www.aibase.com/news/31208",
-      "primary_url": "https://www.aibase.com/news/31208",
+      "story_id": "story_bcbd9bff6cb5",
+      "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+      "url": "https://www.aibase.com/news/31210",
+      "primary_url": "https://www.aibase.com/news/31210",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f6af3d5b7fa0344253ea09283f77448b6fb32012",
-          "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
-          "url": "https://www.aibase.com/news/31208",
+          "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
+          "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "url": "https://www.aibase.com/news/31210",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-21T01:56:37.623287Z"
         },
         {
-          "id": "76e2ff35232f39b7b5ff37505cf03f3d18a3331f",
-          "title": "智谱 MaaS 将上线「数据不留存」机制，用户调用内容用完即焚",
-          "url": "https://www.aibase.com/zh/news/31208",
+          "id": "adcedabdcb38e22625dbb014aad2ad149da9103f",
+          "title": "OpenAI 研究员称物理断网也拦不住 AI：BitWhisper 用 CPU 温度传信，每小时仅 8 比特",
+          "url": "https://www.aibase.com/zh/news/31210",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1074,18 +1134,18 @@
       ],
       "items": [
         {
-          "id": "f6af3d5b7fa0344253ea09283f77448b6fb32012",
-          "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
-          "url": "https://www.aibase.com/news/31208",
+          "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
+          "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+          "url": "https://www.aibase.com/news/31210",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-21T01:56:37.623287Z"
         },
         {
-          "id": "76e2ff35232f39b7b5ff37505cf03f3d18a3331f",
-          "title": "智谱 MaaS 将上线「数据不留存」机制，用户调用内容用完即焚",
-          "url": "https://www.aibase.com/zh/news/31208",
+          "id": "adcedabdcb38e22625dbb014aad2ad149da9103f",
+          "title": "OpenAI 研究员称物理断网也拦不住 AI：BitWhisper 用 CPU 温度传信，每小时仅 8 比特",
+          "url": "https://www.aibase.com/zh/news/31210",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1094,15 +1154,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9237,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1114,24 +1174,141 @@
       "earliest_at": "2026-09-21T01:56:37.623287Z",
       "latest_at": "2026-09-21T01:56:37.623287Z",
       "primary_item": {
-        "id": "f6af3d5b7fa0344253ea09283f77448b6fb32012",
-        "title": "智谱MaaS将上线\"数据不留存\"机制，用户调用内容用完即焚",
-        "url": "https://www.aibase.com/news/31208",
+        "id": "79f3f2e83ddcb29996c0d130ccc4ec3e12aa7dff",
+        "title": "OpenAI研究员放话\"物理断网也拦不住 AI\"：BitWhisper 用 CPU 温度传信，每小时只能淌 8 个比特",
+        "url": "https://www.aibase.com/news/31210",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
+      "story_id": "story_ef6362531a2e",
+      "title": "为什么MCP一直都是个糟糕的主意？",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "source": "maharship.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9b227d0da245bf83211ed24f258db8b09df3d4a6",
+          "title": "为什么MCP一直都是个糟糕的主意？",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "maharship.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T06:27:15.988000Z"
+        },
+        {
+          "id": "a8836802839bf9e87e6335e7329f75f79314ca92",
+          "title": "为什么MCP一直都是个糟糕的主意？ / MCP was always a bad idea?",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
+          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
+          "url": "https://news.ycombinator.com/item?id=49779329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T19:44:40Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "maharship.com"
+      ],
+      "items": [
+        {
+          "id": "9b227d0da245bf83211ed24f258db8b09df3d4a6",
+          "title": "为什么MCP一直都是个糟糕的主意？",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "maharship.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T06:27:15.988000Z"
+        },
+        {
+          "id": "a8836802839bf9e87e6335e7329f75f79314ca92",
+          "title": "为什么MCP一直都是个糟糕的主意？ / MCP was always a bad idea?",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
+          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
+          "url": "https://news.ycombinator.com/item?id=49779329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T19:44:40Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5933,
+      "importance": 0.5933,
+      "importance_score": 0.5933,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9859,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T19:44:40Z",
+      "latest_at": "2026-09-21T06:27:15.988000Z",
+      "primary_item": {
+        "id": "9b227d0da245bf83211ed24f258db8b09df3d4a6",
+        "title": "为什么MCP一直都是个糟糕的主意？",
+        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+        "source": "maharship.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
       "story_id": "story_cb03d7f13be9",
-      "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "primary_url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "source": "The Verge",
       "source_name": "Curated Media",
       "sources": [
         {
-          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "id": "aa74037c27e35223b4e6af22c96a05a08cf1e958",
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
           "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
           "source": "The Verge",
           "source_name": "Curated Media",
@@ -1140,7 +1317,7 @@
         },
         {
           "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
           "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
           "source": "The Verge",
           "source_name": "TechURLs",
@@ -1154,8 +1331,8 @@
       ],
       "items": [
         {
-          "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+          "id": "aa74037c27e35223b4e6af22c96a05a08cf1e958",
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
           "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
           "source": "The Verge",
           "source_name": "Curated Media",
@@ -1164,7 +1341,7 @@
         },
         {
           "id": "4c2db2373e60e802256489099a61485b7afa431a",
-          "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
+          "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown.",
           "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
           "source": "The Verge",
           "source_name": "TechURLs",
@@ -1174,15 +1351,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5979,
-      "importance": 0.5979,
-      "importance_score": 0.5979,
+      "score": 0.5855,
+      "importance": 0.5855,
+      "importance_score": 0.5855,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9025,
+        "recency": 0.8336,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1192,34 +1369,34 @@
       "earliest_at": "2026-09-20T18:50:18Z",
       "latest_at": "2026-09-20T18:50:18Z",
       "primary_item": {
-        "id": "df5714db5f11927567eba37aa2f0c9376686abb1",
-        "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶。 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "id": "aa74037c27e35223b4e6af22c96a05a08cf1e958",
+        "title": "英伟达 (Nvidia) 的黄仁勋 (Jensen Huang) 认为人工智能的担忧被夸大了，这一点没有人感到惊讶 / No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
         "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
         "source": "The Verge",
         "source_name": "Curated Media"
       }
     },
     {
-      "story_id": "story_bc12fa7adecc",
-      "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-      "url": "https://www.aibase.com/news/31209",
-      "primary_url": "https://www.aibase.com/news/31209",
+      "story_id": "story_1a380ea379e4",
+      "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+      "url": "https://www.aibase.com/news/31215",
+      "primary_url": "https://www.aibase.com/news/31215",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b64e5b707a5979ee7fecc5fbc6b1a98292fb6123",
-          "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-          "url": "https://www.aibase.com/news/31209",
+          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
+          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "url": "https://www.aibase.com/news/31215",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-21T01:56:37.623287Z"
         },
         {
-          "id": "da34634f38f7e316d103871a63d2e80f979f145c",
-          "title": "腾讯推出「混元智囊团」专家平台，AI 行业竞争转向外部人才生态",
-          "url": "https://www.aibase.com/zh/news/31209",
+          "id": "ee71a056abcbd969cb78ea0a33c660de446b8645",
+          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "url": "https://www.aibase.com/zh/news/31215",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1233,18 +1410,18 @@
       ],
       "items": [
         {
-          "id": "b64e5b707a5979ee7fecc5fbc6b1a98292fb6123",
-          "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-          "url": "https://www.aibase.com/news/31209",
+          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
+          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "url": "https://www.aibase.com/news/31215",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-21T01:56:37.623287Z"
         },
         {
-          "id": "da34634f38f7e316d103871a63d2e80f979f145c",
-          "title": "腾讯推出「混元智囊团」专家平台，AI 行业竞争转向外部人才生态",
-          "url": "https://www.aibase.com/zh/news/31209",
+          "id": "ee71a056abcbd969cb78ea0a33c660de446b8645",
+          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "url": "https://www.aibase.com/zh/news/31215",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1253,15 +1430,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9237,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1273,228 +1450,191 @@
       "earliest_at": "2026-09-21T01:56:37.623287Z",
       "latest_at": "2026-09-21T01:56:37.623287Z",
       "primary_item": {
-        "id": "b64e5b707a5979ee7fecc5fbc6b1a98292fb6123",
-        "title": "腾讯推出“混元智囊团”专家平台，AI行业竞争转向外部人才生态",
-        "url": "https://www.aibase.com/news/31209",
+        "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
+        "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+        "url": "https://www.aibase.com/news/31215",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d7df6a0fce8b",
-      "title": "贝森特在与中方副总理的会谈中提议建立中美人工智能安全通报机制",
-      "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
-      "primary_url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
-      "source": "www.reuters.com",
+      "story_id": "story_bca151d4e3ae",
+      "title": "杰弗里斯分析师发泄不满，因AI“劫持”了二氧化碳谈判",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
+      "source": "www.bloomberg.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ec85a9b7bfeed41b81c5808e6e121800e6ecc0e1",
-          "title": "贝森特在与中方副总理的会谈中提议建立中美人工智能安全通报机制",
-          "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
-          "source": "www.reuters.com",
+          "id": "0b7123c904475f1aa668c30d71a588ac4b8d18bb",
+          "title": "杰弗里斯分析师发泄不满，因AI“劫持”了二氧化碳谈判",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
+          "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-21T01:26:40.377000Z"
+          "published_at": "2026-09-21T06:27:16.053000Z"
         },
         {
-          "id": "1745e3931d7ca5d6b7d96c57d8391bc830150aea",
-          "title": "美国财政部的贝森特与中国方面的何某就人工智能、贸易和关键矿产问题展开磋商",
-          "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
-          "source": "www.reuters.com",
+          "id": "872c9ebd4ee65a740385d7b3c8c8067067482007",
+          "title": "杰弗里斯分析师因人工智能主导二氧化碳议题而发泄不满",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
+          "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-20T15:12:42.002000Z"
-        },
-        {
-          "id": "78a74478530eb4998456b736805fba4673ecfd94",
-          "title": "美国财政部的贝森特与中国方面的何某将就人工智能、贸易和关键矿产问题展开磋商",
-          "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T05:15:21.843000Z"
+          "published_at": "2026-09-20T10:14:37.898000Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "www.reuters.com"
+        "www.bloomberg.com"
       ],
       "items": [
         {
-          "id": "ec85a9b7bfeed41b81c5808e6e121800e6ecc0e1",
-          "title": "贝森特在与中方副总理的会谈中提议建立中美人工智能安全通报机制",
-          "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
-          "source": "www.reuters.com",
+          "id": "0b7123c904475f1aa668c30d71a588ac4b8d18bb",
+          "title": "杰弗里斯分析师发泄不满，因AI“劫持”了二氧化碳谈判",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
+          "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-21T01:26:40.377000Z"
+          "published_at": "2026-09-21T06:27:16.053000Z"
         },
         {
-          "id": "1745e3931d7ca5d6b7d96c57d8391bc830150aea",
-          "title": "美国财政部的贝森特与中国方面的何某就人工智能、贸易和关键矿产问题展开磋商",
-          "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
-          "source": "www.reuters.com",
+          "id": "872c9ebd4ee65a740385d7b3c8c8067067482007",
+          "title": "杰弗里斯分析师因人工智能主导二氧化碳议题而发泄不满",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
+          "source": "www.bloomberg.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-20T15:12:42.002000Z"
-        },
-        {
-          "id": "78a74478530eb4998456b736805fba4673ecfd94",
-          "title": "美国财政部的贝森特与中国方面的何某将就人工智能、贸易和关键矿产问题展开磋商",
-          "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T05:15:21.843000Z"
+          "published_at": "2026-09-20T10:14:37.898000Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9928,
-        "story_heat": 0.5
+        "recency": 0.9859,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T05:15:21.843000Z",
-      "latest_at": "2026-09-21T01:26:40.377000Z",
+      "earliest_at": "2026-09-20T10:14:37.898000Z",
+      "latest_at": "2026-09-21T06:27:16.053000Z",
       "primary_item": {
-        "id": "ec85a9b7bfeed41b81c5808e6e121800e6ecc0e1",
-        "title": "贝森特在与中方副总理的会谈中提议建立中美人工智能安全通报机制",
-        "url": "https://www.reuters.com/business/finance/us-treasurys-bessent-chinas-he-launch-talks-ai-trade-critical-minerals-2026-09-20",
-        "source": "www.reuters.com",
+        "id": "0b7123c904475f1aa668c30d71a588ac4b8d18bb",
+        "title": "杰弗里斯分析师发泄不满，因AI“劫持”了二氧化碳谈判",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-20/jefferies-analyst-vents-frustration-as-ai-dominates-co2-talks",
+        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_ef6362531a2e",
-      "title": "Why MCP Was Always a Bad Idea",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "story_id": "story_7e747ca3bebd",
+      "title": "美国希望与中国建立人工智能时代的“红电话”",
+      "url": "https://www.businessinsider.com/trump-xi-meeting-summit-us-china-ai-safety-risk-mechanism-2026-9",
+      "primary_url": "https://www.businessinsider.com/trump-xi-meeting-summit-us-china-ai-safety-risk-mechanism-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "Why MCP Was Always a Bad Idea",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
+          "id": "7e307fbad87cee788fc6d2b1c481214a8da6d610",
+          "title": "美国希望与中国建立人工智能时代的“红电话”",
+          "url": "https://www.businessinsider.com/trump-xi-meeting-summit-us-china-ai-safety-risk-mechanism-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T06:27:16.025000Z"
+        },
+        {
+          "id": "3776ff810326c36205fe29667f4b23c9f69bdc4b",
+          "title": "美国希望与中国建立人工智能时代的“红电话” / The US wants an AI-era 'red phone' with China",
+          "url": "https://www.businessinsider.com/trump-xi-meeting-summit-us-china-ai-safety-risk-mechanism-2026-9",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "Why MCP Was Always a Bad Idea?",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
-          "title": "Why MCP Was Always a Bad Idea?",
-          "url": "https://news.ycombinator.com/item?id=49779329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
+          "published_at": "2026-09-21T05:41:27Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "Why MCP Was Always a Bad Idea",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News",
+          "id": "7e307fbad87cee788fc6d2b1c481214a8da6d610",
+          "title": "美国希望与中国建立人工智能时代的“红电话”",
+          "url": "https://www.businessinsider.com/trump-xi-meeting-summit-us-china-ai-safety-risk-mechanism-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T06:27:16.025000Z"
+        },
+        {
+          "id": "3776ff810326c36205fe29667f4b23c9f69bdc4b",
+          "title": "美国希望与中国建立人工智能时代的“红电话” / The US wants an AI-era 'red phone' with China",
+          "url": "https://www.businessinsider.com/trump-xi-meeting-summit-us-china-ai-safety-risk-mechanism-2026-9",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "Why MCP Was Always a Bad Idea?",
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
-          "title": "Why MCP Was Always a Bad Idea?",
-          "url": "https://news.ycombinator.com/item?id=49779329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
+          "published_at": "2026-09-21T05:41:27Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5554,
-      "importance": 0.5554,
-      "importance_score": 0.5554,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9144,
-        "story_heat": 0.5
+        "recency": 0.9859,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T19:44:40Z",
-      "latest_at": "2026-09-20T19:44:40Z",
+      "earliest_at": "2026-09-21T05:41:27Z",
+      "latest_at": "2026-09-21T06:27:16.025000Z",
       "primary_item": {
-        "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-        "title": "Why MCP Was Always a Bad Idea",
-        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "id": "7e307fbad87cee788fc6d2b1c481214a8da6d610",
+        "title": "美国希望与中国建立人工智能时代的“红电话”",
+        "url": "https://www.businessinsider.com/trump-xi-meeting-summit-us-china-ai-safety-risk-mechanism-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_f2553f493237",
-      "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-      "url": "https://www.aibase.com/news/31212",
-      "primary_url": "https://www.aibase.com/news/31212",
+      "story_id": "story_125c1d6f7984",
+      "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+      "url": "https://www.aibase.com/news/31207",
+      "primary_url": "https://www.aibase.com/news/31207",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-          "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "url": "https://www.aibase.com/news/31212",
+          "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
+          "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+          "url": "https://www.aibase.com/news/31207",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-21T01:56:37.623287Z"
         },
         {
-          "id": "037ee18eecf1b569fbea96fb0b3d2d3bb804e865",
-          "title": "通义千问开源 Qwen-Image-2.1：7B 参数实现文生图与图像编辑一体化",
-          "url": "https://www.aibase.com/zh/news/31212",
+          "id": "c4b4bb8c7e312690cae536e4d262864422f6a258",
+          "title": "Vals AI 用《我的世界》测试 GPT-6 Astra 141 小时：炸掉一只箱子后，AI 缩进田里种土豆不出来了",
+          "url": "https://www.aibase.com/zh/news/31207",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1508,18 +1648,18 @@
       ],
       "items": [
         {
-          "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-          "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-          "url": "https://www.aibase.com/news/31212",
+          "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
+          "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+          "url": "https://www.aibase.com/news/31207",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-09-21T01:56:37.623287Z"
         },
         {
-          "id": "037ee18eecf1b569fbea96fb0b3d2d3bb804e865",
-          "title": "通义千问开源 Qwen-Image-2.1：7B 参数实现文生图与图像编辑一体化",
-          "url": "https://www.aibase.com/zh/news/31212",
+          "id": "c4b4bb8c7e312690cae536e4d262864422f6a258",
+          "title": "Vals AI 用《我的世界》测试 GPT-6 Astra 141 小时：炸掉一只箱子后，AI 缩进田里种土豆不出来了",
+          "url": "https://www.aibase.com/zh/news/31207",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1528,15 +1668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9237,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1548,206 +1688,11 @@
       "earliest_at": "2026-09-21T01:56:37.623287Z",
       "latest_at": "2026-09-21T01:56:37.623287Z",
       "primary_item": {
-        "id": "320e3a22385424f1cd85946f8497dc516c7389b7",
-        "title": "通义千问开源 Qwen-Image-2.1:7B 参数实现文生图与图像编辑一体化",
-        "url": "https://www.aibase.com/news/31212",
+        "id": "ebcd2bc97627e93842d257f779e48619f2b596b6",
+        "title": "Vals AI 用《我的世界》拷问 GPT-6 Astra 141 小时：炸掉一只箱子，AI 就缩进田里种土豆不出来了",
+        "url": "https://www.aibase.com/news/31207",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8bfe2a2350a2",
-      "title": "“海盗脸”拯救了大语言模型免遭删除",
-      "url": "https://pirateface.co",
-      "primary_url": "https://pirateface.co",
-      "source": "pirateface.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
-          "title": "“海盗脸”拯救了大语言模型免遭删除",
-          "url": "https://pirateface.co",
-          "source": "pirateface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T17:03:10.347000Z"
-        },
-        {
-          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
-          "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://pirateface.co",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:16:07Z"
-        },
-        {
-          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
-          "title": "海盗脸拯救了法学硕士模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://news.ycombinator.com/item?id=49776699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:16:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "pirateface.co"
-      ],
-      "items": [
-        {
-          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
-          "title": "“海盗脸”拯救了大语言模型免遭删除",
-          "url": "https://pirateface.co",
-          "source": "pirateface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T17:03:10.347000Z"
-        },
-        {
-          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
-          "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://pirateface.co",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:16:07Z"
-        },
-        {
-          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
-          "title": "海盗脸拯救了法学硕士模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
-          "url": "https://news.ycombinator.com/item?id=49776699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:16:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5491,
-      "importance": 0.5491,
-      "importance_score": 0.5491,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8795,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T15:16:07Z",
-      "latest_at": "2026-09-20T17:03:10.347000Z",
-      "primary_item": {
-        "id": "33be31ed44086715beae3f63dc914c2171dba0be",
-        "title": "“海盗脸”拯救了大语言模型免遭删除",
-        "url": "https://pirateface.co",
-        "source": "pirateface.co",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_60f379c3b3ff",
-      "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-      "url": "https://softwarecrisis.dev/letters/llmentalist",
-      "primary_url": "https://softwarecrisis.dev/letters/llmentalist",
-      "source": "softwarecrisis.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "softwarecrisis.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:28:23.669000Z"
-        },
-        {
-          "id": "e833e45361cefdae5e3786311631db75df845e8d",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:20:13Z"
-        },
-        {
-          "id": "b20cf1b1b84b64809360ce0cfd58f69815da93f2",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / The LLMentalist Effect (2023)",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:20:13Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "softwarecrisis.dev"
-      ],
-      "items": [
-        {
-          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "softwarecrisis.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:28:23.669000Z"
-        },
-        {
-          "id": "e833e45361cefdae5e3786311631db75df845e8d",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:20:13Z"
-        },
-        {
-          "id": "b20cf1b1b84b64809360ce0cfd58f69815da93f2",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / The LLMentalist Effect (2023)",
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:20:13Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5455,
-      "importance": 0.5455,
-      "importance_score": 0.5455,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8597,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T12:20:13Z",
-      "latest_at": "2026-09-20T15:28:23.669000Z",
-      "primary_item": {
-        "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-        "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-        "url": "https://softwarecrisis.dev/letters/llmentalist",
-        "source": "softwarecrisis.dev",
-        "source_name": "Buzzing"
       }
     }
   ]
