@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T08:54:03.945038Z",
+  "generated_at": "2026-10-04T14:28:19.077086Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8609,
-      "importance": 0.8609,
-      "importance_score": 0.8609,
+      "score": 0.8488,
+      "importance": 0.8488,
+      "importance_score": 0.8488,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8661,
+        "recency": 0.7992,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,21 +120,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8527,
+        "recency": 0.7868,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-03T21:52:11Z",
       "latest_at": "2026-10-03T21:52:11Z",
@@ -181,21 +180,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8044,
+        "recency": 0.7422,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-03T17:49:30.667617Z",
       "latest_at": "2026-10-03T17:49:30.667617Z",
@@ -208,234 +206,1201 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题",
-      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "primary_url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-      "source": "www.youtube.com",
+      "story_id": "story_c83b565fc251",
+      "title": "宗教学者与Anthropic公司进行了会面",
+      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "primary_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+      "source": "www.nytimes.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "8d41b8355bfdc36961629fb295df569095fa08a3",
-          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "www.youtube.com",
+          "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
+          "title": "宗教学者与Anthropic公司进行了会面",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "source": "www.nytimes.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T12:07:54.478000Z"
+          "published_at": "2026-10-04T12:57:08.561000Z"
         },
         {
-          "id": "67d9f2e6da15bbae20d6199ac01d20dfed978e39",
-          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题 / Greg Kroah-Hartman - Security in the LLM Age",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "Lobsters (技术社区)",
+          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
+          "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-03T11:57:02Z"
+          "published_at": "2026-10-04T02:34:22Z"
         },
         {
-          "id": "efa811acee85d986a3216d5a3a5bc8fcade11612",
-          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题 / Security in the LLM Age",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T11:57:02Z"
-        },
-        {
-          "id": "6f8c2614f032f342076a8f7e35ff9136f183bfa1",
-          "title": "我们调查了星链。我们发现的腐败现象会让你震惊 / We Investigated Starlink. The Corruption We Found Will Shock You",
-          "url": "https://www.youtube.com/watch?v=LQYnlg4pO9o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T10:21:24Z"
+          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
+          "title": "Religious scholars met with Anthropic",
+          "url": "https://news.ycombinator.com/item?id=49950052",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T02:34:22Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "www.youtube.com"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.nytimes.com"
       ],
       "items": [
         {
-          "id": "8d41b8355bfdc36961629fb295df569095fa08a3",
-          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "www.youtube.com",
+          "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
+          "title": "宗教学者与Anthropic公司进行了会面",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "source": "www.nytimes.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T12:07:54.478000Z"
+          "published_at": "2026-10-04T12:57:08.561000Z"
         },
         {
-          "id": "67d9f2e6da15bbae20d6199ac01d20dfed978e39",
-          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题 / Greg Kroah-Hartman - Security in the LLM Age",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "Lobsters (技术社区)",
+          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
+          "title": "宗教学者与Anthropic公司进行了会面 / Religious scholars met with Anthropic",
+          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-03T11:57:02Z"
+          "published_at": "2026-10-04T02:34:22Z"
         },
         {
-          "id": "efa811acee85d986a3216d5a3a5bc8fcade11612",
-          "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题 / Security in the LLM Age",
-          "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T11:57:02Z"
-        },
-        {
-          "id": "6f8c2614f032f342076a8f7e35ff9136f183bfa1",
-          "title": "我们调查了星链。我们发现的腐败现象会让你震惊 / We Investigated Starlink. The Corruption We Found Will Shock You",
-          "url": "https://www.youtube.com/watch?v=LQYnlg4pO9o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T10:21:24Z"
+          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
+          "title": "Religious scholars met with Anthropic",
+          "url": "https://news.ycombinator.com/item?id=49950052",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T02:34:22Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5492,
-      "importance": 0.5492,
-      "importance_score": 0.5492,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5669,
+      "importance": 0.5669,
+      "importance_score": 0.5669,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7409,
-        "story_heat": 0.75
+        "recency": 0.9783,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T10:21:24Z",
-      "latest_at": "2026-10-03T12:07:54.478000Z",
+      "earliest_at": "2026-10-04T02:34:22Z",
+      "latest_at": "2026-10-04T12:57:08.561000Z",
       "primary_item": {
-        "id": "8d41b8355bfdc36961629fb295df569095fa08a3",
-        "title": "格雷格·克罗-哈特曼——大语言模型时代的安全问题",
-        "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-        "source": "www.youtube.com",
+        "id": "c132132e49011d3d6c0715f8a4ee1f40ed8c9064",
+        "title": "宗教学者与Anthropic公司进行了会面",
+        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
+        "source": "www.nytimes.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_9a14422b82b9",
-      "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-      "url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "primary_url": "https://tej.as/blog/aleph-alpha-kolibri",
-      "source": "tej.as",
+      "story_id": "story_8b1e323a2293",
+      "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+      "primary_url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+      "source": "fortune.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "tej.as",
+          "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
+          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+          "source": "fortune.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T10:49:44.714000Z"
+          "published_at": "2026-10-04T09:46:05.311000Z"
         },
         {
-          "id": "01fce6e6b411020afe24d51738d173a332dc30d7",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
+          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-03T10:43:51Z"
+          "published_at": "2026-10-03T17:44:29Z"
         },
         {
-          "id": "b84a8375a5247ee3a46c762700baee7461309647",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "43d0d8fde5a5cd7e0497e1833d363aee6e5906b6",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Show HN: Germany's new sovereign AI model Kolibri",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T10:43:51Z"
+          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
+          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "url": "https://news.ycombinator.com/item?id=49946228",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:44:29Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
-        "tej.as"
+        "fortune.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "tej.as",
+          "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
+          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+          "source": "fortune.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-03T10:49:44.714000Z"
+          "published_at": "2026-10-04T09:46:05.311000Z"
         },
         {
-          "id": "01fce6e6b411020afe24d51738d173a332dc30d7",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Aleph Alpha Kolibri: How the sovereign German LLM works",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
+          "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
+          "title": "AI“教父”勒库恩对人类灭绝“毫无担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-03T10:43:51Z"
+          "published_at": "2026-10-03T17:44:29Z"
         },
         {
-          "id": "b84a8375a5247ee3a46c762700baee7461309647",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Kolibri is an open-weight LLM from Aleph Alpha for German and English",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T10:43:51Z"
-        },
-        {
-          "id": "43d0d8fde5a5cd7e0497e1833d363aee6e5906b6",
-          "title": "Show HN: 德国的新型主权人工智能模型“Kolibri” / Show HN: Germany's new sovereign AI model Kolibri",
-          "url": "https://tej.as/blog/aleph-alpha-kolibri",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T10:43:51Z"
+          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
+          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "url": "https://news.ycombinator.com/item?id=49946228",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:44:29Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5467,
-      "importance": 0.5467,
-      "importance_score": 0.5467,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.559,
+      "importance": 0.559,
+      "importance_score": 0.559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7271,
-        "story_heat": 0.75
+        "recency": 0.9343,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T10:43:51Z",
-      "latest_at": "2026-10-03T10:49:44.714000Z",
+      "earliest_at": "2026-10-03T17:44:29Z",
+      "latest_at": "2026-10-04T09:46:05.311000Z",
       "primary_item": {
-        "id": "947672c54a94c9809a1dcfa2c8088bdf28fa6f50",
-        "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
-        "url": "https://tej.as/blog/aleph-alpha-kolibri",
-        "source": "tej.as",
+        "id": "06f280d3a3d0ed5d8e8167d0587b4474792660ae",
+        "title": "AI“教父”勒库恩对人类灭绝“毫无担忧”",
+        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+        "source": "fortune.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_810f091c82ef",
+      "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "source": "www.neowin.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
+          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "www.neowin.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.315000Z"
+        },
+        {
+          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T17:57:03Z"
+        },
+        {
+          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://news.ycombinator.com/item?id=49946321",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:57:03Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.neowin.net"
+      ],
+      "items": [
+        {
+          "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
+          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "www.neowin.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.315000Z"
+        },
+        {
+          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+          "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T17:57:03Z"
+        },
+        {
+          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://news.ycombinator.com/item?id=49946321",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:57:03Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.559,
+      "importance": 0.559,
+      "importance_score": 0.559,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9343,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T17:57:03Z",
+      "latest_at": "2026-10-04T09:46:05.315000Z",
+      "primary_item": {
+        "id": "71d962531003070bc0b40a780ef1e5181b7ab33a",
+        "title": "Pop!_OS 禁止在其大部分代码库中使用 AI 生成的代码",
+        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+        "source": "www.neowin.net",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_567a67be4150",
+      "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
+      "url": "https://github.com/allenv0/SCM",
+      "primary_url": "https://github.com/allenv0/SCM",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
+          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
+          "url": "https://github.com/allenv0/SCM",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:09.708000Z"
+        },
+        {
+          "id": "d582d31ccbbc56a64fd182e2a1bacd0ee9ecda8f",
+          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索 / Show HN: AI search for every photo and every frame of video on macOS",
+          "url": "https://github.com/allenv0/SCM",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T09:24:52Z"
+        },
+        {
+          "id": "176ef01f259d1e32254ce46c8e25df5d8cd04011",
+          "title": "Show HN: AI search for every photo and every frame of video on macOS",
+          "url": "https://news.ycombinator.com/item?id=49952111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T09:24:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
+          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
+          "url": "https://github.com/allenv0/SCM",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:09.708000Z"
+        },
+        {
+          "id": "d582d31ccbbc56a64fd182e2a1bacd0ee9ecda8f",
+          "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索 / Show HN: AI search for every photo and every frame of video on macOS",
+          "url": "https://github.com/allenv0/SCM",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T09:24:52Z"
+        },
+        {
+          "id": "176ef01f259d1e32254ce46c8e25df5d8cd04011",
+          "title": "Show HN: AI search for every photo and every frame of video on macOS",
+          "url": "https://news.ycombinator.com/item?id=49952111",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-04T09:24:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.559,
+      "importance": 0.559,
+      "importance_score": 0.559,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9343,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T09:24:52Z",
+      "latest_at": "2026-10-04T09:46:09.708000Z",
+      "primary_item": {
+        "id": "7312b7a41fcce818e682ba9f56b3b68ed2dc8b4b",
+        "title": "Show HN: 在 macOS 上对每张照片和视频的每一帧进行 AI 搜索",
+        "url": "https://github.com/allenv0/SCM",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_864d878d48f9",
+      "title": "AI 军事化的两条路线：美国在拆刹车，中国在踩刹车",
+      "url": "https://www.huxiu.com/article/4895378.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4895378.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "8d300bc012bcc0201f57278a1e4b86b81047d673",
+          "title": "AI 军事化的两条路线：美国在拆刹车，中国在踩刹车",
+          "url": "https://www.huxiu.com/article/4895378.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "932cf70c4e5fbfb8f9c5cef6f0d8b92a690be1c1",
+          "title": "AI军事化的两条路线：美国在拆刹车，中国在踩刹车",
+          "url": "https://www.huxiu.com/article/4895378.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T13:41:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "8d300bc012bcc0201f57278a1e4b86b81047d673",
+          "title": "AI 军事化的两条路线：美国在拆刹车，中国在踩刹车",
+          "url": "https://www.huxiu.com/article/4895378.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "932cf70c4e5fbfb8f9c5cef6f0d8b92a690be1c1",
+          "title": "AI军事化的两条路线：美国在拆刹车，中国在踩刹车",
+          "url": "https://www.huxiu.com/article/4895378.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T13:41:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T13:41:04Z",
+      "latest_at": "2026-10-04T14:28:19.077086Z",
+      "primary_item": {
+        "id": "8d300bc012bcc0201f57278a1e4b86b81047d673",
+        "title": "AI 军事化的两条路线：美国在拆刹车，中国在踩刹车",
+        "url": "https://www.huxiu.com/article/4895378.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_d354e4a5c9be",
+      "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
+          "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T14:15:01.403000Z"
+        },
+        {
+          "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
+          "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T01:55:40.527000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
+          "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T14:15:01.403000Z"
+        },
+        {
+          "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
+          "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T01:55:40.527000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9968,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T01:55:40.527000Z",
+      "latest_at": "2026-10-04T14:15:01.403000Z",
+      "primary_item": {
+        "id": "307750a9a9f6793d14bfe1718775e3dbdbfd24ee",
+        "title": "特朗普任命克莱顿领导人工智能特别工作组，以应对安全担忧",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e808fbfdb386",
+      "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+      "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+      "primary_url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bdb184e7d55b76b55220c03a90fd339c2f7b958a",
+          "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T13:43:45.683000Z"
+        },
+        {
+          "id": "2462d055f13afb2f7a2b6c59069667aacfabef16",
+          "title": "据《华尔街日报》报道，特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T02:11:02.276000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "bdb184e7d55b76b55220c03a90fd339c2f7b958a",
+          "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T13:43:45.683000Z"
+        },
+        {
+          "id": "2462d055f13afb2f7a2b6c59069667aacfabef16",
+          "title": "据《华尔街日报》报道，特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+          "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T02:11:02.276000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9893,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T02:11:02.276000Z",
+      "latest_at": "2026-10-04T13:43:45.683000Z",
+      "primary_item": {
+        "id": "bdb184e7d55b76b55220c03a90fd339c2f7b958a",
+        "title": "特朗普任命情报主管克莱顿为人工智能沙皇，负责领导特别工作组",
+        "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c14a8b1c7607",
+      "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。",
+      "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+      "primary_url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3aae800aeb7c680c057fe5d9257cf48f2bbb7c3b",
+          "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。",
+          "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:59:50.417000Z"
+        },
+        {
+          "id": "91be81f74eea4ee700a49d665f33660303ad1f8d",
+          "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。 / I used AI to track my job rejections. It changed my search, and I got hired.",
+          "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T09:49:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "3aae800aeb7c680c057fe5d9257cf48f2bbb7c3b",
+          "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。",
+          "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:59:50.417000Z"
+        },
+        {
+          "id": "91be81f74eea4ee700a49d665f33660303ad1f8d",
+          "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。 / I used AI to track my job rejections. It changed my search, and I got hired.",
+          "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T09:49:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9374,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T09:49:01Z",
+      "latest_at": "2026-10-04T09:59:50.417000Z",
+      "primary_item": {
+        "id": "3aae800aeb7c680c057fe5d9257cf48f2bbb7c3b",
+        "title": "我利用人工智能来记录求职被拒的情况。这改变了我的求职方式，最终我成功入职了。",
+        "url": "https://www.businessinsider.com/job-seeker-used-claude-track-search-improve-interviews-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_66ec11703fff",
+      "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
+      "url": "https://news.ycombinator.com/item?id=49951356",
+      "primary_url": "https://news.ycombinator.com/item?id=49951356",
+      "source": "news.ycombinator.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
+          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
+          "url": "https://news.ycombinator.com/item?id=49951356",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.387000Z"
+        },
+        {
+          "id": "ec0a2bd5d3587daf5f2a77878cf18afafbf4bf61",
+          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？ / Ask HN: Where can a solo dev still find a moat in LLM inference?",
+          "url": "https://news.ycombinator.com/item?id=49951356",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T06:56:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "news.ycombinator.com"
+      ],
+      "items": [
+        {
+          "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
+          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
+          "url": "https://news.ycombinator.com/item?id=49951356",
+          "source": "news.ycombinator.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:05.387000Z"
+        },
+        {
+          "id": "ec0a2bd5d3587daf5f2a77878cf18afafbf4bf61",
+          "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？ / Ask HN: Where can a solo dev still find a moat in LLM inference?",
+          "url": "https://news.ycombinator.com/item?id=49951356",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T06:56:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9343,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T06:56:40Z",
+      "latest_at": "2026-10-04T09:46:05.387000Z",
+      "primary_item": {
+        "id": "71665ad9624ebbb6caa2be460b4b8df55fbdba79",
+        "title": "Ask HN: 作为独立开发者，在大型语言模型（LLM）推理领域还能在哪里找到竞争壁垒？",
+        "url": "https://news.ycombinator.com/item?id=49951356",
+        "source": "news.ycombinator.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fc994d69ad09",
+      "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "primary_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+      "source": "claude.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "claude.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T22:31:58.644000Z"
+        },
+        {
+          "id": "95e3f2f75a03acb1bf6da9265a3461877dccdb42",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-03T18:29:30Z"
+        },
+        {
+          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://news.ycombinator.com/item?id=49946567",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T18:29:30Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "claude.dev",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "claude.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T22:31:58.644000Z"
+        },
+        {
+          "id": "95e3f2f75a03acb1bf6da9265a3461877dccdb42",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-03T18:29:30Z"
+        },
+        {
+          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
+          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
+          "url": "https://news.ycombinator.com/item?id=49946567",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T18:29:30Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7944,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T18:29:30Z",
+      "latest_at": "2026-10-03T22:31:58.644000Z",
+      "primary_item": {
+        "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
+        "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
+        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
+        "source": "claude.dev",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d21f7ff36018",
+      "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
+      "url": "https://www.ithome.com/1/009/701.htm",
+      "primary_url": "https://www.ithome.com/1/009/701.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
+          "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
+          "url": "https://www.ithome.com/1/009/701.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f70c9722c1da4994f3287562016eac4d453fe1a1",
+          "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+          "url": "https://www.ithome.com/1/009/701.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T12:27:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
+          "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
+          "url": "https://www.ithome.com/1/009/701.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f70c9722c1da4994f3287562016eac4d453fe1a1",
+          "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
+          "url": "https://www.ithome.com/1/009/701.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T12:27:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T12:27:24Z",
+      "latest_at": "2026-10-04T14:28:19.077086Z",
+      "primary_item": {
+        "id": "ab7a5dfa9effface16bf09975dbf6d979e97f148",
+        "title": "DeepSeek Harness 崔添翼：产品核心理念是「一切皆插件」，可扩展性是初心",
+        "url": "https://www.ithome.com/1/009/701.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_9dd1927e63f0",
+      "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+      "url": "https://getjpm.sh",
+      "primary_url": "https://getjpm.sh",
+      "source": "getjpm.sh",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+          "url": "https://getjpm.sh",
+          "source": "getjpm.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T00:36:52.982000Z"
+        },
+        {
+          "id": "add12be6da1864ce4936e3937a27451d8330d778",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+          "url": "https://getjpm.sh",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T00:11:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "getjpm.sh"
+      ],
+      "items": [
+        {
+          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+          "url": "https://getjpm.sh",
+          "source": "getjpm.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T00:36:52.982000Z"
+        },
+        {
+          "id": "add12be6da1864ce4936e3937a27451d8330d778",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+          "url": "https://getjpm.sh",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T00:11:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5132,
+      "importance": 0.5132,
+      "importance_score": 0.5132,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8186,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T00:11:58Z",
+      "latest_at": "2026-10-04T00:36:52.982000Z",
+      "primary_item": {
+        "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+        "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+        "url": "https://getjpm.sh",
+        "source": "getjpm.sh",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_83913d49e914",
+      "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "primary_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T22:18:13Z"
+        },
+        {
+          "id": "9c76212040bfb9302bd27231c6f65a445bcc8b95",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范”",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T19:57:53.505000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T22:18:13Z"
+        },
+        {
+          "id": "9c76212040bfb9302bd27231c6f65a445bcc8b95",
+          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范”",
+          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T19:57:53.505000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5083,
+      "importance": 0.5083,
+      "importance_score": 0.5083,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7918,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T19:57:53.505000Z",
+      "latest_at": "2026-10-03T22:18:13Z",
+      "primary_item": {
+        "id": "f7d6940e4cd4a16f796768a07ec2f8925946f872",
+        "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
+        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_bc13922e0b6b",
+      "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
+      "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+      "primary_url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fe2819875a2cd109d20c1c84c74a340053ab5f1b",
+          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
+          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:19.059000Z"
+        },
+        {
+          "id": "e52d258d0df5bfc89d0747baab179f169272d3d8",
+          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。 / AI was supposed to kill tech jobs. The data on job openings says otherwise.",
+          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T09:15:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "fe2819875a2cd109d20c1c84c74a340053ab5f1b",
+          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
+          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T09:46:19.059000Z"
+        },
+        {
+          "id": "e52d258d0df5bfc89d0747baab179f169272d3d8",
+          "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。 / AI was supposed to kill tech jobs. The data on job openings says otherwise.",
+          "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-04T09:15:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9344,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T09:15:01Z",
+      "latest_at": "2026-10-04T09:46:19.059000Z",
+      "primary_item": {
+        "id": "fe2819875a2cd109d20c1c84c74a340053ab5f1b",
+        "title": "人们原本以为人工智能会淘汰科技行业的工作岗位。但招聘岗位的数据却表明事实并非如此。",
+        "url": "https://www.businessinsider.com/tech-job-openings-rise-ai-fuels-hardware-engineering-demand-2026-10",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -493,15 +1458,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9227,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -516,360 +1481,6 @@
         "url": "https://www.ithome.com/1/009/669.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_fc994d69ad09",
-      "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-      "primary_url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-      "source": "claude.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "claude.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T22:31:58.644000Z"
-        },
-        {
-          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T18:29:30Z"
-        },
-        {
-          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://news.ycombinator.com/item?id=49946567",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T18:29:30Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "claude.dev",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "claude.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T22:31:58.644000Z"
-        },
-        {
-          "id": "7270c12f6d002393fc0dbb64f3bd2eb6fd9b9920",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T18:29:30Z"
-        },
-        {
-          "id": "20c153e603b0ac06a60db406515ee3a8f5000370",
-          "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5 / Getting the most out of Opus 5.5 in Claude and Claude Code",
-          "url": "https://news.ycombinator.com/item?id=49946567",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T18:29:30Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8609,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T18:29:30Z",
-      "latest_at": "2026-10-03T22:31:58.644000Z",
-      "primary_item": {
-        "id": "0c957a85bf822cec39d103d7ccabfb9776cd15ce",
-        "title": "在 Claude 和 Claude Code 中充分利用 Opus 5.5",
-        "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5",
-        "source": "claude.dev",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c83b565fc251",
-      "title": "Religious scholars met with Anthropic",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "primary_url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
-          "title": "Religious scholars met with Anthropic",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T02:34:22Z"
-        },
-        {
-          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
-          "title": "Religious scholars met with Anthropic",
-          "url": "https://news.ycombinator.com/item?id=49950052",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
-          "title": "Religious scholars met with Anthropic",
-          "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T02:34:22Z"
-        },
-        {
-          "id": "011697c48d62575fbd9cd191ce69b6d1981fb1dd",
-          "title": "Religious scholars met with Anthropic",
-          "url": "https://news.ycombinator.com/item?id=49950052",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-04T02:34:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9127,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T02:34:22Z",
-      "latest_at": "2026-10-04T02:34:22Z",
-      "primary_item": {
-        "id": "7d35b0ee1cc94afdc18a4c0b66d3ae8aa530d082",
-        "title": "Religious scholars met with Anthropic",
-        "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_956aebcec474",
-      "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "c3ee0afbacf1cce8cf2907700d59c4a6690de2d4",
-          "title": "I quit OpenAI because its culture is broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T11:05:53.668000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "www.theatlantic.com"
-      ],
-      "items": [
-        {
-          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "c3ee0afbacf1cce8cf2907700d59c4a6690de2d4",
-          "title": "I quit OpenAI because its culture is broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T11:05:53.668000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7587,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T11:05:53.668000Z",
-      "latest_at": "2026-10-03T13:46:34Z",
-      "primary_item": {
-        "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-        "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_9dd1927e63f0",
-      "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-      "url": "https://getjpm.sh",
-      "primary_url": "https://getjpm.sh",
-      "source": "getjpm.sh",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-          "url": "https://getjpm.sh",
-          "source": "getjpm.sh",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T00:36:52.982000Z"
-        },
-        {
-          "id": "add12be6da1864ce4936e3937a27451d8330d778",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
-          "url": "https://getjpm.sh",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T00:11:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "getjpm.sh"
-      ],
-      "items": [
-        {
-          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-          "url": "https://getjpm.sh",
-          "source": "getjpm.sh",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-04T00:36:52.982000Z"
-        },
-        {
-          "id": "add12be6da1864ce4936e3937a27451d8330d778",
-          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
-          "url": "https://getjpm.sh",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T00:11:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5255,
-      "importance": 0.5255,
-      "importance_score": 0.5255,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8872,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T00:11:58Z",
-      "latest_at": "2026-10-04T00:36:52.982000Z",
-      "primary_item": {
-        "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
-        "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
-        "url": "https://getjpm.sh",
-        "source": "getjpm.sh",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -926,15 +1537,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
+      "score": 0.5072,
+      "importance": 0.5072,
+      "importance_score": 0.5072,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8515,
+        "recency": 0.7856,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1005,15 +1616,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9227,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1028,637 +1639,6 @@
         "url": "https://www.36kr.com/p/4011048293666944",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_b8da10635efb",
-      "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "primary_url": "https://github.com/thedotmack/claude-mem",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "7f62c55e9f5c0009e755898f3bbfde7347288cd5",
-          "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:32:48.895000Z"
-        },
-        {
-          "id": "d15dffa69886b6928cdb7167cbfb27dfa8d74691",
-          "title": "塞多马克 / 克劳德·梅姆 / thedotmack / claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "7f62c55e9f5c0009e755898f3bbfde7347288cd5",
-          "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:32:48.895000Z"
-        },
-        {
-          "id": "d15dffa69886b6928cdb7167cbfb27dfa8d74691",
-          "title": "塞多马克 / 克劳德·梅姆 / thedotmack / claude-mem",
-          "url": "https://github.com/thedotmack/claude-mem",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.51,
-      "importance": 0.51,
-      "importance_score": 0.51,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8011,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T14:00:12.323883Z",
-      "latest_at": "2026-10-03T17:32:48.895000Z",
-      "primary_item": {
-        "id": "7f62c55e9f5c0009e755898f3bbfde7347288cd5",
-        "title": "塞多马克 / 克劳德·梅姆 / thedotmack /      claude-mem",
-        "url": "https://github.com/thedotmack/claude-mem",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_5ee2f82da6e6",
-      "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
-          "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T16:00:49.051000Z"
-        },
-        {
-          "id": "8203ce7f4eb02f4fb64f082a256c4b1f1d97b5f6",
-          "title": "OpenAI安全部门员工辞职，呼吁采取“核级”安全保障措施",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T13:27:52.389000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
-          "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T16:00:49.051000Z"
-        },
-        {
-          "id": "8203ce7f4eb02f4fb64f082a256c4b1f1d97b5f6",
-          "title": "OpenAI安全部门员工辞职，呼吁采取“核级”安全保障措施",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T13:27:52.389000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5068,
-      "importance": 0.5068,
-      "importance_score": 0.5068,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7836,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T13:27:52.389000Z",
-      "latest_at": "2026-10-03T16:00:49.051000Z",
-      "primary_item": {
-        "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
-        "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_83913d49e914",
-      "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "primary_url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "28d1368ccd3f963f58aec31babcd3d454d6d67d5",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T22:18:13Z"
-        },
-        {
-          "id": "9c76212040bfb9302bd27231c6f65a445bcc8b95",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范”",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T19:57:53.505000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "28d1368ccd3f963f58aec31babcd3d454d6d67d5",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T22:18:13Z"
-        },
-        {
-          "id": "9c76212040bfb9302bd27231c6f65a445bcc8b95",
-          "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范”",
-          "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T19:57:53.505000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8581,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T19:57:53.505000Z",
-      "latest_at": "2026-10-03T22:18:13Z",
-      "primary_item": {
-        "id": "28d1368ccd3f963f58aec31babcd3d454d6d67d5",
-        "title": "OpenAI安全负责人辞职，警告称该公司文化“已然失范” / OpenAI safety leader quits, warning AI company's culture is 'broken'",
-        "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_a6e928bfcab4",
-      "title": "翻译、点菜、找路线，AI 眼镜能行吗？我在国外试了 6 天",
-      "url": "https://www.163.com/dy/article/L8DE54TM0550ANUU.html",
-      "primary_url": "https://www.163.com/dy/article/L8DE54TM0550ANUU.html",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "5eab77e5e94685c915917cb736dc4515420821f4",
-          "title": "翻译、点菜、找路线，AI 眼镜能行吗？我在国外试了 6 天",
-          "url": "https://www.163.com/dy/article/L8DE54TM0550ANUU.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0112033f9a7555c47a2467a04f7d7a43974f35a8",
-          "title": "翻译、点菜、找路线，AI眼镜能行吗？我在国外试了6天",
-          "url": "https://www.huxiu.com/article/4895337.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T04:52:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "5eab77e5e94685c915917cb736dc4515420821f4",
-          "title": "翻译、点菜、找路线，AI 眼镜能行吗？我在国外试了 6 天",
-          "url": "https://www.163.com/dy/article/L8DE54TM0550ANUU.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0112033f9a7555c47a2467a04f7d7a43974f35a8",
-          "title": "翻译、点菜、找路线，AI眼镜能行吗？我在国外试了6天",
-          "url": "https://www.huxiu.com/article/4895337.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-04T04:52:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T04:52:59Z",
-      "latest_at": "2026-10-04T08:54:03.945038Z",
-      "primary_item": {
-        "id": "5eab77e5e94685c915917cb736dc4515420821f4",
-        "title": "翻译、点菜、找路线，AI 眼镜能行吗？我在国外试了 6 天",
-        "url": "https://www.163.com/dy/article/L8DE54TM0550ANUU.html",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_cbd89f0cd7d2",
-      "title": "萨姆·奥尔特曼：不要把人工智能当作一种“宗教力量”",
-      "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
-      "primary_url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "068d2373753897e47e7fdac69f9fbcfbc7bbd4df",
-          "title": "萨姆·奥尔特曼：不要把人工智能当作一种“宗教力量”",
-          "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T20:12:51.241000Z"
-        },
-        {
-          "id": "3dfeccecd9e62f18f8814d58216f176fbcfde0e7",
-          "title": "萨姆·奥尔特曼：不要把人工智能当作一种“宗教力量” / Sam Altman: Don't treat AI like a 'religious force'",
-          "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T19:45:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "068d2373753897e47e7fdac69f9fbcfbc7bbd4df",
-          "title": "萨姆·奥尔特曼：不要把人工智能当作一种“宗教力量”",
-          "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T20:12:51.241000Z"
-        },
-        {
-          "id": "3dfeccecd9e62f18f8814d58216f176fbcfde0e7",
-          "title": "萨姆·奥尔特曼：不要把人工智能当作一种“宗教力量” / Sam Altman: Don't treat AI like a 'religious force'",
-          "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T19:45:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5157,
-      "importance": 0.5157,
-      "importance_score": 0.5157,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8326,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T19:45:23Z",
-      "latest_at": "2026-10-03T20:12:51.241000Z",
-      "primary_item": {
-        "id": "068d2373753897e47e7fdac69f9fbcfbc7bbd4df",
-        "title": "萨姆·奥尔特曼：不要把人工智能当作一种“宗教力量”",
-        "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_810f091c82ef",
-      "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-      "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:57:03Z"
-        },
-        {
-          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://news.ycombinator.com/item?id=49946321",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:57:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:57:03Z"
-        },
-        {
-          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://news.ycombinator.com/item?id=49946321",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:57:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5108,
-      "importance": 0.5108,
-      "importance_score": 0.5108,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8058,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T17:57:03Z",
-      "latest_at": "2026-10-03T17:57:03Z",
-      "primary_item": {
-        "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
-        "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_5f57051b63cd",
-      "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
-      "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
-      "primary_url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2080d936c1819f46fd25670f1c25124c49b75be8",
-          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
-          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T19:57:53.515000Z"
-        },
-        {
-          "id": "8221a55e5df868c8dfa529edede0a880d2d6db7a",
-          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献 / OpenAI leader who quit says he can do more for safety from outside the company",
-          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T19:01:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "2080d936c1819f46fd25670f1c25124c49b75be8",
-          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
-          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T19:57:53.515000Z"
-        },
-        {
-          "id": "8221a55e5df868c8dfa529edede0a880d2d6db7a",
-          "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献 / OpenAI leader who quit says he can do more for safety from outside the company",
-          "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T19:01:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5151,
-      "importance": 0.5151,
-      "importance_score": 0.5151,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8296,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T19:01:53Z",
-      "latest_at": "2026-10-03T19:57:53.515000Z",
-      "primary_item": {
-        "id": "2080d936c1819f46fd25670f1c25124c49b75be8",
-        "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
-        "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8b1e323a2293",
-      "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "primary_url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
-          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:44:29Z"
-        },
-        {
-          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
-          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "url": "https://news.ycombinator.com/item?id=49946228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:44:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
-          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T17:44:29Z"
-        },
-        {
-          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
-          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-          "url": "https://news.ycombinator.com/item?id=49946228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T17:44:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5104,
-      "importance": 0.5104,
-      "importance_score": 0.5104,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8034,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T17:44:29Z",
-      "latest_at": "2026-10-03T17:44:29Z",
-      "primary_item": {
-        "id": "24b8aa8c0897da384ed00bb0969528ba0abc8b55",
-        "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
