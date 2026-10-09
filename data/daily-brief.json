@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T19:07:26.819799Z",
+  "generated_at": "2026-10-09T23:21:12.867515Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8564,
-      "importance": 0.8564,
-      "importance_score": 0.8564,
+      "score": 0.8463,
+      "importance": 0.8463,
+      "importance_score": 0.8463,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9468,
+        "recency": 0.8907,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,68 @@
         "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
         "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4ee9692cf026",
+      "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+      "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "primary_url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
+          "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T21:32:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
+          "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+          "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T21:32:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9743,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T21:32:54Z",
+      "latest_at": "2026-10-09T21:32:54Z",
+      "primary_item": {
+        "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
+        "title": "CodeQL 2.27.2 改进了 C++、Go、Rust 和 JavaScript 分析 / CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
+        "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8394,
+        "recency": 0.7897,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,6 +186,68 @@
         "title": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍 / Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
         "url": "https://openai.com/index/asana-browser-agent",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.162.1 / Codex CLI 0.162.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1715c9eba7c96a39d5a37e1492e2da020158d667",
+          "title": "法典 CLI 0.162.1 / Codex CLI 0.162.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "1715c9eba7c96a39d5a37e1492e2da020158d667",
+          "title": "法典 CLI 0.162.1 / Codex CLI 0.162.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-09T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8145,
+      "importance": 0.8145,
+      "importance_score": 0.8145,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7137,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T00:00:00Z",
+      "latest_at": "2026-10-09T00:00:00Z",
+      "primary_item": {
+        "id": "1715c9eba7c96a39d5a37e1492e2da020158d667",
+        "title": "法典 CLI 0.162.1 / Codex CLI 0.162.1",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -181,15 +305,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.9169,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -262,15 +386,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.94,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.761,
+        "recency": 0.7159,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -324,15 +448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8394,
+        "recency": 0.7897,
         "story_heat": 0.0
       },
       "category": "official",
@@ -349,6 +473,67 @@
         "url": "https://openai.com/index/sophos",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_702ec1f96a32",
+      "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+      "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T22:11:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T22:11:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9833,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-09T22:11:18Z",
+      "latest_at": "2026-10-09T22:11:18Z",
+      "primary_item": {
+        "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+        "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+        "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -405,15 +590,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7796,
-      "importance": 0.7796,
-      "importance_score": 0.7796,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9277,
+        "recency": 0.8727,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -467,15 +652,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9466,
+        "recency": 0.8905,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -490,87 +675,6 @@
         "title": "ARC Prize 2026：TUFA Labs 以 88.06% 登顶 ARC-AGI-2 高分榜",
         "url": "https://x.com/arcprize/status/2108578092558250148",
         "source": "X：ARC Prize (@arcprize)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_13d9d250f0af",
-      "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-      "url": "https://www.ithome.com/1/010/751.htm",
-      "primary_url": "https://www.ithome.com/1/010/751.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "67c26722df40bfae1ce6f077d6d26fd5d2e21d60",
-          "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-          "url": "https://www.ithome.com/1/010/751.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T23:02:44.683000Z"
-        },
-        {
-          "id": "9f41a01749cc780e218cb982d5fc0428cdcc09d4",
-          "title": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
-          "url": "https://www.ithome.com/1/010/751.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-08T23:02:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "67c26722df40bfae1ce6f077d6d26fd5d2e21d60",
-          "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-          "url": "https://www.ithome.com/1/010/751.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T23:02:44.683000Z"
-        },
-        {
-          "id": "9f41a01749cc780e218cb982d5fc0428cdcc09d4",
-          "title": "OpenAI 年化营收被曝接近 500 亿美元，比预期少了约 200 亿",
-          "url": "https://www.ithome.com/1/010/751.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-08T23:02:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7483,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-08T23:02:44Z",
-      "latest_at": "2026-10-08T23:02:44.683000Z",
-      "primary_item": {
-        "id": "67c26722df40bfae1ce6f077d6d26fd5d2e21d60",
-        "title": "OpenAI 年化营收被曝接近 500 亿美元，与此前预期差距约 200 亿美元",
-        "url": "https://www.ithome.com/1/010/751.htm",
-        "source": "IT之家·人工智能",
         "source_name": "AI HOT"
       }
     },
@@ -628,15 +732,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7796,
-      "importance": 0.7796,
-      "importance_score": 0.7796,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9277,
+        "recency": 0.8727,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -653,6 +757,126 @@
         "url": "https://www.aibase.com/news/31510",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d8e692c54664",
+      "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+      "url": "https://sierra.ai/blog/poppy",
+      "primary_url": "https://sierra.ai/blog/poppy",
+      "source": "Sierra：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
+          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+          "url": "https://sierra.ai/blog/poppy",
+          "source": "Sierra：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T19:56:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Sierra：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
+          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+          "url": "https://sierra.ai/blog/poppy",
+          "source": "Sierra：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T19:56:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9518,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T19:56:06Z",
+      "latest_at": "2026-10-09T19:56:06Z",
+      "primary_item": {
+        "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
+        "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
+        "url": "https://sierra.ai/blog/poppy",
+        "source": "Sierra：Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_98153a63a36e",
+      "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
+      "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
+      "primary_url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
+      "source": "Redwood Research：Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
+          "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
+          "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
+          "source": "Redwood Research：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T22:06:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Redwood Research：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
+          "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
+          "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
+          "source": "Redwood Research：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-09T22:06:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9823,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-09T22:06:51Z",
+      "latest_at": "2026-10-09T22:06:51Z",
+      "primary_item": {
+        "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
+        "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
+        "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
+        "source": "Redwood Research：Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -690,15 +914,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9937,
+        "recency": 0.9348,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -750,15 +974,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7311,
-      "importance": 0.7311,
-      "importance_score": 0.7311,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8307,
+        "recency": 0.7815,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -810,15 +1034,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8026,
+        "recency": 0.755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -889,15 +1113,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7545,
+      "importance": 0.7545,
+      "importance_score": 0.7545,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8379,
+        "recency": 0.7883,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -914,6 +1138,104 @@
         "url": "https://www.aibase.com/news/31490",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2a1c784f84b9",
+      "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "primary_url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
+          "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-09T19:36:56Z"
+        },
+        {
+          "id": "145a7aad5286b98601e7de128dd1d179ad76b05d",
+          "title": "一位人类模型向费城警方提交了虚假的凶杀案线索 / An Anthropic model submitted a false homicide tip to Philadelphia police",
+          "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T20:00:30Z"
+        },
+        {
+          "id": "25d10010a131526956cfc84c46ea6177e4f4ea70",
+          "title": "人类人工智能模型向警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to the police",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-09T19:44:59Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Engadget",
+        "HN Algolia · AI 24h",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
+          "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-09T19:36:56Z"
+        },
+        {
+          "id": "145a7aad5286b98601e7de128dd1d179ad76b05d",
+          "title": "一位人类模型向费城警方提交了虚假的凶杀案线索 / An Anthropic model submitted a false homicide tip to Philadelphia police",
+          "url": "https://www.engadget.com/2282713/an-anthropic-model-submitted-a-false-homicide-tip-to-philadelphia-police",
+          "source": "Engadget",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-09T20:00:30Z"
+        },
+        {
+          "id": "25d10010a131526956cfc84c46ea6177e4f4ea70",
+          "title": "人类人工智能模型向警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to the police",
+          "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-09T19:44:59Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6768,
+      "importance": 0.6768,
+      "importance_score": 0.6768,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.9475,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-09T19:36:56Z",
+      "latest_at": "2026-10-09T20:00:30Z",
+      "primary_item": {
+        "id": "0ee3cfee485f7c529902cd6c4a91e9e1bc116129",
+        "title": "人类人工智能模型向费城警方发送了虚假的凶杀案线索 / An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -970,15 +1292,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7545,
+      "importance": 0.7545,
+      "importance_score": 0.7545,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8379,
+        "recency": 0.7883,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -995,229 +1317,6 @@
         "url": "https://www.aibase.com/news/31486",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-09",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "a9fdb8fd65198cc8a85ca78262c20b8227e7f72d",
-          "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:07:26.819799Z"
-        },
-        {
-          "id": "789a8c4aa8a56782c6f7aa4b8536f9178a647f62",
-          "title": "想读懂Opus 5.5掀起的行业变革？词元之外的第五期播客深度拆解了AI对游戏、软件、硬件领域的冲击。借助模型强大的代码能力，快速开发游戏Demo、复刻游戏、仿制软件、编写硬件固件都不再困难，传统技术壁垒正在被快速瓦解，法律也难以跟上技术发展；IP共识、硬件入口与开放生态，或将成为未来突围的核心抓手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:07:26.819799Z"
-        },
-        {
-          "id": "9b3dc06d2297bc47d785c8f421176e626bc4e6c9",
-          "title": "最近个人 Agent 突然火了。Google、SpaceXAI、Meta、Manus、OpenAI 五家前后发了自己的个人 Agent。那么，谁最适合当你的助理呢？一起来看看作者的这份对比分析报告！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:07:26.819799Z"
-        },
-        {
-          "id": "5d9b00eb1ca1bcca5bfe387a7dbcadf37d11e110",
-          "title": "现在人们谈论智能体时，会用到五个词：上下文工程、循环工程、Jev 工程、harness工程、评估工程。这篇文章带你详细拆解下它们到底是什么关系。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:07:26.819799Z"
-        },
-        {
-          "id": "5913a67111ba5e0145d594d4c09012c1f8a7e91d",
-          "title": "OpenAI带来Intelligent UI交互能力，彻底跳出纯文本回复模式。对话内可直接生成可操作组件：滑块、动态图表、清单计算器，甚至简易小游戏。不管是规划聚餐采购、定制旅行穿搭，还是理解三门问题、中心极限定理这类抽象知识，都能通过交互直观上手。还能按需快速搭建分账工具、储蓄计算器等轻应用。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-08T20:31:13.344393Z"
-        },
-        {
-          "id": "90910426d379e0420cb56bdff0aa33a38a4670e5",
-          "title": "REA 是面向AI智能体的本地逆向工程工具，最近爆火，已经突破2万star。借助它，无需源码，你就能对原生二进制、Electron、.NET程序与网站做分析。还可对接Hopper/Ghidra，搭配Cursor、Claude Code等主流编程智能体，通过一句话指令，完成反编译、调用图追踪，解析目标功能逻辑，再生成适配你项目的实现代码。整套分析在本机运行，不上传二进制，支持CLI与MCP双入口，给开发者提供了从功能调研到代码复刻的完整本地逆向工作流。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-08T20:31:13.344393Z"
-        },
-        {
-          "id": "6cfa2d0f8fc9faf6fec04ae39f0bb74176a2e8ab",
-          "title": "想拥有持续后台执行任务的 AI 个人助手？老金这篇实测带你吃透 OpenAI Dot。手机下发指令就能持续推进项目，无需全程值守。文中附带代码开发、课程校对、视频制作、作业审阅等真实落地案例，帮你快速上手搭建属于自己的AI助手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-08T20:31:13.344393Z"
-        },
-        {
-          "id": "78ea3aa99da0b1ac790a3740c34577919c821c86",
-          "title": "藏师傅整合里三套开源Skill，自动抓取X收藏、资讯站点等多源信息，严格校验数据真实性，输出文字简报与90秒横屏讲解视频。文末附带可直接复制的提示词，Muse、Dots等带云电脑的Agent都能复用，帮你搭建属于自己的每日资讯自动产出系统。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-08T20:31:13.344393Z"
-        },
-        {
-          "id": "547d4b2f5e733d1731a744785aac04a0dca64044",
-          "title": "还在纠结LLM多GPU分布式推理怎么选型？这份指南拆解了各类并行方案的通信开销与取舍逻辑，覆盖流水线、上下文、专家、数据并行主流策略。你可以结合硬件拓扑、模型类型与业务负载，判断该用哪种并行组合，合理分摊权重与KV缓存，规避跨设备通信拖慢推理速度的问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-08T20:31:13.344393Z"
-        },
-        {
-          "id": "7e02d26b799b08ad5831a66b1ed2f25ff1506c6c",
-          "title": "这份AI创意摄影手册，教你把普通旅行照片转化成充满故事感的艺术作品。文中有8大创意玩法与43条可直接复制的提示词，涵盖旅行海报、微缩食物幻想、时空合影、情绪叙事线等创意方向。来随手上传你的旅行照片，试试效果！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-08T20:31:13.344393Z"
-        }
-      ],
-      "source_count": 10,
-      "source_names": [
-        "社区更新 · 2026-10-08",
-        "社区更新 · 2026-10-09"
-      ],
-      "items": [
-        {
-          "id": "a9fdb8fd65198cc8a85ca78262c20b8227e7f72d",
-          "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:07:26.819799Z"
-        },
-        {
-          "id": "789a8c4aa8a56782c6f7aa4b8536f9178a647f62",
-          "title": "想读懂Opus 5.5掀起的行业变革？词元之外的第五期播客深度拆解了AI对游戏、软件、硬件领域的冲击。借助模型强大的代码能力，快速开发游戏Demo、复刻游戏、仿制软件、编写硬件固件都不再困难，传统技术壁垒正在被快速瓦解，法律也难以跟上技术发展；IP共识、硬件入口与开放生态，或将成为未来突围的核心抓手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:07:26.819799Z"
-        },
-        {
-          "id": "9b3dc06d2297bc47d785c8f421176e626bc4e6c9",
-          "title": "最近个人 Agent 突然火了。Google、SpaceXAI、Meta、Manus、OpenAI 五家前后发了自己的个人 Agent。那么，谁最适合当你的助理呢？一起来看看作者的这份对比分析报告！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:07:26.819799Z"
-        },
-        {
-          "id": "5d9b00eb1ca1bcca5bfe387a7dbcadf37d11e110",
-          "title": "现在人们谈论智能体时，会用到五个词：上下文工程、循环工程、Jev 工程、harness工程、评估工程。这篇文章带你详细拆解下它们到底是什么关系。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-09",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-09T19:07:26.819799Z"
-        },
-        {
-          "id": "5913a67111ba5e0145d594d4c09012c1f8a7e91d",
-          "title": "OpenAI带来Intelligent UI交互能力，彻底跳出纯文本回复模式。对话内可直接生成可操作组件：滑块、动态图表、清单计算器，甚至简易小游戏。不管是规划聚餐采购、定制旅行穿搭，还是理解三门问题、中心极限定理这类抽象知识，都能通过交互直观上手。还能按需快速搭建分账工具、储蓄计算器等轻应用。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-08T20:31:13.344393Z"
-        },
-        {
-          "id": "90910426d379e0420cb56bdff0aa33a38a4670e5",
-          "title": "REA 是面向AI智能体的本地逆向工程工具，最近爆火，已经突破2万star。借助它，无需源码，你就能对原生二进制、Electron、.NET程序与网站做分析。还可对接Hopper/Ghidra，搭配Cursor、Claude Code等主流编程智能体，通过一句话指令，完成反编译、调用图追踪，解析目标功能逻辑，再生成适配你项目的实现代码。整套分析在本机运行，不上传二进制，支持CLI与MCP双入口，给开发者提供了从功能调研到代码复刻的完整本地逆向工作流。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-08T20:31:13.344393Z"
-        },
-        {
-          "id": "6cfa2d0f8fc9faf6fec04ae39f0bb74176a2e8ab",
-          "title": "想拥有持续后台执行任务的 AI 个人助手？老金这篇实测带你吃透 OpenAI Dot。手机下发指令就能持续推进项目，无需全程值守。文中附带代码开发、课程校对、视频制作、作业审阅等真实落地案例，帮你快速上手搭建属于自己的AI助手。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-08T20:31:13.344393Z"
-        },
-        {
-          "id": "78ea3aa99da0b1ac790a3740c34577919c821c86",
-          "title": "藏师傅整合里三套开源Skill，自动抓取X收藏、资讯站点等多源信息，严格校验数据真实性，输出文字简报与90秒横屏讲解视频。文末附带可直接复制的提示词，Muse、Dots等带云电脑的Agent都能复用，帮你搭建属于自己的每日资讯自动产出系统。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-08T20:31:13.344393Z"
-        },
-        {
-          "id": "547d4b2f5e733d1731a744785aac04a0dca64044",
-          "title": "还在纠结LLM多GPU分布式推理怎么选型？这份指南拆解了各类并行方案的通信开销与取舍逻辑，覆盖流水线、上下文、专家、数据并行主流策略。你可以结合硬件拓扑、模型类型与业务负载，判断该用哪种并行组合，合理分摊权重与KV缓存，规避跨设备通信拖慢推理速度的问题。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-08T20:31:13.344393Z"
-        },
-        {
-          "id": "7e02d26b799b08ad5831a66b1ed2f25ff1506c6c",
-          "title": "这份AI创意摄影手册，教你把普通旅行照片转化成充满故事感的艺术作品。文中有8大创意玩法与43条可直接复制的提示词，涵盖旅行海报、微缩食物幻想、时空合影、情绪叙事线等创意方向。来随手上传你的旅行照片，试试效果！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-08T20:31:13.344393Z"
-        }
-      ],
-      "item_count": 10,
-      "duplicate_count": 10,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-08T20:31:13.344393Z",
-      "latest_at": "2026-10-09T19:07:26.819799Z",
-      "primary_item": {
-        "id": "a9fdb8fd65198cc8a85ca78262c20b8227e7f72d",
-        "title": "别急着让 AI 接管业务，很多公司真正卡住的地方，是客户资料散在聊天里、进度表口径混乱、报销凭证反复手工整理。底账没理顺，再强模型进来也只会跟着乱。这篇文章用客户管理和费用报销两个真实场景，把 AI 落地前的“数字底座”拆得很细，能帮你从一件麻烦事开始，把流程整理到 AI 真能接手。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-09",
-        "source_name": "WaytoAGI"
       }
     },
     {
@@ -1274,15 +1373,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7545,
+      "importance": 0.7545,
+      "importance_score": 0.7545,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8379,
+        "recency": 0.7883,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1299,364 +1398,6 @@
         "url": "https://www.aibase.com/news/31502",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_301544ff1a07",
-      "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-      "primary_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "f74e1f79f4be98b615fde1c5ec69e0b2c6177da2",
-          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-08T20:04:26Z"
-        },
-        {
-          "id": "a496bd70e08b34bbfe069a18a1d33bab1ababfd5",
-          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
-          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-09T14:10:31.632000Z"
-        },
-        {
-          "id": "0a52368f78581959208b6bf786aacc4966818de3",
-          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / OpenAI fires three safety researchers for \"mishandling research information\"",
-          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-09T10:00:26Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "TechCrunch AI",
-        "techcrunch.com"
-      ],
-      "items": [
-        {
-          "id": "f74e1f79f4be98b615fde1c5ec69e0b2c6177da2",
-          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-08T20:04:26Z"
-        },
-        {
-          "id": "a496bd70e08b34bbfe069a18a1d33bab1ababfd5",
-          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员",
-          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-09T14:10:31.632000Z"
-        },
-        {
-          "id": "0a52368f78581959208b6bf786aacc4966818de3",
-          "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / OpenAI fires three safety researchers for \"mishandling research information\"",
-          "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-09T10:00:26Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6353,
-      "importance": 0.6353,
-      "importance_score": 0.6353,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.7169,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-08T20:04:26Z",
-      "latest_at": "2026-10-09T14:10:31.632000Z",
-      "primary_item": {
-        "id": "f74e1f79f4be98b615fde1c5ec69e0b2c6177da2",
-        "title": "OpenAI以“不当处理研究信息”为由解雇了三名安全研究员 / Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-        "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_3b0747604b2f",
-      "title": "月费5美元看“AI医生”:扫脸即可开药，犹他州开启独立AI处方试点",
-      "url": "https://www.aibase.com/news/31497",
-      "primary_url": "https://www.aibase.com/news/31497",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ab1ed4bbd169a6a50774230a32c08e6128e9a345",
-          "title": "月费5美元看“AI医生”:扫脸即可开药，犹他州开启独立AI处方试点",
-          "url": "https://www.aibase.com/news/31497",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T06:52:36.359895Z"
-        },
-        {
-          "id": "75083c72c938285a6ebeb7d4c33ce350f8baa625",
-          "title": "月费5美元看「AI医生」：扫脸即可开药，犹他州开启独立AI处方试点",
-          "url": "https://www.aibase.com/zh/news/31497",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ab1ed4bbd169a6a50774230a32c08e6128e9a345",
-          "title": "月费5美元看“AI医生”:扫脸即可开药，犹他州开启独立AI处方试点",
-          "url": "https://www.aibase.com/news/31497",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T06:52:36.359895Z"
-        },
-        {
-          "id": "75083c72c938285a6ebeb7d4c33ce350f8baa625",
-          "title": "月费5美元看「AI医生」：扫脸即可开药，犹他州开启独立AI处方试点",
-          "url": "https://www.aibase.com/zh/news/31497",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8379,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T06:52:36.359895Z",
-      "latest_at": "2026-10-09T06:52:36.359895Z",
-      "primary_item": {
-        "id": "ab1ed4bbd169a6a50774230a32c08e6128e9a345",
-        "title": "月费5美元看“AI医生”:扫脸即可开药，犹他州开启独立AI处方试点",
-        "url": "https://www.aibase.com/news/31497",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_96282156f59b",
-      "title": "美民调称 64% 民众指 AI 发展过快，近八成要求政府确保安全可控",
-      "url": "https://www.aibase.com/news/31500",
-      "primary_url": "https://www.aibase.com/news/31500",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e950ec8770927fcbdca71bb83e0ef2fe42f23120",
-          "title": "美民调称 64% 民众指 AI 发展过快，近八成要求政府确保安全可控",
-          "url": "https://www.aibase.com/news/31500",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T06:52:36.359895Z"
-        },
-        {
-          "id": "310b735742299d2113ba7e26d132e7fefa666ab0",
-          "title": "美民调称 64% 民众指 AI 发展过快，近八成要求政府确保安全可控",
-          "url": "https://www.aibase.com/zh/news/31500",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e950ec8770927fcbdca71bb83e0ef2fe42f23120",
-          "title": "美民调称 64% 民众指 AI 发展过快，近八成要求政府确保安全可控",
-          "url": "https://www.aibase.com/news/31500",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-09T06:52:36.359895Z"
-        },
-        {
-          "id": "310b735742299d2113ba7e26d132e7fefa666ab0",
-          "title": "美民调称 64% 民众指 AI 发展过快，近八成要求政府确保安全可控",
-          "url": "https://www.aibase.com/zh/news/31500",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8379,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T06:52:36.359895Z",
-      "latest_at": "2026-10-09T06:52:36.359895Z",
-      "primary_item": {
-        "id": "e950ec8770927fcbdca71bb83e0ef2fe42f23120",
-        "title": "美民调称 64% 民众指 AI 发展过快，近八成要求政府确保安全可控",
-        "url": "https://www.aibase.com/news/31500",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7d2b44404d43",
-      "title": "伊朗发起的一场宣传活动利用ChatGPT在真实的美国出版物中植入虚假文章",
-      "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media",
-      "primary_url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media",
-      "source": "www.washingtonpost.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cecc17297cab8ffc0a1a1085951a1f9b737a4fc3",
-          "title": "伊朗发起的一场宣传活动利用ChatGPT在真实的美国出版物中植入虚假文章",
-          "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media",
-          "source": "www.washingtonpost.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-09T15:29:09.889000Z"
-        },
-        {
-          "id": "2901bf3b648705cbb975fd6afd90e6090e5da0c9",
-          "title": "伊朗发起的一场宣传活动利用ChatGPT在真实的美国出版物中植入虚假文章 / Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-          "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-09T12:21:24Z"
-        },
-        {
-          "id": "91217464e14103c5ad422e6c5ad77491b6f5faa3",
-          "title": "伊朗竞选活动使用 ChatGPT 在美国真实出版物中植入虚假文章 / Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-          "url": "https://news.ycombinator.com/item?id=50019455",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-09T12:21:24Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.washingtonpost.com"
-      ],
-      "items": [
-        {
-          "id": "cecc17297cab8ffc0a1a1085951a1f9b737a4fc3",
-          "title": "伊朗发起的一场宣传活动利用ChatGPT在真实的美国出版物中植入虚假文章",
-          "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media",
-          "source": "www.washingtonpost.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-09T15:29:09.889000Z"
-        },
-        {
-          "id": "2901bf3b648705cbb975fd6afd90e6090e5da0c9",
-          "title": "伊朗发起的一场宣传活动利用ChatGPT在真实的美国出版物中植入虚假文章 / Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-          "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-09T12:21:24Z"
-        },
-        {
-          "id": "91217464e14103c5ad422e6c5ad77491b6f5faa3",
-          "title": "伊朗竞选活动使用 ChatGPT 在美国真实出版物中植入虚假文章 / Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-          "url": "https://news.ycombinator.com/item?id=50019455",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-09T12:21:24Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5616,
-      "importance": 0.5616,
-      "importance_score": 0.5616,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9488,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-09T12:21:24Z",
-      "latest_at": "2026-10-09T15:29:09.889000Z",
-      "primary_item": {
-        "id": "cecc17297cab8ffc0a1a1085951a1f9b737a4fc3",
-        "title": "伊朗发起的一场宣传活动利用ChatGPT在真实的美国出版物中植入虚假文章",
-        "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media",
-        "source": "www.washingtonpost.com",
-        "source_name": "Buzzing"
       }
     }
   ]
