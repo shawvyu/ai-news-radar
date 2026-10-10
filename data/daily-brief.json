@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T02:27:46.399346Z",
+  "generated_at": "2026-10-10T08:45:12.454295Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9509,
+        "recency": 0.8683,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8516,
+        "recency": 0.7777,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,68 +124,6 @@
         "title": "GPU 集群的有效调度 / Impactful scheduling for GPU clusters",
         "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_90995f7dbc9c",
-      "title": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍 / Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "primary_url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-          "title": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍 / Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "url": "https://openai.com/index/asana-browser-agent",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-          "title": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍 / Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "url": "https://openai.com/index/asana-browser-agent",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.755,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T07:00:00Z",
-      "latest_at": "2026-10-09T07:00:00Z",
-      "primary_item": {
-        "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-        "title": "Asana 在使用 GPT-6.1 Sol 的浏览器测试中将模型成本降低了 76 倍 / Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "url": "https://openai.com/index/asana-browser-agent",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -243,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8111,
-      "importance": 0.8111,
-      "importance_score": 0.8111,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9694,
+        "recency": 0.8852,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -268,6 +206,87 @@
         "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_59ad74610b3e",
+      "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+      "url": "https://www.aibase.com/news/31534",
+      "primary_url": "https://www.aibase.com/news/31534",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
+          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "url": "https://www.aibase.com/news/31534",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:45:12.454295Z"
+        },
+        {
+          "id": "6d3b1626c1e81535e9dd1700fad4e61e30a39210",
+          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "url": "https://www.ithome.com/1/011/325.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T05:10:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
+          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "url": "https://www.aibase.com/news/31534",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:45:12.454295Z"
+        },
+        {
+          "id": "6d3b1626c1e81535e9dd1700fad4e61e30a39210",
+          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+          "url": "https://www.ithome.com/1/011/325.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T05:10:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T05:10:05Z",
+      "latest_at": "2026-10-10T08:45:12.454295Z",
+      "primary_item": {
+        "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
+        "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
+        "url": "https://www.aibase.com/news/31534",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -324,15 +343,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8072,
-      "importance": 0.8072,
-      "importance_score": 0.8072,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9809,
+        "recency": 0.8958,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -386,15 +405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8317,
-      "importance": 0.8317,
-      "importance_score": 0.8317,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9315,
+        "recency": 0.8506,
         "story_heat": 0.0
       },
       "category": "official",
@@ -467,15 +486,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8004,
-      "importance": 0.8004,
-      "importance_score": 0.8004,
+      "score": 0.7867,
+      "importance": 0.7867,
+      "importance_score": 0.7867,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8766,
+        "recency": 0.8005,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -495,164 +514,82 @@
       }
     },
     {
-      "story_id": "story_0d814b3775c3",
-      "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-      "url": "https://www.aibase.com/news/31519",
-      "primary_url": "https://www.aibase.com/news/31519",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_83a5417202a3",
+      "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
+      "url": "https://x.com/indigox/status/2108791275914993998",
+      "primary_url": "https://x.com/indigox/status/2108791275914993998",
+      "source": "X：indigo (@indigox)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-          "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-          "url": "https://www.aibase.com/news/31519",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T02:27:46.399346Z"
-        },
-        {
-          "id": "e687541cb336449e82667e2921c2bddd9b38cd3b",
-          "title": "Anthropic 无法可靠控制 AI 代理：宣布切断内部评估的实时互联网访问权限",
-          "url": "https://www.aibase.com/zh/news/31519",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-          "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-          "url": "https://www.aibase.com/news/31519",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T02:27:46.399346Z"
-        },
-        {
-          "id": "e687541cb336449e82667e2921c2bddd9b38cd3b",
-          "title": "Anthropic 无法可靠控制 AI 代理：宣布切断内部评估的实时互联网访问权限",
-          "url": "https://www.aibase.com/zh/news/31519",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T02:27:46.399346Z",
-      "latest_at": "2026-10-10T02:27:46.399346Z",
-      "primary_item": {
-        "id": "ee3ceba98d5760cd254480dcb3cfc38a78d6d6a1",
-        "title": "Anthropic无法可靠控制 AI 代理:宣布切断内部评估的实时互联网访问权限",
-        "url": "https://www.aibase.com/news/31519",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_edd58468d564",
-      "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "primary_url": "https://openai.com/index/sophos",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-          "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "url": "https://openai.com/index/sophos",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
+          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
+          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
+          "url": "https://x.com/indigox/status/2108791275914993998",
+          "source": "X：indigo (@indigox)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T05:26:34Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "X：indigo (@indigox)"
       ],
       "items": [
         {
-          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-          "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "url": "https://openai.com/index/sophos",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z"
+          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
+          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
+          "url": "https://x.com/indigox/status/2108791275914993998",
+          "source": "X：indigo (@indigox)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T05:26:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
-      "importance_label": "官方更新",
+      "score": 0.7862,
+      "importance": 0.7862,
+      "importance_score": 0.7862,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.755,
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9533,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T07:00:00Z",
-      "latest_at": "2026-10-09T07:00:00Z",
+      "earliest_at": "2026-10-10T05:26:34Z",
+      "latest_at": "2026-10-10T05:26:34Z",
       "primary_item": {
-        "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-        "title": "Sophos 借助 OpenAI Daybreak 将威胁调查时间缩短了 96% / Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "url": "https://openai.com/index/sophos",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
+        "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
+        "url": "https://x.com/indigox/status/2108791275914993998",
+        "source": "X：indigo (@indigox)",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_702ec1f96a32",
-      "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-      "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+      "story_id": "story_98538a79e69e",
+      "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+      "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
-          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+          "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
+          "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+          "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-09T22:11:18Z"
+          "published_at": "2026-10-10T02:08:10Z"
         }
       ],
       "source_count": 1,
@@ -661,26 +598,26 @@
       ],
       "items": [
         {
-          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
-          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+          "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
+          "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+          "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-09T22:11:18Z"
+          "published_at": "2026-10-10T02:08:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7688,
-      "importance": 0.7688,
-      "importance_score": 0.7688,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9401,
+        "recency": 0.9089,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -688,37 +625,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T22:11:18Z",
-      "latest_at": "2026-10-09T22:11:18Z",
+      "earliest_at": "2026-10-10T02:08:10Z",
+      "latest_at": "2026-10-10T02:08:10Z",
       "primary_item": {
-        "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
-        "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
-        "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+        "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
+        "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
+        "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_d93460fa3bb0",
-      "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-      "url": "https://www.aibase.com/news/31515",
-      "primary_url": "https://www.aibase.com/news/31515",
+      "story_id": "story_bd99d8a6f870",
+      "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+      "url": "https://www.aibase.com/news/31544",
+      "primary_url": "https://www.aibase.com/news/31544",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c3870c8520141a099b9c664e7e2118d8857b8e2c",
-          "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "url": "https://www.aibase.com/news/31515",
+          "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
+          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+          "url": "https://www.aibase.com/news/31544",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:27:46.399346Z"
+          "published_at": "2026-10-10T08:45:12.454295Z"
         },
         {
-          "id": "d9f41ae4222c4c496d93c426d89e66251f9b43a9",
-          "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "url": "https://www.aibase.com/zh/news/31515",
+          "id": "30b25ca8a7553f4a4d4ecc1dea2bd255fec5c77f",
+          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+          "url": "https://www.aibase.com/zh/news/31544",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -732,18 +669,18 @@
       ],
       "items": [
         {
-          "id": "c3870c8520141a099b9c664e7e2118d8857b8e2c",
-          "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "url": "https://www.aibase.com/news/31515",
+          "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
+          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+          "url": "https://www.aibase.com/news/31544",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:27:46.399346Z"
+          "published_at": "2026-10-10T08:45:12.454295Z"
         },
         {
-          "id": "d9f41ae4222c4c496d93c426d89e66251f9b43a9",
-          "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-          "url": "https://www.aibase.com/zh/news/31515",
+          "id": "30b25ca8a7553f4a4d4ecc1dea2bd255fec5c77f",
+          "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+          "url": "https://www.aibase.com/zh/news/31544",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -769,12 +706,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T02:27:46.399346Z",
-      "latest_at": "2026-10-10T02:27:46.399346Z",
+      "earliest_at": "2026-10-10T08:45:12.454295Z",
+      "latest_at": "2026-10-10T08:45:12.454295Z",
       "primary_item": {
-        "id": "c3870c8520141a099b9c664e7e2118d8857b8e2c",
-        "title": "新型 AI 决策模型 Jev 迅速走红，开发商 TypeSafe AI 估值飙升至 75 亿美元",
-        "url": "https://www.aibase.com/news/31515",
+        "id": "9615e9a3c5486cae1c403a49a95e9284161614f1",
+        "title": "Meta AI 智能体 Muse 曾曝安全隐患，扎克伯格为何仍执意上线？",
+        "url": "https://www.aibase.com/news/31544",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -814,21 +751,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8514,
+        "recency": 0.7775,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-09T15:19:27Z",
       "latest_at": "2026-10-09T15:19:27Z",
@@ -841,26 +777,26 @@
       }
     },
     {
-      "story_id": "story_6ac04ef034c4",
-      "title": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
-      "url": "https://www.aibase.com/news/31523",
-      "primary_url": "https://www.aibase.com/news/31523",
+      "story_id": "story_e2b57687d7e1",
+      "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
+      "url": "https://www.aibase.com/news/31535",
+      "primary_url": "https://www.aibase.com/news/31535",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "633a907fe5f78e04b0ba4ec4c4d3cc84ae591183",
-          "title": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
-          "url": "https://www.aibase.com/news/31523",
+          "id": "1f1003b00d6e28940580791bb955712555446999",
+          "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
+          "url": "https://www.aibase.com/news/31535",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:27:46.399346Z"
+          "published_at": "2026-10-10T08:45:12.454295Z"
         },
         {
-          "id": "807c740a5490b21d3611416c088e833f0743af98",
-          "title": "有道龙虾发布迁移助手：争夺腾讯 QClaw 关停用户，实现一键「搬家」",
-          "url": "https://www.aibase.com/zh/news/31523",
+          "id": "75c07d49accb314c0a94df6192ffe5bf6f2848f7",
+          "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
+          "url": "https://www.aibase.com/zh/news/31535",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -874,18 +810,18 @@
       ],
       "items": [
         {
-          "id": "633a907fe5f78e04b0ba4ec4c4d3cc84ae591183",
-          "title": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
-          "url": "https://www.aibase.com/news/31523",
+          "id": "1f1003b00d6e28940580791bb955712555446999",
+          "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
+          "url": "https://www.aibase.com/news/31535",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:27:46.399346Z"
+          "published_at": "2026-10-10T08:45:12.454295Z"
         },
         {
-          "id": "807c740a5490b21d3611416c088e833f0743af98",
-          "title": "有道龙虾发布迁移助手：争夺腾讯 QClaw 关停用户，实现一键「搬家」",
-          "url": "https://www.aibase.com/zh/news/31523",
+          "id": "75c07d49accb314c0a94df6192ffe5bf6f2848f7",
+          "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
+          "url": "https://www.aibase.com/zh/news/31535",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -911,157 +847,98 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T02:27:46.399346Z",
-      "latest_at": "2026-10-10T02:27:46.399346Z",
+      "earliest_at": "2026-10-10T08:45:12.454295Z",
+      "latest_at": "2026-10-10T08:45:12.454295Z",
       "primary_item": {
-        "id": "633a907fe5f78e04b0ba4ec4c4d3cc84ae591183",
-        "title": "有道龙虾发布迁移助手:争夺腾讯QClaw关停用户，实现一键“搬家”",
-        "url": "https://www.aibase.com/news/31523",
+        "id": "1f1003b00d6e28940580791bb955712555446999",
+        "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
+        "url": "https://www.aibase.com/news/31535",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d8e692c54664",
-      "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-      "url": "https://sierra.ai/blog/poppy",
-      "primary_url": "https://sierra.ai/blog/poppy",
-      "source": "Sierra：Blog（RSS）",
+      "story_id": "story_702ec1f96a32",
+      "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+      "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-          "url": "https://sierra.ai/blog/poppy",
-          "source": "Sierra：Blog（RSS）",
+          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-09T19:56:06Z"
+          "published_at": "2026-10-09T22:11:18Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Sierra：Blog（RSS）"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-          "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-          "url": "https://sierra.ai/blog/poppy",
-          "source": "Sierra：Blog（RSS）",
+          "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+          "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+          "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-09T19:56:06Z"
+          "published_at": "2026-10-09T22:11:18Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.65,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.91,
+        "recency": 0.8585,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-09T19:56:06Z",
-      "latest_at": "2026-10-09T19:56:06Z",
+      "earliest_at": "2026-10-09T22:11:18Z",
+      "latest_at": "2026-10-09T22:11:18Z",
       "primary_item": {
-        "id": "a7000cdfd3f2b9791ce182422673686ac6706839",
-        "title": "Sierra 发布 Personal Agent Protocol（Poppy）协议草案，新增 35 家设计伙伴",
-        "url": "https://sierra.ai/blog/poppy",
-        "source": "Sierra：Blog（RSS）",
+        "id": "b94a46dfca12412332148d0e21a676e07200f0ba",
+        "title": "Anthropic AI 模型自动化测试中向费城警方网站提交虚构凶杀案线索",
+        "url": "https://x.com/rohanpaul_ai/status/2108681738767740983",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_98153a63a36e",
-      "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-      "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-      "primary_url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-      "source": "Redwood Research：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-          "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-          "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-          "source": "Redwood Research：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T22:06:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Redwood Research：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-          "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-          "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-          "source": "Redwood Research：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T22:06:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7296,
-      "importance": 0.7296,
-      "importance_score": 0.7296,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9391,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-09T22:06:51Z",
-      "latest_at": "2026-10-09T22:06:51Z",
-      "primary_item": {
-        "id": "0c3712ba797602e9ce592e277869e8eef9b19cbf",
-        "title": "Redwood Research 发布论文：实证检验蒸馏定罪（DFI）与蒸馏提能（DFC）",
-        "url": "https://blog.redwoodresearch.org/p/paper-distillation-for-incrimination",
-        "source": "Redwood Research：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_61ef190ce761",
-      "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-      "url": "https://www.aibase.com/news/31521",
-      "primary_url": "https://www.aibase.com/news/31521",
+      "story_id": "story_2ac52b5cae7e",
+      "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+      "url": "https://www.aibase.com/news/31532",
+      "primary_url": "https://www.aibase.com/news/31532",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "58f16a039c95b4a5045d3dad788284f17638cf8c",
-          "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-          "url": "https://www.aibase.com/news/31521",
+          "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
+          "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "url": "https://www.aibase.com/news/31532",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:27:46.399346Z"
+          "published_at": "2026-10-10T08:45:12.454295Z"
         },
         {
-          "id": "f2835c793753665d216ac78bca38227f82fac92d",
-          "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-          "url": "https://www.aibase.com/zh/news/31521",
+          "id": "64c17aac203f2e01bd3b9819aca6f0336e9c8aee",
+          "title": "Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "url": "https://www.aibase.com/zh/news/31532",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1075,18 +952,18 @@
       ],
       "items": [
         {
-          "id": "58f16a039c95b4a5045d3dad788284f17638cf8c",
-          "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-          "url": "https://www.aibase.com/news/31521",
+          "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
+          "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "url": "https://www.aibase.com/news/31532",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:27:46.399346Z"
+          "published_at": "2026-10-10T08:45:12.454295Z"
         },
         {
-          "id": "f2835c793753665d216ac78bca38227f82fac92d",
-          "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-          "url": "https://www.aibase.com/zh/news/31521",
+          "id": "64c17aac203f2e01bd3b9819aca6f0336e9c8aee",
+          "title": "Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "url": "https://www.aibase.com/zh/news/31532",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1112,66 +989,66 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T02:27:46.399346Z",
-      "latest_at": "2026-10-10T02:27:46.399346Z",
+      "earliest_at": "2026-10-10T08:45:12.454295Z",
+      "latest_at": "2026-10-10T08:45:12.454295Z",
       "primary_item": {
-        "id": "58f16a039c95b4a5045d3dad788284f17638cf8c",
-        "title": "生数科技发布视频生成模型 Vidu Q4 Preview，支持 4K 输出与多图多音频参考",
-        "url": "https://www.aibase.com/news/31521",
+        "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
+        "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+        "url": "https://www.aibase.com/news/31532",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_a4daff9075ef",
-      "title": "白宫发布AI强制令:发生安全事件须立即上报并补救",
-      "url": "https://www.aibase.com/news/31522",
-      "primary_url": "https://www.aibase.com/news/31522",
+      "story_id": "story_a53e1f4f22c4",
+      "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+      "url": "https://www.aibase.com/news/31528",
+      "primary_url": "https://www.aibase.com/news/31528",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "58e9c28ec6c8acdef27f2b92bb125da786e37d5d",
-          "title": "白宫发布AI强制令:发生安全事件须立即上报并补救",
-          "url": "https://www.aibase.com/news/31522",
+          "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
+          "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "url": "https://www.aibase.com/news/31528",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:27:46.399346Z"
+          "published_at": "2026-10-10T08:45:12.454295Z"
         },
         {
-          "id": "3b7fab180fbab5ca2300113a692772108a56309e",
-          "title": "白宫发布 AI 强制令：发生安全事件须立即上报并补救",
-          "url": "https://www.aibase.com/zh/news/31522",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "baf6b76c82e25201875a15e3c7fc24d09ad6f20f",
+          "title": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
+          "url": "https://www.ithome.com/1/011/329.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T05:38:05Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "AIbase",
-        "Readhub · AI"
+        "IT之家 (ITHome)"
       ],
       "items": [
         {
-          "id": "58e9c28ec6c8acdef27f2b92bb125da786e37d5d",
-          "title": "白宫发布AI强制令:发生安全事件须立即上报并补救",
-          "url": "https://www.aibase.com/news/31522",
+          "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
+          "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+          "url": "https://www.aibase.com/news/31528",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:27:46.399346Z"
+          "published_at": "2026-10-10T08:45:12.454295Z"
         },
         {
-          "id": "3b7fab180fbab5ca2300113a692772108a56309e",
-          "title": "白宫发布 AI 强制令：发生安全事件须立即上报并补救",
-          "url": "https://www.aibase.com/zh/news/31522",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "baf6b76c82e25201875a15e3c7fc24d09ad6f20f",
+          "title": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
+          "url": "https://www.ithome.com/1/011/329.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-10T05:38:05Z"
         }
       ],
       "item_count": 2,
@@ -1193,12 +1070,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T02:27:46.399346Z",
-      "latest_at": "2026-10-10T02:27:46.399346Z",
+      "earliest_at": "2026-10-10T05:38:05Z",
+      "latest_at": "2026-10-10T08:45:12.454295Z",
       "primary_item": {
-        "id": "58e9c28ec6c8acdef27f2b92bb125da786e37d5d",
-        "title": "白宫发布AI强制令:发生安全事件须立即上报并补救",
-        "url": "https://www.aibase.com/news/31522",
+        "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
+        "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
+        "url": "https://www.aibase.com/news/31528",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1276,15 +1153,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6693,
-      "importance": 0.6693,
-      "importance_score": 0.6693,
+      "score": 0.6551,
+      "importance": 0.6551,
+      "importance_score": 0.6551,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9059,
+        "recency": 0.8272,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1302,26 +1179,26 @@
       }
     },
     {
-      "story_id": "story_7cef1302f71c",
-      "title": "谷歌测试新一代 Gemini 4 Carbon 版本，代码能力对标顶尖竞品",
-      "url": "https://www.aibase.com/news/31517",
-      "primary_url": "https://www.aibase.com/news/31517",
+      "story_id": "story_0c0b7bd3fb59",
+      "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
+      "url": "https://www.aibase.com/news/31543",
+      "primary_url": "https://www.aibase.com/news/31543",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "35364fa564f03d01125ec53a267edd33b9556cc6",
-          "title": "谷歌测试新一代 Gemini 4 Carbon 版本，代码能力对标顶尖竞品",
-          "url": "https://www.aibase.com/news/31517",
+          "id": "1baec69b23d487fa7182088c19615c4271387142",
+          "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
+          "url": "https://www.aibase.com/news/31543",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:27:46.399346Z"
+          "published_at": "2026-10-10T08:45:12.454295Z"
         },
         {
-          "id": "0f4f5a4c790046a9c69f60cb11674920641fb97b",
-          "title": "谷歌测试新一代 Gemini 4 Carbon 版本，代码能力对标顶尖竞品",
-          "url": "https://www.aibase.com/zh/news/31517",
+          "id": "1db7cc8e46e2a30bfbc22160e357b0e7be26606e",
+          "title": "千问首款 AI 耳机亮相 NBA 中国赛，可在淘宝、京东官方店预约",
+          "url": "https://www.aibase.com/zh/news/31543",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1335,18 +1212,18 @@
       ],
       "items": [
         {
-          "id": "35364fa564f03d01125ec53a267edd33b9556cc6",
-          "title": "谷歌测试新一代 Gemini 4 Carbon 版本，代码能力对标顶尖竞品",
-          "url": "https://www.aibase.com/news/31517",
+          "id": "1baec69b23d487fa7182088c19615c4271387142",
+          "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
+          "url": "https://www.aibase.com/news/31543",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-10T02:27:46.399346Z"
+          "published_at": "2026-10-10T08:45:12.454295Z"
         },
         {
-          "id": "0f4f5a4c790046a9c69f60cb11674920641fb97b",
-          "title": "谷歌测试新一代 Gemini 4 Carbon 版本，代码能力对标顶尖竞品",
-          "url": "https://www.aibase.com/zh/news/31517",
+          "id": "1db7cc8e46e2a30bfbc22160e357b0e7be26606e",
+          "title": "千问首款 AI 耳机亮相 NBA 中国赛，可在淘宝、京东官方店预约",
+          "url": "https://www.aibase.com/zh/news/31543",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1372,12 +1249,93 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T02:27:46.399346Z",
-      "latest_at": "2026-10-10T02:27:46.399346Z",
+      "earliest_at": "2026-10-10T08:45:12.454295Z",
+      "latest_at": "2026-10-10T08:45:12.454295Z",
       "primary_item": {
-        "id": "35364fa564f03d01125ec53a267edd33b9556cc6",
-        "title": "谷歌测试新一代 Gemini 4 Carbon 版本，代码能力对标顶尖竞品",
-        "url": "https://www.aibase.com/news/31517",
+        "id": "1baec69b23d487fa7182088c19615c4271387142",
+        "title": "千问首款AI耳机亮相NBA中国赛，可在淘宝、京东官方店预约",
+        "url": "https://www.aibase.com/news/31543",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_18d789dc0525",
+      "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
+      "url": "https://www.aibase.com/news/31541",
+      "primary_url": "https://www.aibase.com/news/31541",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
+          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
+          "url": "https://www.aibase.com/news/31541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:45:12.454295Z"
+        },
+        {
+          "id": "7b4f0536bd4174079e112a0739ea9c405b7e992f",
+          "title": "深圳一家 GEO 服务商因「给 AI 植入广告」涉嫌虚假宣传被罚款 5 万元",
+          "url": "https://www.aibase.com/zh/news/31541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
+          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
+          "url": "https://www.aibase.com/news/31541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:45:12.454295Z"
+        },
+        {
+          "id": "7b4f0536bd4174079e112a0739ea9c405b7e992f",
+          "title": "深圳一家 GEO 服务商因「给 AI 植入广告」涉嫌虚假宣传被罚款 5 万元",
+          "url": "https://www.aibase.com/zh/news/31541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T08:45:12.454295Z",
+      "latest_at": "2026-10-10T08:45:12.454295Z",
+      "primary_item": {
+        "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
+        "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
+        "url": "https://www.aibase.com/news/31541",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1471,15 +1429,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6261,
-      "importance": 0.6261,
-      "importance_score": 0.6261,
+      "score": 0.612,
+      "importance": 0.612,
+      "importance_score": 0.612,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8994,
+        "recency": 0.8213,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1494,6 +1452,141 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-10-09",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_066510f0a2f2",
+      "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+      "primary_url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+      "source": "jessewaites.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d6681e01eb2d13b826683a74742e39009803df66",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "jessewaites.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T00:57:04.875000Z"
+        },
+        {
+          "id": "47dd4941480e8b1de25f04947471b614926d38fb",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等 / I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "bd03118df257283f6258f9d55c3867841ac34147",
+          "title": "我将人工智能指向 400 年的档案。它发现了被遗忘的陨石等等 / I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "url": "https://news.ycombinator.com/item?id=50019056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "03817e9912e09401965ff5e575f26c9125c7b709",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等 / Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "def4c936ab20ef89d1021214702a19c56ed19044",
+          "title": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等 / Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "url": "https://news.ycombinator.com/item?id=50019056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T11:36:20Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "jessewaites.com"
+      ],
+      "items": [
+        {
+          "id": "d6681e01eb2d13b826683a74742e39009803df66",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "jessewaites.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T00:57:04.875000Z"
+        },
+        {
+          "id": "47dd4941480e8b1de25f04947471b614926d38fb",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等 / I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "bd03118df257283f6258f9d55c3867841ac34147",
+          "title": "我将人工智能指向 400 年的档案。它发现了被遗忘的陨石等等 / I Pointed AI at 400 Years of Archives. It Found a Forgotten Meteorites and More",
+          "url": "https://news.ycombinator.com/item?id=50019056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "03817e9912e09401965ff5e575f26c9125c7b709",
+          "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等 / Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-09T11:36:20Z"
+        },
+        {
+          "id": "def4c936ab20ef89d1021214702a19c56ed19044",
+          "title": "人工智能在档案中发现了被遗忘的陨石、丢失的犀牛等等 / Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+          "url": "https://news.ycombinator.com/item?id=50019056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-09T11:36:20Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6016,
+      "importance": 0.6016,
+      "importance_score": 0.6016,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8934,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-09T11:36:20Z",
+      "latest_at": "2026-10-10T00:57:04.875000Z",
+      "primary_item": {
+        "id": "d6681e01eb2d13b826683a74742e39009803df66",
+        "title": "利用人工智能分析档案资料，发现了一块被遗忘的陨石、失踪的犀牛等",
+        "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives",
+        "source": "jessewaites.com",
+        "source_name": "Buzzing"
       }
     }
   ]
