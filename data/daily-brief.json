@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T01:04:47.710361Z",
+  "generated_at": "2026-10-11T07:22:52.517424Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8366,
-      "importance": 0.8366,
-      "importance_score": 0.8366,
+      "score": 0.8223,
+      "importance": 0.8223,
+      "importance_score": 0.8223,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9145,
+        "recency": 0.835,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7827,
+      "importance": 0.7827,
+      "importance_score": 0.7827,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9498,
+        "recency": 0.8671,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -180,15 +180,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8407,
+        "recency": 0.7676,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -205,6 +205,67 @@
         "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b24a437d8a62",
+      "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
+          "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-10-11T04:50:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
+          "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-10-11T04:50:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9641,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-11T04:50:59Z",
+      "latest_at": "2026-10-11T04:50:59Z",
+      "primary_item": {
+        "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
+        "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -261,15 +322,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8628,
+        "recency": 0.7877,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -286,87 +347,6 @@
         "url": "https://www.aibase.com/news/31546",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b72411781b2c",
-      "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-      "url": "https://www.ithome.com/1/011/194.htm",
-      "primary_url": "https://www.ithome.com/1/011/194.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T01:07:47.053000Z"
-        },
-        {
-          "id": "34149b0245337600fd2da8699290eb8392646bca",
-          "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站",
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T01:07:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T01:07:47.053000Z"
-        },
-        {
-          "id": "34149b0245337600fd2da8699290eb8392646bca",
-          "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站",
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T01:07:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7076,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T01:07:47Z",
-      "latest_at": "2026-10-10T01:07:47.053000Z",
-      "primary_item": {
-        "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-        "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-        "url": "https://www.ithome.com/1/011/194.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -404,21 +384,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8513,
+        "recency": 0.7773,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-10T13:56:02Z",
       "latest_at": "2026-10-10T13:56:02Z",
@@ -428,208 +407,6 @@
         "url": "https://x.com/SaitoWu/status/2108919486581796872",
         "source": "X：Saito 硬地骇客 (@SaitoWu)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_83a5417202a3",
-      "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-      "url": "https://x.com/indigox/status/2108791275914993998",
-      "primary_url": "https://x.com/indigox/status/2108791275914993998",
-      "source": "X：indigo (@indigox)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "url": "https://x.com/indigox/status/2108791275914993998",
-          "source": "X：indigo (@indigox)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T05:26:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：indigo (@indigox)"
-      ],
-      "items": [
-        {
-          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "url": "https://x.com/indigox/status/2108791275914993998",
-          "source": "X：indigo (@indigox)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T05:26:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7531,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T05:26:34Z",
-      "latest_at": "2026-10-10T05:26:34Z",
-      "primary_item": {
-        "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-        "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-        "url": "https://x.com/indigox/status/2108791275914993998",
-        "source": "X：indigo (@indigox)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_98538a79e69e",
-      "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
-      "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
-          "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
-          "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T02:08:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
-          "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
-          "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T02:08:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.718,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T02:08:10Z",
-      "latest_at": "2026-10-10T02:08:10Z",
-      "primary_item": {
-        "id": "9f87a0f945cc58c8a9fa6838aebd33c32f81f476",
-        "title": "Anthropic 承认模型对自身推理的解释不可作为行为动机的证据",
-        "url": "https://x.com/rohanpaul_ai/status/2108741349419913339",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_59ad74610b3e",
-      "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
-      "url": "https://www.aibase.com/news/31534",
-      "primary_url": "https://www.aibase.com/news/31534",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
-          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
-          "url": "https://www.aibase.com/news/31534",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T08:45:12.454295Z"
-        },
-        {
-          "id": "6d3b1626c1e81535e9dd1700fad4e61e30a39210",
-          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
-          "url": "https://www.ithome.com/1/011/325.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T05:10:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
-          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
-          "url": "https://www.aibase.com/news/31534",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T08:45:12.454295Z"
-        },
-        {
-          "id": "6d3b1626c1e81535e9dd1700fad4e61e30a39210",
-          "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
-          "url": "https://www.ithome.com/1/011/325.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T05:10:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.79,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T05:10:05Z",
-      "latest_at": "2026-10-10T08:45:12.454295Z",
-      "primary_item": {
-        "id": "78b39ac81f7167b2adbe2d33511fd5536c1e472e",
-        "title": "16 岁少年用 Claude 规划登山路线被困悬崖，事后表示不责怪 AI",
-        "url": "https://www.aibase.com/news/31534",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -686,22 +463,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.79,
+        "recency": 0.7213,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-10T08:45:12.454295Z",
       "latest_at": "2026-10-10T08:45:12.454295Z",
@@ -767,22 +543,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.79,
+        "recency": 0.7213,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-10T08:45:12.454295Z",
       "latest_at": "2026-10-10T08:45:12.454295Z",
@@ -790,6 +565,86 @@
         "id": "1f1003b00d6e28940580791bb955712555446999",
         "title": "OpenAI 公开 175 页四维证明手稿，剑指数学百年难题",
         "url": "https://www.aibase.com/news/31535",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2ac52b5cae7e",
+      "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+      "url": "https://www.aibase.com/news/31532",
+      "primary_url": "https://www.aibase.com/news/31532",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
+          "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "url": "https://www.aibase.com/news/31532",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:45:12.454295Z"
+        },
+        {
+          "id": "64c17aac203f2e01bd3b9819aca6f0336e9c8aee",
+          "title": "Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "url": "https://www.aibase.com/zh/news/31532",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
+          "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "url": "https://www.aibase.com/news/31532",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:45:12.454295Z"
+        },
+        {
+          "id": "64c17aac203f2e01bd3b9819aca6f0336e9c8aee",
+          "title": "Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+          "url": "https://www.aibase.com/zh/news/31532",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7213,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-10T08:45:12.454295Z",
+      "latest_at": "2026-10-10T08:45:12.454295Z",
+      "primary_item": {
+        "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
+        "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
+        "url": "https://www.aibase.com/news/31532",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -901,15 +756,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6541,
-      "importance": 0.6541,
-      "importance_score": 0.6541,
+      "score": 0.6397,
+      "importance": 0.6397,
+      "importance_score": 0.6397,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9158,
+        "recency": 0.8362,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -979,15 +834,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6364,
-      "importance": 0.6364,
-      "importance_score": 0.6364,
+      "score": 0.624,
+      "importance": 0.624,
+      "importance_score": 0.624,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7928,
+        "recency": 0.7238,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1003,168 +858,6 @@
         "url": "https://the-decoder.com/googles-gemini-4-carbon-model-is-reportedly-matching-anthropics-opus-5-5-coding-performance",
         "source": "The Decoder AI News",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_2ac52b5cae7e",
-      "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-      "url": "https://www.aibase.com/news/31532",
-      "primary_url": "https://www.aibase.com/news/31532",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
-          "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-          "url": "https://www.aibase.com/news/31532",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T08:45:12.454295Z"
-        },
-        {
-          "id": "64c17aac203f2e01bd3b9819aca6f0336e9c8aee",
-          "title": "Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-          "url": "https://www.aibase.com/zh/news/31532",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
-          "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-          "url": "https://www.aibase.com/news/31532",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T08:45:12.454295Z"
-        },
-        {
-          "id": "64c17aac203f2e01bd3b9819aca6f0336e9c8aee",
-          "title": "Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-          "url": "https://www.aibase.com/zh/news/31532",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.79,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T08:45:12.454295Z",
-      "latest_at": "2026-10-10T08:45:12.454295Z",
-      "primary_item": {
-        "id": "042df2c8f2d2bacc6041071d0832e85765af2f99",
-        "title": "​Claude 妙手绘出首张完整紫外全天图，1.19 亿颗星逐颗叠上",
-        "url": "https://www.aibase.com/news/31532",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a53e1f4f22c4",
-      "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
-      "url": "https://www.aibase.com/news/31528",
-      "primary_url": "https://www.aibase.com/news/31528",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
-          "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
-          "url": "https://www.aibase.com/news/31528",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T08:45:12.454295Z"
-        },
-        {
-          "id": "baf6b76c82e25201875a15e3c7fc24d09ad6f20f",
-          "title": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
-          "url": "https://www.ithome.com/1/011/329.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T05:38:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
-          "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
-          "url": "https://www.aibase.com/news/31528",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T08:45:12.454295Z"
-        },
-        {
-          "id": "baf6b76c82e25201875a15e3c7fc24d09ad6f20f",
-          "title": "Claude 管理智能体新增动态工作流，单次最多并行调度 1000 个 AI Agents",
-          "url": "https://www.ithome.com/1/011/329.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T05:38:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.79,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T05:38:05Z",
-      "latest_at": "2026-10-10T08:45:12.454295Z",
-      "primary_item": {
-        "id": "d056ed50f7b9fe24806965df151422ab78e7c665",
-        "title": "​Claude 管理智能体上线动态工作流：单次最高可并行调度 1000 个 AI Agents",
-        "url": "https://www.aibase.com/news/31528",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1221,22 +914,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.79,
+        "recency": 0.7213,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-10T08:45:12.454295Z",
       "latest_at": "2026-10-10T08:45:12.454295Z",
@@ -1246,6 +938,403 @@
         "url": "https://www.aibase.com/news/31543",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_35dc91695d5d",
+      "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "ced9daa641f3ea3f5fbc00699ac675215967117b",
+          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are ‘compromised’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-10T22:10:17Z"
+        },
+        {
+          "id": "f0c0fbfd6fe90b06fdcf8fde18a639363d28f334",
+          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-11T03:41:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "ced9daa641f3ea3f5fbc00699ac675215967117b",
+          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are ‘compromised’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-10T22:10:17Z"
+        },
+        {
+          "id": "f0c0fbfd6fe90b06fdcf8fde18a639363d28f334",
+          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-11T03:41:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5931,
+      "importance": 0.5931,
+      "importance_score": 0.5931,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.8755,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-10T22:10:17Z",
+      "latest_at": "2026-10-11T03:41:53Z",
+      "primary_item": {
+        "id": "ced9daa641f3ea3f5fbc00699ac675215967117b",
+        "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are ‘compromised’",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_18d789dc0525",
+      "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
+      "url": "https://www.aibase.com/news/31541",
+      "primary_url": "https://www.aibase.com/news/31541",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
+          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
+          "url": "https://www.aibase.com/news/31541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:45:12.454295Z"
+        },
+        {
+          "id": "7b4f0536bd4174079e112a0739ea9c405b7e992f",
+          "title": "深圳一家 GEO 服务商因「给 AI 植入广告」涉嫌虚假宣传被罚款 5 万元",
+          "url": "https://www.aibase.com/zh/news/31541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
+          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
+          "url": "https://www.aibase.com/news/31541",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:45:12.454295Z"
+        },
+        {
+          "id": "7b4f0536bd4174079e112a0739ea9c405b7e992f",
+          "title": "深圳一家 GEO 服务商因「给 AI 植入广告」涉嫌虚假宣传被罚款 5 万元",
+          "url": "https://www.aibase.com/zh/news/31541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7213,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-10T08:45:12.454295Z",
+      "latest_at": "2026-10-10T08:45:12.454295Z",
+      "primary_item": {
+        "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
+        "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
+        "url": "https://www.aibase.com/news/31541",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_56d41dbc9298",
+      "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
+      "url": "https://www.aibase.com/news/31540",
+      "primary_url": "https://www.aibase.com/news/31540",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0c67516aae91a1b6d4043638cb3694d7b2b40cc6",
+          "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
+          "url": "https://www.aibase.com/news/31540",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:45:12.454295Z"
+        },
+        {
+          "id": "f7924f3b2b92ac6f1c0df7057e6e699be722ad4b",
+          "title": "网文实体书惊现「AI 回复内容」，出版社回应：将回收销毁并重新修订",
+          "url": "https://www.aibase.com/zh/news/31540",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0c67516aae91a1b6d4043638cb3694d7b2b40cc6",
+          "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
+          "url": "https://www.aibase.com/news/31540",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T08:45:12.454295Z"
+        },
+        {
+          "id": "f7924f3b2b92ac6f1c0df7057e6e699be722ad4b",
+          "title": "网文实体书惊现「AI 回复内容」，出版社回应：将回收销毁并重新修订",
+          "url": "https://www.aibase.com/zh/news/31540",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7213,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-10T08:45:12.454295Z",
+      "latest_at": "2026-10-10T08:45:12.454295Z",
+      "primary_item": {
+        "id": "0c67516aae91a1b6d4043638cb3694d7b2b40cc6",
+        "title": "网文实体书惊现“AI 回复内容”，出版社回应：将回收销毁并重新修订",
+        "url": "https://www.aibase.com/news/31540",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_45701154d94a",
+      "title": "AI“克隆”的Adobe全家桶一夜爆火，但先别急着卸载正版",
+      "url": "https://www.36kr.com/p/4020888466542726",
+      "primary_url": "https://www.36kr.com/p/4020888466542726",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a49cf5f1e0e67436e35ab4a0863da333b881cdd4",
+          "title": "AI“克隆”的Adobe全家桶一夜爆火，但先别急着卸载正版",
+          "url": "https://www.36kr.com/p/4020888466542726",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "bcfda676a0b2c9bbdfd6ce99d914a5550be5ba2f",
+          "title": "AI“克隆”的Adobe 全家桶一夜爆火，但先别急着卸载正版",
+          "url": "https://www.huxiu.com/article/4896574.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T02:03:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "a49cf5f1e0e67436e35ab4a0863da333b881cdd4",
+          "title": "AI“克隆”的Adobe全家桶一夜爆火，但先别急着卸载正版",
+          "url": "https://www.36kr.com/p/4020888466542726",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "bcfda676a0b2c9bbdfd6ce99d914a5550be5ba2f",
+          "title": "AI“克隆”的Adobe 全家桶一夜爆火，但先别急着卸载正版",
+          "url": "https://www.huxiu.com/article/4896574.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T02:03:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T02:03:08Z",
+      "latest_at": "2026-10-11T07:22:52.517424Z",
+      "primary_item": {
+        "id": "a49cf5f1e0e67436e35ab4a0863da333b881cdd4",
+        "title": "AI“克隆”的Adobe全家桶一夜爆火，但先别急着卸载正版",
+        "url": "https://www.36kr.com/p/4020888466542726",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_319b451f9164",
+      "title": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
+      "url": "https://www.huxiu.com/article/4896590.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4896590.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e8e913cb31d3e6567695e5526901a3a5de740082",
+          "title": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
+          "url": "https://www.huxiu.com/article/4896590.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8284bee6405c57fbb955313353d1a9260ffbb1f9",
+          "title": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
+          "url": "https://www.huxiu.com/article/4896590.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T04:34:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "e8e913cb31d3e6567695e5526901a3a5de740082",
+          "title": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
+          "url": "https://www.huxiu.com/article/4896590.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8284bee6405c57fbb955313353d1a9260ffbb1f9",
+          "title": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
+          "url": "https://www.huxiu.com/article/4896590.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T04:34:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T04:34:12Z",
+      "latest_at": "2026-10-11T07:22:52.517424Z",
+      "primary_item": {
+        "id": "e8e913cb31d3e6567695e5526901a3a5de740082",
+        "title": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
+        "url": "https://www.huxiu.com/article/4896590.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1321,15 +1410,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5552,
-      "importance": 0.5552,
-      "importance_score": 0.5552,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9135,
+        "recency": 0.8341,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1347,261 +1436,161 @@
       }
     },
     {
-      "story_id": "story_6b75dae75d97",
-      "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-      "url": "https://github.com/rociiu/talorys",
-      "primary_url": "https://github.com/rociiu/talorys",
+      "story_id": "story_052c2a6e2a5b",
+      "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器",
+      "url": "https://github.com/vscarpenter/gsd-task-manager",
+      "primary_url": "https://github.com/vscarpenter/gsd-task-manager",
       "source": "github.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b4a20c70f6ff7293f47343f2692a3f6de9acca8f",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-          "url": "https://github.com/rociiu/talorys",
+          "id": "133b37fb5d257c28b0cd2aa10b21c4deb16fd91f",
+          "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器",
+          "url": "https://github.com/vscarpenter/gsd-task-manager",
           "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-10T14:52:04.483000Z"
+          "published_at": "2026-10-11T03:48:01.165000Z"
         },
         {
-          "id": "8de169e992534ff3b8487f23ffa3d5db9fcfcc05",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "url": "https://github.com/rociiu/talorys",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T10:52:09Z"
-        },
-        {
-          "id": "7b929953e435f88e9217395172ac1d83f8322994",
-          "title": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "url": "https://news.ycombinator.com/item?id=50031614",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-10T10:52:09Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b4a20c70f6ff7293f47343f2692a3f6de9acca8f",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-          "url": "https://github.com/rociiu/talorys",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T14:52:04.483000Z"
-        },
-        {
-          "id": "8de169e992534ff3b8487f23ffa3d5db9fcfcc05",
-          "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "url": "https://github.com/rociiu/talorys",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T10:52:09Z"
-        },
-        {
-          "id": "7b929953e435f88e9217395172ac1d83f8322994",
-          "title": "Talorys – Cloudflare 免费套餐上的自托管个人 AI 代理 / Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-          "url": "https://news.ycombinator.com/item?id=50031614",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-10T10:52:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5461,
-      "importance": 0.5461,
-      "importance_score": 0.5461,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8629,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-10T10:52:09Z",
-      "latest_at": "2026-10-10T14:52:04.483000Z",
-      "primary_item": {
-        "id": "b4a20c70f6ff7293f47343f2692a3f6de9acca8f",
-        "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
-        "url": "https://github.com/rociiu/talorys",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_18d789dc0525",
-      "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-      "url": "https://www.aibase.com/news/31541",
-      "primary_url": "https://www.aibase.com/news/31541",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-          "url": "https://www.aibase.com/news/31541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T08:45:12.454295Z"
-        },
-        {
-          "id": "7b4f0536bd4174079e112a0739ea9c405b7e992f",
-          "title": "深圳一家 GEO 服务商因「给 AI 植入广告」涉嫌虚假宣传被罚款 5 万元",
-          "url": "https://www.aibase.com/zh/news/31541",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "0f355c306d8fec61e5a91adfda9c4a773dc4b363",
+          "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器 / Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+          "url": "https://github.com/vscarpenter/gsd-task-manager",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-11T03:42:56Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "HN Algolia · AI 24h",
+        "github.com"
       ],
       "items": [
         {
-          "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-          "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-          "url": "https://www.aibase.com/news/31541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T08:45:12.454295Z"
+          "id": "133b37fb5d257c28b0cd2aa10b21c4deb16fd91f",
+          "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器",
+          "url": "https://github.com/vscarpenter/gsd-task-manager",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-11T03:48:01.165000Z"
         },
         {
-          "id": "7b4f0536bd4174079e112a0739ea9c405b7e992f",
-          "title": "深圳一家 GEO 服务商因「给 AI 植入广告」涉嫌虚假宣传被罚款 5 万元",
-          "url": "https://www.aibase.com/zh/news/31541",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "0f355c306d8fec61e5a91adfda9c4a773dc4b363",
+          "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器 / Show HN: GSD Task Manager – an MCP server that gives your AI agent a task list",
+          "url": "https://github.com/vscarpenter/gsd-task-manager",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-11T03:42:56Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.79,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T08:45:12.454295Z",
-      "latest_at": "2026-10-10T08:45:12.454295Z",
-      "primary_item": {
-        "id": "09bb6a8eebdc8bef4f9ff0cabeb2e418978b80f5",
-        "title": "深圳一家 GEO 服务商因“给 AI 植入广告”涉嫌虚假宣传被罚款 5 万元",
-        "url": "https://www.aibase.com/news/31541",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f72cb823d93c",
-      "title": "人性禁止虐待克劳德，但仍不肯透露它所保护的内容 / Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
-      "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-      "primary_url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "e90e9bd8f788087491f5c69fb8d645f227cf4a8b",
-          "title": "人性禁止虐待克劳德，但仍不肯透露它所保护的内容 / Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
-          "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T00:08:31Z"
-        },
-        {
-          "id": "606677afeb0dd611a8bcc7eea6fbce8623f35c77",
-          "title": "人性禁止虐待克劳德，但仍不肯透露它所保护的内容 / Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
-          "url": "https://news.ycombinator.com/item?id=50038383",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T00:08:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e90e9bd8f788087491f5c69fb8d645f227cf4a8b",
-          "title": "人性禁止虐待克劳德，但仍不肯透露它所保护的内容 / Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
-          "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T00:08:31Z"
-        },
-        {
-          "id": "606677afeb0dd611a8bcc7eea6fbce8623f35c77",
-          "title": "人性禁止虐待克劳德，但仍不肯透露它所保护的内容 / Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
-          "url": "https://news.ycombinator.com/item?id=50038383",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T00:08:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9865,
+        "recency": 0.9496,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-11T00:08:31Z",
-      "latest_at": "2026-10-11T00:08:31Z",
+      "earliest_at": "2026-10-11T03:42:56Z",
+      "latest_at": "2026-10-11T03:48:01.165000Z",
       "primary_item": {
-        "id": "e90e9bd8f788087491f5c69fb8d645f227cf4a8b",
-        "title": "人性禁止虐待克劳德，但仍不肯透露它所保护的内容 / Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
-        "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "133b37fb5d257c28b0cd2aa10b21c4deb16fd91f",
+        "title": "Show HN: GSD 任务管理器——一个为您的 AI 代理提供任务列表的 MCP 服务器",
+        "url": "https://github.com/vscarpenter/gsd-task-manager",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c97e75fb086b",
+      "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
+      "url": "https://atoll92.github.io/agent-standup",
+      "primary_url": "https://atoll92.github.io/agent-standup",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "6ea4700323b72295216346484f5abcf96c10b843",
+          "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
+          "url": "https://atoll92.github.io/agent-standup",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T03:42:47Z"
+        },
+        {
+          "id": "0c85fbb468c08e774d8079a61514de087d70b08b",
+          "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
+          "url": "https://news.ycombinator.com/item?id=50039630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T03:42:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6ea4700323b72295216346484f5abcf96c10b843",
+          "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
+          "url": "https://atoll92.github.io/agent-standup",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T03:42:47Z"
+        },
+        {
+          "id": "0c85fbb468c08e774d8079a61514de087d70b08b",
+          "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
+          "url": "https://news.ycombinator.com/item?id=50039630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T03:42:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9484,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T03:42:47Z",
+      "latest_at": "2026-10-11T03:42:47Z",
+      "primary_item": {
+        "id": "6ea4700323b72295216346484f5abcf96c10b843",
+        "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
+        "url": "https://atoll92.github.io/agent-standup",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
