@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:24:21.493318Z",
+  "generated_at": "2026-10-14T05:05:38.625913Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8564,
-      "importance": 0.8564,
-      "importance_score": 0.8564,
+      "score": 0.846,
+      "importance": 0.846,
+      "importance_score": 0.846,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8857,
+        "recency": 0.8277,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,6 +82,68 @@
         "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems",
         "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
         "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5cb1618c1db5",
+      "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+      "primary_url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "92aaf5b0e873d1da15469cf60e690b070c429eb0",
+          "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T02:00:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "92aaf5b0e873d1da15469cf60e690b070c429eb0",
+          "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T02:00:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8361,
+      "importance": 0.8361,
+      "importance_score": 0.8361,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9564,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T02:00:14Z",
+      "latest_at": "2026-10-14T02:00:14Z",
+      "primary_item": {
+        "id": "92aaf5b0e873d1da15469cf60e690b070c429eb0",
+        "title": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against scams",
+        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -120,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9204,
+        "recency": 0.8602,
         "story_heat": 0.0
       },
       "category": "official",
@@ -144,68 +206,6 @@
         "title": "GitHub Copilot 中的 Gemini 4 Argon / Gemini 4 Argon in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-10-13-gemini-4-argon-in-github-copilot",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8b0463614a7b",
-      "title": "Gemini 4 Argon 用于机器人 / Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
-      "primary_url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f6e477ced73c4d2931cb1aa49deae0a673ccf494",
-          "title": "Gemini 4 Argon 用于机器人 / Gemini 4 Argon for Robotics",
-          "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-13T16:01:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "f6e477ced73c4d2931cb1aa49deae0a673ccf494",
-          "title": "Gemini 4 Argon 用于机器人 / Gemini 4 Argon for Robotics",
-          "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-13T16:01:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8435,
-      "importance": 0.8435,
-      "importance_score": 0.8435,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.97,
-        "recency": 0.8861,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T16:01:58Z",
-      "latest_at": "2026-10-13T16:01:58Z",
-      "primary_item": {
-        "id": "f6e477ced73c4d2931cb1aa49deae0a673ccf494",
-        "title": "Gemini 4 Argon 用于机器人 / Gemini 4 Argon for Robotics",
-        "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
-        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8998,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "official",
@@ -344,15 +344,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8318,
-      "importance": 0.8318,
-      "importance_score": 0.8318,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9792,
+        "recency": 0.9151,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -406,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9109,
+        "recency": 0.8513,
         "story_heat": 0.0
       },
       "category": "official",
@@ -468,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.836,
+        "recency": 0.7813,
         "story_heat": 0.0
       },
       "category": "official",
@@ -492,6 +492,68 @@
         "title": "Higgsfield 将 AI 视频从 1 分钟缩短至 10 多分钟 / Higgsfield takes AI video from 1 minute to over 10",
         "url": "https://openai.com/index/higgsfield-longer-videos-voice",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8b0463614a7b",
+      "title": "Gemini 4 Argon 用于机器人 / Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+      "primary_url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f6e477ced73c4d2931cb1aa49deae0a673ccf494",
+          "title": "Gemini 4 Argon 用于机器人 / Gemini 4 Argon for Robotics",
+          "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T16:01:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "f6e477ced73c4d2931cb1aa49deae0a673ccf494",
+          "title": "Gemini 4 Argon 用于机器人 / Gemini 4 Argon for Robotics",
+          "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T16:01:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.97,
+        "recency": 0.8281,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T16:01:58Z",
+      "latest_at": "2026-10-13T16:01:58Z",
+      "primary_item": {
+        "id": "f6e477ced73c4d2931cb1aa49deae0a673ccf494",
+        "title": "Gemini 4 Argon 用于机器人 / Gemini 4 Argon for Robotics",
+        "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -530,15 +592,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9841,
+        "recency": 0.9197,
         "story_heat": 0.0
       },
       "category": "official",
@@ -558,65 +620,145 @@
       }
     },
     {
-      "story_id": "story_25432b6b093a",
-      "title": "负责任、安全地开发 Gemini 4 Argon / Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
-      "primary_url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
+      "story_id": "story_e57c4ae91b90",
+      "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
+      "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "99cd44b34f17588252fe4a6eeec6f30c422114e5",
-          "title": "负责任、安全地开发 Gemini 4 Argon / Developing Gemini 4 Argon responsibly and safely",
-          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-13T19:43:07Z"
+          "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
+          "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
+          "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T02:58:37Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "X：Rohan Paul (@rohanpaul_ai)"
       ],
       "items": [
         {
-          "id": "99cd44b34f17588252fe4a6eeec6f30c422114e5",
-          "title": "负责任、安全地开发 Gemini 4 Argon / Developing Gemini 4 Argon responsibly and safely",
-          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-13T19:43:07Z"
+          "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
+          "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
+          "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T02:58:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8402,
-      "importance": 0.8402,
-      "importance_score": 0.8402,
-      "importance_label": "官方更新",
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9346,
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9699,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T19:43:07Z",
-      "latest_at": "2026-10-13T19:43:07Z",
+      "earliest_at": "2026-10-14T02:58:37Z",
+      "latest_at": "2026-10-14T02:58:37Z",
       "primary_item": {
-        "id": "99cd44b34f17588252fe4a6eeec6f30c422114e5",
-        "title": "负责任、安全地开发 Gemini 4 Argon / Developing Gemini 4 Argon responsibly and safely",
-        "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
+        "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
+        "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
+        "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a2e36ff5a547",
+      "title": "OPPO 牵手 Manus：Find X10 系列首发\"会办事\"的 AI 智能体",
+      "url": "https://www.aibase.com/news/31631",
+      "primary_url": "https://www.aibase.com/news/31631",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7455db9cf616f3afe1f236a19083a2ffb5a61502",
+          "title": "OPPO 牵手 Manus：Find X10 系列首发\"会办事\"的 AI 智能体",
+          "url": "https://www.aibase.com/news/31631",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-14T05:05:38.625913Z"
+        },
+        {
+          "id": "48062dd6dab333917fa4e756bd2d944f6424c979",
+          "title": "OPPO 牵手 Manus：Find X10 系列首发「会办事」的 AI 智能体",
+          "url": "https://www.aibase.com/zh/news/31631",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7455db9cf616f3afe1f236a19083a2ffb5a61502",
+          "title": "OPPO 牵手 Manus：Find X10 系列首发\"会办事\"的 AI 智能体",
+          "url": "https://www.aibase.com/news/31631",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-14T05:05:38.625913Z"
+        },
+        {
+          "id": "48062dd6dab333917fa4e756bd2d944f6424c979",
+          "title": "OPPO 牵手 Manus：Find X10 系列首发「会办事」的 AI 智能体",
+          "url": "https://www.aibase.com/zh/news/31631",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T05:05:38.625913Z",
+      "latest_at": "2026-10-14T05:05:38.625913Z",
+      "primary_item": {
+        "id": "7455db9cf616f3afe1f236a19083a2ffb5a61502",
+        "title": "OPPO 牵手 Manus：Find X10 系列首发\"会办事\"的 AI 智能体",
+        "url": "https://www.aibase.com/news/31631",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -654,15 +796,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7847,
-      "importance": 0.7847,
-      "importance_score": 0.7847,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9118,
+        "recency": 0.8521,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -715,15 +857,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9399,
+        "recency": 0.8784,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -739,6 +881,129 @@
         "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
         "source": "404 Media（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_540c7947476a",
+      "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+      "url": "https://x.com/Khazix0918/status/2110174495420064055",
+      "primary_url": "https://x.com/Khazix0918/status/2110174495420064055",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
+          "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+          "url": "https://x.com/Khazix0918/status/2110174495420064055",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T01:02:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
+          "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+          "url": "https://x.com/Khazix0918/status/2110174495420064055",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T01:02:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9433,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T01:02:59Z",
+      "latest_at": "2026-10-14T01:02:59Z",
+      "primary_item": {
+        "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
+        "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
+        "url": "https://x.com/Khazix0918/status/2110174495420064055",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_25432b6b093a",
+      "title": "负责任、安全地开发 Gemini 4 Argon / Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+      "primary_url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "99cd44b34f17588252fe4a6eeec6f30c422114e5",
+          "title": "负责任、安全地开发 Gemini 4 Argon / Developing Gemini 4 Argon responsibly and safely",
+          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T19:43:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "99cd44b34f17588252fe4a6eeec6f30c422114e5",
+          "title": "负责任、安全地开发 Gemini 4 Argon / Developing Gemini 4 Argon responsibly and safely",
+          "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T19:43:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8734,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T19:43:07Z",
+      "latest_at": "2026-10-13T19:43:07Z",
+      "primary_item": {
+        "id": "99cd44b34f17588252fe4a6eeec6f30c422114e5",
+        "title": "负责任、安全地开发 Gemini 4 Argon / Developing Gemini 4 Argon responsibly and safely",
+        "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -795,15 +1060,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8361,
+        "recency": 0.7814,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -823,26 +1088,26 @@
       }
     },
     {
-      "story_id": "story_300b5560df1e",
-      "title": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
-      "url": "https://www.aibase.com/news/31617",
-      "primary_url": "https://www.aibase.com/news/31617",
+      "story_id": "story_e120d9b588a8",
+      "title": "OpenAI 沙特籍工程师被捕：藏录音设备偷录高管会，最高判 5 年",
+      "url": "https://www.aibase.com/news/31618",
+      "primary_url": "https://www.aibase.com/news/31618",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "47d190f6f523e91d070254fbcf9dbbee3e0b20fa",
-          "title": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
-          "url": "https://www.aibase.com/news/31617",
+          "id": "c6410ffd9cb9f84ad3375cec984fae3814808633",
+          "title": "OpenAI 沙特籍工程师被捕：藏录音设备偷录高管会，最高判 5 年",
+          "url": "https://www.aibase.com/news/31618",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T18:22:03.551444Z"
+          "published_at": "2026-10-14T05:05:38.625913Z"
         },
         {
-          "id": "3d0d7e980d873b324e060af943b146d94b02e57d",
-          "title": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
-          "url": "https://www.aibase.com/zh/news/31617",
+          "id": "3cdb2fa8563fd0518af4437cb23925025f245d62",
+          "title": "OpenAI 沙特籍工程师被捕：藏录音设备偷录高管会，最高判 5 年",
+          "url": "https://www.aibase.com/zh/news/31618",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -856,18 +1121,18 @@
       ],
       "items": [
         {
-          "id": "47d190f6f523e91d070254fbcf9dbbee3e0b20fa",
-          "title": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
-          "url": "https://www.aibase.com/news/31617",
+          "id": "c6410ffd9cb9f84ad3375cec984fae3814808633",
+          "title": "OpenAI 沙特籍工程师被捕：藏录音设备偷录高管会，最高判 5 年",
+          "url": "https://www.aibase.com/news/31618",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-13T18:22:03.551444Z"
+          "published_at": "2026-10-14T05:05:38.625913Z"
         },
         {
-          "id": "3d0d7e980d873b324e060af943b146d94b02e57d",
-          "title": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
-          "url": "https://www.aibase.com/zh/news/31617",
+          "id": "3cdb2fa8563fd0518af4437cb23925025f245d62",
+          "title": "OpenAI 沙特籍工程师被捕：藏录音设备偷录高管会，最高判 5 年",
+          "url": "https://www.aibase.com/zh/news/31618",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -876,15 +1141,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9165,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -893,14 +1158,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-13T18:22:03.551444Z",
-      "latest_at": "2026-10-13T21:22:03.551444Z",
+      "earliest_at": "2026-10-14T05:05:38.625913Z",
+      "latest_at": "2026-10-14T05:05:38.625913Z",
       "primary_item": {
-        "id": "47d190f6f523e91d070254fbcf9dbbee3e0b20fa",
-        "title": "IDC 报告：英伟达中国 AI 芯片份额跌至 34%，华为追到 28%",
-        "url": "https://www.aibase.com/news/31617",
+        "id": "c6410ffd9cb9f84ad3375cec984fae3814808633",
+        "title": "OpenAI 沙特籍工程师被捕：藏录音设备偷录高管会，最高判 5 年",
+        "url": "https://www.aibase.com/news/31618",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fdea597bfb9c",
+      "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+      "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution",
+      "primary_url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution",
+      "source": "Johann Rehberger / Embrace The Red（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f345766592a05d988700c2172da2ed75194f4f38",
+          "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+          "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution",
+          "source": "Johann Rehberger / Embrace The Red（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T22:00:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Johann Rehberger / Embrace The Red（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f345766592a05d988700c2172da2ed75194f4f38",
+          "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+          "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution",
+          "source": "Johann Rehberger / Embrace The Red（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T22:00:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9028,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T22:00:40Z",
+      "latest_at": "2026-10-13T22:00:40Z",
+      "primary_item": {
+        "id": "f345766592a05d988700c2172da2ed75194f4f38",
+        "title": "Visual Studio Copilot 与 SSMS 远程代码执行漏洞（CVE-2026-103572）技术分析",
+        "url": "https://embracethered.com/blog/posts/2026/visual-studio-copilot-remote-code-execution",
+        "source": "Johann Rehberger / Embrace The Red（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -938,15 +1264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 0.8675,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -999,15 +1325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8884,
+        "recency": 0.8302,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1024,330 +1350,6 @@
         "url": "https://github.blog/changelog/2026-10-13-secret-scanning-blocks-anthropic-keys-by-default-adds-salesforce",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_33c0b5054646",
-      "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
-      "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
-      "primary_url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c874ef70acfdf1bd71d3bc0e36be3977059743f3",
-          "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
-          "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T12:23:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c874ef70acfdf1bd71d3bc0e36be3977059743f3",
-          "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
-          "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T12:23:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8408,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T12:23:42Z",
-      "latest_at": "2026-10-13T12:23:42Z",
-      "primary_item": {
-        "id": "c874ef70acfdf1bd71d3bc0e36be3977059743f3",
-        "title": "Character.AI 成立五年后申请 Chapter 11 破产，部分资产以 2000 万美元出售给 Disney",
-        "url": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4ab96ebc0c08",
-      "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
-      "url": "https://x.com/arena/status/2110120205464846828",
-      "primary_url": "https://x.com/arena/status/2110120205464846828",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a92680988222daef99bc1e7ce0a83d35d6f5ccc2",
-          "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
-          "url": "https://x.com/arena/status/2110120205464846828",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T21:27:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "a92680988222daef99bc1e7ce0a83d35d6f5ccc2",
-          "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
-          "url": "https://x.com/arena/status/2110120205464846828",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T21:27:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9583,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T21:27:15Z",
-      "latest_at": "2026-10-13T21:27:15Z",
-      "primary_item": {
-        "id": "a92680988222daef99bc1e7ce0a83d35d6f5ccc2",
-        "title": "Meta Muse Wonder (Max) 进入 Arena 榜单：WebDev 第15、文本第2",
-        "url": "https://x.com/arena/status/2110120205464846828",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_27d228cb6076",
-      "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
-      "url": "https://x.com/OpenRouter/status/2110044453977403412",
-      "primary_url": "https://x.com/OpenRouter/status/2110044453977403412",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cdfde445b10540f1a3407f8b5c99c59136036617",
-          "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
-          "url": "https://x.com/OpenRouter/status/2110044453977403412",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T16:26:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "cdfde445b10540f1a3407f8b5c99c59136036617",
-          "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
-          "url": "https://x.com/OpenRouter/status/2110044453977403412",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T16:26:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8913,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T16:26:15Z",
-      "latest_at": "2026-10-13T16:26:15Z",
-      "primary_item": {
-        "id": "cdfde445b10540f1a3407f8b5c99c59136036617",
-        "title": "Google DeepMind 的 Gemini 4 Argon 上线 OpenRouter",
-        "url": "https://x.com/OpenRouter/status/2110044453977403412",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_64f0515d646a",
-      "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
-      "url": "https://www.aibase.com/news/31616",
-      "primary_url": "https://www.aibase.com/news/31616",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "62c4807d896455add2e35a7ce231aa7ea11b3c13",
-          "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
-          "url": "https://www.aibase.com/news/31616",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T18:22:03.551444Z"
-        },
-        {
-          "id": "2bee30aae3e7dadd76aa121aa5c02ff6dd03c709",
-          "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
-          "url": "https://www.aibase.com/zh/news/31616",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "62c4807d896455add2e35a7ce231aa7ea11b3c13",
-          "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
-          "url": "https://www.aibase.com/news/31616",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-13T18:22:03.551444Z"
-        },
-        {
-          "id": "2bee30aae3e7dadd76aa121aa5c02ff6dd03c709",
-          "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
-          "url": "https://www.aibase.com/zh/news/31616",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9165,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T18:22:03.551444Z",
-      "latest_at": "2026-10-13T21:22:03.551444Z",
-      "primary_item": {
-        "id": "62c4807d896455add2e35a7ce231aa7ea11b3c13",
-        "title": "苹果悄悄收编 AI 播客团队：反向雇佣 Huxe，给 Podcasts 埋下个性化伏笔",
-        "url": "https://www.aibase.com/news/31616",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f74d3e8c9dbd",
-      "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕",
-      "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-      "primary_url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-      "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6e513cec15bb932c3321b6ed1eeab686b21e7bd0",
-          "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕",
-          "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T19:48:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Newsroom (@OpenAINewsroom)"
-      ],
-      "items": [
-        {
-          "id": "6e513cec15bb932c3321b6ed1eeab686b21e7bd0",
-          "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕",
-          "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-          "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T19:48:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9358,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-13T19:48:42Z",
-      "latest_at": "2026-10-13T19:48:42Z",
-      "primary_item": {
-        "id": "6e513cec15bb932c3321b6ed1eeab686b21e7bd0",
-        "title": "OpenAI 办公室发现窃密录音装置，涉事员工被捕",
-        "url": "https://x.com/OpenAINewsroom/status/2110095403198849132",
-        "source": "X：OpenAI Newsroom (@OpenAINewsroom)",
-        "source_name": "AI HOT"
       }
     }
   ]
