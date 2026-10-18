@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T17:45:48.013502Z",
+  "generated_at": "2026-10-18T19:45:24.487386Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_cd9ee83649ac",
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9386,
+        "recency": 0.9119,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -81,6 +81,67 @@
         "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
         "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e2a6e519f65e",
+      "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+      "url": "https://x.com/arena/status/2111894091168682086",
+      "primary_url": "https://x.com/arena/status/2111894091168682086",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+          "url": "https://x.com/arena/status/2111894091168682086",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T18:56:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+          "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+          "url": "https://x.com/arena/status/2111894091168682086",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T18:56:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7565,
+      "importance": 0.7565,
+      "importance_score": 0.7565,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9882,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-18T18:56:03Z",
+      "latest_at": "2026-10-18T18:56:03Z",
+      "primary_item": {
+        "id": "2887eb19ae3474d03e7d10ff36cad10038688e3a",
+        "title": "DeepSeek-V4.1-Flash-20261017 登顶 Code Arena: WebDev 开源模型榜首",
+        "url": "https://x.com/arena/status/2111894091168682086",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       }
     },
@@ -138,15 +199,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9053,
+        "recency": 0.8797,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -254,15 +315,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "score": 0.6391,
+      "importance": 0.6391,
+      "importance_score": 0.6391,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9716,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -277,85 +338,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-10-17",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_6435f671229b",
-      "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "primary_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "47136f0ae0a03b3f61f7341c1e7dc35b2d834d4f",
-          "title": "Replit 首席执行官表示不再与 Anthropic 合作 / Replit is no longer working with Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-17T18:48:08Z"
-        },
-        {
-          "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
-          "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-17T18:48:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "47136f0ae0a03b3f61f7341c1e7dc35b2d834d4f",
-          "title": "Replit 首席执行官表示不再与 Anthropic 合作 / Replit is no longer working with Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-17T18:48:08Z"
-        },
-        {
-          "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
-          "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-          "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-17T18:48:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6229,
-      "importance": 0.6229,
-      "importance_score": 0.6229,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5904,
-        "source_tier": 0.58,
-        "ai_relevance": 0.82,
-        "recency": 0.7178,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-17T18:48:08Z",
-      "latest_at": "2026-10-17T18:48:08Z",
-      "primary_item": {
-        "id": "6bdde82551cc226e49deefc203dc843250bda1a2",
-        "title": "Replit 首席执行官表示，将 OpenAI 设为默认值，而不是 Anthropic / Replit makes OpenAI its default over Anthropic, CEO says",
-        "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
       }
     },
     {
@@ -449,15 +431,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5735,
-      "importance": 0.5735,
-      "importance_score": 0.5735,
+      "score": 0.5691,
+      "importance": 0.5691,
+      "importance_score": 0.5691,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8763,
+        "recency": 0.8514,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -547,15 +529,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5485,
-      "importance": 0.5485,
-      "importance_score": 0.5485,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8763,
+        "recency": 0.8514,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -570,6 +552,85 @@
         "url": "https://api-docs.deepseek.com/guides/search",
         "source": "api-docs.deepseek.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
+      "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+      "primary_url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+      "source": "Lobsters (技术社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "40a67ee0934e170258ae90a4d3d6370e74a2d835",
+          "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
+          "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T18:35:01Z"
+        },
+        {
+          "id": "853d2d29f362ac6d3c4cb62dc59457a9f3b054e1",
+          "title": "超越俄罗斯方块：Alexey Pajitnov 的其他游戏 [视频] / Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+          "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T23:08:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)"
+      ],
+      "items": [
+        {
+          "id": "40a67ee0934e170258ae90a4d3d6370e74a2d835",
+          "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
+          "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T18:35:01Z"
+        },
+        {
+          "id": "853d2d29f362ac6d3c4cb62dc59457a9f3b054e1",
+          "title": "超越俄罗斯方块：Alexey Pajitnov 的其他游戏 [视频] / Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+          "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T23:08:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5428,
+      "importance": 0.5428,
+      "importance_score": 0.5428,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9832,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T23:08:30Z",
+      "latest_at": "2026-10-18T18:35:01Z",
+      "primary_item": {
+        "id": "40a67ee0934e170258ae90a4d3d6370e74a2d835",
+        "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
+        "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+        "source": "Lobsters (技术社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -626,15 +687,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5387,
-      "importance": 0.5387,
-      "importance_score": 0.5387,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9605,
+        "recency": 0.9332,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -705,15 +766,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5387,
-      "importance": 0.5387,
-      "importance_score": 0.5387,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9605,
+        "recency": 0.9332,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -784,15 +845,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5387,
-      "importance": 0.5387,
-      "importance_score": 0.5387,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9605,
+        "recency": 0.9332,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -807,6 +868,85 @@
         "url": "https://www.36kr.com/p/4030896887387784",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_a257dddc2d05",
+      "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+          "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:30:27Z"
+        },
+        {
+          "id": "a2eb9d3b957e7beb27909b098e8d3c2b1b11e7d9",
+          "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://news.ycombinator.com/item?id=50141429",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:30:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+          "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:30:27Z"
+        },
+        {
+          "id": "a2eb9d3b957e7beb27909b098e8d3c2b1b11e7d9",
+          "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://news.ycombinator.com/item?id=50141429",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:30:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.927,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T14:30:27Z",
+      "latest_at": "2026-10-18T14:30:27Z",
+      "primary_item": {
+        "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+        "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -863,15 +1003,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9535,
+        "recency": 0.9265,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -942,15 +1082,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9177,
+        "recency": 0.8917,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -968,128 +1108,30 @@
       }
     },
     {
-      "story_id": "story_9d2648978eb9",
-      "title": "《废除人工智能！宣言》 / Abolish AI Manifesto",
-      "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-      "primary_url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "f98664fdc5675e3724fb764f49a48f969cd48852",
-          "title": "《废除人工智能！宣言》 / Abolish AI Manifesto",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T23:23:46Z"
-        },
-        {
-          "id": "93190fad900950861945a10623b4be6d5e4266a6",
-          "title": "《废除人工智能！宣言》",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "abolish-ai.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:50:05.393000Z"
-        },
-        {
-          "id": "0a8113a0233d89752b4c875f31f01f0658007775",
-          "title": "《废除人工智能！宣言》 / Abolish AI! Manifesto",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:25:58Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "abolish-ai.net"
-      ],
-      "items": [
-        {
-          "id": "f98664fdc5675e3724fb764f49a48f969cd48852",
-          "title": "《废除人工智能！宣言》 / Abolish AI Manifesto",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T23:23:46Z"
-        },
-        {
-          "id": "93190fad900950861945a10623b4be6d5e4266a6",
-          "title": "《废除人工智能！宣言》",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "abolish-ai.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:50:05.393000Z"
-        },
-        {
-          "id": "0a8113a0233d89752b4c875f31f01f0658007775",
-          "title": "《废除人工智能！宣言》 / Abolish AI! Manifesto",
-          "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:25:58Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.767,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T18:25:58Z",
-      "latest_at": "2026-10-17T23:23:46Z",
-      "primary_item": {
-        "id": "f98664fdc5675e3724fb764f49a48f969cd48852",
-        "title": "《废除人工智能！宣言》 / Abolish AI Manifesto",
-        "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_a257dddc2d05",
-      "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "story_id": "story_6e2930f20afd",
+      "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "url": "https://www.vals.ai/blogs/impossible-refund",
+      "primary_url": "https://www.vals.ai/blogs/impossible-refund",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "c63ffd0cd03e976bf613a722641a09e576efc7a6",
-          "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "id": "95a26e07c8bff64b77be4d1a75bbab1aae02792a",
+          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+          "url": "https://www.vals.ai/blogs/impossible-refund",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-18T14:30:27Z"
+          "published_at": "2026-10-18T12:22:58Z"
         },
         {
-          "id": "a2eb9d3b957e7beb27909b098e8d3c2b1b11e7d9",
-          "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "url": "https://news.ycombinator.com/item?id=50141429",
+          "id": "4092e25118235f2cce4bf1d9405e0428b70ed93c",
+          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+          "url": "https://news.ycombinator.com/item?id=50140462",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-18T14:30:27Z"
+          "published_at": "2026-10-18T12:22:58Z"
         }
       ],
       "source_count": 2,
@@ -1099,47 +1141,47 @@
       ],
       "items": [
         {
-          "id": "c63ffd0cd03e976bf613a722641a09e576efc7a6",
-          "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "id": "95a26e07c8bff64b77be4d1a75bbab1aae02792a",
+          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+          "url": "https://www.vals.ai/blogs/impossible-refund",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-18T14:30:27Z"
+          "published_at": "2026-10-18T12:22:58Z"
         },
         {
-          "id": "a2eb9d3b957e7beb27909b098e8d3c2b1b11e7d9",
-          "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "url": "https://news.ycombinator.com/item?id=50141429",
+          "id": "4092e25118235f2cce4bf1d9405e0428b70ed93c",
+          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+          "url": "https://news.ycombinator.com/item?id=50140462",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-18T14:30:27Z"
+          "published_at": "2026-10-18T12:22:58Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9541,
+        "recency": 0.899,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-18T14:30:27Z",
-      "latest_at": "2026-10-18T14:30:27Z",
+      "earliest_at": "2026-10-18T12:22:58Z",
+      "latest_at": "2026-10-18T12:22:58Z",
       "primary_item": {
-        "id": "c63ffd0cd03e976bf613a722641a09e576efc7a6",
-        "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "id": "95a26e07c8bff64b77be4d1a75bbab1aae02792a",
+        "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+        "url": "https://www.vals.ai/blogs/impossible-refund",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
@@ -1198,15 +1240,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5322,
-      "importance": 0.5322,
-      "importance_score": 0.5322,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9246,
+        "recency": 0.8984,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1277,15 +1319,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9046,
+        "recency": 0.879,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1300,85 +1342,6 @@
         "url": "https://www.anthropic.com/research/employment-at-anthropic",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_500318713ba8",
-      "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-      "url": "https://pwn.ai/blog/pwnescape",
-      "primary_url": "https://pwn.ai/blog/pwnescape",
-      "source": "pwn.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:07.206000Z"
-        },
-        {
-          "id": "84775ecd50638dd85efaeddb846fb7e0e551f015",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999） / PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:24:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "pwn.ai"
-      ],
-      "items": [
-        {
-          "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:07.206000Z"
-        },
-        {
-          "id": "84775ecd50638dd85efaeddb846fb7e0e551f015",
-          "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999） / PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
-          "url": "https://pwn.ai/blog/pwnescape",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T18:24:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4946,
-      "importance": 0.4946,
-      "importance_score": 0.4946,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7154,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T18:24:39Z",
-      "latest_at": "2026-10-17T18:34:07.206000Z",
-      "primary_item": {
-        "id": "1ba5650dac62a746a4eb210be1e1c37dced7444f",
-        "title": "PwnEscape：从宾客系统到主机系统的 KVM 逃逸（CVE-2026-99999）",
-        "url": "https://pwn.ai/blog/pwnescape",
-        "source": "pwn.ai",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1435,15 +1398,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5192,
-      "importance": 0.5192,
-      "importance_score": 0.5192,
+      "score": 0.5149,
+      "importance": 0.5149,
+      "importance_score": 0.5149,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8524,
+        "recency": 0.8282,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1458,85 +1421,6 @@
         "url": "https://www.ithome.com/1/014/456.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6e2930f20afd",
-      "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
-      "url": "https://www.vals.ai/blogs/impossible-refund",
-      "primary_url": "https://www.vals.ai/blogs/impossible-refund",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "95a26e07c8bff64b77be4d1a75bbab1aae02792a",
-          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "url": "https://www.vals.ai/blogs/impossible-refund",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T12:22:58Z"
-        },
-        {
-          "id": "4092e25118235f2cce4bf1d9405e0428b70ed93c",
-          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "url": "https://news.ycombinator.com/item?id=50140462",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T12:22:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "95a26e07c8bff64b77be4d1a75bbab1aae02792a",
-          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "url": "https://www.vals.ai/blogs/impossible-refund",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T12:22:58Z"
-        },
-        {
-          "id": "4092e25118235f2cce4bf1d9405e0428b70ed93c",
-          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
-          "url": "https://news.ycombinator.com/item?id=50140462",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T12:22:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9252,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T12:22:58Z",
-      "latest_at": "2026-10-18T12:22:58Z",
-      "primary_item": {
-        "id": "95a26e07c8bff64b77be4d1a75bbab1aae02792a",
-        "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
-        "url": "https://www.vals.ai/blogs/impossible-refund",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1593,15 +1477,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5194,
-      "importance": 0.5194,
-      "importance_score": 0.5194,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8533,
+        "recency": 0.8291,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1672,15 +1556,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
+      "score": 0.5046,
+      "importance": 0.5046,
+      "importance_score": 0.5046,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7936,
+        "recency": 0.7711,
         "story_heat": 0.25
       },
       "category": "watch",
