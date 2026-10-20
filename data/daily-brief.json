@@ -1,8 +1,171 @@
 {
-  "generated_at": "2026-10-19T20:38:26.802527Z",
+  "generated_at": "2026-10-19T23:59:10.575876Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_7a364f356aab",
+      "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力 / Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "primary_url": "https://openai.com/index/low-resource-programming-languages",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "46221a356faca9b4325a3b93af85149bf1519363",
+          "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力 / Advancing coding in low‑resource programming languages",
+          "url": "https://openai.com/index/low-resource-programming-languages",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T12:00:00Z"
+        },
+        {
+          "id": "3e338e479004a0be87b2a59c9b74c33894660eb4",
+          "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力",
+          "url": "https://openai.com/index/low-resource-programming-languages",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T12:00:00Z"
+        },
+        {
+          "id": "d5329176583d44c260b5ae21d05cc4ec6c2aff5e",
+          "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力 / Advancing Coding in Low-Resource Programming Languages",
+          "url": "https://openai.com/index/low-resource-programming-languages",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "46221a356faca9b4325a3b93af85149bf1519363",
+          "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力 / Advancing coding in low‑resource programming languages",
+          "url": "https://openai.com/index/low-resource-programming-languages",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T12:00:00Z"
+        },
+        {
+          "id": "3e338e479004a0be87b2a59c9b74c33894660eb4",
+          "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力",
+          "url": "https://openai.com/index/low-resource-programming-languages",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T12:00:00Z"
+        },
+        {
+          "id": "d5329176583d44c260b5ae21d05cc4ec6c2aff5e",
+          "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力 / Advancing Coding in Low-Resource Programming Languages",
+          "url": "https://openai.com/index/low-resource-programming-languages",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8734,
+      "importance": 0.8734,
+      "importance_score": 0.8734,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8411,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T12:00:00Z",
+      "latest_at": "2026-10-19T23:59:10.575876Z",
+      "primary_item": {
+        "id": "46221a356faca9b4325a3b93af85149bf1519363",
+        "title": "OpenAI 发布 MultiLangBench 与 COBOL 迁移评测，GPT-6 系列大幅提升低资源编程语言能力 / Advancing coding in low‑resource programming languages",
+        "url": "https://openai.com/index/low-resource-programming-languages",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9db7d13375ba",
+      "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
+      "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+      "primary_url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d7a3bbab4571fd4a441f5665333eb759a8a48671",
+          "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
+          "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T21:32:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d7a3bbab4571fd4a441f5665333eb759a8a48671",
+          "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
+          "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T21:32:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8457,
+      "importance": 0.8457,
+      "importance_score": 0.8457,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9653,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T21:32:18Z",
+      "latest_at": "2026-10-19T21:32:18Z",
+      "primary_item": {
+        "id": "d7a3bbab4571fd4a441f5665333eb759a8a48671",
+        "title": "适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams",
+        "url": "https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_f73f11092849",
       "title": "如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code",
@@ -38,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8473,
-      "importance": 0.8473,
-      "importance_score": 0.8473,
+      "score": 0.839,
+      "importance": 0.839,
+      "importance_score": 0.839,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9736,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "official",
@@ -66,21 +229,121 @@
       }
     },
     {
-      "story_id": "story_6d407442437e",
-      "title": "某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication",
-      "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
-      "primary_url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+      "story_id": "story_fef6e8089579",
+      "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
+      "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "864de384c47eb3c7547a94dd2de3d7e9c939f14b",
+          "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T20:21:53Z"
+        },
+        {
+          "id": "75c138fa22fd788bbd68aad2e7614ddc98a6c763",
+          "title": "FBI称，被指控为OpenAI从事间谍活动的嫌疑人电脑中有一个名为“沙特政府文件”的文件夹",
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T21:25:11.139000Z"
+        },
+        {
+          "id": "e76f1e40b28640fbede33964dabb955c4ab26224",
+          "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹 / Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-19T20:21:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica：AI（RSS）",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "864de384c47eb3c7547a94dd2de3d7e9c939f14b",
+          "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T20:21:53Z"
+        },
+        {
+          "id": "75c138fa22fd788bbd68aad2e7614ddc98a6c763",
+          "title": "FBI称，被指控为OpenAI从事间谍活动的嫌疑人电脑中有一个名为“沙特政府文件”的文件夹",
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-19T21:25:11.139000Z"
+        },
+        {
+          "id": "e76f1e40b28640fbede33964dabb955c4ab26224",
+          "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹 / Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+          "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-19T20:21:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.949,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T20:21:53Z",
+      "latest_at": "2026-10-19T21:25:11.139000Z",
+      "primary_item": {
+        "id": "864de384c47eb3c7547a94dd2de3d7e9c939f14b",
+        "title": "FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹",
+        "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6101472dca29",
+      "title": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026",
+      "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
+      "primary_url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "af86cfcc60dc6cd382cf8967ebe05714431b8fc7",
-          "title": "某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication",
-          "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+          "id": "cd2f4202daeb3171d498e5e04e6d92b27f4fb5ee",
+          "title": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026",
+          "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-19T10:37:30Z"
+          "published_at": "2026-10-19T21:27:10Z"
         }
       ],
       "source_count": 1,
@@ -89,26 +352,26 @@
       ],
       "items": [
         {
-          "id": "af86cfcc60dc6cd382cf8967ebe05714431b8fc7",
-          "title": "某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication",
-          "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+          "id": "cd2f4202daeb3171d498e5e04e6d92b27f4fb5ee",
+          "title": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026",
+          "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-19T10:37:30Z"
+          "published_at": "2026-10-19T21:27:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8198,
-      "importance": 0.8198,
-      "importance_score": 0.8198,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8653,
+        "ai_relevance": 0.91,
+        "recency": 0.9641,
         "story_heat": 0.0
       },
       "category": "official",
@@ -117,14 +380,238 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T10:37:30Z",
-      "latest_at": "2026-10-19T10:37:30Z",
+      "earliest_at": "2026-10-19T21:27:10Z",
+      "latest_at": "2026-10-19T21:27:10Z",
       "primary_item": {
-        "id": "af86cfcc60dc6cd382cf8967ebe05714431b8fc7",
-        "title": "某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication",
-        "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+        "id": "cd2f4202daeb3171d498e5e04e6d92b27f4fb5ee",
+        "title": "GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026",
+        "url": "https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_475b3a1f72c1",
+      "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
+      "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
+      "primary_url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
+          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
+          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T15:05:00Z"
+        },
+        {
+          "id": "7909f6e8a21dc5a6ebcb0fc28cf59e6ba535d3d4",
+          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it",
+          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-19T18:41:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
+          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
+          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T15:05:00Z"
+        },
+        {
+          "id": "7909f6e8a21dc5a6ebcb0fc28cf59e6ba535d3d4",
+          "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it",
+          "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-19T18:41:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8794,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T15:05:00Z",
+      "latest_at": "2026-10-19T18:41:10Z",
+      "primary_item": {
+        "id": "dcdd0d6a2a993f4fa84a054f54e8908fe45aefc5",
+        "title": "美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品",
+        "url": "https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9dbc0d55ff91",
+      "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "primary_url": "https://huggingface.co/blog/hf-torchneuron",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d0559833f5d08c1660a6c595c328fc4f3a6380a1",
+          "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "url": "https://huggingface.co/blog/hf-torchneuron",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d0559833f5d08c1660a6c595c328fc4f3a6380a1",
+          "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
+          "url": "https://huggingface.co/blog/hf-torchneuron",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7072,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T00:00:00Z",
+      "latest_at": "2026-10-19T00:00:00Z",
+      "primary_item": {
+        "id": "d0559833f5d08c1660a6c595c328fc4f3a6380a1",
+        "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
+        "url": "https://huggingface.co/blog/hf-torchneuron",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c08e28e17ab3",
+      "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
+          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T13:58:41Z"
+        },
+        {
+          "id": "5e06429358ce303edc46e60b9acc2eb61a2430f2",
+          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-19T13:58:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
+          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-19T13:58:41Z"
+        },
+        {
+          "id": "5e06429358ce303edc46e60b9acc2eb61a2430f2",
+          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-19T13:58:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8654,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T13:58:41Z",
+      "latest_at": "2026-10-19T13:58:41Z",
+      "primary_item": {
+        "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
+        "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -200,15 +687,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9186,
+        "recency": 0.8753,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -225,211 +712,6 @@
         "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9dbc0d55ff91",
-      "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "primary_url": "https://huggingface.co/blog/hf-torchneuron",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d0559833f5d08c1660a6c595c328fc4f3a6380a1",
-          "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
-          "url": "https://huggingface.co/blog/hf-torchneuron",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-19T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "d0559833f5d08c1660a6c595c328fc4f3a6380a1",
-          "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
-          "url": "https://huggingface.co/blog/hf-torchneuron",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-19T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7423,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T00:00:00Z",
-      "latest_at": "2026-10-19T00:00:00Z",
-      "primary_item": {
-        "id": "d0559833f5d08c1660a6c595c328fc4f3a6380a1",
-        "title": "TorchNeuron：在 AWS Trainium 上运行 HF 模型比以往更容易 / TorchNeuron: running HF models on AWS Trainium is easier than ever",
-        "url": "https://huggingface.co/blog/hf-torchneuron",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c08e28e17ab3",
-      "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
-          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T13:58:41Z"
-        },
-        {
-          "id": "5e06429358ce303edc46e60b9acc2eb61a2430f2",
-          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-19T13:58:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
-          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T13:58:41Z"
-        },
-        {
-          "id": "5e06429358ce303edc46e60b9acc2eb61a2430f2",
-          "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-19T13:58:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7911,
-      "importance": 0.7911,
-      "importance_score": 0.7911,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9083,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T13:58:41Z",
-      "latest_at": "2026-10-19T13:58:41Z",
-      "primary_item": {
-        "id": "5a71b72738c60b7a3aa4baa369b0188a2a9b0d31",
-        "title": "黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d409fbacfd0d",
-      "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
-      "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
-      "primary_url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f29c37a6f45d333b42d70506bf9e2ba85af2430f",
-          "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
-          "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-19T10:29:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f29c37a6f45d333b42d70506bf9e2ba85af2430f",
-          "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
-          "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-19T10:29:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8636,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-19T10:29:09Z",
-      "latest_at": "2026-10-19T10:29:09Z",
-      "primary_item": {
-        "id": "f29c37a6f45d333b42d70506bf9e2ba85af2430f",
-        "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
-        "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -486,15 +768,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.8802,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -548,15 +830,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.967,
+        "recency": 0.9214,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -572,6 +854,68 @@
         "url": "https://x.com/arena/status/2112247114944360666",
         "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6d407442437e",
+      "title": "某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication",
+      "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+      "primary_url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "af86cfcc60dc6cd382cf8967ebe05714431b8fc7",
+          "title": "某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication",
+          "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T10:37:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "af86cfcc60dc6cd382cf8967ebe05714431b8fc7",
+          "title": "某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication",
+          "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T10:37:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8245,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-19T10:37:30Z",
+      "latest_at": "2026-10-19T10:37:30Z",
+      "primary_item": {
+        "id": "af86cfcc60dc6cd382cf8967ebe05714431b8fc7",
+        "title": "某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication",
+        "url": "https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -609,15 +953,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9286,
+        "recency": 0.8848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -669,15 +1013,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9474,
+        "recency": 0.9027,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -729,15 +1073,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9706,
+        "recency": 0.9248,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -789,15 +1133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.731,
+      "importance": 0.731,
+      "importance_score": 0.731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.941,
+        "recency": 0.8966,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -849,15 +1193,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8219,
+        "recency": 0.7831,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -928,15 +1272,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8324,
+        "recency": 0.7932,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -990,15 +1334,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
+      "score": 0.724,
+      "importance": 0.724,
+      "importance_score": 0.724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9003,
+        "recency": 0.8579,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1016,451 +1360,65 @@
       }
     },
     {
-      "story_id": "story_96400b1d1c40",
-      "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
-      "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-      "primary_url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-      "source": "LangChain：Blog（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_d409fbacfd0d",
+      "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+      "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+      "primary_url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "800d026ee7abf532aeca2d3aee5ce17dd52f4012",
-          "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
-          "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T15:00:00Z"
+          "id": "f29c37a6f45d333b42d70506bf9e2ba85af2430f",
+          "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+          "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T10:29:09Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "LangChain：Blog（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "800d026ee7abf532aeca2d3aee5ce17dd52f4012",
-          "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
-          "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T15:00:00Z"
+          "id": "f29c37a6f45d333b42d70506bf9e2ba85af2430f",
+          "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+          "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-19T10:29:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9218,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8229,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T15:00:00Z",
-      "latest_at": "2026-10-19T15:00:00Z",
-      "primary_item": {
-        "id": "800d026ee7abf532aeca2d3aee5ce17dd52f4012",
-        "title": "Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu",
-        "url": "https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith",
-        "source": "LangChain：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4408e81ca4fe",
-      "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
-      "url": "https://x.com/arena/status/2112215825944117361",
-      "primary_url": "https://x.com/arena/status/2112215825944117361",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
-          "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
-          "url": "https://x.com/arena/status/2112215825944117361",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T16:14:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
-          "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
-          "url": "https://x.com/arena/status/2112215825944117361",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T16:14:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9385,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T16:14:30Z",
-      "latest_at": "2026-10-19T16:14:30Z",
-      "primary_item": {
-        "id": "d361e831df2c6fdd6bde599c6845d7735edab867",
-        "title": "Meta Muse Wonder Full (Max) 登上 Code Arena: WebDev 第 6 名，1726 分",
-        "url": "https://x.com/arena/status/2112215825944117361",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3b1813076c9e",
-      "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-      "url": "https://www.aibase.com/news/31720",
-      "primary_url": "https://www.aibase.com/news/31720",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "39046ea0c806f394deac0dfb738229e21b58bb5e",
-          "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-          "url": "https://www.aibase.com/news/31720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T07:56:26.367413Z"
-        },
-        {
-          "id": "45f68d9e757635a73a3451022b0df33f4d76d658",
-          "title": "OpenAI 狂揽硬件人才，具身智能「终极战」全面打响",
-          "url": "https://www.aibase.com/zh/news/31720",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "39046ea0c806f394deac0dfb738229e21b58bb5e",
-          "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-          "url": "https://www.aibase.com/news/31720",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-19T07:56:26.367413Z"
-        },
-        {
-          "id": "45f68d9e757635a73a3451022b0df33f4d76d658",
-          "title": "OpenAI 狂揽硬件人才，具身智能「终极战」全面打响",
-          "url": "https://www.aibase.com/zh/news/31720",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8324,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-19T07:56:26.367413Z",
-      "latest_at": "2026-10-19T07:56:26.367413Z",
+      "earliest_at": "2026-10-19T10:29:09Z",
+      "latest_at": "2026-10-19T10:29:09Z",
       "primary_item": {
-        "id": "39046ea0c806f394deac0dfb738229e21b58bb5e",
-        "title": "OpenAI狂揽硬件人才，具身智能“终极战”全面打响",
-        "url": "https://www.aibase.com/news/31720",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_eeca3caa47fa",
-      "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
-      "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
-      "primary_url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
-      "source": "Meta Engineering Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "90edc85f7c39c5a80fadddb046b984d58ad9de3b",
-          "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
-          "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
-          "source": "Meta Engineering Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T13:00:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Meta Engineering Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "90edc85f7c39c5a80fadddb046b984d58ad9de3b",
-          "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
-          "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
-          "source": "Meta Engineering Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-19T13:00:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8956,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-19T13:00:10Z",
-      "latest_at": "2026-10-19T13:00:10Z",
-      "primary_item": {
-        "id": "90edc85f7c39c5a80fadddb046b984d58ad9de3b",
-        "title": "Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型",
-        "url": "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster",
-        "source": "Meta Engineering Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "苦于大模型学习杂乱无章、知识碎片化？这份教程把大模型知识体系设计成地铁图，用一条主干线按技术演进梳理从Transformer到推理模型的核心脉络，还有五条支线按需选择深耕方向。非常适合大模型入门学习者搭建完整知识框架。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-19",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "d9c725508e4081e4cd52710a25b01bf29da80e5e",
-          "title": "本周的AI音乐周刊覆盖版权新规、多款重磅产品更新与前沿学术论文。YouTube Music 新增 AI 音乐标注，唱片巨头发起诉讼，给音乐创作者明确合规提醒。还有多款实用音频工具集中更新，包含便携吉他工作站、视频音效生成、团队音乐协作套件与本地开源制作方案。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T20:38:26.802527Z"
-        },
-        {
-          "id": "da5e8027a3fd7367f06f2edf0ed9f0ce7b4dcdb1",
-          "title": "苦于大模型学习杂乱无章、知识碎片化？这份教程把大模型知识体系设计成地铁图，用一条主干线按技术演进梳理从Transformer到推理模型的核心脉络，还有五条支线按需选择深耕方向。非常适合大模型入门学习者搭建完整知识框架。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T20:38:26.802527Z"
-        },
-        {
-          "id": "7d8cbbd0a4915c78aed4db318ec63012d8c92f1e",
-          "title": "这篇文章梳理了从原始Transformer到Decoder-only成为主流的完整技术演进，剖析了各类大模型架构的差异。或许可以帮你分清模型选型边界，快速判断自动化任务该用生成式大模型还是专用决策模型。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T20:38:26.802527Z"
-        },
-        {
-          "id": "035e2fa6920b26b1486e764e41bc8e2e57500d24",
-          "title": "Jev 把模型路由、工具风险判断和结果验证，从生成式 LLM 的主循环中拆出来，变成类型明确、带概率的快速决策。本文用四张架构与流程图、两段代码，讲清它应该放在哪里、怎样设阈值，以及哪些工作仍要留给代码、强模型和人。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T02:02:46.776898Z"
-        },
-        {
-          "id": "5e156f7929a150d97a1778f5e53b959fb4178ec2",
-          "title": "作者这篇合集囊括了本周AI领域的实用落地技巧与前沿研究。既有 Grok Bot 搭建的实操经验，也有 ATAS 视频智能体、OmniCompass 评测基准等论文成果，剖析大模型时空感知短板。文中还包含强化学习能力迁移，以及 Kimi K3 解码提速 1.5—2 倍的工程实践。想快速补齐本周 AI 进展，可以从这期开始。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T02:02:46.776898Z"
-        },
-        {
-          "id": "aee2de1f87374ba3b85d4a2ab3f141a488090a20",
-          "title": "想搭建可复用的AI视频生产流水线？这份指南介绍了依托Claude Opus 5.5打造单智能体动效工作室的思路，也就是动态工程。智能体分导演、美术、动画、渲染、审片五大角色，搭配Remotion生成代码动画。依靠分层审批、预览校验、局部迭代修复，产出多版本适配视频，整套流程可封装成Skill持续沉淀，持续积累可复用的动效资产。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T02:02:46.776898Z"
-        },
-        {
-          "id": "052ad78be16dd33a9b8566e695b7e0eb63238132",
-          "title": "本周精选的10篇前沿AI论文，覆盖量子电路、长上下文智能体、混合推理、多智能体协同、RL训练优化等多个方向。研究提出多款创新框架，解决智能体证据漂移、上下文冗余、算力成本高昂等痛点，不少方案大幅降低token消耗、提升推理准确率。同时还有AI辅助量子电路设计、分布式科研智能体等突破性成果，为搭建智能体系统、大模型调优、AI科研探索的开发者提供了极具价值的前沿参考。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T02:02:46.776898Z"
-        },
-        {
-          "id": "aeb24f76af070a3394e1f381e8185b5b2638ef31",
-          "title": "社区AI 硬件训练营的目的，是让大家学有所得、学有所用。学得怎么样，最直接的检验，就是拿一个真问题，在有限的时间里把东西做出来。安克首届黑客松，正好给了小伙伴们这样一次机会。最终他们也拿到了一个赛道的冠季军，一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T02:02:46.776898Z"
-        }
-      ],
-      "source_count": 8,
-      "source_names": [
-        "社区更新 · 2026-10-18",
-        "社区更新 · 2026-10-19"
-      ],
-      "items": [
-        {
-          "id": "d9c725508e4081e4cd52710a25b01bf29da80e5e",
-          "title": "本周的AI音乐周刊覆盖版权新规、多款重磅产品更新与前沿学术论文。YouTube Music 新增 AI 音乐标注，唱片巨头发起诉讼，给音乐创作者明确合规提醒。还有多款实用音频工具集中更新，包含便携吉他工作站、视频音效生成、团队音乐协作套件与本地开源制作方案。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T20:38:26.802527Z"
-        },
-        {
-          "id": "da5e8027a3fd7367f06f2edf0ed9f0ce7b4dcdb1",
-          "title": "苦于大模型学习杂乱无章、知识碎片化？这份教程把大模型知识体系设计成地铁图，用一条主干线按技术演进梳理从Transformer到推理模型的核心脉络，还有五条支线按需选择深耕方向。非常适合大模型入门学习者搭建完整知识框架。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T20:38:26.802527Z"
-        },
-        {
-          "id": "7d8cbbd0a4915c78aed4db318ec63012d8c92f1e",
-          "title": "这篇文章梳理了从原始Transformer到Decoder-only成为主流的完整技术演进，剖析了各类大模型架构的差异。或许可以帮你分清模型选型边界，快速判断自动化任务该用生成式大模型还是专用决策模型。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T20:38:26.802527Z"
-        },
-        {
-          "id": "035e2fa6920b26b1486e764e41bc8e2e57500d24",
-          "title": "Jev 把模型路由、工具风险判断和结果验证，从生成式 LLM 的主循环中拆出来，变成类型明确、带概率的快速决策。本文用四张架构与流程图、两段代码，讲清它应该放在哪里、怎样设阈值，以及哪些工作仍要留给代码、强模型和人。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T02:02:46.776898Z"
-        },
-        {
-          "id": "5e156f7929a150d97a1778f5e53b959fb4178ec2",
-          "title": "作者这篇合集囊括了本周AI领域的实用落地技巧与前沿研究。既有 Grok Bot 搭建的实操经验，也有 ATAS 视频智能体、OmniCompass 评测基准等论文成果，剖析大模型时空感知短板。文中还包含强化学习能力迁移，以及 Kimi K3 解码提速 1.5—2 倍的工程实践。想快速补齐本周 AI 进展，可以从这期开始。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T02:02:46.776898Z"
-        },
-        {
-          "id": "aee2de1f87374ba3b85d4a2ab3f141a488090a20",
-          "title": "想搭建可复用的AI视频生产流水线？这份指南介绍了依托Claude Opus 5.5打造单智能体动效工作室的思路，也就是动态工程。智能体分导演、美术、动画、渲染、审片五大角色，搭配Remotion生成代码动画。依靠分层审批、预览校验、局部迭代修复，产出多版本适配视频，整套流程可封装成Skill持续沉淀，持续积累可复用的动效资产。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T02:02:46.776898Z"
-        },
-        {
-          "id": "052ad78be16dd33a9b8566e695b7e0eb63238132",
-          "title": "本周精选的10篇前沿AI论文，覆盖量子电路、长上下文智能体、混合推理、多智能体协同、RL训练优化等多个方向。研究提出多款创新框架，解决智能体证据漂移、上下文冗余、算力成本高昂等痛点，不少方案大幅降低token消耗、提升推理准确率。同时还有AI辅助量子电路设计、分布式科研智能体等突破性成果，为搭建智能体系统、大模型调优、AI科研探索的开发者提供了极具价值的前沿参考。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T02:02:46.776898Z"
-        },
-        {
-          "id": "aeb24f76af070a3394e1f381e8185b5b2638ef31",
-          "title": "社区AI 硬件训练营的目的，是让大家学有所得、学有所用。学得怎么样，最直接的检验，就是拿一个真问题，在有限的时间里把东西做出来。安克首届黑客松，正好给了小伙伴们这样一次机会。最终他们也拿到了一个赛道的冠季军，一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-18",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-19T02:02:46.776898Z"
-        }
-      ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6775,
-      "importance": 0.6775,
-      "importance_score": 0.6775,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.4824,
-        "source_tier": 0.54,
-        "ai_relevance": 0.67,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-19T02:02:46.776898Z",
-      "latest_at": "2026-10-19T20:38:26.802527Z",
-      "primary_item": {
-        "id": "da5e8027a3fd7367f06f2edf0ed9f0ce7b4dcdb1",
-        "title": "苦于大模型学习杂乱无章、知识碎片化？这份教程把大模型知识体系设计成地铁图，用一条主干线按技术演进梳理从Transformer到推理模型的核心脉络，还有五条支线按需选择深耕方向。非常适合大模型入门学习者搭建完整知识框架。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-19",
-        "source_name": "WaytoAGI"
+        "id": "f29c37a6f45d333b42d70506bf9e2ba85af2430f",
+        "title": "macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4",
+        "url": "https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
