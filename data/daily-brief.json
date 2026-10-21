@@ -1,70 +1,8 @@
 {
-  "generated_at": "2026-10-21T05:03:15.149432Z",
+  "generated_at": "2026-10-21T10:21:37.458480Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_6bc0a4e087e6",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-      "primary_url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
-          "title": "Southeast Asia’s digital economy to hit $368 billion",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T04:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
-          "title": "Southeast Asia’s digital economy to hit $368 billion",
-          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T04:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8413,
-      "importance": 0.8413,
-      "importance_score": 0.8413,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9849,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T04:00:00Z",
-      "latest_at": "2026-10-21T04:00:00Z",
-      "primary_item": {
-        "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
-        "title": "Southeast Asia’s digital economy to hit $368 billion",
-        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_ca293d8533a3",
       "title": "FairStress：对 LLM 决策公平性的更深入评估 / FairStress: A deeper evaluation of fairness in LLM decision-making",
@@ -100,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8394,
-      "importance": 0.8394,
-      "importance_score": 0.8394,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8301,
+        "recency": 0.7688,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,6 +62,68 @@
         "title": "FairStress：对 LLM 决策公平性的更深入评估 / FairStress: A deeper evaluation of fairness in LLM decision-making",
         "url": "https://huggingface.co/blog/allenai/fairstress",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6bc0a4e087e6",
+      "title": "东南亚数字经济规模将达3680亿美元 / Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+      "primary_url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
+          "title": "东南亚数字经济规模将达3680亿美元 / Southeast Asia’s digital economy to hit $368 billion",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T04:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
+          "title": "东南亚数字经济规模将达3680亿美元 / Southeast Asia’s digital economy to hit $368 billion",
+          "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T04:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8282,
+      "importance": 0.8282,
+      "importance_score": 0.8282,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9122,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T04:00:00Z",
+      "latest_at": "2026-10-21T04:00:00Z",
+      "primary_item": {
+        "id": "11d75e7d6cfe5c009e5a156bf91c5b7d5e162030",
+        "title": "东南亚数字经济规模将达3680亿美元 / Southeast Asia’s digital economy to hit $368 billion",
+        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8102,
+      "importance": 0.8102,
+      "importance_score": 0.8102,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8292,
+        "recency": 0.768,
         "story_heat": 0.0
       },
       "category": "official",
@@ -190,21 +190,21 @@
       }
     },
     {
-      "story_id": "story_3ff47d8e81e2",
-      "title": "将分支保护批量迁移到存储库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-      "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-      "primary_url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+      "story_id": "story_f20872bccced",
+      "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
+      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+      "primary_url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
-          "title": "将分支保护批量迁移到存储库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-          "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
+          "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
+          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-20T18:06:21Z"
+          "published_at": "2026-10-20T18:03:55Z"
         }
       ],
       "source_count": 1,
@@ -213,26 +213,26 @@
       ],
       "items": [
         {
-          "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
-          "title": "将分支保护批量迁移到存储库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-          "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
+          "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
+          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-20T18:06:21Z"
+          "published_at": "2026-10-20T18:03:55Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8538,
+        "recency": 0.7903,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,94 +241,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-20T18:06:21Z",
-      "latest_at": "2026-10-20T18:06:21Z",
+      "earliest_at": "2026-10-20T18:03:55Z",
+      "latest_at": "2026-10-20T18:03:55Z",
       "primary_item": {
-        "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
-        "title": "将分支保护批量迁移到存储库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-        "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+        "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
+        "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
+        "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_b3fcb2e42d32",
-      "title": "特许经营商利用 ChatGPT Work 将现金核对时间缩短 94% / Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "primary_url": "https://openai.com/index/ted-taylor-restaurant",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9819a745f755d21c6793a2468989fa706460ba46",
-          "title": "特许经营商利用 ChatGPT Work 将现金核对时间缩短 94% / Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "url": "https://openai.com/index/ted-taylor-restaurant",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9819a745f755d21c6793a2468989fa706460ba46",
-          "title": "特许经营商利用 ChatGPT Work 将现金核对时间缩短 94% / Franchisee reconciles cash in 94% less time with ChatGPT Work",
-          "url": "https://openai.com/index/ted-taylor-restaurant",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7595,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T10:00:00Z",
-      "latest_at": "2026-10-20T10:00:00Z",
-      "primary_item": {
-        "id": "9819a745f755d21c6793a2468989fa706460ba46",
-        "title": "特许经营商利用 ChatGPT Work 将现金核对时间缩短 94% / Franchisee reconciles cash in 94% less time with ChatGPT Work",
-        "url": "https://openai.com/index/ted-taylor-restaurant",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f8d6db3ea501",
-      "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
-      "url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
+      "story_id": "story_ad5cc19532b6",
+      "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+      "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "cd2f45b4f09cb015be871810d40f575b1ab0676e",
-          "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
-          "url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
+          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
+          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-21T04:32:45Z"
+          "published_at": "2026-10-21T04:50:29Z"
         }
       ],
       "source_count": 1,
@@ -337,26 +275,26 @@
       ],
       "items": [
         {
-          "id": "cd2f45b4f09cb015be871810d40f575b1ab0676e",
-          "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
-          "url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
+          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
+          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-21T04:32:45Z"
+          "published_at": "2026-10-21T04:50:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9927,
+        "recency": 0.9234,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -364,12 +302,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T04:32:45Z",
-      "latest_at": "2026-10-21T04:32:45Z",
+      "earliest_at": "2026-10-21T04:50:29Z",
+      "latest_at": "2026-10-21T04:50:29Z",
       "primary_item": {
-        "id": "cd2f45b4f09cb015be871810d40f575b1ab0676e",
-        "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
-        "url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
+        "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
+        "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
+        "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
@@ -409,15 +347,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8561,
+        "recency": 0.793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -437,26 +375,26 @@
       }
     },
     {
-      "story_id": "story_bc07c38a5cbb",
-      "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-      "url": "https://www.aibase.com/news/31771",
-      "primary_url": "https://www.aibase.com/news/31771",
+      "story_id": "story_e8a247c45b41",
+      "title": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
+      "url": "https://www.aibase.com/news/31780",
+      "primary_url": "https://www.aibase.com/news/31780",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9aa7d88a864c11a35d95df6613d450143bc07e17",
-          "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-          "url": "https://www.aibase.com/news/31771",
+          "id": "3ee63a7670a741f7d02938dbefdfe1e4835691a2",
+          "title": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
+          "url": "https://www.aibase.com/news/31780",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-21T05:03:15.149432Z"
+          "published_at": "2026-10-21T10:21:37.458480Z"
         },
         {
-          "id": "5a3a3ada86141818a897fe19dc6c202ad1a68d8c",
-          "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-          "url": "https://www.aibase.com/zh/news/31771",
+          "id": "3c5f79dfe21b1752a067c18ffb7a8699ecd6ef2b",
+          "title": "Anthropic 招股书拆解：营收暴涨 1382%，半年却亏掉 807 亿美元，算力账单压顶",
+          "url": "https://www.aibase.com/zh/news/31780",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -470,18 +408,18 @@
       ],
       "items": [
         {
-          "id": "9aa7d88a864c11a35d95df6613d450143bc07e17",
-          "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-          "url": "https://www.aibase.com/news/31771",
+          "id": "3ee63a7670a741f7d02938dbefdfe1e4835691a2",
+          "title": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
+          "url": "https://www.aibase.com/news/31780",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-21T05:03:15.149432Z"
+          "published_at": "2026-10-21T10:21:37.458480Z"
         },
         {
-          "id": "5a3a3ada86141818a897fe19dc6c202ad1a68d8c",
-          "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-          "url": "https://www.aibase.com/zh/news/31771",
+          "id": "3c5f79dfe21b1752a067c18ffb7a8699ecd6ef2b",
+          "title": "Anthropic 招股书拆解：营收暴涨 1382%，半年却亏掉 807 亿美元，算力账单压顶",
+          "url": "https://www.aibase.com/zh/news/31780",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -507,32 +445,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T05:03:15.149432Z",
-      "latest_at": "2026-10-21T05:03:15.149432Z",
+      "earliest_at": "2026-10-21T10:21:37.458480Z",
+      "latest_at": "2026-10-21T10:21:37.458480Z",
       "primary_item": {
-        "id": "9aa7d88a864c11a35d95df6613d450143bc07e17",
-        "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
-        "url": "https://www.aibase.com/news/31771",
+        "id": "3ee63a7670a741f7d02938dbefdfe1e4835691a2",
+        "title": "Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶",
+        "url": "https://www.aibase.com/news/31780",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_f20872bccced",
-      "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "primary_url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+      "story_id": "story_3ff47d8e81e2",
+      "title": "将分支保护批量迁移到存储库的规则集 / Bulk migrate branch protections to rulesets for a repository",
+      "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
+      "primary_url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-          "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+          "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
+          "title": "将分支保护批量迁移到存储库的规则集 / Bulk migrate branch protections to rulesets for a repository",
+          "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-20T18:03:55Z"
+          "published_at": "2026-10-20T18:06:21Z"
         }
       ],
       "source_count": 1,
@@ -541,26 +479,26 @@
       ],
       "items": [
         {
-          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-          "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+          "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
+          "title": "将分支保护批量迁移到存储库的规则集 / Bulk migrate branch protections to rulesets for a repository",
+          "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-20T18:03:55Z"
+          "published_at": "2026-10-20T18:06:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8533,
+        "recency": 0.7908,
         "story_heat": 0.0
       },
       "category": "official",
@@ -569,12 +507,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-20T18:03:55Z",
-      "latest_at": "2026-10-20T18:03:55Z",
+      "earliest_at": "2026-10-20T18:06:21Z",
+      "latest_at": "2026-10-20T18:06:21Z",
       "primary_item": {
-        "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-        "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-        "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+        "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
+        "title": "将分支保护批量迁移到存储库的规则集 / Bulk migrate branch protections to rulesets for a repository",
+        "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -633,15 +571,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7871,
-      "importance": 0.7871,
-      "importance_score": 0.7871,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8861,
+        "recency": 0.8207,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -658,68 +596,6 @@
         "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a84b6a7bee5c",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "url": "https://openai.com/index/terminal-x",
-      "primary_url": "https://openai.com/index/terminal-x",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c9cd4267973e7ff21dcbba6abc93e826983d66dd",
-          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-          "url": "https://openai.com/index/terminal-x",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c9cd4267973e7ff21dcbba6abc93e826983d66dd",
-          "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-          "url": "https://openai.com/index/terminal-x",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7273,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T07:00:00Z",
-      "latest_at": "2026-10-20T07:00:00Z",
-      "primary_item": {
-        "id": "c9cd4267973e7ff21dcbba6abc93e826983d66dd",
-        "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-        "url": "https://openai.com/index/terminal-x",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -776,15 +652,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7879,
+        "recency": 0.7298,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -800,6 +676,148 @@
         "title": "美国陆军网络司令部 ECHOTRIBBLE 项目拟将 AI 智能体变成自主扩散的网络武器",
         "url": "https://the-decoder.com/army-cyber-commands-echotribble-would-turn-ai-agents-into-self-spreading-cyberweapons",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fcd4d20eb8c0",
+      "title": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
+      "url": "https://www.aibase.com/news/31776",
+      "primary_url": "https://www.aibase.com/news/31776",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "da64751ded27dd9173aef7d562b7ae70d0128694",
+          "title": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
+          "url": "https://www.aibase.com/news/31776",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-21T10:21:37.458480Z"
+        },
+        {
+          "id": "7c5953ebe35ee95e608fba1a8e510100ce677bfd",
+          "title": "Mistral AI 发布 Voxtral3 语音模型与语音代理 SDK",
+          "url": "https://www.aibase.com/zh/news/31776",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "da64751ded27dd9173aef7d562b7ae70d0128694",
+          "title": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
+          "url": "https://www.aibase.com/news/31776",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-21T10:21:37.458480Z"
+        },
+        {
+          "id": "7c5953ebe35ee95e608fba1a8e510100ce677bfd",
+          "title": "Mistral AI 发布 Voxtral3 语音模型与语音代理 SDK",
+          "url": "https://www.aibase.com/zh/news/31776",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T10:21:37.458480Z",
+      "latest_at": "2026-10-21T10:21:37.458480Z",
+      "primary_item": {
+        "id": "da64751ded27dd9173aef7d562b7ae70d0128694",
+        "title": "Mistral AI发布Voxtral3语音模型与语音代理SDK",
+        "url": "https://www.aibase.com/news/31776",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f8d6db3ea501",
+      "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
+      "url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cd2f45b4f09cb015be871810d40f575b1ab0676e",
+          "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
+          "url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T04:32:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "cd2f45b4f09cb015be871810d40f575b1ab0676e",
+          "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
+          "url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T04:32:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7921,
+      "importance": 0.7921,
+      "importance_score": 0.7921,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9195,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T04:32:45Z",
+      "latest_at": "2026-10-21T04:32:45Z",
+      "primary_item": {
+        "id": "cd2f45b4f09cb015be871810d40f575b1ab0676e",
+        "title": "WSJ 披露 Anthropic IPO 草案：上半年收入 163 亿美元、纸面亏损 807 亿美元、约 4500 亿美元算力承诺",
+        "url": "https://x.com/rohanpaul_ai/status/2112763999586771238",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -857,15 +875,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.788,
+        "recency": 0.7299,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -919,15 +937,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8202,
+        "recency": 0.7597,
         "story_heat": 0.0
       },
       "category": "official",
@@ -947,165 +965,145 @@
       }
     },
     {
-      "story_id": "story_f9075302bdea",
-      "title": "Meta旗下AI应用Muse上市40天美国下载量突破1000万",
-      "url": "https://www.aibase.com/news/31769",
-      "primary_url": "https://www.aibase.com/news/31769",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e5284200caa3352db8fa000e9624979835e55fc4",
-          "title": "Meta旗下AI应用Muse上市40天美国下载量突破1000万",
-          "url": "https://www.aibase.com/news/31769",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-21T05:03:15.149432Z"
-        },
-        {
-          "id": "27a09577fd14077243a4e287e42a37702df5d4b5",
-          "title": "Meta 旗下 AI 应用 Muse 上市 40 天美国下载量突破 1000 万",
-          "url": "https://www.aibase.com/zh/news/31769",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e5284200caa3352db8fa000e9624979835e55fc4",
-          "title": "Meta旗下AI应用Muse上市40天美国下载量突破1000万",
-          "url": "https://www.aibase.com/news/31769",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-21T05:03:15.149432Z"
-        },
-        {
-          "id": "27a09577fd14077243a4e287e42a37702df5d4b5",
-          "title": "Meta 旗下 AI 应用 Muse 上市 40 天美国下载量突破 1000 万",
-          "url": "https://www.aibase.com/zh/news/31769",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T05:03:15.149432Z",
-      "latest_at": "2026-10-21T05:03:15.149432Z",
-      "primary_item": {
-        "id": "e5284200caa3352db8fa000e9624979835e55fc4",
-        "title": "Meta旗下AI应用Muse上市40天美国下载量突破1000万",
-        "url": "https://www.aibase.com/news/31769",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-      "source": "公众号：DeepSeek（深度求索）",
+      "story_id": "story_3e6fedc797a0",
+      "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+      "url": "https://x.com/thsottiaux/status/2112712984644784534",
+      "primary_url": "https://x.com/thsottiaux/status/2112712984644784534",
+      "source": "X：Tibo (@thsottiaux)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
-          "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-          "source": "公众号：DeepSeek（深度求索）",
+          "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
+          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+          "url": "https://x.com/thsottiaux/status/2112712984644784534",
+          "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-20T08:54:54Z"
+          "published_at": "2026-10-21T01:10:02Z"
         },
         {
-          "id": "c7a2d955e11f15b98c85f6dc3ffca42eb45e7a29",
-          "title": "面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499532&idx=1&sn=db2949b48bf8909d80def369b51a81ea",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T06:22:26Z"
+          "id": "30c87897a01f06e505cf703b61b01520ec34024c",
+          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留 / Day 16/ You can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours an...",
+          "url": "https://x.com/thsottiaux/status/2112712984644784534",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-21T01:10:02Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "公众号：DeepSeek（深度求索）",
-        "公众号：面壁智能（MiniCPM）"
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
       ],
       "items": [
         {
-          "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
-          "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-          "source": "公众号：DeepSeek（深度求索）",
+          "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
+          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+          "url": "https://x.com/thsottiaux/status/2112712984644784534",
+          "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-20T08:54:54Z"
+          "published_at": "2026-10-21T01:10:02Z"
         },
         {
-          "id": "c7a2d955e11f15b98c85f6dc3ffca42eb45e7a29",
-          "title": "面壁智能解析前瞻专家调度 LES 如何让 35B MoE 在手机端侧实时无损运行",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499532&idx=1&sn=db2949b48bf8909d80def369b51a81ea",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T06:22:26Z"
+          "id": "30c87897a01f06e505cf703b61b01520ec34024c",
+          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留 / Day 16/ You can now cache for 12h in the API and for logged in users across Codex &amp; Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours an...",
+          "url": "https://x.com/thsottiaux/status/2112712984644784534",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-21T01:10:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7476,
+        "recency": 0.8757,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-21T01:10:02Z",
+      "latest_at": "2026-10-21T01:10:02Z",
+      "primary_item": {
+        "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
+        "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
+        "url": "https://x.com/thsottiaux/status/2112712984644784534",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7b02d478c08b",
+      "title": "Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions",
+      "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
+      "primary_url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "82aeabde270f3ddfb82d3aa520e1384863f1d1b3",
+          "title": "Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions",
+          "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T17:13:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "82aeabde270f3ddfb82d3aa520e1384863f1d1b3",
+          "title": "Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions",
+          "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T17:13:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7808,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-20T06:22:26Z",
-      "latest_at": "2026-10-20T08:54:54Z",
+      "earliest_at": "2026-10-20T17:13:40Z",
+      "latest_at": "2026-10-20T17:13:40Z",
       "primary_item": {
-        "id": "a7ea37a396c4ed654a39f0ec92929a9aaaf3eb10",
-        "title": "DeepSeek 全面开源内部推理框架 DeepInfer",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485884&idx=1&sn=d457981abe7db1f1b5d600fc109dc836",
-        "source": "公众号：DeepSeek（深度求索）",
-        "source_name": "AI HOT"
+        "id": "82aeabde270f3ddfb82d3aa520e1384863f1d1b3",
+        "title": "Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions",
+        "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1162,15 +1160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.7739,
+      "importance": 0.7739,
+      "importance_score": 0.7739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8957,
+        "recency": 0.8296,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1190,65 +1188,63 @@
       }
     },
     {
-      "story_id": "story_7b02d478c08b",
-      "title": "Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions",
-      "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
-      "primary_url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_4c8a7f998de4",
+      "title": "NVIDIA 携手 Nokia 及多家电信运营商将网络改造为分布式智能平台",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
+      "primary_url": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
+      "source": "NVIDIA：Newsroom（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "82aeabde270f3ddfb82d3aa520e1384863f1d1b3",
-          "title": "Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions",
-          "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T17:13:40Z"
+          "id": "3e86587788f9f275e2ad5782dc7984fa5a0c64d7",
+          "title": "NVIDIA 携手 Nokia 及多家电信运营商将网络改造为分布式智能平台",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
+          "source": "NVIDIA：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T10:11:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "NVIDIA：Newsroom（RSS）"
       ],
       "items": [
         {
-          "id": "82aeabde270f3ddfb82d3aa520e1384863f1d1b3",
-          "title": "Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions",
-          "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T17:13:40Z"
+          "id": "3e86587788f9f275e2ad5782dc7984fa5a0c64d7",
+          "title": "NVIDIA 携手 Nokia 及多家电信运营商将网络改造为分布式智能平台",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
+          "source": "NVIDIA：Newsroom（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T10:11:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
-      "importance_label": "官方更新",
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.843,
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9974,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-20T17:13:40Z",
-      "latest_at": "2026-10-20T17:13:40Z",
+      "earliest_at": "2026-10-21T10:11:00Z",
+      "latest_at": "2026-10-21T10:11:00Z",
       "primary_item": {
-        "id": "82aeabde270f3ddfb82d3aa520e1384863f1d1b3",
-        "title": "Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions",
-        "url": "https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "3e86587788f9f275e2ad5782dc7984fa5a0c64d7",
+        "title": "NVIDIA 携手 Nokia 及多家电信运营商将网络改造为分布式智能平台",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms",
+        "source": "NVIDIA：Newsroom（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1286,15 +1282,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.7276,
+      "importance": 0.7276,
+      "importance_score": 0.7276,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.861,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1312,63 +1308,84 @@
       }
     },
     {
-      "story_id": "story_3e6fedc797a0",
-      "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-      "url": "https://x.com/thsottiaux/status/2112712984644784534",
-      "primary_url": "https://x.com/thsottiaux/status/2112712984644784534",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
+      "story_id": "story_bc07c38a5cbb",
+      "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
+      "url": "https://www.aibase.com/news/31771",
+      "primary_url": "https://www.aibase.com/news/31771",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
-          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-          "url": "https://x.com/thsottiaux/status/2112712984644784534",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T01:10:02Z"
+          "id": "9aa7d88a864c11a35d95df6613d450143bc07e17",
+          "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
+          "url": "https://www.aibase.com/news/31771",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-21T05:03:15.149432Z"
+        },
+        {
+          "id": "5a3a3ada86141818a897fe19dc6c202ad1a68d8c",
+          "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
+          "url": "https://www.aibase.com/zh/news/31771",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Tibo (@thsottiaux)"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
-          "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-          "url": "https://x.com/thsottiaux/status/2112712984644784534",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T01:10:02Z"
+          "id": "9aa7d88a864c11a35d95df6613d450143bc07e17",
+          "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
+          "url": "https://www.aibase.com/news/31771",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-21T05:03:15.149432Z"
+        },
+        {
+          "id": "5a3a3ada86141818a897fe19dc6c202ad1a68d8c",
+          "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
+          "url": "https://www.aibase.com/zh/news/31771",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.65,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9454,
-        "story_heat": 0.0
+        "recency": 0.9262,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-21T01:10:02Z",
-      "latest_at": "2026-10-21T01:10:02Z",
+      "earliest_at": "2026-10-21T05:03:15.149432Z",
+      "latest_at": "2026-10-21T05:03:15.149432Z",
       "primary_item": {
-        "id": "d2a3fcc047e65166c2d5685d86f494378ea06733",
-        "title": "OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留",
-        "url": "https://x.com/thsottiaux/status/2112712984644784534",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
+        "id": "9aa7d88a864c11a35d95df6613d450143bc07e17",
+        "title": "AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报",
+        "url": "https://www.aibase.com/news/31771",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
