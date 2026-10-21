@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:45:01.840033Z",
+  "generated_at": "2026-10-21T00:12:32.560762Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.856,
-      "importance": 0.856,
-      "importance_score": 0.856,
+      "score": 0.8502,
+      "importance": 0.8502,
+      "importance_score": 0.8502,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9224,
+        "recency": 0.8902,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9214,
+        "recency": 0.8893,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8348,
-      "importance": 0.8348,
-      "importance_score": 0.8348,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9487,
+        "recency": 0.9156,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8266,
+      "importance": 0.8266,
+      "importance_score": 0.8266,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8439,
+        "recency": 0.8145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -286,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8512,
-      "importance": 0.8512,
-      "importance_score": 0.8512,
+      "score": 0.8453,
+      "importance": 0.8453,
+      "importance_score": 0.8453,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9513,
+        "recency": 0.9182,
         "story_heat": 0.0
       },
       "category": "official",
@@ -310,6 +310,68 @@
         "title": "NVIDIA Cosmos3-H-Dreams：通过生成模拟将临床手术变为现实 / NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
         "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f20872bccced",
+      "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
+      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+      "primary_url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
+          "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
+          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T18:03:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
+          "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
+          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-20T18:03:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9151,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T18:03:55Z",
+      "latest_at": "2026-10-20T18:03:55Z",
+      "primary_item": {
+        "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
+        "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
+        "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -367,15 +429,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.7987,
+      "importance": 0.7987,
+      "importance_score": 0.7987,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9846,
+        "recency": 0.9503,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -392,68 +454,6 @@
         "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f20872bccced",
-      "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "primary_url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-          "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T18:03:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-          "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T18:03:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9482,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T18:03:55Z",
-      "latest_at": "2026-10-20T18:03:55Z",
-      "primary_item": {
-        "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-        "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-        "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -529,15 +529,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7961,
-      "importance": 0.7961,
-      "importance_score": 0.7961,
+      "score": 0.7909,
+      "importance": 0.7909,
+      "importance_score": 0.7909,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8308,
+        "recency": 0.8018,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -610,15 +610,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7912,
-      "importance": 0.7912,
-      "importance_score": 0.7912,
+      "score": 0.7857,
+      "importance": 0.7857,
+      "importance_score": 0.7857,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8756,
+        "recency": 0.845,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -672,15 +672,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8441,
-      "importance": 0.8441,
-      "importance_score": 0.8441,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9115,
+        "recency": 0.8797,
         "story_heat": 0.0
       },
       "category": "official",
@@ -696,149 +696,6 @@
         "title": "ALTK-Evolve：学习记忆如何在没有前沿模型的情况下在客户服务任务的 τ² 工作台排行榜上名列前茅 / ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
         "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_dd8747983c69",
-      "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
-      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-      "primary_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7ee08b7c9deedd2fb82c0610b92f7c9e8bb60732",
-          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
-          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T21:25:22Z"
-        },
-        {
-          "id": "271f5087d140a960aeb2594eae79fa131b408d06",
-          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者 / Anthropic’s cloud partnerships are getting messy",
-          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-20T21:25:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7ee08b7c9deedd2fb82c0610b92f7c9e8bb60732",
-          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
-          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-20T21:25:22Z"
-        },
-        {
-          "id": "271f5087d140a960aeb2594eae79fa131b408d06",
-          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者 / Anthropic’s cloud partnerships are getting messy",
-          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-20T21:25:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9953,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T21:25:22Z",
-      "latest_at": "2026-10-20T21:25:22Z",
-      "primary_item": {
-        "id": "7ee08b7c9deedd2fb82c0610b92f7c9e8bb60732",
-        "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
-        "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dbaa90254253",
-      "title": "OpenAI 收购 Orchestra Bio / OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "primary_url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b1081b09a5622e6a4095f68b9655d8ca3ebe9138",
-          "title": "OpenAI 收购 Orchestra Bio / OpenAI acquires Orchestra Bio",
-          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b1081b09a5622e6a4095f68b9655d8ca3ebe9138",
-          "title": "OpenAI 收购 Orchestra Bio / OpenAI acquires Orchestra Bio",
-          "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7305,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T00:00:00Z",
-      "latest_at": "2026-10-20T00:00:00Z",
-      "primary_item": {
-        "id": "b1081b09a5622e6a4095f68b9655d8ca3ebe9138",
-        "title": "OpenAI 收购 Orchestra Bio / OpenAI acquires Orchestra Bio",
-        "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -896,15 +753,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.893,
+        "recency": 0.8619,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -921,6 +778,87 @@
         "url": "https://www.aibase.com/news/31758",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dd8747983c69",
+      "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+      "primary_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7ee08b7c9deedd2fb82c0610b92f7c9e8bb60732",
+          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T21:25:22Z"
+        },
+        {
+          "id": "271f5087d140a960aeb2594eae79fa131b408d06",
+          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者 / Anthropic’s cloud partnerships are getting messy",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-20T21:25:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7ee08b7c9deedd2fb82c0610b92f7c9e8bb60732",
+          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T21:25:22Z"
+        },
+        {
+          "id": "271f5087d140a960aeb2594eae79fa131b408d06",
+          "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者 / Anthropic’s cloud partnerships are getting messy",
+          "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-20T21:25:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9606,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-20T21:25:22Z",
+      "latest_at": "2026-10-20T21:25:22Z",
+      "primary_item": {
+        "id": "7ee08b7c9deedd2fb82c0610b92f7c9e8bb60732",
+        "title": "Anthropic 云合作生变：AWS、Google、微软视其为竞争者",
+        "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -958,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9368,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1020,15 +958,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8756,
+        "recency": 0.8451,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1081,21 +1019,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8212,
+        "recency": 0.7925,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-20T08:06:25Z",
       "latest_at": "2026-10-20T08:06:25Z",
@@ -1142,15 +1079,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9204,
+        "recency": 0.8883,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1202,15 +1139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9434,
+        "recency": 0.9105,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1281,15 +1218,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.7677,
+      "importance": 0.7677,
+      "importance_score": 0.7677,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.893,
+        "recency": 0.8619,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1343,15 +1280,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9229,
+        "recency": 0.8908,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1368,6 +1305,66 @@
         "url": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c0392ac8d9dc",
+      "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
+      "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+      "primary_url": "https://x.com/AravSrinivas/status/2112583333825950207",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f7fea6388683ec6f6fde3d111f93eacfe3fbc7dd",
+          "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
+          "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T16:34:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+      ],
+      "items": [
+        {
+          "id": "f7fea6388683ec6f6fde3d111f93eacfe3fbc7dd",
+          "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
+          "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-20T16:34:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7278,
+      "importance": 0.7278,
+      "importance_score": 0.7278,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8957,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-20T16:34:51Z",
+      "latest_at": "2026-10-20T16:34:51Z",
+      "primary_item": {
+        "id": "f7fea6388683ec6f6fde3d111f93eacfe3fbc7dd",
+        "title": "Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理",
+        "url": "https://x.com/AravSrinivas/status/2112583333825950207",
+        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "source_name": "AI HOT"
       }
     }
   ]
