@@ -1,124 +1,128 @@
 {
-  "generated_at": "2026-10-22T06:12:08.334091Z",
+  "generated_at": "2026-10-22T12:08:30.665662Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_61f4d0141ff3",
-      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "primary_url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI News",
+      "story_id": "story_5d118fadbe79",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "primary_url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
+          "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
+          "title": "Ensemble forecasting with IBM Granite time-series models",
+          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z"
-        },
-        {
-          "id": "df91515a04111d4f0c04c40ee75db35dea8fac6b",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T12:00:00Z"
-        },
-        {
-          "id": "e79357fbbe0278aadd61a4f01eede8af79c4c174",
-          "title": "OpenAI 模型即将登陆 Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T18:37:43.968000Z"
-        },
-        {
-          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
-          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
-          "url": "https://news.ycombinator.com/item?id=50180079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-21T12:53:11Z"
+          "published_at": "2026-10-22T07:51:31Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "hackernews",
-        "openai.com"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
+          "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
+          "title": "Ensemble forecasting with IBM Granite time-series models",
+          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z"
-        },
-        {
-          "id": "df91515a04111d4f0c04c40ee75db35dea8fac6b",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T12:00:00Z"
-        },
-        {
-          "id": "e79357fbbe0278aadd61a4f01eede8af79c4c174",
-          "title": "OpenAI 模型即将登陆 Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T18:37:43.968000Z"
-        },
-        {
-          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
-          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
-          "url": "https://news.ycombinator.com/item?id=50180079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-21T12:53:11Z"
+          "published_at": "2026-10-22T07:51:31Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8914,
-      "importance": 0.8914,
-      "importance_score": 0.8914,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8492,
+      "importance": 0.8492,
+      "importance_score": 0.8492,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7689,
-        "story_heat": 0.75
+        "ai_relevance": 0.95,
+        "recency": 0.94,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T12:00:00Z",
-      "latest_at": "2026-10-21T18:37:43.968000Z",
+      "earliest_at": "2026-10-22T07:51:31Z",
+      "latest_at": "2026-10-22T07:51:31Z",
       "primary_item": {
-        "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-        "url": "https://openai.com/index/openai-models-google-cloud",
+        "id": "7cb33189552d9e5b25bb3a8bd053cde189fc030f",
+        "title": "Ensemble forecasting with IBM Granite time-series models",
+        "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2ed22a61b2f1",
+      "title": "通过一致的标准实现广泛的访问 / Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "primary_url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
+          "title": "通过一致的标准实现广泛的访问 / Broad access through consistent standards",
+          "url": "https://openai.com/index/broad-access-through-consistent-standards",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T21:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
+          "title": "通过一致的标准实现广泛的访问 / Broad access through consistent standards",
+          "url": "https://openai.com/index/broad-access-through-consistent-standards",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T21:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8036,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T21:00:00Z",
+      "latest_at": "2026-10-21T21:00:00Z",
+      "primary_item": {
+        "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
+        "title": "通过一致的标准实现广泛的访问 / Broad access through consistent standards",
+        "url": "https://openai.com/index/broad-access-through-consistent-standards",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -177,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8518,
-      "importance": 0.8518,
-      "importance_score": 0.8518,
+      "score": 0.8397,
+      "importance": 0.8397,
+      "importance_score": 0.8397,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8155,
+        "recency": 0.7485,
         "story_heat": 0.25
       },
       "category": "official",
@@ -202,126 +206,6 @@
         "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
         "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d3f519557f32",
-      "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "primary_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b2229fc3a64e5a0eeeba3cd22feaa5a494951a20",
-          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T07:00:00Z"
-        },
-        {
-          "id": "6059845713389b336204469bfc3779696c929de8",
-          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T07:00:00Z"
-        },
-        {
-          "id": "a94eacfb266ecb0e789807e4115efabda842ef7e",
-          "title": "“修补地球”：随着安全人员发现漏洞，全球响应工作正逐步协调",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T16:14:45.178000Z"
-        },
-        {
-          "id": "9303c33ae28b9c907dec21193c9008c1d8678f53",
-          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover vulnerabilities",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-21T14:03:43Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "b2229fc3a64e5a0eeeba3cd22feaa5a494951a20",
-          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T07:00:00Z"
-        },
-        {
-          "id": "6059845713389b336204469bfc3779696c929de8",
-          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T07:00:00Z"
-        },
-        {
-          "id": "a94eacfb266ecb0e789807e4115efabda842ef7e",
-          "title": "“修补地球”：随着安全人员发现漏洞，全球响应工作正逐步协调",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T16:14:45.178000Z"
-        },
-        {
-          "id": "9303c33ae28b9c907dec21193c9008c1d8678f53",
-          "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover vulnerabilities",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-21T14:03:43Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8758,
-      "importance": 0.8758,
-      "importance_score": 0.8758,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7153,
-        "story_heat": 0.75
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T07:00:00Z",
-      "latest_at": "2026-10-21T16:14:45.178000Z",
-      "primary_item": {
-        "id": "b2229fc3a64e5a0eeeba3cd22feaa5a494951a20",
-        "title": "OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-        "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -398,15 +282,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7859,
+        "recency": 0.7213,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -423,6 +307,68 @@
         "url": "https://www.wiz.io/blog/php2shell-php-rce",
         "source": "Wiz：Research（安全研究）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e4263c8cf454",
+      "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+      "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+      "primary_url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
+          "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T16:43:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
+          "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T16:43:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7555,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T16:43:23Z",
+      "latest_at": "2026-10-21T16:43:23Z",
+      "primary_item": {
+        "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
+        "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+        "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -479,15 +425,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8127,
-      "importance": 0.8127,
-      "importance_score": 0.8127,
+      "score": 0.7987,
+      "importance": 0.7987,
+      "importance_score": 0.7987,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.945,
+        "recency": 0.8674,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -504,68 +450,6 @@
         "url": "https://www.ithome.com/1/016/243.htm",
         "source": "IT之家·人工智能",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e4263c8cf454",
-      "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
-      "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
-      "primary_url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
-          "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
-          "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T16:43:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
-          "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
-          "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T16:43:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8231,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T16:43:23Z",
-      "latest_at": "2026-10-21T16:43:23Z",
-      "primary_item": {
-        "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
-        "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
-        "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -603,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9157,
+        "recency": 0.8404,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -630,65 +514,84 @@
       }
     },
     {
-      "story_id": "story_7104bc51c295",
-      "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "primary_url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_9b0534e0b9af",
+      "title": "英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机",
+      "url": "https://www.aibase.com/news/31803",
+      "primary_url": "https://www.aibase.com/news/31803",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
-          "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T18:26:30Z"
+          "id": "8ff758464ae575f862472a3868c4c254515a71d6",
+          "title": "英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机",
+          "url": "https://www.aibase.com/news/31803",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-22T12:08:30.665662Z"
+        },
+        {
+          "id": "aa8bdf7811f5b26e7861ff87569d57891cee5242",
+          "title": "英伟达升级 Isaac 通用机器人平台并发布 Agile ONE SN 人形样机",
+          "url": "https://www.aibase.com/zh/news/31803",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
-          "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T18:26:30Z"
+          "id": "8ff758464ae575f862472a3868c4c254515a71d6",
+          "title": "英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机",
+          "url": "https://www.aibase.com/news/31803",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-22T12:08:30.665662Z"
+        },
+        {
+          "id": "aa8bdf7811f5b26e7861ff87569d57891cee5242",
+          "title": "英伟达升级 Isaac 通用机器人平台并发布 Agile ONE SN 人形样机",
+          "url": "https://www.aibase.com/zh/news/31803",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8438,
-        "story_heat": 0.0
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T18:26:30Z",
-      "latest_at": "2026-10-21T18:26:30Z",
+      "earliest_at": "2026-10-22T12:08:30.665662Z",
+      "latest_at": "2026-10-22T12:08:30.665662Z",
       "primary_item": {
-        "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
-        "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-        "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "8ff758464ae575f862472a3868c4c254515a71d6",
+        "title": "英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机",
+        "url": "https://www.aibase.com/news/31803",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -726,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7835,
+      "importance": 0.7835,
+      "importance_score": 0.7835,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9859,
+        "recency": 0.9049,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -753,84 +656,65 @@
       }
     },
     {
-      "story_id": "story_fba26157a6de",
-      "title": "PHP 爆出\"PHP2Shell\"高危漏洞：影响约七成网站，OpenAI 牵头全球协防",
-      "url": "https://www.aibase.com/news/31789",
-      "primary_url": "https://www.aibase.com/news/31789",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_74fcf21eca7a",
+      "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "primary_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "74ff38378694148b7a59eccb9146dd76a1a22bfc",
-          "title": "PHP 爆出\"PHP2Shell\"高危漏洞：影响约七成网站，OpenAI 牵头全球协防",
-          "url": "https://www.aibase.com/news/31789",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-22T06:12:08.334091Z"
-        },
-        {
-          "id": "df402cfdf79179abe06d88cb863d9a9054be056e",
-          "title": "PHP 爆出「PHP2Shell」高危漏洞：影响约七成网站，OpenAI 牵头全球协防",
-          "url": "https://www.aibase.com/zh/news/31789",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T13:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "74ff38378694148b7a59eccb9146dd76a1a22bfc",
-          "title": "PHP 爆出\"PHP2Shell\"高危漏洞：影响约七成网站，OpenAI 牵头全球协防",
-          "url": "https://www.aibase.com/news/31789",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-22T06:12:08.334091Z"
-        },
-        {
-          "id": "df402cfdf79179abe06d88cb863d9a9054be056e",
-          "title": "PHP 爆出「PHP2Shell」高危漏洞：影响约七成网站，OpenAI 牵头全球协防",
-          "url": "https://www.aibase.com/zh/news/31789",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T13:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7159,
+        "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T06:12:08.334091Z",
-      "latest_at": "2026-10-22T06:12:08.334091Z",
+      "earliest_at": "2026-10-21T13:00:00Z",
+      "latest_at": "2026-10-21T13:00:00Z",
       "primary_item": {
-        "id": "74ff38378694148b7a59eccb9146dd76a1a22bfc",
-        "title": "PHP 爆出\"PHP2Shell\"高危漏洞：影响约七成网站，OpenAI 牵头全球协防",
-        "url": "https://www.aibase.com/news/31789",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+        "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -868,15 +752,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9488,
+        "recency": 0.8708,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -947,15 +831,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7883,
+        "recency": 0.7235,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1028,15 +912,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8383,
+        "recency": 0.7694,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1056,21 +940,102 @@
       }
     },
     {
-      "story_id": "story_354f89a6c7db",
-      "title": "SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "story_id": "story_88f7127bfb1b",
+      "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
+      "url": "https://www.aibase.com/news/31806",
+      "primary_url": "https://www.aibase.com/news/31806",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cbaca5053aadfc0d467b8dfa3c184bc661b4086d",
+          "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
+          "url": "https://www.aibase.com/news/31806",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-22T12:08:30.665662Z"
+        },
+        {
+          "id": "247f167082f7a6b09b4b0c254bd3671a50917281",
+          "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
+          "url": "https://www.aibase.com/zh/news/31806",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cbaca5053aadfc0d467b8dfa3c184bc661b4086d",
+          "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
+          "url": "https://www.aibase.com/news/31806",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-22T12:08:30.665662Z"
+        },
+        {
+          "id": "247f167082f7a6b09b4b0c254bd3671a50917281",
+          "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
+          "url": "https://www.aibase.com/zh/news/31806",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T12:08:30.665662Z",
+      "latest_at": "2026-10-22T12:08:30.665662Z",
+      "primary_item": {
+        "id": "cbaca5053aadfc0d467b8dfa3c184bc661b4086d",
+        "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
+        "url": "https://www.aibase.com/news/31806",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7104bc51c295",
+      "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "primary_url": "https://huggingface.co/blog/nvidia/kumo-relational",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "213681692e91ea20b028385dda779d335345174f",
-          "title": "SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+          "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
+          "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T17:35:36Z"
+          "published_at": "2026-10-21T18:26:30Z"
         }
       ],
       "source_count": 1,
@@ -1079,26 +1044,26 @@
       ],
       "items": [
         {
-          "id": "213681692e91ea20b028385dda779d335345174f",
-          "title": "SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+          "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
+          "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T17:35:36Z"
+          "published_at": "2026-10-21T18:26:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.83,
-      "importance": 0.83,
-      "importance_score": 0.83,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8335,
+        "recency": 0.7745,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1107,75 +1072,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T17:35:36Z",
-      "latest_at": "2026-10-21T17:35:36Z",
+      "earliest_at": "2026-10-21T18:26:30Z",
+      "latest_at": "2026-10-21T18:26:30Z",
       "primary_item": {
-        "id": "213681692e91ea20b028385dda779d335345174f",
-        "title": "SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-        "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+        "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
+        "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+        "url": "https://huggingface.co/blog/nvidia/kumo-relational",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2ed22a61b2f1",
-      "title": "Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "primary_url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
-          "title": "Broad access through consistent standards",
-          "url": "https://openai.com/index/broad-access-through-consistent-standards",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T21:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
-          "title": "Broad access through consistent standards",
-          "url": "https://openai.com/index/broad-access-through-consistent-standards",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T21:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8756,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T21:00:00Z",
-      "latest_at": "2026-10-21T21:00:00Z",
-      "primary_item": {
-        "id": "b38aac7eeff84d1c0ab46df96144c410d2197b25",
-        "title": "Broad access through consistent standards",
-        "url": "https://openai.com/index/broad-access-through-consistent-standards",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -1214,15 +1117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8215,
+        "recency": 0.754,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1237,67 +1140,6 @@
         "title": "OpenAI 发布 Codex 技能帮助网站自查 PHP 关键漏洞影响",
         "url": "https://x.com/OpenAI/status/2112945805686604033",
         "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5deb86848ff9",
-      "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
-      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
-      "primary_url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
-      "source": "Microsoft Research 博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3852a3452109f52d0b41bc1c41b5a590228dcaa4",
-          "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
-          "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
-          "source": "Microsoft Research 博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Microsoft Research 博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "3852a3452109f52d0b41bc1c41b5a590228dcaa4",
-          "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
-          "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
-          "source": "Microsoft Research 博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8146,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T16:00:00Z",
-      "latest_at": "2026-10-21T16:00:00Z",
-      "primary_item": {
-        "id": "3852a3452109f52d0b41bc1c41b5a590228dcaa4",
-        "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
-        "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
-        "source": "Microsoft Research 博客（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1355,15 +1197,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.791,
+        "recency": 0.7259,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1383,102 +1225,144 @@
       }
     },
     {
-      "story_id": "story_acc3f34ee28b",
-      "title": "八部门印发产业基础\"十五五\"规划，布局通用与行业大模型",
-      "url": "https://www.aibase.com/news/31796",
-      "primary_url": "https://www.aibase.com/news/31796",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_5deb86848ff9",
+      "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+      "primary_url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+      "source": "Microsoft Research 博客（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ff310585d1afee882299e75b8d745d08e36c1f4e",
-          "title": "八部门印发产业基础\"十五五\"规划，布局通用与行业大模型",
-          "url": "https://www.aibase.com/news/31796",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-22T06:12:08.334091Z"
-        },
-        {
-          "id": "9756c6a2e031a7289e52ba17008b7577d2be3c54",
-          "title": "八部门印发产业基础「十五五」规划，布局通用与行业大模型",
-          "url": "https://www.aibase.com/zh/news/31796",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "3852a3452109f52d0b41bc1c41b5a590228dcaa4",
+          "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
+          "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+          "source": "Microsoft Research 博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T16:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Microsoft Research 博客（RSS）"
       ],
       "items": [
         {
-          "id": "ff310585d1afee882299e75b8d745d08e36c1f4e",
-          "title": "八部门印发产业基础\"十五五\"规划，布局通用与行业大模型",
-          "url": "https://www.aibase.com/news/31796",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-22T06:12:08.334091Z"
-        },
-        {
-          "id": "9756c6a2e031a7289e52ba17008b7577d2be3c54",
-          "title": "八部门印发产业基础「十五五」规划，布局通用与行业大模型",
-          "url": "https://www.aibase.com/zh/news/31796",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "3852a3452109f52d0b41bc1c41b5a590228dcaa4",
+          "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
+          "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+          "source": "Microsoft Research 博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T16:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
+        "recency": 0.7476,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T06:12:08.334091Z",
-      "latest_at": "2026-10-22T06:12:08.334091Z",
+      "earliest_at": "2026-10-21T16:00:00Z",
+      "latest_at": "2026-10-21T16:00:00Z",
       "primary_item": {
-        "id": "ff310585d1afee882299e75b8d745d08e36c1f4e",
-        "title": "八部门印发产业基础\"十五五\"规划，布局通用与行业大模型",
-        "url": "https://www.aibase.com/news/31796",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "3852a3452109f52d0b41bc1c41b5a590228dcaa4",
+        "title": "Microsoft Research 与合作者证明 31 年历史的 KLS 猜想",
+        "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+        "source": "Microsoft Research 博客（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_009d23d0664d",
-      "title": "Kling 4.0 现已上线 OnSolo",
-      "url": "https://x.com/Kling_ai/status/2113142473145078041",
-      "primary_url": "https://x.com/Kling_ai/status/2113142473145078041",
+      "story_id": "story_4ab93569e260",
+      "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "primary_url": "https://openai.com/index/att-legal",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
+          "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+          "url": "https://openai.com/index/att-legal",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T17:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
+          "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+          "url": "https://openai.com/index/att-legal",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T17:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7585,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T17:00:00Z",
+      "latest_at": "2026-10-21T17:00:00Z",
+      "primary_item": {
+        "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
+        "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+        "url": "https://openai.com/index/att-legal",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_62dfc4f9863d",
+      "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
+      "url": "https://x.com/Kling_ai/status/2113156632134005040",
+      "primary_url": "https://x.com/Kling_ai/status/2113156632134005040",
       "source": "X：可灵 Kling AI (@Kling_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "49ee0c39297259380f5e5a0fe6389ebdfb5ed4c5",
-          "title": "Kling 4.0 现已上线 OnSolo",
-          "url": "https://x.com/Kling_ai/status/2113142473145078041",
+          "id": "925717173b1b416f3ac0e2115987c50ac56b47ba",
+          "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
+          "url": "https://x.com/Kling_ai/status/2113156632134005040",
           "source": "X：可灵 Kling AI (@Kling_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T05:36:40Z"
+          "published_at": "2026-10-22T06:32:56Z"
         }
       ],
       "source_count": 1,
@@ -1487,38 +1371,38 @@
       ],
       "items": [
         {
-          "id": "49ee0c39297259380f5e5a0fe6389ebdfb5ed4c5",
-          "title": "Kling 4.0 现已上线 OnSolo",
-          "url": "https://x.com/Kling_ai/status/2113142473145078041",
+          "id": "925717173b1b416f3ac0e2115987c50ac56b47ba",
+          "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
+          "url": "https://x.com/Kling_ai/status/2113156632134005040",
           "source": "X：可灵 Kling AI (@Kling_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T05:36:40Z"
+          "published_at": "2026-10-22T06:32:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9915,
+        "recency": 0.9224,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-22T05:36:40Z",
-      "latest_at": "2026-10-22T05:36:40Z",
+      "earliest_at": "2026-10-22T06:32:56Z",
+      "latest_at": "2026-10-22T06:32:56Z",
       "primary_item": {
-        "id": "49ee0c39297259380f5e5a0fe6389ebdfb5ed4c5",
-        "title": "Kling 4.0 现已上线 OnSolo",
-        "url": "https://x.com/Kling_ai/status/2113142473145078041",
+        "id": "925717173b1b416f3ac0e2115987c50ac56b47ba",
+        "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
+        "url": "https://x.com/Kling_ai/status/2113156632134005040",
         "source": "X：可灵 Kling AI (@Kling_ai)",
         "source_name": "AI HOT"
       }
