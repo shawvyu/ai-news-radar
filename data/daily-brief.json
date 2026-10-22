@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-10-22T17:22:35.698302Z",
+  "generated_at": "2026-10-22T20:38:25.314231Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_27825e300358",
+      "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "primary_url": "https://openai.com/index/decisions-api",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T19:00:00Z"
+        },
+        {
+          "id": "310820cdf721111236b65ce4e938bec86febfd74",
+          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T19:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T19:00:00Z"
+        },
+        {
+          "id": "310820cdf721111236b65ce4e938bec86febfd74",
+          "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策",
+          "url": "https://openai.com/index/decisions-api",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T19:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8728,
+      "importance": 0.8728,
+      "importance_score": 0.8728,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9766,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T19:00:00Z",
+      "latest_at": "2026-10-22T19:00:00Z",
+      "primary_item": {
+        "id": "5a627bd65d9e73cddc5ce8a56fa9caad253afc26",
+        "title": "OpenAI 正式发布 Decisions API，面向低延迟低成本小决策 / Build more responsive apps with the Decisions API",
+        "url": "https://openai.com/index/decisions-api",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_eaa0ebff7daf",
       "title": "OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
@@ -38,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8569,
-      "importance": 0.8569,
-      "importance_score": 0.8569,
+      "score": 0.8488,
+      "importance": 0.8488,
+      "importance_score": 0.8488,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.983,
+        "recency": 0.9378,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8497,
-      "importance": 0.8497,
-      "importance_score": 0.8497,
+      "score": 0.8415,
+      "importance": 0.8415,
+      "importance_score": 0.8415,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.987,
+        "recency": 0.9416,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9594,
+        "recency": 0.9152,
         "story_heat": 0.0
       },
       "category": "official",
@@ -190,49 +272,49 @@
       }
     },
     {
-      "story_id": "story_63c31ca523f9",
-      "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "primary_url": "https://openai.com/index/forward-deployed-engineering-means",
-      "source": "OpenAI News",
+      "story_id": "story_9e2347f83650",
+      "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
+      "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
+      "primary_url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-          "url": "https://openai.com/index/forward-deployed-engineering-means",
-          "source": "OpenAI News",
+          "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
+          "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
+          "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T06:00:00Z"
+          "published_at": "2026-10-22T18:14:16Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-          "url": "https://openai.com/index/forward-deployed-engineering-means",
-          "source": "OpenAI News",
+          "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
+          "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
+          "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T06:00:00Z"
+          "published_at": "2026-10-22T18:14:16Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8379,
+      "importance": 0.8379,
+      "importance_score": 0.8379,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8485,
+        "ai_relevance": 0.87,
+        "recency": 0.9659,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,13 +323,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T06:00:00Z",
-      "latest_at": "2026-10-22T06:00:00Z",
+      "earliest_at": "2026-10-22T18:14:16Z",
+      "latest_at": "2026-10-22T18:14:16Z",
       "primary_item": {
-        "id": "7211e5faaaa4484816d9693f0e637588544211e6",
-        "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
-        "url": "https://openai.com/index/forward-deployed-engineering-means",
-        "source": "OpenAI News",
+        "id": "0e4fb600be972c4f22258715998d6f1ca534faf3",
+        "title": "更新了 Actions blob 存储的元 API 端点 / Meta API endpoints updated for Actions blob storage",
+        "url": "https://github.blog/changelog/2026-10-22-meta-api-endpoints-updated-for-actions-blob-storage",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -286,15 +368,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8369,
-      "importance": 0.8369,
-      "importance_score": 0.8369,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8716,
+        "recency": 0.8315,
         "story_heat": 0.0
       },
       "category": "official",
@@ -311,6 +393,129 @@
         "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_63c31ca523f9",
+      "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "primary_url": "https://openai.com/index/forward-deployed-engineering-means",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
+          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
+          "url": "https://openai.com/index/forward-deployed-engineering-means",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T06:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
+          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
+          "url": "https://openai.com/index/forward-deployed-engineering-means",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T06:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8094,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T06:00:00Z",
+      "latest_at": "2026-10-22T06:00:00Z",
+      "primary_item": {
+        "id": "7211e5faaaa4484816d9693f0e637588544211e6",
+        "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
+        "url": "https://openai.com/index/forward-deployed-engineering-means",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e7e58cd7761f",
+      "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+      "url": "https://microsoft.ai/news/building-medical-superintelligence",
+      "primary_url": "https://microsoft.ai/news/building-medical-superintelligence",
+      "source": "Microsoft AI：官方博客（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
+          "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+          "url": "https://microsoft.ai/news/building-medical-superintelligence",
+          "source": "Microsoft AI：官方博客（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T18:01:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Microsoft AI：官方博客（网页）"
+      ],
+      "items": [
+        {
+          "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
+          "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+          "url": "https://microsoft.ai/news/building-medical-superintelligence",
+          "source": "Microsoft AI：官方博客（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T18:01:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9628,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T18:01:00Z",
+      "latest_at": "2026-10-22T18:01:00Z",
+      "primary_item": {
+        "id": "f9a3364e6b1c380431613d259282581d31f8d83b",
+        "title": "Microsoft AI 发布 SDBench 基准与 MAI-DxO 诊断系统，登 Science",
+        "url": "https://microsoft.ai/news/building-medical-superintelligence",
+        "source": "Microsoft AI：官方博客（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -348,15 +553,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7908,
-      "importance": 0.7908,
-      "importance_score": 0.7908,
+      "score": 0.7827,
+      "importance": 0.7827,
+      "importance_score": 0.7827,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9789,
+        "recency": 0.9338,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -371,129 +576,6 @@
         "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
         "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
         "source": "Newcomer 新闻长文（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ba6fa07d677a",
-      "title": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work / Uber brings ChatGPT Work to all employees with OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "primary_url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "736bc27726d9b7823372f2500e780984c02fd065",
-          "title": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work / Uber brings ChatGPT Work to all employees with OpenAI",
-          "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "736bc27726d9b7823372f2500e780984c02fd065",
-          "title": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work / Uber brings ChatGPT Work to all employees with OpenAI",
-          "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7781,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T00:00:00Z",
-      "latest_at": "2026-10-22T00:00:00Z",
-      "primary_item": {
-        "id": "736bc27726d9b7823372f2500e780984c02fd065",
-        "title": "Uber 通过 OpenAI 为所有员工带来 ChatGPT Work / Uber brings ChatGPT Work to all employees with OpenAI",
-        "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_24fe5ab62d36",
-      "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-      "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-      "primary_url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-      "source": "404 Media（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
-          "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T14:23:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "404 Media（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
-          "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T14:23:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9578,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T14:23:36Z",
-      "latest_at": "2026-10-22T14:23:36Z",
-      "primary_item": {
-        "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
-        "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-        "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-        "source": "404 Media（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -551,15 +633,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7824,
+      "importance": 0.7824,
+      "importance_score": 0.7824,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9188,
+        "recency": 0.8765,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -575,6 +657,67 @@
         "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
         "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_24fe5ab62d36",
+      "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
+      "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+      "primary_url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+      "source": "404 Media（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
+          "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
+          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T14:23:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "404 Media（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
+          "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
+          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T14:23:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7821,
+      "importance": 0.7821,
+      "importance_score": 0.7821,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9137,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T14:23:36Z",
+      "latest_at": "2026-10-22T14:23:36Z",
+      "primary_item": {
+        "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
+        "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
+        "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+        "source": "404 Media（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -632,15 +775,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8042,
+        "recency": 0.7672,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -657,6 +800,68 @@
         "url": "https://www.ithome.com/1/016/243.htm",
         "source": "IT之家·人工智能",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b72f858af9a1",
+      "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
+      "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+      "primary_url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fb5ee40338344200220e3d476a9a376feaaf6005",
+          "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
+          "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T18:12:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fb5ee40338344200220e3d476a9a376feaaf6005",
+          "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
+          "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T18:12:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9656,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T18:12:58Z",
+      "latest_at": "2026-10-22T18:12:58Z",
+      "primary_item": {
+        "id": "fb5ee40338344200220e3d476a9a376feaaf6005",
+        "title": "现在可以通过数据驻留进行公共监控 / Public monitoring now available with data residency",
+        "url": "https://github.blog/changelog/2026-10-22-public-monitoring-now-available-with-data-residency",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -694,15 +899,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7819,
-      "importance": 0.7819,
-      "importance_score": 0.7819,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7792,
+        "recency": 0.7433,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -755,15 +960,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9738,
+        "recency": 0.929,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -835,15 +1040,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7795,
-      "importance": 0.7795,
-      "importance_score": 0.7795,
+      "score": 0.7718,
+      "importance": 0.7718,
+      "importance_score": 0.7718,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9272,
+        "recency": 0.8845,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -897,15 +1102,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9721,
+        "recency": 0.9273,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -920,6 +1125,67 @@
         "title": "PHP2Shell 漏洞披露前黑客已有四天窗口，多国机构紧急响应",
         "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability",
         "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9e1ae24ea61d",
+      "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+      "url": "https://x.com/claudeai/status/2113360845409583307",
+      "primary_url": "https://x.com/claudeai/status/2113360845409583307",
+      "source": "X：Claude (@claudeai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T20:04:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude (@claudeai)"
+      ],
+      "items": [
+        {
+          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+          "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+          "url": "https://x.com/claudeai/status/2113360845409583307",
+          "source": "X：Claude (@claudeai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T20:04:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9918,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T20:04:24Z",
+      "latest_at": "2026-10-22T20:04:24Z",
+      "primary_item": {
+        "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
+        "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
+        "url": "https://x.com/claudeai/status/2113360845409583307",
+        "source": "X：Claude (@claudeai)",
         "source_name": "AI HOT"
       }
     },
@@ -958,15 +1224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.839,
+        "recency": 0.8004,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,15 +1285,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8074,
+        "recency": 0.7702,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1043,291 +1309,6 @@
         "url": "https://x.com/Khazix0918/status/2113096414469464281",
         "source": "X：卡兹克 (@Khazix0918)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_386cb617382f",
-      "title": "Wiz 披露 ARTEX 智能体被 Storm-0940 用于攻击 IT 和软件厂商",
-      "url": "https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors",
-      "primary_url": "https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors",
-      "source": "Wiz：Research（安全研究）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "af8df35d271b3f1b54397c4c1fc46c1d9079e36a",
-          "title": "Wiz 披露 ARTEX 智能体被 Storm-0940 用于攻击 IT 和软件厂商",
-          "url": "https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T13:05:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Wiz：Research（安全研究）"
-      ],
-      "items": [
-        {
-          "id": "af8df35d271b3f1b54397c4c1fc46c1d9079e36a",
-          "title": "Wiz 披露 ARTEX 智能体被 Storm-0940 用于攻击 IT 和软件厂商",
-          "url": "https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T13:05:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.94,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T13:05:31Z",
-      "latest_at": "2026-10-22T13:05:31Z",
-      "primary_item": {
-        "id": "af8df35d271b3f1b54397c4c1fc46c1d9079e36a",
-        "title": "Wiz 披露 ARTEX 智能体被 Storm-0940 用于攻击 IT 和软件厂商",
-        "url": "https://www.wiz.io/blog/artex-in-the-wild-storm-0940-expands-targeting-of-it-and-software-vendors",
-        "source": "Wiz：Research（安全研究）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a61190ef2d92",
-      "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线",
-      "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-      "primary_url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "688183ee83cbec03b4604a2c29888d5bc4fd1ca4",
-          "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线",
-          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T17:59:12Z"
-        },
-        {
-          "id": "241ca6826723d84248a338ec9f7deb02abe47bd4",
-          "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线 / PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-21T17:59:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "688183ee83cbec03b4604a2c29888d5bc4fd1ca4",
-          "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线",
-          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T17:59:12Z"
-        },
-        {
-          "id": "241ca6826723d84248a338ec9f7deb02abe47bd4",
-          "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线 / PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-          "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-21T17:59:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7134,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T17:59:12Z",
-      "latest_at": "2026-10-21T17:59:12Z",
-      "primary_item": {
-        "id": "688183ee83cbec03b4604a2c29888d5bc4fd1ca4",
-        "title": "OpenAI 与 Google Wiz 用 AI 发现潜伏 20 年的 PHP 严重漏洞，NSA 建议无法立即修复的网站先下线",
-        "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_88f7127bfb1b",
-      "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
-      "url": "https://www.aibase.com/news/31806",
-      "primary_url": "https://www.aibase.com/news/31806",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cbaca5053aadfc0d467b8dfa3c184bc661b4086d",
-          "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
-          "url": "https://www.aibase.com/news/31806",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-22T12:08:30.665662Z"
-        },
-        {
-          "id": "247f167082f7a6b09b4b0c254bd3671a50917281",
-          "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
-          "url": "https://www.aibase.com/zh/news/31806",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "cbaca5053aadfc0d467b8dfa3c184bc661b4086d",
-          "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
-          "url": "https://www.aibase.com/news/31806",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-22T12:08:30.665662Z"
-        },
-        {
-          "id": "247f167082f7a6b09b4b0c254bd3671a50917281",
-          "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
-          "url": "https://www.aibase.com/zh/news/31806",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7795,
-      "importance": 0.7795,
-      "importance_score": 0.7795,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9272,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T12:08:30.665662Z",
-      "latest_at": "2026-10-22T12:08:30.665662Z",
-      "primary_item": {
-        "id": "cbaca5053aadfc0d467b8dfa3c184bc661b4086d",
-        "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
-        "url": "https://www.aibase.com/news/31806",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7104bc51c295",
-      "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "primary_url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
-          "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T18:26:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
-          "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T18:26:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7181,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T18:26:30Z",
-      "latest_at": "2026-10-21T18:26:30Z",
-      "primary_item": {
-        "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
-        "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-        "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     }
   ]
