@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T23:43:09.895964Z",
+  "generated_at": "2026-10-23T02:12:21.821307Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8651,
-      "importance": 0.8651,
-      "importance_score": 0.8651,
+      "score": 0.8592,
+      "importance": 0.8592,
+      "importance_score": 0.8592,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9341,
+        "recency": 0.9012,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8566,
-      "importance": 0.8566,
-      "importance_score": 0.8566,
+      "score": 0.8504,
+      "importance": 0.8504,
+      "importance_score": 0.8504,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9813,
+        "recency": 0.9467,
         "story_heat": 0.0
       },
       "category": "official",
@@ -144,6 +144,230 @@
         "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
         "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ab26bfe89fae",
+      "title": "GitHub Copilot in Visual Studio — September update",
+      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "primary_url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+          "title": "GitHub Copilot in Visual Studio — September update",
+          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:17:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+          "title": "GitHub Copilot in Visual Studio — September update",
+          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:17:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8471,
+      "importance": 0.8471,
+      "importance_score": 0.8471,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9728,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T00:17:51Z",
+      "latest_at": "2026-10-23T00:17:51Z",
+      "primary_item": {
+        "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+        "title": "GitHub Copilot in Visual Studio — September update",
+        "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e222ebf9c192",
+      "title": "OpenAI 全面开放决策 API：GPT‑6 Luna 上阵，输入百万 token 仅 0.1 美元",
+      "url": "https://www.aibase.com/news/31818",
+      "primary_url": "https://www.aibase.com/news/31818",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f0e68af7a6245bed179263133e47930e9308ba9f",
+          "title": "OpenAI 全面开放决策 API：GPT‑6 Luna 上阵，输入百万 token 仅 0.1 美元",
+          "url": "https://www.aibase.com/news/31818",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T02:12:21.821307Z"
+        },
+        {
+          "id": "c97a83458f57d73a69da8841ed7de9b410d7294e",
+          "title": "OpenAI 全面开放决策 API：基于 GPT‑6 Luna，输入百万 token 仅 0.1 美元",
+          "url": "https://www.aibase.com/zh/news/31818",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a3925a8be817a0b899f695f3c410a9d365c87b61",
+          "title": "OpenAI 宣布全面开放决策 API：基于 GPT‑6 Luna，每百万 token 输入 0.1 美元",
+          "url": "https://www.ithome.com/1/016/771.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-22T23:48:13Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f0e68af7a6245bed179263133e47930e9308ba9f",
+          "title": "OpenAI 全面开放决策 API：GPT‑6 Luna 上阵，输入百万 token 仅 0.1 美元",
+          "url": "https://www.aibase.com/news/31818",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T02:12:21.821307Z"
+        },
+        {
+          "id": "c97a83458f57d73a69da8841ed7de9b410d7294e",
+          "title": "OpenAI 全面开放决策 API：基于 GPT‑6 Luna，输入百万 token 仅 0.1 美元",
+          "url": "https://www.aibase.com/zh/news/31818",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a3925a8be817a0b899f695f3c410a9d365c87b61",
+          "title": "OpenAI 宣布全面开放决策 API：基于 GPT‑6 Luna，每百万 token 输入 0.1 美元",
+          "url": "https://www.ithome.com/1/016/771.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-22T23:48:13Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T23:48:13Z",
+      "latest_at": "2026-10-23T02:12:21.821307Z",
+      "primary_item": {
+        "id": "f0e68af7a6245bed179263133e47930e9308ba9f",
+        "title": "OpenAI 全面开放决策 API：GPT‑6 Luna 上阵，输入百万 token 仅 0.1 美元",
+        "url": "https://www.aibase.com/news/31818",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_655df0fb22ac",
+      "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+      "primary_url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
+          "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
+          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T14:30:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
+          "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
+          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T14:30:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8446,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T14:30:24Z",
+      "latest_at": "2026-10-22T14:30:24Z",
+      "primary_item": {
+        "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
+        "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
+        "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
+        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -182,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8484,
-      "importance": 0.8484,
-      "importance_score": 0.8484,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.98,
+        "recency": 0.9454,
         "story_heat": 0.0
       },
       "category": "official",
@@ -205,130 +429,6 @@
         "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
         "title": "Custom skills, agents, and MCP servers in usage metrics API",
         "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_655df0fb22ac",
-      "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-      "primary_url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
-          "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
-          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T14:30:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
-          "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
-          "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T14:30:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8754,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T14:30:24Z",
-      "latest_at": "2026-10-22T14:30:24Z",
-      "primary_item": {
-        "id": "6a5fe38f7b1d1bcdd3c9b35c933fbcf0e0176b6e",
-        "title": "超越树木覆盖：绘制世界森林类型图 / Beyond tree cover: mapping the world’s forest types",
-        "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_658f804bcd1d",
-      "title": "Global default for Copilot features generally available",
-      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Global default for Copilot features generally available",
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Global default for Copilot features generally available",
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9579,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T20:44:28Z",
-      "latest_at": "2026-10-22T20:44:28Z",
-      "primary_item": {
-        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-        "title": "Global default for Copilot features generally available",
-        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -368,15 +468,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.8358,
+      "importance": 0.8358,
+      "importance_score": 0.8358,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.897,
+        "recency": 0.8654,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,6 +492,68 @@
         "title": "OlmoEarth v1.3：整个地球最先进的嵌入 / OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
         "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_658f804bcd1d",
+      "title": "Global default for Copilot features generally available",
+      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+          "title": "Global default for Copilot features generally available",
+          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T20:44:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+          "title": "Global default for Copilot features generally available",
+          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T20:44:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9241,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T20:44:28Z",
+      "latest_at": "2026-10-22T20:44:28Z",
+      "primary_item": {
+        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
+        "title": "Global default for Copilot features generally available",
+        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -430,15 +592,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7742,
+        "recency": 0.7469,
         "story_heat": 0.0
       },
       "category": "official",
@@ -492,15 +654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7726,
+      "importance": 0.7726,
+      "importance_score": 0.7726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9443,
+        "recency": 0.911,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -553,15 +715,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9209,
+        "recency": 0.8885,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -633,15 +795,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8384,
+        "recency": 0.8089,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -657,128 +819,6 @@
         "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
         "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a14d9858d209",
-      "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-      "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-      "primary_url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-      "source": "Newcomer 新闻长文（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
-          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-          "source": "Newcomer 新闻长文（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T15:53:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Newcomer 新闻长文（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
-          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-          "source": "Newcomer 新闻长文（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T15:53:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8932,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T15:53:55Z",
-      "latest_at": "2026-10-22T15:53:55Z",
-      "primary_item": {
-        "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
-        "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
-        "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
-        "source": "Newcomer 新闻长文（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_24fe5ab62d36",
-      "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-      "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-      "primary_url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-      "source": "404 Media（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
-          "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T14:23:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "404 Media（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
-          "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-22T14:23:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.874,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T14:23:36Z",
-      "latest_at": "2026-10-22T14:23:36Z",
-      "primary_item": {
-        "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
-        "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
-        "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
-        "source": "404 Media（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -836,15 +876,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.77,
+      "importance": 0.77,
+      "importance_score": 0.77,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7338,
+        "recency": 0.7079,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -864,111 +904,49 @@
       }
     },
     {
-      "story_id": "story_c655f75f90af",
-      "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-      "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-      "primary_url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-          "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T16:28:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-          "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-          "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T16:28:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9007,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T16:28:24Z",
-      "latest_at": "2026-10-22T16:28:24Z",
-      "primary_item": {
-        "id": "e30a9f9228ed0e2efdadaba9e9c8cafa417722b0",
-        "title": "Copilot 影响仪表板中的行业比较 / Industry comparisons in the Copilot impact dashboard",
-        "url": "https://github.blog/changelog/2026-10-22-industry-comparisons-in-the-copilot-impact-dashboard",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_a14d9858d209",
+      "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+      "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+      "primary_url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+      "source": "Newcomer 新闻长文（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "57b779c46686bc1954136c094928ec6605314308",
-          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-          "source": "公众号：数字生命卡兹克",
+          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
+          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+          "source": "Newcomer 新闻长文（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T00:06:00Z"
+          "published_at": "2026-10-22T15:53:55Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "Newcomer 新闻长文（RSS）"
       ],
       "items": [
         {
-          "id": "57b779c46686bc1954136c094928ec6605314308",
-          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-          "source": "公众号：数字生命卡兹克",
+          "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
+          "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+          "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+          "source": "Newcomer 新闻长文（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T00:06:00Z"
+          "published_at": "2026-10-22T15:53:55Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7696,
-      "importance": 0.7696,
-      "importance_score": 0.7696,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.711,
+        "recency": 0.8617,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -976,14 +954,156 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T00:06:00Z",
-      "latest_at": "2026-10-22T00:06:00Z",
+      "earliest_at": "2026-10-22T15:53:55Z",
+      "latest_at": "2026-10-22T15:53:55Z",
       "primary_item": {
-        "id": "57b779c46686bc1954136c094928ec6605314308",
-        "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
-        "source": "公众号：数字生命卡兹克",
+        "id": "c58bf6b63a6cac1dbe94c7eaf8950cb52fb622b1",
+        "title": "Anthropic 股权表内幕：风投迟到多年，如今无人持股超 2%",
+        "url": "https://www.newcomer.co/p/the-story-of-anthropics-cap-table",
+        "source": "Newcomer 新闻长文（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_24fe5ab62d36",
+      "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
+      "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+      "primary_url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+      "source": "404 Media（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
+          "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
+          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T14:23:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "404 Media（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
+          "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
+          "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T14:23:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8432,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T14:23:36Z",
+      "latest_at": "2026-10-22T14:23:36Z",
+      "primary_item": {
+        "id": "e8f1c1a48dd6fb4bbe9fba18b1997acfa1948f19",
+        "title": "404 Media 分析 PHP2Shell 事件如何改变 AI 时代的攻防格局",
+        "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next",
+        "source": "404 Media（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1e6764da0096",
+      "title": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+      "url": "https://www.aibase.com/news/31816",
+      "primary_url": "https://www.aibase.com/news/31816",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1581f20f22bc9070eac5ed2dd87c3e007fe4fdee",
+          "title": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+          "url": "https://www.aibase.com/news/31816",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T02:12:21.821307Z"
+        },
+        {
+          "id": "465b46312a71ae12a89d1c2aaf44f77adebed8bf",
+          "title": "MiniMax 开源 M3.1 Flash：总参数 428B、激活参数 23B，72 小时处理 Token 超 100 万亿",
+          "url": "https://www.aibase.com/zh/news/31816",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1581f20f22bc9070eac5ed2dd87c3e007fe4fdee",
+          "title": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+          "url": "https://www.aibase.com/news/31816",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T02:12:21.821307Z"
+        },
+        {
+          "id": "465b46312a71ae12a89d1c2aaf44f77adebed8bf",
+          "title": "MiniMax 开源 M3.1 Flash：总参数 428B、激活参数 23B，72 小时处理 Token 超 100 万亿",
+          "url": "https://www.aibase.com/zh/news/31816",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T02:12:21.821307Z",
+      "latest_at": "2026-10-23T02:12:21.821307Z",
+      "primary_item": {
+        "id": "1581f20f22bc9070eac5ed2dd87c3e007fe4fdee",
+        "title": "MiniMax开源M3.1 Flash：总参数428B、激活参数23B，72小时处理Token超100万亿",
+        "url": "https://www.aibase.com/news/31816",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1021,15 +1141,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8886,
+        "recency": 0.8572,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1045,87 +1165,6 @@
         "url": "https://blog.redwoodresearch.org/p/red-teaming-openais-internal-agent",
         "source": "Redwood Research：Blog（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9b0534e0b9af",
-      "title": "英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机",
-      "url": "https://www.aibase.com/news/31803",
-      "primary_url": "https://www.aibase.com/news/31803",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8ff758464ae575f862472a3868c4c254515a71d6",
-          "title": "英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机",
-          "url": "https://www.aibase.com/news/31803",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-22T12:08:30.665662Z"
-        },
-        {
-          "id": "aa8bdf7811f5b26e7861ff87569d57891cee5242",
-          "title": "英伟达升级 Isaac 通用机器人平台并发布 Agile ONE SN 人形样机",
-          "url": "https://www.aibase.com/zh/news/31803",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8ff758464ae575f862472a3868c4c254515a71d6",
-          "title": "英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机",
-          "url": "https://www.aibase.com/news/31803",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-22T12:08:30.665662Z"
-        },
-        {
-          "id": "aa8bdf7811f5b26e7861ff87569d57891cee5242",
-          "title": "英伟达升级 Isaac 通用机器人平台并发布 Agile ONE SN 人形样机",
-          "url": "https://www.aibase.com/zh/news/31803",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.846,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T12:08:30.665662Z",
-      "latest_at": "2026-10-22T12:08:30.665662Z",
-      "primary_item": {
-        "id": "8ff758464ae575f862472a3868c4c254515a71d6",
-        "title": "英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机",
-        "url": "https://www.aibase.com/news/31803",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1163,15 +1202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8232,
-      "importance": 0.8232,
-      "importance_score": 0.8232,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7953,
+        "recency": 0.7672,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1225,15 +1264,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.887,
+        "recency": 0.8557,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1252,49 +1291,49 @@
       }
     },
     {
-      "story_id": "story_9e1ae24ea61d",
-      "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-      "url": "https://x.com/claudeai/status/2113360845409583307",
-      "primary_url": "https://x.com/claudeai/status/2113360845409583307",
-      "source": "X：Claude (@claudeai)",
+      "story_id": "story_fa0854b13011",
+      "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
+      "url": "https://x.com/MiniMax_AI/status/2113436864904610008",
+      "primary_url": "https://x.com/MiniMax_AI/status/2113436864904610008",
+      "source": "X：MiniMax (@MiniMax_AI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-          "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-          "url": "https://x.com/claudeai/status/2113360845409583307",
-          "source": "X：Claude (@claudeai)",
+          "id": "c3283467934d61e65d46ffe70f26283a6fe3106a",
+          "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
+          "url": "https://x.com/MiniMax_AI/status/2113436864904610008",
+          "source": "X：MiniMax (@MiniMax_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T20:04:24Z"
+          "published_at": "2026-10-23T01:06:29Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Claude (@claudeai)"
+        "X：MiniMax (@MiniMax_AI)"
       ],
       "items": [
         {
-          "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-          "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-          "url": "https://x.com/claudeai/status/2113360845409583307",
-          "source": "X：Claude (@claudeai)",
+          "id": "c3283467934d61e65d46ffe70f26283a6fe3106a",
+          "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
+          "url": "https://x.com/MiniMax_AI/status/2113436864904610008",
+          "source": "X：MiniMax (@MiniMax_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-22T20:04:24Z"
+          "published_at": "2026-10-23T01:06:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9487,
+        "recency": 0.9843,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1302,13 +1341,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T20:04:24Z",
-      "latest_at": "2026-10-22T20:04:24Z",
+      "earliest_at": "2026-10-23T01:06:29Z",
+      "latest_at": "2026-10-23T01:06:29Z",
       "primary_item": {
-        "id": "34d0fdc7f22bba3a5ddc7a131c3e37f3cb047186",
-        "title": "Claude 网页、桌面和移动端将默认启用 auto mode",
-        "url": "https://x.com/claudeai/status/2113360845409583307",
-        "source": "X：Claude (@claudeai)",
+        "id": "c3283467934d61e65d46ffe70f26283a6fe3106a",
+        "title": "MiniMax 开放 M3.1 Flash 权重：428B 总参数、每 token 激活 23B",
+        "url": "https://x.com/MiniMax_AI/status/2113436864904610008",
+        "source": "X：MiniMax (@MiniMax_AI)",
         "source_name": "AI HOT"
       }
     }
