@@ -1,70 +1,8 @@
 {
-  "generated_at": "2026-10-24T21:16:40.128947Z",
+  "generated_at": "2026-10-24T23:26:24.271629Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_62c869d7dbe2",
-      "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
-      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-      "primary_url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
-          "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
-          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T21:29:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
-          "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
-          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T21:29:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7094,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T21:29:58Z",
-      "latest_at": "2026-10-23T21:29:58Z",
-      "primary_item": {
-        "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
-        "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
-        "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_a720d84afe9d",
       "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
@@ -119,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7982,
-      "importance": 0.7982,
-      "importance_score": 0.7982,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8647,
+        "recency": 0.8381,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -143,67 +81,6 @@
         "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
         "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1f039fd87625",
-      "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-      "url": "https://x.com/emollick/status/2114001653879672877",
-      "primary_url": "https://x.com/emollick/status/2114001653879672877",
-      "source": "X：Ethan Mollick (@emollick)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
-          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-          "url": "https://x.com/emollick/status/2114001653879672877",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T14:30:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Ethan Mollick (@emollick)"
-      ],
-      "items": [
-        {
-          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
-          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-          "url": "https://x.com/emollick/status/2114001653879672877",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T14:30:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9069,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-24T14:30:45Z",
-      "latest_at": "2026-10-24T14:30:45Z",
-      "primary_item": {
-        "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
-        "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-        "url": "https://x.com/emollick/status/2114001653879672877",
-        "source": "X：Ethan Mollick (@emollick)",
         "source_name": "AI HOT"
       }
     },
@@ -242,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7958,
-      "importance": 0.7958,
-      "importance_score": 0.7958,
+      "score": 0.7918,
+      "importance": 0.7918,
+      "importance_score": 0.7918,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7323,
+        "recency": 0.7098,
         "story_heat": 0.0
       },
       "category": "official",
@@ -270,49 +147,49 @@
       }
     },
     {
-      "story_id": "story_3130243d7b87",
-      "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-      "url": "https://x.com/OpenAI/status/2113766354386084338",
-      "primary_url": "https://x.com/OpenAI/status/2113766354386084338",
-      "source": "X：OpenAI (@OpenAI)",
+      "story_id": "story_1f039fd87625",
+      "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+      "url": "https://x.com/emollick/status/2114001653879672877",
+      "primary_url": "https://x.com/emollick/status/2114001653879672877",
+      "source": "X：Ethan Mollick (@emollick)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8955336bb918f3a84db49c7d425f022048fe0904",
-          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-          "url": "https://x.com/OpenAI/status/2113766354386084338",
-          "source": "X：OpenAI (@OpenAI)",
+          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
+          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+          "url": "https://x.com/emollick/status/2114001653879672877",
+          "source": "X：Ethan Mollick (@emollick)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-23T22:55:45Z"
+          "published_at": "2026-10-24T14:30:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenAI (@OpenAI)"
+        "X：Ethan Mollick (@emollick)"
       ],
       "items": [
         {
-          "id": "8955336bb918f3a84db49c7d425f022048fe0904",
-          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-          "url": "https://x.com/OpenAI/status/2113766354386084338",
-          "source": "X：OpenAI (@OpenAI)",
+          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
+          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+          "url": "https://x.com/emollick/status/2114001653879672877",
+          "source": "X：Ethan Mollick (@emollick)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-23T22:55:45Z"
+          "published_at": "2026-10-24T14:30:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7242,
+        "recency": 0.879,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -320,13 +197,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T22:55:45Z",
-      "latest_at": "2026-10-23T22:55:45Z",
+      "earliest_at": "2026-10-24T14:30:45Z",
+      "latest_at": "2026-10-24T14:30:45Z",
       "primary_item": {
-        "id": "8955336bb918f3a84db49c7d425f022048fe0904",
-        "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-        "url": "https://x.com/OpenAI/status/2113766354386084338",
-        "source": "X：OpenAI (@OpenAI)",
+        "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
+        "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+        "url": "https://x.com/emollick/status/2114001653879672877",
+        "source": "X：Ethan Mollick (@emollick)",
         "source_name": "AI HOT"
       }
     },
@@ -365,15 +242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7586,
+        "recency": 0.7353,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -444,15 +321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9693,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -467,6 +344,84 @@
         "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_5a08291251a2",
+      "title": "Show HN：偷我的比特币 / Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com",
+      "primary_url": "https://stealmybitcoin.com",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "2cdff8085ed3404e174c6893627b62ea7dad1be6",
+          "title": "Show HN：偷我的比特币 / Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        },
+        {
+          "id": "045a73c76c9450fdbfc4f25a8b1495bdfb9027db",
+          "title": "偷我的比特币 / Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "2cdff8085ed3404e174c6893627b62ea7dad1be6",
+          "title": "Show HN：偷我的比特币 / Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        },
+        {
+          "id": "045a73c76c9450fdbfc4f25a8b1495bdfb9027db",
+          "title": "偷我的比特币 / Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9586,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T20:30:31Z",
+      "latest_at": "2026-10-24T20:30:31Z",
+      "primary_item": {
+        "id": "2cdff8085ed3404e174c6893627b62ea7dad1be6",
+        "title": "Show HN：偷我的比特币 / Show HN: Steal My Bitcoin",
+        "url": "https://stealmybitcoin.com",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -542,15 +497,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.841,
+        "recency": 0.8151,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -569,7 +524,7 @@
     },
     {
       "story_id": "story_074b7d5e1602",
-      "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+      "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "primary_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "source": "Hacker News (黑客新闻)",
@@ -577,7 +532,7 @@
       "sources": [
         {
           "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -586,7 +541,7 @@
         },
         {
           "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
           "url": "https://news.ycombinator.com/item?id=50224463",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -602,7 +557,7 @@
       "items": [
         {
           "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -611,7 +566,7 @@
         },
         {
           "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
           "url": "https://news.ycombinator.com/item?id=50224463",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -621,15 +576,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5366,
+      "importance": 0.5366,
+      "importance_score": 0.5366,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9787,
+        "recency": 0.9486,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -640,7 +595,7 @@
       "latest_at": "2026-10-24T19:47:19Z",
       "primary_item": {
         "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
-        "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+        "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
         "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
@@ -700,15 +655,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9044,
+        "recency": 0.8765,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -722,6 +677,85 @@
         "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题",
         "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
         "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3b420475dea7",
+      "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言",
+      "url": "https://github.com/byenzyme/enzyme",
+      "primary_url": "https://github.com/byenzyme/enzyme",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "be151a2cd7b3ff804d59a2ca6bdece2a71b3374a",
+          "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言",
+          "url": "https://github.com/byenzyme/enzyme",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T13:31:48.382000Z"
+        },
+        {
+          "id": "e43f3d9507ce75a09452fbc371a0ac71409eeac4",
+          "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言 / Show HN: Enzyme – a programming language that compiles wikis for agents",
+          "url": "https://github.com/byenzyme/enzyme",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T13:30:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "be151a2cd7b3ff804d59a2ca6bdece2a71b3374a",
+          "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言",
+          "url": "https://github.com/byenzyme/enzyme",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T13:31:48.382000Z"
+        },
+        {
+          "id": "e43f3d9507ce75a09452fbc371a0ac71409eeac4",
+          "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言 / Show HN: Enzyme – a programming language that compiles wikis for agents",
+          "url": "https://github.com/byenzyme/enzyme",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T13:30:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5218,
+      "importance": 0.5218,
+      "importance_score": 0.5218,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8667,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T13:30:18Z",
+      "latest_at": "2026-10-24T13:31:48.382000Z",
+      "primary_item": {
+        "id": "be151a2cd7b3ff804d59a2ca6bdece2a71b3374a",
+        "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言",
+        "url": "https://github.com/byenzyme/enzyme",
+        "source": "github.com",
         "source_name": "Buzzing"
       }
     },
@@ -779,15 +813,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5237,
-      "importance": 0.5237,
-      "importance_score": 0.5237,
+      "score": 0.5188,
+      "importance": 0.5188,
+      "importance_score": 0.5188,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8771,
+        "recency": 0.8501,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -858,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8764,
+        "recency": 0.8495,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -881,85 +915,6 @@
         "url": "https://github.com/Nutlope/hallmark",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_8ef9c99c3688",
-      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T11:18:54Z"
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T11:18:54Z"
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.866,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T11:18:54Z",
-      "latest_at": "2026-10-24T11:18:54Z",
-      "primary_item": {
-        "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1016,15 +971,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5088,
-      "importance": 0.5088,
-      "importance_score": 0.5088,
+      "score": 0.5044,
+      "importance": 0.5044,
+      "importance_score": 0.5044,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7943,
+        "recency": 0.7699,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1095,15 +1050,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9549,
+        "recency": 0.9256,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1174,15 +1129,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8907,
+        "recency": 0.8633,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1253,15 +1208,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8764,
+        "recency": 0.8495,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1276,6 +1231,85 @@
         "url": "https://github.com/pollen-robotics/microduck",
         "source": "github",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_8ef9c99c3688",
+      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T11:18:54Z"
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T11:18:54Z"
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5169,
+      "importance": 0.5169,
+      "importance_score": 0.5169,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8394,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T11:18:54Z",
+      "latest_at": "2026-10-24T11:18:54Z",
+      "primary_item": {
+        "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1332,15 +1366,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5132,
-      "importance": 0.5132,
-      "importance_score": 0.5132,
+      "score": 0.5087,
+      "importance": 0.5087,
+      "importance_score": 0.5087,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.819,
+        "recency": 0.7938,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1411,15 +1445,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9211,
+        "recency": 0.8928,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1490,15 +1524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5236,
-      "importance": 0.5236,
-      "importance_score": 0.5236,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8764,
+        "recency": 0.8495,
         "story_heat": 0.25
       },
       "category": "watch",
