@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T02:10:50.262582Z",
+  "generated_at": "2026-10-24T07:26:52.026401Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -30,6 +30,15 @@
           "published_at": "2026-10-23T10:00:00Z"
         },
         {
+          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+          "title": "保障我们的前沿模型训练环境安全",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T06:38:45.839000Z"
+        },
+        {
           "id": "a639b129ef2c5a1b8740e48309dc143bcccd2cf3",
           "title": "OpenAI 详解前沿模型训练环境的安全加固措施",
           "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
@@ -39,11 +48,12 @@
           "published_at": null
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "OpenAI News",
         "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "Readhub · AI"
+        "Readhub · AI",
+        "openai.com"
       ],
       "items": [
         {
@@ -65,6 +75,15 @@
           "published_at": "2026-10-23T10:00:00Z"
         },
         {
+          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+          "title": "保障我们的前沿模型训练环境安全",
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T06:38:45.839000Z"
+        },
+        {
           "id": "a639b129ef2c5a1b8740e48309dc143bcccd2cf3",
           "title": "OpenAI 详解前沿模型训练环境的安全加固措施",
           "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
@@ -74,18 +93,18 @@
           "published_at": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8645,
-      "importance": 0.8645,
-      "importance_score": 0.8645,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8791,
+      "importance": 0.8791,
+      "importance_score": 0.8791,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7916,
-        "story_heat": 0.5
+        "recency": 0.7337,
+        "story_heat": 0.75
       },
       "category": "official",
       "reasons": [
@@ -95,7 +114,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-10-23T10:00:00Z",
-      "latest_at": "2026-10-23T20:42:34.869297Z",
+      "latest_at": "2026-10-24T06:38:45.839000Z",
       "primary_item": {
         "id": "c454633931fc080d83f73a727cbc6af5769ae497",
         "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
@@ -139,15 +158,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8666,
+        "recency": 0.8031,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8402,
-      "importance": 0.8402,
-      "importance_score": 0.8402,
+      "score": 0.8279,
+      "importance": 0.8279,
+      "importance_score": 0.8279,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9346,
+        "recency": 0.8662,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,68 +243,6 @@
         "id": "0a71e3d318d0c7fd2e0f0bea1f082ce0ad117ce5",
         "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
         "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ba4d3ab8dded",
-      "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-      "primary_url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T23:42:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T23:42:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9648,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T23:42:03Z",
-      "latest_at": "2026-10-23T23:42:03Z",
-      "primary_item": {
-        "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-        "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -325,15 +282,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8261,
+      "importance": 0.8261,
+      "importance_score": 0.8261,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8758,
+        "recency": 0.8117,
         "story_heat": 0.0
       },
       "category": "official",
@@ -349,6 +306,68 @@
         "title": "快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
         "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ba4d3ab8dded",
+      "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "primary_url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T23:42:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T23:42:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8942,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T23:42:03Z",
+      "latest_at": "2026-10-23T23:42:03Z",
+      "primary_item": {
+        "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
+        "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
+        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -387,15 +406,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9541,
+        "recency": 0.8843,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -414,49 +433,49 @@
       }
     },
     {
-      "story_id": "story_b528f011bfc9",
-      "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-      "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-      "primary_url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-      "source": "Moonshot AI：Kimi Blog",
+      "story_id": "story_6cbde97d8260",
+      "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
+      "source": "公众号：数字生命卡兹克",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
-          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-          "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-          "source": "Moonshot AI：Kimi Blog",
+          "id": "257c8fc53004654a0ab1d677f825da914fa4f7ce",
+          "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-23T16:00:00Z"
+          "published_at": "2026-10-24T02:08:43Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Moonshot AI：Kimi Blog"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
-          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-          "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-          "source": "Moonshot AI：Kimi Blog",
+          "id": "257c8fc53004654a0ab1d677f825da914fa4f7ce",
+          "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
+          "source": "公众号：数字生命卡兹克",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-23T16:00:00Z"
+          "published_at": "2026-10-24T02:08:43Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8633,
+        "recency": 0.9263,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -464,13 +483,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T16:00:00Z",
-      "latest_at": "2026-10-23T16:00:00Z",
+      "earliest_at": "2026-10-24T02:08:43Z",
+      "latest_at": "2026-10-24T02:08:43Z",
       "primary_item": {
-        "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
-        "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-        "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-        "source": "Moonshot AI：Kimi Blog",
+        "id": "257c8fc53004654a0ab1d677f825da914fa4f7ce",
+        "title": "Kimi 发布开源旗舰模型 K3.1 Pro：2.8T 参数、100万 Token 上下文，实测 3D 与视频动效",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -528,15 +547,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7897,
+        "recency": 0.7318,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -556,65 +575,64 @@
       }
     },
     {
-      "story_id": "story_2d587e070d12",
-      "title": "EMU 删除修复 / EMU deletions fix",
-      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-      "primary_url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_b528f011bfc9",
+      "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+      "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
+      "primary_url": "https://www.kimi.com/blog/kimi-k3-1-pro",
+      "source": "Moonshot AI：Kimi Blog",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-          "title": "EMU 删除修复 / EMU deletions fix",
-          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T18:56:18Z"
+          "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
+          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+          "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
+          "source": "Moonshot AI：Kimi Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T16:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Moonshot AI：Kimi Blog"
       ],
       "items": [
         {
-          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-          "title": "EMU 删除修复 / EMU deletions fix",
-          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T18:56:18Z"
+          "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
+          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+          "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
+          "source": "Moonshot AI：Kimi Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
-      "importance_label": "官方更新",
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9007,
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8001,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T18:56:18Z",
-      "latest_at": "2026-10-23T18:56:18Z",
+      "earliest_at": "2026-10-23T16:00:00Z",
+      "latest_at": "2026-10-23T16:00:00Z",
       "primary_item": {
-        "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-        "title": "EMU 删除修复 / EMU deletions fix",
-        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
+        "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
+        "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
+        "source": "Moonshot AI：Kimi Blog",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -671,15 +689,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7835,
+        "recency": 0.7261,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -696,6 +714,68 @@
         "url": "https://www.ithome.com/1/017/113.htm",
         "source": "IT之家·人工智能",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2d587e070d12",
+      "title": "EMU 删除修复 / EMU deletions fix",
+      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "primary_url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+          "title": "EMU 删除修复 / EMU deletions fix",
+          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T18:56:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+          "title": "EMU 删除修复 / EMU deletions fix",
+          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T18:56:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8347,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T18:56:18Z",
+      "latest_at": "2026-10-23T18:56:18Z",
+      "primary_item": {
+        "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+        "title": "EMU 删除修复 / EMU deletions fix",
+        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -733,15 +813,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8297,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -756,67 +836,6 @@
         "title": "月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型",
         "url": "https://x.com/OpenRouter/status/2113699820124934334",
         "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1fe2d2d93057",
-      "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-      "url": "https://x.com/alexeheath/status/2113706585348600220",
-      "primary_url": "https://x.com/alexeheath/status/2113706585348600220",
-      "source": "X：Alex Heath (@alexeheath)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0660435b5774283dc1ad20a682099ba88a42a425",
-          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-          "url": "https://x.com/alexeheath/status/2113706585348600220",
-          "source": "X：Alex Heath (@alexeheath)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T18:58:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Alex Heath (@alexeheath)"
-      ],
-      "items": [
-        {
-          "id": "0660435b5774283dc1ad20a682099ba88a42a425",
-          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-          "url": "https://x.com/alexeheath/status/2113706585348600220",
-          "source": "X：Alex Heath (@alexeheath)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T18:58:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9011,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T18:58:15Z",
-      "latest_at": "2026-10-23T18:58:15Z",
-      "primary_item": {
-        "id": "0660435b5774283dc1ad20a682099ba88a42a425",
-        "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-        "url": "https://x.com/alexeheath/status/2113706585348600220",
-        "source": "X：Alex Heath (@alexeheath)",
         "source_name": "AI HOT"
       }
     },
@@ -874,15 +893,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8255,
+        "recency": 0.7651,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -899,6 +918,66 @@
         "url": "https://www.aibase.com/news/31841",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1fe2d2d93057",
+      "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+      "url": "https://x.com/alexeheath/status/2113706585348600220",
+      "primary_url": "https://x.com/alexeheath/status/2113706585348600220",
+      "source": "X：Alex Heath (@alexeheath)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0660435b5774283dc1ad20a682099ba88a42a425",
+          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+          "url": "https://x.com/alexeheath/status/2113706585348600220",
+          "source": "X：Alex Heath (@alexeheath)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T18:58:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Alex Heath (@alexeheath)"
+      ],
+      "items": [
+        {
+          "id": "0660435b5774283dc1ad20a682099ba88a42a425",
+          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+          "url": "https://x.com/alexeheath/status/2113706585348600220",
+          "source": "X：Alex Heath (@alexeheath)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-23T18:58:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8351,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T18:58:15Z",
+      "latest_at": "2026-10-23T18:58:15Z",
+      "primary_item": {
+        "id": "0660435b5774283dc1ad20a682099ba88a42a425",
+        "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
+        "url": "https://x.com/alexeheath/status/2113706585348600220",
+        "source": "X：Alex Heath (@alexeheath)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -936,21 +1015,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8791,
+        "recency": 0.8147,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-23T17:15:24Z",
       "latest_at": "2026-10-23T17:15:24Z",
@@ -997,15 +1075,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8511,
+        "recency": 0.7887,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,66 +1097,6 @@
         "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
         "url": "https://x.com/fal/status/2113646807997620396",
         "source": "X：fal (@fal)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0038c49ecae2",
-      "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
-      "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
-          "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
-          "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T06:04:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
-          "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
-          "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T06:04:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7481,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T06:04:55Z",
-      "latest_at": "2026-10-23T06:04:55Z",
-      "primary_item": {
-        "id": "81db8060d36870e13c889c0bc355e2f558aa4c14",
-        "title": "WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员",
-        "url": "https://x.com/rohanpaul_ai/status/2113511968112042349",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -1117,15 +1135,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8796,
+        "recency": 0.8152,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1198,15 +1216,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8255,
+        "recency": 0.7651,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1260,15 +1278,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8516,
+        "recency": 0.7892,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1341,22 +1359,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7662,
+        "recency": 0.7101,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-23T07:44:30.862671Z",
       "latest_at": "2026-10-23T07:44:30.862671Z",
