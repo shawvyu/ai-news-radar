@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T18:52:13.331071Z",
+  "generated_at": "2026-10-24T21:16:40.128947Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7345,
+        "recency": 0.7094,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8647,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -181,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.939,
+        "recency": 0.9069,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -242,15 +242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7582,
+        "recency": 0.7323,
         "story_heat": 0.0
       },
       "category": "official",
@@ -304,15 +304,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7498,
+        "recency": 0.7242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -365,15 +365,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7421,
+      "importance": 0.7421,
+      "importance_score": 0.7421,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7854,
+        "recency": 0.7586,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -391,275 +391,82 @@
       }
     },
     {
-      "story_id": "story_2d587e070d12",
-      "title": "EMU 删除修复 / EMU deletions fix",
-      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-      "primary_url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_cdf697355512",
+      "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+      "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+      "primary_url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-          "title": "EMU 删除修复 / EMU deletions fix",
-          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T18:56:18Z"
+          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
+          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
+          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-24T20:05:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "Readhub · AI",
+        "TechRadar"
       ],
       "items": [
         {
-          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-          "title": "EMU 删除修复 / EMU deletions fix",
-          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T18:56:18Z"
+          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
+          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
+          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-24T20:05:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7078,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T18:56:18Z",
-      "latest_at": "2026-10-23T18:56:18Z",
-      "primary_item": {
-        "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
-        "title": "EMU 删除修复 / EMU deletions fix",
-        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1fe2d2d93057",
-      "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-      "url": "https://x.com/alexeheath/status/2113706585348600220",
-      "primary_url": "https://x.com/alexeheath/status/2113706585348600220",
-      "source": "X：Alex Heath (@alexeheath)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0660435b5774283dc1ad20a682099ba88a42a425",
-          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-          "url": "https://x.com/alexeheath/status/2113706585348600220",
-          "source": "X：Alex Heath (@alexeheath)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T18:58:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Alex Heath (@alexeheath)"
-      ],
-      "items": [
-        {
-          "id": "0660435b5774283dc1ad20a682099ba88a42a425",
-          "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-          "url": "https://x.com/alexeheath/status/2113706585348600220",
-          "source": "X：Alex Heath (@alexeheath)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T18:58:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7271,
-      "importance": 0.7271,
-      "importance_score": 0.7271,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7081,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T18:58:15Z",
-      "latest_at": "2026-10-23T18:58:15Z",
-      "primary_item": {
-        "id": "0660435b5774283dc1ad20a682099ba88a42a425",
-        "title": "Sundar Pichai 解释 Demis Hassabis 退出 DeepMind 日常管理与 Jeff Dean 离职",
-        "url": "https://x.com/alexeheath/status/2113706585348600220",
-        "source": "X：Alex Heath (@alexeheath)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "Kimi K3.1 Pro 正式发布，拥有 3 万亿参数和 100 万上下文，重点提升了编程、3D创作、金融研究及长程 Agent 能力，高速版输出快 2～3 倍。文中用游戏开发、CAD 建模、财务模型等案例展示了真实的交付效果，一起看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-23",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "d5cf45f99571712240e0661c28cb0299cdce15fe",
-          "title": "Kimi K3.1 Pro 正式发布，拥有 3 万亿参数和 100 万上下文，重点提升了编程、3D创作、金融研究及长程 Agent 能力，高速版输出快 2～3 倍。文中用游戏开发、CAD 建模、财务模型等案例展示了真实的交付效果，一起看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-23T20:42:34.869297Z"
-        },
-        {
-          "id": "9c19f0e94af1d61a9600e2fef113709a6f569dae",
-          "title": "为什么只用 5.2 万条示例、训练 3 小时，就能把只会续写的 LLaMA 变成会听指令的助手，却依然会答错坦桑尼亚首都？关键在于，指令微调主要改变模型“怎么回答”，不会凭空补充知识。这篇文章适合想入门大模型后训练的开发者，读完你也能把指令微调的原理、流程与边界一次理顺。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-23T20:42:34.869297Z"
-        },
-        {
-          "id": "718a5eea9c229bcf1ce02a119f3e1dbf2f1329c3",
-          "title": "京东 Aidol 创造营里，29 支队伍用 48 小时把创意变成Demo：听障者做 AI 街舞辅助，轮椅用户尝试意念控制，羽毛球教练独立开发陪练设备。小歪从导师视角记录了一场 AI 时代的黑客松。一起看看她都看到了哪些有趣的幕后故事！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-23T20:42:34.869297Z"
-        },
-        {
-          "id": "71cc7c4f894b855731e44f806760668b9e0e9f70",
-          "title": "很多新手依赖“许愿式编程”快速产原型，却极易留下安全漏洞与技术烂摊子。作者分享了了一套可直接发给AI的审查提示词，搭配完整上线检查清单，让AI逐项核验权限隔离、支付逻辑、数据安全与代码规范，优先揪出数据泄露、服务宕机等高风险问题。当然，这份工具只能降低隐患，真正稳定的付费产品，依然离不开人把控架构、排查Bug与维护运维。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-23T20:42:34.869297Z"
-        },
-        {
-          "id": "4c0ec921ae1c1c0d001a955fd7c76134f8710a77",
-          "title": "想靠 Claude Opus 5.5 生成视频却总踩坑？这份指南梳理了全套技术栈，覆盖 Canvas、Three.js、Remotion 等方案，拆解了16类视频场景，配套可直接复制的风格+技术提示词。同时还汇总了8款开箱即用的开源Skill，从科普水墨、产品拆解到像素RPG都有成熟模板，帮你精准控制画面质感、镜头语言，不用反复试错，高效产出风格稳定的代码动画短片。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-23T20:42:34.869297Z"
-        },
-        {
-          "id": "0eaeb75873cbc7ac92ca9b5fdb8bd43e1d46820d",
-          "title": "是不是也被Codex杂乱的聊天列表困住？同一件事散在多处，找历史对话如同开盲盒。作者开源了聊天整理Skill，选定范围后，它会自动生成规范标题与项目分组方案，帮你把零散的对话收拢成清晰可追溯的项目资料库。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-23T20:42:34.869297Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "社区更新 · 2026-10-23"
-      ],
-      "items": [
-        {
-          "id": "d5cf45f99571712240e0661c28cb0299cdce15fe",
-          "title": "Kimi K3.1 Pro 正式发布，拥有 3 万亿参数和 100 万上下文，重点提升了编程、3D创作、金融研究及长程 Agent 能力，高速版输出快 2～3 倍。文中用游戏开发、CAD 建模、财务模型等案例展示了真实的交付效果，一起看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-23T20:42:34.869297Z"
-        },
-        {
-          "id": "9c19f0e94af1d61a9600e2fef113709a6f569dae",
-          "title": "为什么只用 5.2 万条示例、训练 3 小时，就能把只会续写的 LLaMA 变成会听指令的助手，却依然会答错坦桑尼亚首都？关键在于，指令微调主要改变模型“怎么回答”，不会凭空补充知识。这篇文章适合想入门大模型后训练的开发者，读完你也能把指令微调的原理、流程与边界一次理顺。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-23T20:42:34.869297Z"
-        },
-        {
-          "id": "718a5eea9c229bcf1ce02a119f3e1dbf2f1329c3",
-          "title": "京东 Aidol 创造营里，29 支队伍用 48 小时把创意变成Demo：听障者做 AI 街舞辅助，轮椅用户尝试意念控制，羽毛球教练独立开发陪练设备。小歪从导师视角记录了一场 AI 时代的黑客松。一起看看她都看到了哪些有趣的幕后故事！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-23T20:42:34.869297Z"
-        },
-        {
-          "id": "71cc7c4f894b855731e44f806760668b9e0e9f70",
-          "title": "很多新手依赖“许愿式编程”快速产原型，却极易留下安全漏洞与技术烂摊子。作者分享了了一套可直接发给AI的审查提示词，搭配完整上线检查清单，让AI逐项核验权限隔离、支付逻辑、数据安全与代码规范，优先揪出数据泄露、服务宕机等高风险问题。当然，这份工具只能降低隐患，真正稳定的付费产品，依然离不开人把控架构、排查Bug与维护运维。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-23T20:42:34.869297Z"
-        },
-        {
-          "id": "4c0ec921ae1c1c0d001a955fd7c76134f8710a77",
-          "title": "想靠 Claude Opus 5.5 生成视频却总踩坑？这份指南梳理了全套技术栈，覆盖 Canvas、Three.js、Remotion 等方案，拆解了16类视频场景，配套可直接复制的风格+技术提示词。同时还汇总了8款开箱即用的开源Skill，从科普水墨、产品拆解到像素RPG都有成熟模板，帮你精准控制画面质感、镜头语言，不用反复试错，高效产出风格稳定的代码动画短片。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-23T20:42:34.869297Z"
-        },
-        {
-          "id": "0eaeb75873cbc7ac92ca9b5fdb8bd43e1d46820d",
-          "title": "是不是也被Codex杂乱的聊天列表困住？同一件事散在多处，找历史对话如同开盲盒。作者开源了聊天整理Skill，选定范围后，它会自动生成规范标题与项目分组方案，帮你把零散的对话收拢成清晰可追溯的项目资料库。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-23",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-23T20:42:34.869297Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6199,
-      "importance": 0.6199,
-      "importance_score": 0.6199,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7261,
-        "story_heat": 1.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-23T20:42:34.869297Z",
-      "latest_at": "2026-10-23T20:42:34.869297Z",
+      "earliest_at": "2026-10-24T20:05:00Z",
+      "latest_at": "2026-10-24T21:16:40.128947Z",
       "primary_item": {
-        "id": "d5cf45f99571712240e0661c28cb0299cdce15fe",
-        "title": "Kimi K3.1 Pro 正式发布，拥有 3 万亿参数和 100 万上下文，重点提升了编程、3D创作、金融研究及长程 Agent 能力，高速版输出快 2～3 倍。文中用游戏开发、CAD 建模、财务模型等案例展示了真实的交付效果，一起看看！",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-23",
-        "source_name": "WaytoAGI"
+        "id": "768deac0d0a50019e3f416322efce528fc494a6e",
+        "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+        "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -735,15 +542,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5475,
-      "importance": 0.5475,
-      "importance_score": 0.5475,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8707,
+        "recency": 0.841,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -761,128 +568,30 @@
       }
     },
     {
-      "story_id": "story_48e2274fdf2b",
-      "title": "保障我们的前沿模型训练环境安全",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
-          "title": "保障我们的前沿模型训练环境安全",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T06:38:45.839000Z"
-        },
-        {
-          "id": "a639b129ef2c5a1b8740e48309dc143bcccd2cf3",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固措施",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e2d6fec9e4f7ace18483a2bc779d841a37e634a6",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固措施 / Securing our frontier model training environment",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T19:50:56Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Readhub · AI",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
-          "title": "保障我们的前沿模型训练环境安全",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T06:38:45.839000Z"
-        },
-        {
-          "id": "a639b129ef2c5a1b8740e48309dc143bcccd2cf3",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固措施",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e2d6fec9e4f7ace18483a2bc779d841a37e634a6",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固措施 / Securing our frontier model training environment",
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T19:50:56Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8382,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-23T19:50:56Z",
-      "latest_at": "2026-10-24T06:38:45.839000Z",
-      "primary_item": {
-        "id": "1918442280c89123af768e8d5ef1c994a2bace17",
-        "title": "保障我们的前沿模型训练环境安全",
-        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-        "source": "openai.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_79c7fe33c787",
-      "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "story_id": "story_074b7d5e1602",
+      "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "primary_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T15:35:17Z"
+          "published_at": "2026-10-24T19:47:19Z"
         },
         {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://news.ycombinator.com/item?id=50222283",
+          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
+          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "url": "https://news.ycombinator.com/item?id=50224463",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z"
+          "published_at": "2026-10-24T19:47:19Z"
         }
       ],
       "source_count": 2,
@@ -892,47 +601,47 @@
       ],
       "items": [
         {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T15:35:17Z"
+          "published_at": "2026-10-24T19:47:19Z"
         },
         {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://news.ycombinator.com/item?id=50222283",
+          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
+          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "url": "https://news.ycombinator.com/item?id=50224463",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z"
+          "published_at": "2026-10-24T19:47:19Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9537,
+        "recency": 0.9787,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T15:35:17Z",
-      "latest_at": "2026-10-24T15:35:17Z",
+      "earliest_at": "2026-10-24T19:47:19Z",
+      "latest_at": "2026-10-24T19:47:19Z",
       "primary_item": {
-        "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+        "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+        "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
@@ -991,15 +700,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9363,
+        "recency": 0.9044,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1070,15 +779,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5293,
-      "importance": 0.5293,
-      "importance_score": 0.5293,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9081,
+        "recency": 0.8771,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1149,15 +858,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5291,
-      "importance": 0.5291,
-      "importance_score": 0.5291,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9074,
+        "recency": 0.8764,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1175,82 +884,82 @@
       }
     },
     {
-      "story_id": "story_5f9e5c761c6c",
-      "title": "Anthropic 联合英国 AISI 发布 AI 网络测试失控事件调查报告，并透露一款未发布内部研究模型能力超过 Mythos 5.1",
-      "url": "https://www.ithome.com/1/017/375.htm",
-      "primary_url": "https://www.ithome.com/1/017/375.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_8ef9c99c3688",
+      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "2fdfc89e5c3b0e72861c8aca5d29ab3c3e0218b6",
-          "title": "Anthropic 联合英国 AISI 发布 AI 网络测试失控事件调查报告，并透露一款未发布内部研究模型能力超过 Mythos 5.1",
-          "url": "https://www.ithome.com/1/017/375.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T11:18:54Z"
         },
         {
-          "id": "5a6258a32426574a8eada96210c90926822c3ad8",
-          "title": "Anthropic 亮出未发布 AI 模型：能力比 Mythos 5.1 更强，也更“守规矩”",
-          "url": "https://www.ithome.com/1/017/375.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T06:16:59Z"
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "2fdfc89e5c3b0e72861c8aca5d29ab3c3e0218b6",
-          "title": "Anthropic 联合英国 AISI 发布 AI 网络测试失控事件调查报告，并透露一款未发布内部研究模型能力超过 Mythos 5.1",
-          "url": "https://www.ithome.com/1/017/375.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T11:18:54Z"
         },
         {
-          "id": "5a6258a32426574a8eada96210c90926822c3ad8",
-          "title": "Anthropic 亮出未发布 AI 模型：能力比 Mythos 5.1 更强，也更“守规矩”",
-          "url": "https://www.ithome.com/1/017/375.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T06:16:59Z"
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
+      "score": 0.5217,
+      "importance": 0.5217,
+      "importance_score": 0.5217,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8479,
+        "recency": 0.866,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T06:16:59Z",
-      "latest_at": "2026-10-24T07:26:52.026401Z",
+      "earliest_at": "2026-10-24T11:18:54Z",
+      "latest_at": "2026-10-24T11:18:54Z",
       "primary_item": {
-        "id": "2fdfc89e5c3b0e72861c8aca5d29ab3c3e0218b6",
-        "title": "Anthropic 联合英国 AISI 发布 AI 网络测试失控事件调查报告，并透露一款未发布内部研究模型能力超过 Mythos 5.1",
-        "url": "https://www.ithome.com/1/017/375.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1307,15 +1016,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5138,
-      "importance": 0.5138,
-      "importance_score": 0.5138,
+      "score": 0.5088,
+      "importance": 0.5088,
+      "importance_score": 0.5088,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8224,
+        "recency": 0.7943,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1333,81 +1042,82 @@
       }
     },
     {
-      "story_id": "story_3b960390c150",
-      "title": "OpenAI 在完成安全全面审查后恢复前沿人工智能训练，并披露了某款广泛使用的软件中的漏洞",
-      "url": "https://www.reuters.com/business/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-2026-10-23",
-      "primary_url": "https://www.reuters.com/business/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-2026-10-23",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
+      "story_id": "story_81c8fd74d5e2",
+      "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "primary_url": "https://arxiv.org/abs/2610.29162",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "4c4818efa8fe8f6cf04c2cdef6296570c846fa56",
-          "title": "OpenAI 在完成安全全面审查后恢复前沿人工智能训练，并披露了某款广泛使用的软件中的漏洞",
-          "url": "https://www.reuters.com/business/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-2026-10-23",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T01:08:07.751000Z"
+          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T18:04:57Z"
         },
         {
-          "id": "b076da88bd18ba086c8a0133156accd220632895",
-          "title": "OpenAI 在加强安全措施且断开互联网连接的情况下，恢复了前沿人工智能训练",
-          "url": "https://www.reuters.com/business/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-2026-10-23",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-23T20:22:51.436000Z"
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "url": "https://news.ycombinator.com/item?id=50223647",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T18:04:57Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "www.reuters.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "4c4818efa8fe8f6cf04c2cdef6296570c846fa56",
-          "title": "OpenAI 在完成安全全面审查后恢复前沿人工智能训练，并披露了某款广泛使用的软件中的漏洞",
-          "url": "https://www.reuters.com/business/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-2026-10-23",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T01:08:07.751000Z"
+          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T18:04:57Z"
         },
         {
-          "id": "b076da88bd18ba086c8a0133156accd220632895",
-          "title": "OpenAI 在加强安全措施且断开互联网连接的情况下，恢复了前沿人工智能训练",
-          "url": "https://www.reuters.com/business/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-2026-10-23",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-23T20:22:51.436000Z"
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "url": "https://news.ycombinator.com/item?id=50223647",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T18:04:57Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7741,
+        "recency": 0.9549,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-23T20:22:51.436000Z",
-      "latest_at": "2026-10-24T01:08:07.751000Z",
+      "earliest_at": "2026-10-24T18:04:57Z",
+      "latest_at": "2026-10-24T18:04:57Z",
       "primary_item": {
-        "id": "4c4818efa8fe8f6cf04c2cdef6296570c846fa56",
-        "title": "OpenAI 在完成安全全面审查后恢复前沿人工智能训练，并披露了某款广泛使用的软件中的漏洞",
-        "url": "https://www.reuters.com/business/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-2026-10-23",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
+        "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+        "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+        "url": "https://arxiv.org/abs/2610.29162",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1464,15 +1174,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
+      "score": 0.5261,
+      "importance": 0.5261,
+      "importance_score": 0.5261,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9222,
+        "recency": 0.8907,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1543,15 +1253,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5291,
-      "importance": 0.5291,
-      "importance_score": 0.5291,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9074,
+        "recency": 0.8764,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1564,6 +1274,243 @@
         "id": "42817cfeb8b62232464742063153ce777637fa70",
         "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
         "url": "https://github.com/pollen-robotics/microduck",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_5f9e5c761c6c",
+      "title": "Anthropic 联合英国 AISI 发布 AI 网络测试失控事件调查报告，并透露一款未发布内部研究模型能力超过 Mythos 5.1",
+      "url": "https://www.ithome.com/1/017/375.htm",
+      "primary_url": "https://www.ithome.com/1/017/375.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "2fdfc89e5c3b0e72861c8aca5d29ab3c3e0218b6",
+          "title": "Anthropic 联合英国 AISI 发布 AI 网络测试失控事件调查报告，并透露一款未发布内部研究模型能力超过 Mythos 5.1",
+          "url": "https://www.ithome.com/1/017/375.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "5a6258a32426574a8eada96210c90926822c3ad8",
+          "title": "Anthropic 亮出未发布 AI 模型：能力比 Mythos 5.1 更强，也更“守规矩”",
+          "url": "https://www.ithome.com/1/017/375.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T06:16:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "2fdfc89e5c3b0e72861c8aca5d29ab3c3e0218b6",
+          "title": "Anthropic 联合英国 AISI 发布 AI 网络测试失控事件调查报告，并透露一款未发布内部研究模型能力超过 Mythos 5.1",
+          "url": "https://www.ithome.com/1/017/375.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "5a6258a32426574a8eada96210c90926822c3ad8",
+          "title": "Anthropic 亮出未发布 AI 模型：能力比 Mythos 5.1 更强，也更“守规矩”",
+          "url": "https://www.ithome.com/1/017/375.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T06:16:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5132,
+      "importance": 0.5132,
+      "importance_score": 0.5132,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.819,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T06:16:59Z",
+      "latest_at": "2026-10-24T07:26:52.026401Z",
+      "primary_item": {
+        "id": "2fdfc89e5c3b0e72861c8aca5d29ab3c3e0218b6",
+        "title": "Anthropic 联合英国 AISI 发布 AI 网络测试失控事件调查报告，并透露一款未发布内部研究模型能力超过 Mythos 5.1",
+        "url": "https://www.ithome.com/1/017/375.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_79c7fe33c787",
+      "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T15:35:17Z"
+        },
+        {
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://news.ycombinator.com/item?id=50222283",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T15:35:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T15:35:17Z"
+        },
+        {
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://news.ycombinator.com/item?id=50222283",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T15:35:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9211,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T15:35:17Z",
+      "latest_at": "2026-10-24T15:35:17Z",
+      "primary_item": {
+        "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_9ad5ce51a997",
+      "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "primary_url": "https://github.com/google-gemini/gemini-cli",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
+          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:08:38.338000Z"
+        },
+        {
+          "id": "caed36981fdbcaa9ea58e8671a57e2a226c7fd63",
+          "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
+          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:08:38.338000Z"
+        },
+        {
+          "id": "caed36981fdbcaa9ea58e8671a57e2a226c7fd63",
+          "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8764,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T12:07:13.254323Z",
+      "latest_at": "2026-10-24T12:08:38.338000Z",
+      "primary_item": {
+        "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
+        "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
+        "url": "https://github.com/google-gemini/gemini-cli",
         "source": "github",
         "source_name": "NewsNow"
       }
