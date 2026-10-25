@@ -1,89 +1,8 @@
 {
-  "generated_at": "2026-10-25T06:20:26.371570Z",
+  "generated_at": "2026-10-25T11:49:28.827240Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_a720d84afe9d",
-      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-      "primary_url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z"
-        },
-        {
-          "id": "93e6eb95c54e01b64a8508f71835e12d1b24796e",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-24T11:12:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z"
-        },
-        {
-          "id": "93e6eb95c54e01b64a8508f71835e12d1b24796e",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-24T11:12:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7792,
-      "importance": 0.7792,
-      "importance_score": 0.7792,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7586,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-24T11:12:36Z",
-      "latest_at": "2026-10-24T11:12:36Z",
-      "primary_item": {
-        "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
-        "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-        "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
     {
       "story_id": "story_1f039fd87625",
       "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
@@ -119,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7957,
+        "recency": 0.7351,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -142,6 +61,102 @@
         "url": "https://x.com/emollick/status/2114001653879672877",
         "source": "X：Ethan Mollick (@emollick)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-24",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "60acc00d2db894a036798fb5489bd7aa981ffc22",
+          "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T11:49:28.827240Z"
+        },
+        {
+          "id": "77a541d714c0bdd3818bd33f5d77812615c114b7",
+          "title": "两个 Agent 一起干活，最累的往往是人：写完复制给审查方，改完再贴回去，窗口开得越多，协作越像接力搬砖。作者实测了 Agent Relay，展示了如何让 Claude Code 写代码、Codex 直接审查并多轮回传修改意见。安装、连接、权限设置和常见报错都配了截图，新手也能跟着跑通。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T11:49:28.827240Z"
+        },
+        {
+          "id": "009d86b27708bf8021595dc3acffd778e0040b5b",
+          "title": "很多团队把 Agent 接进 Slack，就以为大功告成了；真跑进业务后才发现，谁有权限、该记住什么、后台何时自己动起来，往往比模型会不会回答更难。LangChain 用市场、工程、内容三类内部 Agent，拆出“公司智能体”的五个关键环节：工作入口、身份权限、两层记忆、安全沙箱和定时触发。适合正把 Agent 从 Demo 推向团队协作的开发者和负责人，值得收藏细看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T11:49:28.827240Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "社区更新 · 2026-10-24"
+      ],
+      "items": [
+        {
+          "id": "60acc00d2db894a036798fb5489bd7aa981ffc22",
+          "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T11:49:28.827240Z"
+        },
+        {
+          "id": "77a541d714c0bdd3818bd33f5d77812615c114b7",
+          "title": "两个 Agent 一起干活，最累的往往是人：写完复制给审查方，改完再贴回去，窗口开得越多，协作越像接力搬砖。作者实测了 Agent Relay，展示了如何让 Claude Code 写代码、Codex 直接审查并多轮回传修改意见。安装、连接、权限设置和常见报错都配了截图，新手也能跟着跑通。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T11:49:28.827240Z"
+        },
+        {
+          "id": "009d86b27708bf8021595dc3acffd778e0040b5b",
+          "title": "很多团队把 Agent 接进 Slack，就以为大功告成了；真跑进业务后才发现，谁有权限、该记住什么、后台何时自己动起来，往往比模型会不会回答更难。LangChain 用市场、工程、内容三类内部 Agent，拆出“公司智能体”的五个关键环节：工作入口、身份权限、两层记忆、安全沙箱和定时触发。适合正把 Agent 从 Demo 推向团队协作的开发者和负责人，值得收藏细看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-24",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-25T11:49:28.827240Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6192,
+      "importance": 0.6192,
+      "importance_score": 0.6192,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T11:49:28.827240Z",
+      "latest_at": "2026-10-25T11:49:28.827240Z",
+      "primary_item": {
+        "id": "60acc00d2db894a036798fb5489bd7aa981ffc22",
+        "title": "AI 助理扎堆出现，表面上都在帮你订票、卖闲置、整理工作，真正争的是“有事先找谁”的入口。作者拆解 了Instinct、Meta Muse 与 Grok Bot 的不同打法：短信联系人、社交生态、数字同事团队。没有单纯地从产品功能角度切入，还把长期记忆、云端执行、越权风险、平台封锁和盈利困境讲的很透。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-10-24",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -198,15 +213,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6062,
-      "importance": 0.6062,
-      "importance_score": 0.6062,
+      "score": 0.6028,
+      "importance": 0.6028,
+      "importance_score": 0.6028,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 1.0,
+        "recency": 0.9811,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -224,101 +239,259 @@
       }
     },
     {
-      "story_id": "story_8f5707e9a13c",
-      "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "www.apricitas.io",
+      "story_id": "story_2325af3360e0",
+      "title": "Cerebras 部署了万亿参数的人工智能模型",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "primary_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "source": "www.cerebras.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "www.apricitas.io",
+          "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+          "title": "Cerebras 部署了万亿参数的人工智能模型",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "www.cerebras.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-25T01:05:14.415000Z"
+          "published_at": "2026-10-25T07:05:49.244000Z"
         },
         {
-          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
+          "title": "Cerebras 部署了万亿参数的人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T23:11:54Z"
+          "published_at": "2026-10-25T01:33:49Z"
         },
         {
-          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
-          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://news.ycombinator.com/item?id=50226419",
+          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
+          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://news.ycombinator.com/item?id=50227356",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T23:11:54Z"
+          "published_at": "2026-10-25T01:33:49Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
         "hackernews",
-        "www.apricitas.io"
+        "www.cerebras.ai"
       ],
       "items": [
         {
-          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "www.apricitas.io",
+          "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+          "title": "Cerebras 部署了万亿参数的人工智能模型",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "source": "www.cerebras.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-25T01:05:14.415000Z"
+          "published_at": "2026-10-25T07:05:49.244000Z"
         },
         {
-          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
+          "title": "Cerebras 部署了万亿参数的人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T23:11:54Z"
+          "published_at": "2026-10-25T01:33:49Z"
         },
         {
-          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
-          "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://news.ycombinator.com/item?id=50226419",
+          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
+          "title": "Cerebras 部署万亿参数人工智能模型 / Cerebras Deploys Trillion-Parameter AI Models",
+          "url": "https://news.ycombinator.com/item?id=50227356",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T23:11:54Z"
+          "published_at": "2026-10-25T01:33:49Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5577,
-      "importance": 0.5577,
-      "importance_score": 0.5577,
+      "score": 0.5589,
+      "importance": 0.5589,
+      "importance_score": 0.5589,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9269,
+        "recency": 0.934,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T23:11:54Z",
-      "latest_at": "2026-10-25T01:05:14.415000Z",
+      "earliest_at": "2026-10-25T01:33:49Z",
+      "latest_at": "2026-10-25T07:05:49.244000Z",
       "primary_item": {
-        "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
-        "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-        "source": "www.apricitas.io",
+        "id": "e1d77e1ce605edf952f344c063f9a4e8bb5b4e68",
+        "title": "Cerebras 部署了万亿参数的人工智能模型",
+        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "source": "www.cerebras.ai",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_117d2cb5f38a",
+      "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel /      claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "primary_url": "https://github.com/AgriciDaniel/claude-seo",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
+          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel /      claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T11:50:57.847000Z"
+        },
+        {
+          "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
+          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel / claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
+          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel /      claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-25T11:50:57.847000Z"
+        },
+        {
+          "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
+          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel / claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T11:49:28.827240Z",
+      "latest_at": "2026-10-25T11:50:57.847000Z",
+      "primary_item": {
+        "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
+        "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel /      claude-seo",
+        "url": "https://github.com/AgriciDaniel/claude-seo",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_4ad36024772c",
+      "title": "月入过亿的 Tipsy 与 PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
+      "url": "https://www.huxiu.com/article/4900289.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900289.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4476f4a2781f7f24cf00f3acea051813cd015033",
+          "title": "月入过亿的 Tipsy 与 PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
+          "url": "https://www.huxiu.com/article/4900289.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "97c26324decfaaa86c3bce0e4d709592b471008d",
+          "title": "月入过亿的Tipsy 与PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
+          "url": "https://www.huxiu.com/article/4900289.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T10:52:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "4476f4a2781f7f24cf00f3acea051813cd015033",
+          "title": "月入过亿的 Tipsy 与 PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
+          "url": "https://www.huxiu.com/article/4900289.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "97c26324decfaaa86c3bce0e4d709592b471008d",
+          "title": "月入过亿的Tipsy 与PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
+          "url": "https://www.huxiu.com/article/4900289.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T10:52:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T10:52:18Z",
+      "latest_at": "2026-10-25T11:49:28.827240Z",
+      "primary_item": {
+        "id": "4476f4a2781f7f24cf00f3acea051813cd015033",
+        "title": "月入过亿的 Tipsy 与 PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
+        "url": "https://www.huxiu.com/article/4900289.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -394,15 +567,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5576,
-      "importance": 0.5576,
-      "importance_score": 0.5576,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9269,
+        "recency": 0.8563,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -437,12 +610,12 @@
           "published_at": "2026-10-25T01:04:53.332000Z"
         },
         {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
           "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T19:47:19Z"
         },
         {
@@ -457,7 +630,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.apollo.com"
       ],
@@ -472,12 +645,12 @@
           "published_at": "2026-10-25T01:04:53.332000Z"
         },
         {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
           "title": "科技行业以外尚未出现人工智能带来回报的迹象 / No signs of AI payoff outside the tech sector",
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-10-24T19:47:19Z"
         },
         {
@@ -492,15 +665,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5576,
-      "importance": 0.5576,
-      "importance_score": 0.5576,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9269,
+        "recency": 0.8563,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -518,109 +691,207 @@
       }
     },
     {
-      "story_id": "story_28adfff6869c",
-      "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-      "url": "https://www.huxiu.com/article/4900222.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4900222.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_8f5707e9a13c",
+      "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "www.apricitas.io",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "www.apricitas.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:05:14.415000Z"
         },
         {
-          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T02:00:00Z"
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.apricitas.io"
+      ],
+      "items": [
+        {
+          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "www.apricitas.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:05:14.415000Z"
+        },
+        {
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8564,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T23:11:54Z",
+      "latest_at": "2026-10-25T01:05:14.415000Z",
+      "primary_item": {
+        "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
+        "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "source": "www.apricitas.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a3b16960f1a4",
+      "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+      "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+      "primary_url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T11:14:34.160000Z"
+        },
+        {
+          "id": "141e210f28cacdcbcf9f59f749eada004f782ca1",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势 / One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T11:00:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T11:14:34.160000Z"
         },
         {
-          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T02:00:00Z"
+          "id": "141e210f28cacdcbcf9f59f749eada004f782ca1",
+          "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势 / One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
+          "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T11:00:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5443,
+      "importance": 0.5443,
+      "importance_score": 0.5443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9916,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T02:00:00Z",
-      "latest_at": "2026-10-25T06:20:26.371570Z",
+      "earliest_at": "2026-10-25T11:00:01Z",
+      "latest_at": "2026-10-25T11:14:34.160000Z",
       "primary_item": {
-        "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
-        "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-        "url": "https://www.huxiu.com/article/4900222.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "6a07af57ba18514b3aaf7ad05f6c1bea25554ece",
+        "title": "谷歌DeepMind的一位高管表示，在人工智能领域，终身学习者将更具优势",
+        "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_2325af3360e0",
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "primary_url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "story_id": "story_b82b80f16782",
+      "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+      "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+      "primary_url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T01:33:49Z"
+          "published_at": "2026-10-25T09:51:17Z"
         },
         {
-          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://news.ycombinator.com/item?id=50227356",
+          "id": "9ead1b7969bc141da842777d5178ddf70c5e2547",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "url": "https://news.ycombinator.com/item?id=50229827",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-25T01:33:49Z"
+          "published_at": "2026-10-25T09:51:17Z"
         }
       ],
       "source_count": 2,
@@ -630,47 +901,47 @@
       ],
       "items": [
         {
-          "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+          "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T01:33:49Z"
+          "published_at": "2026-10-25T09:51:17Z"
         },
         {
-          "id": "c60843a9d88a05bb6226e001174471b09ee66920",
-          "title": "Cerebras Deploys Trillion-Parameter AI Models",
-          "url": "https://news.ycombinator.com/item?id=50227356",
+          "id": "9ead1b7969bc141da842777d5178ddf70c5e2547",
+          "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+          "url": "https://news.ycombinator.com/item?id=50229827",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-25T01:33:49Z"
+          "published_at": "2026-10-25T09:51:17Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
+      "score": 0.5408,
+      "importance": 0.5408,
+      "importance_score": 0.5408,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9333,
+        "recency": 0.972,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T01:33:49Z",
-      "latest_at": "2026-10-25T01:33:49Z",
+      "earliest_at": "2026-10-25T09:51:17Z",
+      "latest_at": "2026-10-25T09:51:17Z",
       "primary_item": {
-        "id": "afa998c7bad1bbc38d3abe6965589aa8c94002d9",
-        "title": "Cerebras Deploys Trillion-Parameter AI Models",
-        "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+        "id": "137b0ff5eda3bddef55a0391cbec6684558df0cb",
+        "title": "科学家发现人工智能迹象后尼康摄影大赛冠军失去冠军头衔 / Nikon photography contest winner loses title after scientists spot signs of AI",
+        "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
@@ -728,15 +999,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.522,
-      "importance": 0.522,
-      "importance_score": 0.522,
+      "score": 0.5101,
+      "importance": 0.5101,
+      "importance_score": 0.5101,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8676,
+        "recency": 0.8016,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -754,109 +1025,30 @@
       }
     },
     {
-      "story_id": "story_c1c90875f513",
-      "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
-      "url": "https://www.ithome.com/1/017/557.htm",
-      "primary_url": "https://www.ithome.com/1/017/557.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
-          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
-          "url": "https://www.ithome.com/1/017/557.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "449fd5155e4d91a7a0ed94028eb64d8ae8aa3e58",
-          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
-          "url": "https://www.ithome.com/1/017/557.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T02:29:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
-          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
-          "url": "https://www.ithome.com/1/017/557.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "449fd5155e4d91a7a0ed94028eb64d8ae8aa3e58",
-          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
-          "url": "https://www.ithome.com/1/017/557.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T02:29:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T02:29:30Z",
-      "latest_at": "2026-10-25T06:20:26.371570Z",
-      "primary_item": {
-        "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
-        "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
-        "url": "https://www.ithome.com/1/017/557.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e5b4b31b3612",
-      "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题",
-      "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
-      "primary_url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
+      "story_id": "story_0075f2e21c87",
+      "title": "比尔·盖茨警告称，在人工智能创造“真正的丰裕”之前，世界将经历20年的动荡时期",
+      "url": "https://www.businessinsider.com/bill-gates-ai-abundance-job-losses-unemployment-robots-musk-amodei-2026-10",
+      "primary_url": "https://www.businessinsider.com/bill-gates-ai-abundance-job-losses-unemployment-robots-musk-amodei-2026-10",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "87d62e68fcdbef37c7669950ec00ca09f67e37b8",
-          "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题",
-          "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
+          "id": "c60a96847d46ec51b0783db38b958066cb832f31",
+          "title": "比尔·盖茨警告称，在人工智能创造“真正的丰裕”之前，世界将经历20年的动荡时期",
+          "url": "https://www.businessinsider.com/bill-gates-ai-abundance-job-losses-unemployment-robots-musk-amodei-2026-10",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-24T14:18:56.294000Z"
+          "published_at": "2026-10-25T09:10:57.817000Z"
         },
         {
-          "id": "565822e19993dc18fc8ce1afafa694078cb0845f",
-          "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题 / The AI data center boom has a ghost problem",
-          "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
+          "id": "b405e5749bb23ca89e0ff59e66df6891e28fd309",
+          "title": "比尔·盖茨警告称，在人工智能创造“真正的丰裕”之前，世界将经历20年的动荡时期 / Bill Gates predicts 20 years of turmoil before AI creates 'true abundance'",
+          "url": "https://www.businessinsider.com/bill-gates-ai-abundance-job-losses-unemployment-robots-musk-amodei-2026-10",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-24T14:00:01Z"
+          "published_at": "2026-10-25T08:37:01Z"
         }
       ],
       "source_count": 2,
@@ -866,49 +1058,128 @@
       ],
       "items": [
         {
-          "id": "87d62e68fcdbef37c7669950ec00ca09f67e37b8",
-          "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题",
-          "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
+          "id": "c60a96847d46ec51b0783db38b958066cb832f31",
+          "title": "比尔·盖茨警告称，在人工智能创造“真正的丰裕”之前，世界将经历20年的动荡时期",
+          "url": "https://www.businessinsider.com/bill-gates-ai-abundance-job-losses-unemployment-robots-musk-amodei-2026-10",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-24T14:18:56.294000Z"
+          "published_at": "2026-10-25T09:10:57.817000Z"
         },
         {
-          "id": "565822e19993dc18fc8ce1afafa694078cb0845f",
-          "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题 / The AI data center boom has a ghost problem",
-          "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
+          "id": "b405e5749bb23ca89e0ff59e66df6891e28fd309",
+          "title": "比尔·盖茨警告称，在人工智能创造“真正的丰裕”之前，世界将经历20年的动荡时期 / Bill Gates predicts 20 years of turmoil before AI creates 'true abundance'",
+          "url": "https://www.businessinsider.com/bill-gates-ai-abundance-job-losses-unemployment-robots-musk-amodei-2026-10",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-24T14:00:01Z"
+          "published_at": "2026-10-25T08:37:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5086,
-      "importance": 0.5086,
-      "importance_score": 0.5086,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7934,
+        "recency": 0.9626,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T14:00:01Z",
-      "latest_at": "2026-10-24T14:18:56.294000Z",
+      "earliest_at": "2026-10-25T08:37:01Z",
+      "latest_at": "2026-10-25T09:10:57.817000Z",
       "primary_item": {
-        "id": "87d62e68fcdbef37c7669950ec00ca09f67e37b8",
-        "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题",
-        "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
+        "id": "c60a96847d46ec51b0783db38b958066cb832f31",
+        "title": "比尔·盖茨警告称，在人工智能创造“真正的丰裕”之前，世界将经历20年的动荡时期",
+        "url": "https://www.businessinsider.com/bill-gates-ai-abundance-job-losses-unemployment-robots-musk-amodei-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_28adfff6869c",
+      "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+      "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900222.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T02:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T02:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9239,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T02:00:00Z",
+      "latest_at": "2026-10-25T06:20:26.371570Z",
+      "primary_item": {
+        "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+        "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+        "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -965,15 +1236,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.507,
-      "importance": 0.507,
-      "importance_score": 0.507,
+      "score": 0.4963,
+      "importance": 0.4963,
+      "importance_score": 0.4963,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7845,
+        "recency": 0.7247,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1044,15 +1315,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5043,
-      "importance": 0.5043,
-      "importance_score": 0.5043,
+      "score": 0.4938,
+      "importance": 0.4938,
+      "importance_score": 0.4938,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7695,
+        "recency": 0.7109,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1067,6 +1338,164 @@
         "url": "https://homepage.farm/ai.html",
         "source": "homepage.farm",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c1c90875f513",
+      "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
+      "url": "https://www.ithome.com/1/017/557.htm",
+      "primary_url": "https://www.ithome.com/1/017/557.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
+          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
+          "url": "https://www.ithome.com/1/017/557.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "449fd5155e4d91a7a0ed94028eb64d8ae8aa3e58",
+          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
+          "url": "https://www.ithome.com/1/017/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T02:29:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
+          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
+          "url": "https://www.ithome.com/1/017/557.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "449fd5155e4d91a7a0ed94028eb64d8ae8aa3e58",
+          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
+          "url": "https://www.ithome.com/1/017/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T02:29:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9239,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T02:29:30Z",
+      "latest_at": "2026-10-25T06:20:26.371570Z",
+      "primary_item": {
+        "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
+        "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
+        "url": "https://www.ithome.com/1/017/557.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_79c7fe33c787",
+      "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "8edb78d4281318f7283191af552c8732be334942",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T15:35:17Z"
+        },
+        {
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://news.ycombinator.com/item?id=50222283",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T15:35:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8edb78d4281318f7283191af552c8732be334942",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T15:35:17Z"
+        },
+        {
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://news.ycombinator.com/item?id=50222283",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T15:35:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5002,
+      "importance": 0.5002,
+      "importance_score": 0.5002,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7466,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T15:35:17Z",
+      "latest_at": "2026-10-24T15:35:17Z",
+      "primary_item": {
+        "id": "8edb78d4281318f7283191af552c8732be334942",
+        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1123,15 +1552,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5042,
-      "importance": 0.5042,
-      "importance_score": 0.5042,
+      "score": 0.4937,
+      "importance": 0.4937,
+      "importance_score": 0.4937,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7689,
+        "recency": 0.7104,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1149,109 +1578,30 @@
       }
     },
     {
-      "story_id": "story_79c7fe33c787",
-      "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T15:35:17Z"
-        },
-        {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://news.ycombinator.com/item?id=50222283",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T15:35:17Z"
-        },
-        {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://news.ycombinator.com/item?id=50222283",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5113,
-      "importance": 0.5113,
-      "importance_score": 0.5113,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8081,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T15:35:17Z",
-      "latest_at": "2026-10-24T15:35:17Z",
-      "primary_item": {
-        "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_90327388595c",
-      "title": "揭秘那场让AI威胁成为现实的网络漏洞应对风波",
-      "url": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
-      "primary_url": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
+      "story_id": "story_e5b4b31b3612",
+      "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题",
+      "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
+      "primary_url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "245c5106aabfb4d9b1a025527a2fd73c773d6ec4",
-          "title": "揭秘那场让AI威胁成为现实的网络漏洞应对风波",
-          "url": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
+          "id": "87d62e68fcdbef37c7669950ec00ca09f67e37b8",
+          "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题",
+          "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-24T13:15:40.353000Z"
+          "published_at": "2026-10-24T14:18:56.294000Z"
         },
         {
-          "id": "3904c46d2854eef3fe2480a816b1800331803d16",
-          "title": "揭秘那场让AI威胁成为现实的网络漏洞应对风波 / Inside the cyber flaw scramble that brought the AI threat to life",
-          "url": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
+          "id": "565822e19993dc18fc8ce1afafa694078cb0845f",
+          "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题 / The AI data center boom has a ghost problem",
+          "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-24T13:01:22Z"
+          "published_at": "2026-10-24T14:00:01Z"
         }
       ],
       "source_count": 2,
@@ -1261,365 +1611,49 @@
       ],
       "items": [
         {
-          "id": "245c5106aabfb4d9b1a025527a2fd73c773d6ec4",
-          "title": "揭秘那场让AI威胁成为现实的网络漏洞应对风波",
-          "url": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
+          "id": "87d62e68fcdbef37c7669950ec00ca09f67e37b8",
+          "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题",
+          "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-24T13:15:40.353000Z"
+          "published_at": "2026-10-24T14:18:56.294000Z"
         },
         {
-          "id": "3904c46d2854eef3fe2480a816b1800331803d16",
-          "title": "揭秘那场让AI威胁成为现实的网络漏洞应对风波 / Inside the cyber flaw scramble that brought the AI threat to life",
-          "url": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
+          "id": "565822e19993dc18fc8ce1afafa694078cb0845f",
+          "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题 / The AI data center boom has a ghost problem",
+          "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-10-24T13:01:22Z"
+          "published_at": "2026-10-24T14:00:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5065,
-      "importance": 0.5065,
-      "importance_score": 0.5065,
+      "score": 0.4977,
+      "importance": 0.4977,
+      "importance_score": 0.4977,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7814,
+        "recency": 0.733,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T13:01:22Z",
-      "latest_at": "2026-10-24T13:15:40.353000Z",
+      "earliest_at": "2026-10-24T14:00:01Z",
+      "latest_at": "2026-10-24T14:18:56.294000Z",
       "primary_item": {
-        "id": "245c5106aabfb4d9b1a025527a2fd73c773d6ec4",
-        "title": "揭秘那场让AI威胁成为现实的网络漏洞应对风波",
-        "url": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
+        "id": "87d62e68fcdbef37c7669950ec00ca09f67e37b8",
+        "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题",
+        "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3f27b55d4844",
-      "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "primary_url": "https://github.com/pollen-robotics/microduck",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "42817cfeb8b62232464742063153ce777637fa70",
-          "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:08:38.338000Z"
-        },
-        {
-          "id": "a554ac2e555adb2785386776372606be5b7bc789",
-          "title": "花粉机器人/微型鸭 / pollen-robotics / microduck",
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "42817cfeb8b62232464742063153ce777637fa70",
-          "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:08:38.338000Z"
-        },
-        {
-          "id": "a554ac2e555adb2785386776372606be5b7bc789",
-          "title": "花粉机器人/微型鸭 / pollen-robotics / microduck",
-          "url": "https://github.com/pollen-robotics/microduck",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5042,
-      "importance": 0.5042,
-      "importance_score": 0.5042,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7689,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T12:07:13.254323Z",
-      "latest_at": "2026-10-24T12:08:38.338000Z",
-      "primary_item": {
-        "id": "42817cfeb8b62232464742063153ce777637fa70",
-        "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
-        "url": "https://github.com/pollen-robotics/microduck",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_8ef9c99c3688",
-      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T11:18:54Z"
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T11:18:54Z"
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5026,
-      "importance": 0.5026,
-      "importance_score": 0.5026,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7598,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T11:18:54Z",
-      "latest_at": "2026-10-24T11:18:54Z",
-      "primary_item": {
-        "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
-        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_cdf697355512",
-      "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-      "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-      "primary_url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
-          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-24T20:05:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
-          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
-          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-24T20:05:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5237,
-      "importance": 0.5237,
-      "importance_score": 0.5237,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8773,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T20:05:00Z",
-      "latest_at": "2026-10-24T21:16:40.128947Z",
-      "primary_item": {
-        "id": "768deac0d0a50019e3f416322efce528fc494a6e",
-        "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
-        "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9ad5ce51a997",
-      "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
-      "url": "https://github.com/google-gemini/gemini-cli",
-      "primary_url": "https://github.com/google-gemini/gemini-cli",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
-          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:08:38.338000Z"
-        },
-        {
-          "id": "caed36981fdbcaa9ea58e8671a57e2a226c7fd63",
-          "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
-          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:08:38.338000Z"
-        },
-        {
-          "id": "caed36981fdbcaa9ea58e8671a57e2a226c7fd63",
-          "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
-          "url": "https://github.com/google-gemini/gemini-cli",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5042,
-      "importance": 0.5042,
-      "importance_score": 0.5042,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7689,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T12:07:13.254323Z",
-      "latest_at": "2026-10-24T12:08:38.338000Z",
-      "primary_item": {
-        "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
-        "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
-        "url": "https://github.com/google-gemini/gemini-cli",
-        "source": "github",
-        "source_name": "NewsNow"
       }
     }
   ]
