@@ -1,66 +1,84 @@
 {
-  "generated_at": "2026-10-25T11:49:28.827240Z",
+  "generated_at": "2026-10-25T15:08:00.211147Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_1f039fd87625",
-      "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-      "url": "https://x.com/emollick/status/2114001653879672877",
-      "primary_url": "https://x.com/emollick/status/2114001653879672877",
-      "source": "X：Ethan Mollick (@emollick)",
-      "source_name": "AI HOT",
+      "story_id": "story_b366ba776fde",
+      "title": "r/opensource 刚刚禁止了人工智能、非英语人士等 / r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
-          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-          "url": "https://x.com/emollick/status/2114001653879672877",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T14:30:45Z"
+          "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语人士等 / r/opensource just banned AI, non-English speakers, and more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-25T13:25:32Z"
+        },
+        {
+          "id": "ea2db18dfbf6f939c35e43410a9cd863929817a2",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语使用者等 / r/opensource just banned AI, non-English speakers and more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T13:25:32Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Ethan Mollick (@emollick)"
+        "The Verge"
       ],
       "items": [
         {
-          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
-          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-          "url": "https://x.com/emollick/status/2114001653879672877",
-          "source": "X：Ethan Mollick (@emollick)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T14:30:45Z"
+          "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语人士等 / r/opensource just banned AI, non-English speakers, and more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-25T13:25:32Z"
+        },
+        {
+          "id": "ea2db18dfbf6f939c35e43410a9cd863929817a2",
+          "title": "r/opensource 刚刚禁止了人工智能、非英语使用者等 / r/opensource just banned AI, non-English speakers and more",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-25T13:25:32Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6111,
+      "importance": 0.6111,
+      "importance_score": 0.6111,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7351,
-        "story_heat": 0.0
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9756,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-24T14:30:45Z",
-      "latest_at": "2026-10-24T14:30:45Z",
+      "earliest_at": "2026-10-25T13:25:32Z",
+      "latest_at": "2026-10-25T13:25:32Z",
       "primary_item": {
-        "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
-        "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
-        "url": "https://x.com/emollick/status/2114001653879672877",
-        "source": "X：Ethan Mollick (@emollick)",
-        "source_name": "AI HOT"
+        "id": "53533632b51dcc244f7b8a1be7a98536b6b0d84b",
+        "title": "r/opensource 刚刚禁止了人工智能、非英语人士等 / r/opensource just banned AI, non-English speakers, and more",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -134,15 +152,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6192,
-      "importance": 0.6192,
-      "importance_score": 0.6192,
+      "score": 0.6108,
+      "importance": 0.6108,
+      "importance_score": 0.6108,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9533,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -213,15 +231,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6028,
-      "importance": 0.6028,
-      "importance_score": 0.6028,
+      "score": 0.5946,
+      "importance": 0.5946,
+      "importance_score": 0.5946,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.5,
         "ai_relevance": 0.7,
-        "recency": 0.9811,
+        "recency": 0.9353,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -311,15 +329,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
+      "score": 0.5511,
+      "importance": 0.5511,
+      "importance_score": 0.5511,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.934,
+        "recency": 0.8904,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -337,109 +355,30 @@
       }
     },
     {
-      "story_id": "story_117d2cb5f38a",
-      "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel /      claude-seo",
-      "url": "https://github.com/AgriciDaniel/claude-seo",
-      "primary_url": "https://github.com/AgriciDaniel/claude-seo",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
-          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel /      claude-seo",
-          "url": "https://github.com/AgriciDaniel/claude-seo",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T11:50:57.847000Z"
-        },
-        {
-          "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
-          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel / claude-seo",
-          "url": "https://github.com/AgriciDaniel/claude-seo",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
-          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel /      claude-seo",
-          "url": "https://github.com/AgriciDaniel/claude-seo",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-25T11:50:57.847000Z"
-        },
-        {
-          "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
-          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel / claude-seo",
-          "url": "https://github.com/AgriciDaniel/claude-seo",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T11:49:28.827240Z",
-      "latest_at": "2026-10-25T11:50:57.847000Z",
-      "primary_item": {
-        "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
-        "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel /      claude-seo",
-        "url": "https://github.com/AgriciDaniel/claude-seo",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_4ad36024772c",
-      "title": "月入过亿的 Tipsy 与 PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
-      "url": "https://www.huxiu.com/article/4900289.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4900289.html?f=rss",
+      "story_id": "story_6e302e797ec7",
+      "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
+      "url": "https://www.huxiu.com/article/4900298.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900298.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "4476f4a2781f7f24cf00f3acea051813cd015033",
-          "title": "月入过亿的 Tipsy 与 PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
-          "url": "https://www.huxiu.com/article/4900289.html?f=rss",
+          "id": "86e5c6247eedeef19f8ea3f57c4b63b0209a5df7",
+          "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
+          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "97c26324decfaaa86c3bce0e4d709592b471008d",
-          "title": "月入过亿的Tipsy 与PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
-          "url": "https://www.huxiu.com/article/4900289.html?f=rss",
+          "id": "d6912c9a5e200e7a736bea7d9c4d1db53fd7a013",
+          "title": "CCTV曝光假冒400服务热线黑产：被投毒的大模型，不能再走“竞价排名”老路",
+          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T10:52:18Z"
+          "published_at": "2026-10-25T11:58:59Z"
         }
       ],
       "source_count": 2,
@@ -449,22 +388,22 @@
       ],
       "items": [
         {
-          "id": "4476f4a2781f7f24cf00f3acea051813cd015033",
-          "title": "月入过亿的 Tipsy 与 PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
-          "url": "https://www.huxiu.com/article/4900289.html?f=rss",
+          "id": "86e5c6247eedeef19f8ea3f57c4b63b0209a5df7",
+          "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
+          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "97c26324decfaaa86c3bce0e4d709592b471008d",
-          "title": "月入过亿的Tipsy 与PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
-          "url": "https://www.huxiu.com/article/4900289.html?f=rss",
+          "id": "d6912c9a5e200e7a736bea7d9c4d1db53fd7a013",
+          "title": "CCTV曝光假冒400服务热线黑产：被投毒的大模型，不能再走“竞价排名”老路",
+          "url": "https://www.huxiu.com/article/4900298.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T10:52:18Z"
+          "published_at": "2026-10-25T11:58:59Z"
         }
       ],
       "item_count": 2,
@@ -484,14 +423,191 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T10:52:18Z",
-      "latest_at": "2026-10-25T11:49:28.827240Z",
+      "earliest_at": "2026-10-25T11:58:59Z",
+      "latest_at": "2026-10-25T15:08:00.211147Z",
       "primary_item": {
-        "id": "4476f4a2781f7f24cf00f3acea051813cd015033",
-        "title": "月入过亿的 Tipsy 与 PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
-        "url": "https://www.huxiu.com/article/4900289.html?f=rss",
+        "id": "86e5c6247eedeef19f8ea3f57c4b63b0209a5df7",
+        "title": "CCTV 曝光假冒 400 服务热线黑产：被投毒的大模型，不能再走「竞价排名」老路",
+        "url": "https://www.huxiu.com/article/4900298.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_d3af181c96b1",
+      "title": "1505年纽伦堡骑士的工具手册",
+      "url": "https://loeffelholz-codex.org/en",
+      "primary_url": "https://loeffelholz-codex.org/en",
+      "source": "loeffelholz-codex.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1388c384af8a05c3c8374d104214f37ceb0b8363",
+          "title": "1505年纽伦堡骑士的工具手册",
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "loeffelholz-codex.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T12:48:50.500000Z"
+        },
+        {
+          "id": "0bf12c7e4786f6c2c1234d885fbd25817bb4d175",
+          "title": "1505年纽伦堡骑士的工具手册 / Tool book of a Nuremberg knight from 1505",
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T12:37:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "loeffelholz-codex.org"
+      ],
+      "items": [
+        {
+          "id": "1388c384af8a05c3c8374d104214f37ceb0b8363",
+          "title": "1505年纽伦堡骑士的工具手册",
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "loeffelholz-codex.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T12:48:50.500000Z"
+        },
+        {
+          "id": "0bf12c7e4786f6c2c1234d885fbd25817bb4d175",
+          "title": "1505年纽伦堡骑士的工具手册 / Tool book of a Nuremberg knight from 1505",
+          "url": "https://loeffelholz-codex.org/en",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T12:37:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9671,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T12:37:54Z",
+      "latest_at": "2026-10-25T12:48:50.500000Z",
+      "primary_item": {
+        "id": "1388c384af8a05c3c8374d104214f37ceb0b8363",
+        "title": "1505年纽伦堡骑士的工具手册",
+        "url": "https://loeffelholz-codex.org/en",
+        "source": "loeffelholz-codex.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8f5707e9a13c",
+      "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "www.apricitas.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "www.apricitas.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:05:14.415000Z"
+        },
+        {
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.apricitas.io"
+      ],
+      "items": [
+        {
+          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "www.apricitas.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-25T01:05:14.415000Z"
+        },
+        {
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8164,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T23:11:54Z",
+      "latest_at": "2026-10-25T01:05:14.415000Z",
+      "primary_item": {
+        "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
+        "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "source": "www.apricitas.io",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -567,15 +683,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8563,
+        "recency": 0.8163,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -665,15 +781,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8563,
+        "recency": 0.8163,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -691,101 +807,82 @@
       }
     },
     {
-      "story_id": "story_8f5707e9a13c",
-      "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "www.apricitas.io",
-      "source_name": "Buzzing",
+      "story_id": "story_117d2cb5f38a",
+      "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel /      claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "primary_url": "https://github.com/AgriciDaniel/claude-seo",
+      "source": "github",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "www.apricitas.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T01:05:14.415000Z"
-        },
-        {
-          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T23:11:54Z"
-        },
-        {
-          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
-          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://news.ycombinator.com/item?id=50226419",
-          "source": "hackernews",
+          "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
+          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel /      claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T23:11:54Z"
+          "published_at": "2026-10-25T11:50:57.847000Z"
+        },
+        {
+          "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
+          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel / claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.apricitas.io"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "www.apricitas.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-25T01:05:14.415000Z"
-        },
-        {
-          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
-          "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T23:11:54Z"
-        },
-        {
-          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
-          "title": "美国在媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America has lost 200k of jobs in media, film and the arts. How much is AI?",
-          "url": "https://news.ycombinator.com/item?id=50226419",
-          "source": "hackernews",
+          "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
+          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel /      claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-24T23:11:54Z"
+          "published_at": "2026-10-25T11:50:57.847000Z"
+        },
+        {
+          "id": "9fcb33154f81dc7999b6f70c334ae0cad632a705",
+          "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel / claude-seo",
+          "url": "https://github.com/AgriciDaniel/claude-seo",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8564,
-        "story_heat": 0.5
+        "recency": 0.9537,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T23:11:54Z",
-      "latest_at": "2026-10-25T01:05:14.415000Z",
+      "earliest_at": "2026-10-25T11:49:28.827240Z",
+      "latest_at": "2026-10-25T11:50:57.847000Z",
       "primary_item": {
-        "id": "aa3d62dd9b9fd5e1ba6975de60499e5ed1168adf",
-        "title": "美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？",
-        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-        "source": "www.apricitas.io",
-        "source_name": "Buzzing"
+        "id": "bd8633656b6ce400c587bcfcdb37e1cdf801ddf7",
+        "title": "AgriciDaniel / 克劳德-seo / AgriciDaniel /      claude-seo",
+        "url": "https://github.com/AgriciDaniel/claude-seo",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -842,15 +939,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5443,
-      "importance": 0.5443,
-      "importance_score": 0.5443,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9916,
+        "recency": 0.9454,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -921,15 +1018,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5408,
-      "importance": 0.5408,
-      "importance_score": 0.5408,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.972,
+        "recency": 0.9266,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -944,6 +1041,85 @@
         "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_bf04ea90a6b4",
+      "title": "观察｜从国际具身智能技能大赛看中美路线之争：在代码里模拟物理 VS 在车间里喂养数据",
+      "url": "https://www.huxiu.com/article/4900321.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900321.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f87603b7de3b68f78e374f555e824cb191fddcad",
+          "title": "观察｜从国际具身智能技能大赛看中美路线之争：在代码里模拟物理 VS 在车间里喂养数据",
+          "url": "https://www.huxiu.com/article/4900321.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f3a822852c3c0423dab16d6fca21bef3a9e15340",
+          "title": "观察｜从国际具身智能技能大赛看中美路线之争：在代码里模拟物理VS在车间里喂养数据",
+          "url": "https://www.huxiu.com/article/4900321.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T13:54:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "f87603b7de3b68f78e374f555e824cb191fddcad",
+          "title": "观察｜从国际具身智能技能大赛看中美路线之争：在代码里模拟物理 VS 在车间里喂养数据",
+          "url": "https://www.huxiu.com/article/4900321.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f3a822852c3c0423dab16d6fca21bef3a9e15340",
+          "title": "观察｜从国际具身智能技能大赛看中美路线之争：在代码里模拟物理VS在车间里喂养数据",
+          "url": "https://www.huxiu.com/article/4900321.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T13:54:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-25T13:54:22Z",
+      "latest_at": "2026-10-25T15:08:00.211147Z",
+      "primary_item": {
+        "id": "f87603b7de3b68f78e374f555e824cb191fddcad",
+        "title": "观察｜从国际具身智能技能大赛看中美路线之争：在代码里模拟物理 VS 在车间里喂养数据",
+        "url": "https://www.huxiu.com/article/4900321.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -999,15 +1175,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5101,
-      "importance": 0.5101,
-      "importance_score": 0.5101,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8016,
+        "recency": 0.7642,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1078,15 +1254,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9626,
+        "recency": 0.9177,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1104,30 +1280,30 @@
       }
     },
     {
-      "story_id": "story_28adfff6869c",
-      "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-      "url": "https://www.huxiu.com/article/4900222.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4900222.html?f=rss",
+      "story_id": "story_4ad36024772c",
+      "title": "月入过亿的 Tipsy 与 PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
+      "url": "https://www.huxiu.com/article/4900289.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900289.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "id": "4476f4a2781f7f24cf00f3acea051813cd015033",
+          "title": "月入过亿的 Tipsy 与 PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
+          "url": "https://www.huxiu.com/article/4900289.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "id": "97c26324decfaaa86c3bce0e4d709592b471008d",
+          "title": "月入过亿的Tipsy 与PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
+          "url": "https://www.huxiu.com/article/4900289.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T02:00:00Z"
+          "published_at": "2026-10-25T10:52:18Z"
         }
       ],
       "source_count": 2,
@@ -1137,284 +1313,47 @@
       ],
       "items": [
         {
-          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "id": "4476f4a2781f7f24cf00f3acea051813cd015033",
+          "title": "月入过亿的 Tipsy 与 PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
+          "url": "https://www.huxiu.com/article/4900289.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
-          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
-          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "id": "97c26324decfaaa86c3bce0e4d709592b471008d",
+          "title": "月入过亿的Tipsy 与PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
+          "url": "https://www.huxiu.com/article/4900289.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-25T02:00:00Z"
+          "published_at": "2026-10-25T10:52:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9239,
+        "recency": 0.9533,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-25T02:00:00Z",
-      "latest_at": "2026-10-25T06:20:26.371570Z",
+      "earliest_at": "2026-10-25T10:52:18Z",
+      "latest_at": "2026-10-25T11:49:28.827240Z",
       "primary_item": {
-        "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
-        "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
-        "url": "https://www.huxiu.com/article/4900222.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_3b420475dea7",
-      "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言",
-      "url": "https://github.com/byenzyme/enzyme",
-      "primary_url": "https://github.com/byenzyme/enzyme",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "be151a2cd7b3ff804d59a2ca6bdece2a71b3374a",
-          "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言",
-          "url": "https://github.com/byenzyme/enzyme",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T13:31:48.382000Z"
-        },
-        {
-          "id": "e43f3d9507ce75a09452fbc371a0ac71409eeac4",
-          "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言 / Show HN: Enzyme – a programming language that compiles wikis for agents",
-          "url": "https://github.com/byenzyme/enzyme",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T13:30:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "be151a2cd7b3ff804d59a2ca6bdece2a71b3374a",
-          "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言",
-          "url": "https://github.com/byenzyme/enzyme",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T13:31:48.382000Z"
-        },
-        {
-          "id": "e43f3d9507ce75a09452fbc371a0ac71409eeac4",
-          "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言 / Show HN: Enzyme – a programming language that compiles wikis for agents",
-          "url": "https://github.com/byenzyme/enzyme",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T13:30:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4963,
-      "importance": 0.4963,
-      "importance_score": 0.4963,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7247,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T13:30:18Z",
-      "latest_at": "2026-10-24T13:31:48.382000Z",
-      "primary_item": {
-        "id": "be151a2cd7b3ff804d59a2ca6bdece2a71b3374a",
-        "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言",
-        "url": "https://github.com/byenzyme/enzyme",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_93fc448c0fc1",
-      "title": "人工智能有什么问题？",
-      "url": "https://homepage.farm/ai.html",
-      "primary_url": "https://homepage.farm/ai.html",
-      "source": "homepage.farm",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dc4e96e9f35a3563bea27f48b3c4df49cb258d20",
-          "title": "人工智能有什么问题？",
-          "url": "https://homepage.farm/ai.html",
-          "source": "homepage.farm",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T12:11:47.916000Z"
-        },
-        {
-          "id": "d46b91cc69ab73a4d3950426adf977a75f38138d",
-          "title": "人工智能有什么问题？ / What's wrong with AI?",
-          "url": "https://homepage.farm/ai.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T12:09:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "homepage.farm"
-      ],
-      "items": [
-        {
-          "id": "dc4e96e9f35a3563bea27f48b3c4df49cb258d20",
-          "title": "人工智能有什么问题？",
-          "url": "https://homepage.farm/ai.html",
-          "source": "homepage.farm",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T12:11:47.916000Z"
-        },
-        {
-          "id": "d46b91cc69ab73a4d3950426adf977a75f38138d",
-          "title": "人工智能有什么问题？ / What's wrong with AI?",
-          "url": "https://homepage.farm/ai.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T12:09:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4938,
-      "importance": 0.4938,
-      "importance_score": 0.4938,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7109,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T12:09:40Z",
-      "latest_at": "2026-10-24T12:11:47.916000Z",
-      "primary_item": {
-        "id": "dc4e96e9f35a3563bea27f48b3c4df49cb258d20",
-        "title": "人工智能有什么问题？",
-        "url": "https://homepage.farm/ai.html",
-        "source": "homepage.farm",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c1c90875f513",
-      "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
-      "url": "https://www.ithome.com/1/017/557.htm",
-      "primary_url": "https://www.ithome.com/1/017/557.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
-          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
-          "url": "https://www.ithome.com/1/017/557.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "449fd5155e4d91a7a0ed94028eb64d8ae8aa3e58",
-          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
-          "url": "https://www.ithome.com/1/017/557.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T02:29:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
-          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
-          "url": "https://www.ithome.com/1/017/557.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "449fd5155e4d91a7a0ed94028eb64d8ae8aa3e58",
-          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
-          "url": "https://www.ithome.com/1/017/557.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-25T02:29:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9239,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-25T02:29:30Z",
-      "latest_at": "2026-10-25T06:20:26.371570Z",
-      "primary_item": {
-        "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
-        "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
-        "url": "https://www.ithome.com/1/017/557.htm",
+        "id": "4476f4a2781f7f24cf00f3acea051813cd015033",
+        "title": "月入过亿的 Tipsy 与 PolyBuzz 海外突发下架，AI 擦边陪伴或撞上苹果红线",
+        "url": "https://www.huxiu.com/article/4900289.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1473,15 +1412,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
+      "score": 0.4939,
+      "importance": 0.4939,
+      "importance_score": 0.4939,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7466,
+        "recency": 0.7118,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1499,161 +1438,240 @@
       }
     },
     {
-      "story_id": "story_e2469c92ba3c",
-      "title": "Nutlope / 标志 / Nutlope /      hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "primary_url": "https://github.com/Nutlope/hallmark",
-      "source": "github",
-      "source_name": "NewsNow",
+      "story_id": "story_28adfff6869c",
+      "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+      "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900222.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-          "title": "Nutlope / 标志 / Nutlope /      hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:08:38.338000Z"
-        },
-        {
-          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
-          "title": "Nutlope / 标志 / Nutlope / hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "GitHub · Trending Today",
+          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T02:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-          "title": "Nutlope / 标志 / Nutlope /      hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T12:08:38.338000Z"
-        },
-        {
-          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
-          "title": "Nutlope / 标志 / Nutlope / hallmark",
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "GitHub · Trending Today",
+          "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "eb015f970177bd5a028ef514eef0140373f472a1",
+          "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是“空间智能”",
+          "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T02:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4937,
-      "importance": 0.4937,
-      "importance_score": 0.4937,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7104,
+        "recency": 0.8808,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T12:07:13.254323Z",
-      "latest_at": "2026-10-24T12:08:38.338000Z",
+      "earliest_at": "2026-10-25T02:00:00Z",
+      "latest_at": "2026-10-25T06:20:26.371570Z",
       "primary_item": {
-        "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-        "title": "Nutlope / 标志 / Nutlope /      hallmark",
-        "url": "https://github.com/Nutlope/hallmark",
-        "source": "github",
-        "source_name": "NewsNow"
+        "id": "95a785e40a9da857d5a16fdbc2dec5905c177073",
+        "title": "AI 教母李飞飞深度访谈：大语言模型不是终点，AI 的下一个真正前沿是「空间智能」",
+        "url": "https://www.huxiu.com/article/4900222.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_e5b4b31b3612",
-      "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题",
-      "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
-      "primary_url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_c1c90875f513",
+      "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
+      "url": "https://www.ithome.com/1/017/557.htm",
+      "primary_url": "https://www.ithome.com/1/017/557.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "87d62e68fcdbef37c7669950ec00ca09f67e37b8",
-          "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题",
-          "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T14:18:56.294000Z"
+          "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
+          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
+          "url": "https://www.ithome.com/1/017/557.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "565822e19993dc18fc8ce1afafa694078cb0845f",
-          "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题 / The AI data center boom has a ghost problem",
-          "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-24T14:00:01Z"
+          "id": "449fd5155e4d91a7a0ed94028eb64d8ae8aa3e58",
+          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
+          "url": "https://www.ithome.com/1/017/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T02:29:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "87d62e68fcdbef37c7669950ec00ca09f67e37b8",
-          "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题",
-          "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T14:18:56.294000Z"
+          "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
+          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
+          "url": "https://www.ithome.com/1/017/557.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "565822e19993dc18fc8ce1afafa694078cb0845f",
-          "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题 / The AI data center boom has a ghost problem",
-          "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-24T14:00:01Z"
+          "id": "449fd5155e4d91a7a0ed94028eb64d8ae8aa3e58",
+          "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持苹果 MacBook 本地运行",
+          "url": "https://www.ithome.com/1/017/557.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-25T02:29:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.733,
+        "recency": 0.8808,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T14:00:01Z",
-      "latest_at": "2026-10-24T14:18:56.294000Z",
+      "earliest_at": "2026-10-25T02:29:30Z",
+      "latest_at": "2026-10-25T06:20:26.371570Z",
       "primary_item": {
-        "id": "87d62e68fcdbef37c7669950ec00ca09f67e37b8",
-        "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题",
-        "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "e625bb67ac65cf7e726f6ce9ead1371d11295888",
+        "title": "Block 推出全双工 AI 语音模型 Dessa：真人感拉满，支持本地运行",
+        "url": "https://www.ithome.com/1/017/557.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_cdf697355512",
+      "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+      "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+      "primary_url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
+          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
+          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-24T20:05:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "768deac0d0a50019e3f416322efce528fc494a6e",
+          "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "ec911567cab80b5e8da3305439ff8d45712400d2",
+          "title": "多少？？中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元——TOPC TXA2 可容纳 4 个 SSD 并驱动 4 个 8K 显示器 / How much?? Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM selling for a cool $6,800 — TOPC TXA2 can take 4 SSDs and drives 4 8K monitors",
+          "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-24T20:05:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5049,
+      "importance": 0.5049,
+      "importance_score": 0.5049,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7727,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T20:05:00Z",
+      "latest_at": "2026-10-24T21:16:40.128947Z",
+      "primary_item": {
+        "id": "768deac0d0a50019e3f416322efce528fc494a6e",
+        "title": "中国初创公司推出铜色 AI Max+ PRO 495 工作站，配备 192GB RAM，售价 6,800 美元 — TOPC TXA2 支持 4 个 SSD 并驱动 4 个 8K 显示器 / Chinese startup unveils copper-colored AI Max+ PRO 495 workstation with 192GB RAM for $6,800 — TOPC TXA2 supports 4 SSDs and drives 4 8K monitors",
+        "url": "https://www.techradar.com/pro/how-much-chinese-startup-unveils-copper-colored-ai-max-pro-495-workstation-with-192gb-ram-selling-for-a-cool-usd6-800-topc-txa2-can-take-4-ssds-and-drives-4-8k-monitors",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
