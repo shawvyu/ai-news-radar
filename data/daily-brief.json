@@ -1,105 +1,66 @@
 {
-  "generated_at": "2026-10-27T08:03:42.711579Z",
+  "generated_at": "2026-10-27T14:42:31.901349Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_f16aefe89a6e",
-      "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "primary_url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "story_id": "story_250e5d8f3024",
+      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
-          "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T14:30:00Z"
-        },
-        {
-          "id": "21e172326b25075b988fe82d6a37240ed38b2451",
-          "title": "与学术界合作，增进对科学的理解",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-26T22:44:27.036000Z"
-        },
-        {
-          "id": "55f30edd8dc1ff4eb68b0abdd0233b991ab26671",
-          "title": "与学术界合作，增进对科学的理解 / Announcing three new discoveries in mathematics, computer science, and physics",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-26T21:35:28Z"
+          "published_at": "2026-10-26T22:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News",
-        "openai.com"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
-          "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-26T14:30:00Z"
-        },
-        {
-          "id": "21e172326b25075b988fe82d6a37240ed38b2451",
-          "title": "与学术界合作，增进对科学的理解",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-26T22:44:27.036000Z"
-        },
-        {
-          "id": "55f30edd8dc1ff4eb68b0abdd0233b991ab26671",
-          "title": "与学术界合作，增进对科学的理解 / Announcing three new discoveries in mathematics, computer science, and physics",
-          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-26T21:35:28Z"
+          "published_at": "2026-10-26T22:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8617,
-      "importance": 0.8617,
-      "importance_score": 0.8617,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.776,
-        "story_heat": 0.5
+        "ai_relevance": 0.95,
+        "recency": 0.7856,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T14:30:00Z",
-      "latest_at": "2026-10-26T22:44:27.036000Z",
+      "earliest_at": "2026-10-26T22:00:00Z",
+      "latest_at": "2026-10-26T22:00:00Z",
       "primary_item": {
-        "id": "9fd3d29cb684263f9621d0aa57d73f61025acfea",
-        "title": "与学术界合作，增进对科学的理解 / Working with academic communities to build scientific understanding",
-        "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
@@ -177,15 +138,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8359,
-      "importance": 0.8359,
-      "importance_score": 0.8359,
+      "score": 0.8214,
+      "importance": 0.8214,
+      "importance_score": 0.8214,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8853,
+        "recency": 0.8042,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -239,15 +200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8313,
+        "recency": 0.7552,
         "story_heat": 0.0
       },
       "category": "official",
@@ -264,6 +225,148 @@
         "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6ddafbb06d25",
+      "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
+      "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+      "primary_url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "91548c701a172875c89736972d3fa8e928903801",
+          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
+          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T12:37:24Z"
+        },
+        {
+          "id": "a5e26ef5485cc33c9f4c3c36a0764edd5d7d32c6",
+          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-27T12:37:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "91548c701a172875c89736972d3fa8e928903801",
+          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
+          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T12:37:24Z"
+        },
+        {
+          "id": "a5e26ef5485cc33c9f4c3c36a0764edd5d7d32c6",
+          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
+          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-27T12:37:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9703,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T12:37:24Z",
+      "latest_at": "2026-10-27T12:37:24Z",
+      "primary_item": {
+        "id": "91548c701a172875c89736972d3fa8e928903801",
+        "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
+        "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_95af72b561e4",
+      "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
+      "url": "https://latent.space/p/ainews-anthropic-s1",
+      "primary_url": "https://latent.space/p/ainews-anthropic-s1",
+      "source": "Latent Space（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
+          "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
+          "url": "https://latent.space/p/ainews-anthropic-s1",
+          "source": "Latent Space（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T07:24:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Latent Space（RSS）"
+      ],
+      "items": [
+        {
+          "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
+          "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
+          "url": "https://latent.space/p/ainews-anthropic-s1",
+          "source": "Latent Space（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T07:24:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.88,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T07:24:59Z",
+      "latest_at": "2026-10-27T07:24:59Z",
+      "primary_item": {
+        "id": "680a9fa46f237f0dcc8669c85f0c85acde5e6a40",
+        "title": "Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元",
+        "url": "https://latent.space/p/ainews-anthropic-s1",
+        "source": "Latent Space（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -301,15 +404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.793,
+        "recency": 0.7204,
         "story_heat": 0.0
       },
       "category": "official",
@@ -329,165 +432,84 @@
       }
     },
     {
-      "story_id": "story_250e5d8f3024",
-      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_93c50ee6415b",
+      "title": "纯国产算力跑出星火X2.6：刘庆峰直言“小米加步枪”硬刚封锁，端侧模型成破局关键",
+      "url": "https://www.aibase.com/news/31906",
+      "primary_url": "https://www.aibase.com/news/31906",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
+          "id": "54777b275b175faa2951c5c2cbb56e364e5e1414",
+          "title": "纯国产算力跑出星火X2.6：刘庆峰直言“小米加步枪”硬刚封锁，端侧模型成破局关键",
+          "url": "https://www.aibase.com/news/31906",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T14:42:31.901349Z"
+        },
+        {
+          "id": "a832fa3edc2e520c7fa853d4d355619ec7310967",
+          "title": "纯国产算力跑出星火 X2.6：刘庆峰直言「小米加步枪」硬刚封锁，端侧模型成破局关键",
+          "url": "https://www.aibase.com/zh/news/31906",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
+          "id": "54777b275b175faa2951c5c2cbb56e364e5e1414",
+          "title": "纯国产算力跑出星火X2.6：刘庆峰直言“小米加步枪”硬刚封锁，端侧模型成破局关键",
+          "url": "https://www.aibase.com/news/31906",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T14:42:31.901349Z"
+        },
+        {
+          "id": "a832fa3edc2e520c7fa853d4d355619ec7310967",
+          "title": "纯国产算力跑出星火 X2.6：刘庆峰直言「小米加步枪」硬刚封锁，端侧模型成破局关键",
+          "url": "https://www.aibase.com/zh/news/31906",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8648,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T22:00:00Z",
-      "latest_at": "2026-10-26T22:00:00Z",
-      "primary_item": {
-        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "url": "https://openai.com/index/greptile-code-review-codex-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ce5ce5fc43fb",
-      "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
-      "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "primary_url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1b7a61cb6e5ae7ada6b17e4a023e74201fdcce66",
-          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T10:14:20.569000Z"
-        },
-        {
-          "id": "e95e12cdd9a9dde6c55fba060d3c2dd2774685c5",
-          "title": "关于一款热门无限制权重AI模型的行为",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-          "source": "cohere.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-26T22:44:25.645000Z"
-        },
-        {
-          "id": "d0852ce701f3a741707b32969385520d0a8a606d",
-          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为 / Concerning behavior from a popular open-weight AI model",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-26T16:35:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News：AI 热帖",
-        "cohere.com"
-      ],
-      "items": [
-        {
-          "id": "1b7a61cb6e5ae7ada6b17e4a023e74201fdcce66",
-          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T10:14:20.569000Z"
-        },
-        {
-          "id": "e95e12cdd9a9dde6c55fba060d3c2dd2774685c5",
-          "title": "关于一款热门无限制权重AI模型的行为",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-          "source": "cohere.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-26T22:44:25.645000Z"
-        },
-        {
-          "id": "d0852ce701f3a741707b32969385520d0a8a606d",
-          "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为 / Concerning behavior from a popular open-weight AI model",
-          "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-26T16:35:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7297,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-26T10:14:20.569000Z",
-      "latest_at": "2026-10-26T22:44:25.645000Z",
+      "earliest_at": "2026-10-27T14:42:31.901349Z",
+      "latest_at": "2026-10-27T14:42:31.901349Z",
       "primary_item": {
-        "id": "1b7a61cb6e5ae7ada6b17e4a023e74201fdcce66",
-        "title": "Cohere 报告阿里 Qwen3.8-Flash-Next 在沙箱中出现疑似回连行为",
-        "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
+        "id": "54777b275b175faa2951c5c2cbb56e364e5e1414",
+        "title": "纯国产算力跑出星火X2.6：刘庆峰直言“小米加步枪”硬刚封锁，端侧模型成破局关键",
+        "url": "https://www.aibase.com/news/31906",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -525,15 +547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8145,
+      "importance": 0.8145,
+      "importance_score": 0.8145,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8713,
+        "recency": 0.7916,
         "story_heat": 0.0
       },
       "category": "official",
@@ -587,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.796,
-      "importance": 0.796,
-      "importance_score": 0.796,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8912,
+        "recency": 0.8096,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -610,6 +632,209 @@
         "title": "Anthropic IPO 招股书11个细节解读：千亿募资、807亿美元亏损与7美元控股权",
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
         "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4a8f41d180d7",
+      "title": "Anthropic S-1 文件中的五个不寻常细节",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d011588dc04920135b4b1c569b7b4314605525e8",
+          "title": "Anthropic S-1 文件中的五个不寻常细节",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T17:10:23Z"
+        },
+        {
+          "id": "136605b2b85eafb8b29be1c03c1ba1acc5f997c9",
+          "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-26T17:10:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d011588dc04920135b4b1c569b7b4314605525e8",
+          "title": "Anthropic S-1 文件中的五个不寻常细节",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T17:10:23Z"
+        },
+        {
+          "id": "136605b2b85eafb8b29be1c03c1ba1acc5f997c9",
+          "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-26T17:10:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7327,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T17:10:23Z",
+      "latest_at": "2026-10-26T17:10:23Z",
+      "primary_item": {
+        "id": "d011588dc04920135b4b1c569b7b4314605525e8",
+        "title": "Anthropic S-1 文件中的五个不寻常细节",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_75e6cdb57059",
+      "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+      "url": "https://x.com/Khazix0918/status/2114878401190506902",
+      "primary_url": "https://x.com/Khazix0918/status/2114878401190506902",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+          "url": "https://x.com/Khazix0918/status/2114878401190506902",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T00:34:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+          "url": "https://x.com/Khazix0918/status/2114878401190506902",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-27T00:34:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8154,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T00:34:38Z",
+      "latest_at": "2026-10-27T00:34:38Z",
+      "primary_item": {
+        "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
+        "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
+        "url": "https://x.com/Khazix0918/status/2114878401190506902",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_402566ca10ff",
+      "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+      "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
+          "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+          "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:40:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
+          "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+          "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:40:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7488,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T18:40:26Z",
+      "latest_at": "2026-10-26T18:40:26Z",
+      "primary_item": {
+        "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
+        "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
+        "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -667,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9085,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -695,266 +920,242 @@
       }
     },
     {
-      "story_id": "story_4a8f41d180d7",
-      "title": "Anthropic S-1 文件中的五个不寻常细节",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-      "source": "The Verge：AI（RSS）",
+      "story_id": "story_33cce9ee1cca",
+      "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
+      "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
+      "primary_url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
+      "source": "a16z：News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d011588dc04920135b4b1c569b7b4314605525e8",
-          "title": "Anthropic S-1 文件中的五个不寻常细节",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-          "source": "The Verge：AI（RSS）",
+          "id": "61f153f4bc2dafaf605f98ce15526f95c2cf3e2e",
+          "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
+          "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
+          "source": "a16z：News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-26T17:10:23Z"
-        },
-        {
-          "id": "136605b2b85eafb8b29be1c03c1ba1acc5f997c9",
-          "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-26T17:10:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d011588dc04920135b4b1c569b7b4314605525e8",
-          "title": "Anthropic S-1 文件中的五个不寻常细节",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T17:10:23Z"
-        },
-        {
-          "id": "136605b2b85eafb8b29be1c03c1ba1acc5f997c9",
-          "title": "Anthropic S-1 文件中的五个不寻常细节 / Five weird details from Anthropic’s IPO filing",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-26T17:10:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7908,
-      "importance": 0.7908,
-      "importance_score": 0.7908,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8065,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T17:10:23Z",
-      "latest_at": "2026-10-26T17:10:23Z",
-      "primary_item": {
-        "id": "d011588dc04920135b4b1c569b7b4314605525e8",
-        "title": "Anthropic S-1 文件中的五个不寻常细节",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_75e6cdb57059",
-      "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-      "url": "https://x.com/Khazix0918/status/2114878401190506902",
-      "primary_url": "https://x.com/Khazix0918/status/2114878401190506902",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
-          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-          "url": "https://x.com/Khazix0918/status/2114878401190506902",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T00:34:38Z"
+          "published_at": "2026-10-27T14:02:28Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：卡兹克 (@Khazix0918)"
+        "a16z：News（RSS）"
       ],
       "items": [
         {
-          "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
-          "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-          "url": "https://x.com/Khazix0918/status/2114878401190506902",
-          "source": "X：卡兹克 (@Khazix0918)",
+          "id": "61f153f4bc2dafaf605f98ce15526f95c2cf3e2e",
+          "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
+          "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
+          "source": "a16z：News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-27T00:34:38Z"
+          "published_at": "2026-10-27T14:02:28Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7419,
+      "importance": 0.7419,
+      "importance_score": 0.7419,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8976,
+        "recency": 0.9904,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-27T00:34:38Z",
-      "latest_at": "2026-10-27T00:34:38Z",
+      "earliest_at": "2026-10-27T14:02:28Z",
+      "latest_at": "2026-10-27T14:02:28Z",
       "primary_item": {
-        "id": "69c0c37b828a12b0494e4c26f8e4764c5c76798b",
-        "title": "Anthropic 招股书拆解：IPO 计划募资约 1000 亿美元背后的 11 个细节",
-        "url": "https://x.com/Khazix0918/status/2114878401190506902",
-        "source": "X：卡兹克 (@Khazix0918)",
+        "id": "61f153f4bc2dafaf605f98ce15526f95c2cf3e2e",
+        "title": "Ben Horowitz 长文解析 Databricks 与智能体时代的公司形态",
+        "url": "https://www.a16z.news/p/databricks-and-the-future-of-the",
+        "source": "a16z：News（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_402566ca10ff",
-      "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
-      "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_bf81ae046163",
+      "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+      "url": "https://x.com/thsottiaux/status/2114800277677092936",
+      "primary_url": "https://x.com/thsottiaux/status/2114800277677092936",
+      "source": "X：Tibo (@thsottiaux)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
-          "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
-          "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+          "url": "https://x.com/thsottiaux/status/2114800277677092936",
+          "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-26T18:40:26Z"
+          "published_at": "2026-10-26T19:24:11Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "X：Tibo (@thsottiaux)"
       ],
       "items": [
         {
-          "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
-          "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
-          "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+          "url": "https://x.com/thsottiaux/status/2114800277677092936",
+          "source": "X：Tibo (@thsottiaux)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-26T18:40:26Z"
+          "published_at": "2026-10-26T19:24:11Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.775,
-      "importance": 0.775,
-      "importance_score": 0.775,
+      "score": 0.7298,
+      "importance": 0.7298,
+      "importance_score": 0.7298,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8242,
+        "recency": 0.7567,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-26T18:40:26Z",
-      "latest_at": "2026-10-26T18:40:26Z",
+      "earliest_at": "2026-10-26T19:24:11Z",
+      "latest_at": "2026-10-26T19:24:11Z",
       "primary_item": {
-        "id": "20b645b4756a5e3bd137c26cfcffb117ae7d8a03",
-        "title": "Meta 向 SEC 申报拟募资 950 亿美元投向 AI 数据中心与超级智能",
-        "url": "https://x.com/rohanpaul_ai/status/2114789264936534183",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
+        "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
+        "url": "https://x.com/thsottiaux/status/2114800277677092936",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_938904a06ff5",
-      "title": "Anthropic 向 SEC 提交 S-1 注册声明，推进拟议 IPO",
-      "url": "https://x.com/AnthropicAI/status/2114705042817110293",
-      "primary_url": "https://x.com/AnthropicAI/status/2114705042817110293",
-      "source": "X：Anthropic (@AnthropicAI)",
+      "story_id": "story_15c985181520",
+      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+      "url": "https://x.com/gdb/status/2114814747254432243",
+      "primary_url": "https://x.com/gdb/status/2114814747254432243",
+      "source": "X：Greg Brockman (@gdb)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e16171b6e4af98d6e7861a93edefaf96f28fbd4e",
-          "title": "Anthropic 向 SEC 提交 S-1 注册声明，推进拟议 IPO",
-          "url": "https://x.com/AnthropicAI/status/2114705042817110293",
-          "source": "X：Anthropic (@AnthropicAI)",
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-26T13:05:46Z"
+          "published_at": "2026-10-26T20:21:41Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Anthropic (@AnthropicAI)"
+        "X：Greg Brockman (@gdb)"
       ],
       "items": [
         {
-          "id": "e16171b6e4af98d6e7861a93edefaf96f28fbd4e",
-          "title": "Anthropic 向 SEC 提交 S-1 注册声明，推进拟议 IPO",
-          "url": "https://x.com/AnthropicAI/status/2114705042817110293",
-          "source": "X：Anthropic (@AnthropicAI)",
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-26T13:05:46Z"
+          "published_at": "2026-10-26T20:21:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7227,
+      "importance": 0.7227,
+      "importance_score": 0.7227,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.88,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7604,
+        "recency": 0.7672,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-26T13:05:46Z",
-      "latest_at": "2026-10-26T13:05:46Z",
+      "earliest_at": "2026-10-26T20:21:41Z",
+      "latest_at": "2026-10-26T20:21:41Z",
       "primary_item": {
-        "id": "e16171b6e4af98d6e7861a93edefaf96f28fbd4e",
-        "title": "Anthropic 向 SEC 提交 S-1 注册声明，推进拟议 IPO",
-        "url": "https://x.com/AnthropicAI/status/2114705042817110293",
-        "source": "X：Anthropic (@AnthropicAI)",
+        "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+        "url": "https://x.com/gdb/status/2114814747254432243",
+        "source": "X：Greg Brockman (@gdb)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b09118234f85",
+      "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+      "url": "https://x.com/OpenRouter/status/2114791584755839168",
+      "primary_url": "https://x.com/OpenRouter/status/2114791584755839168",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+          "url": "https://x.com/OpenRouter/status/2114791584755839168",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:49:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+          "url": "https://x.com/OpenRouter/status/2114791584755839168",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T18:49:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7227,
+      "importance": 0.7227,
+      "importance_score": 0.7227,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7504,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-26T18:49:39Z",
+      "latest_at": "2026-10-26T18:49:39Z",
+      "primary_item": {
+        "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
+        "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
+        "url": "https://x.com/OpenRouter/status/2114791584755839168",
+        "source": "X：OpenRouter (@OpenRouter)",
         "source_name": "AI HOT"
       }
     },
@@ -1012,15 +1213,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9085,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1040,365 +1241,144 @@
       }
     },
     {
-      "story_id": "story_1a1d4bf2fc11",
-      "title": "GPT-6.1 Sol 帮助 CodeRabbit 加强复杂代码库的安全性 / GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "primary_url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f23c4db1553b14f78aeb3bd0b2aa65d4546fec8d",
-          "title": "GPT-6.1 Sol 帮助 CodeRabbit 加强复杂代码库的安全性 / GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T13:45:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f23c4db1553b14f78aeb3bd0b2aa65d4546fec8d",
-          "title": "GPT-6.1 Sol 帮助 CodeRabbit 加强复杂代码库的安全性 / GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-          "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T13:45:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7676,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T13:45:00Z",
-      "latest_at": "2026-10-26T13:45:00Z",
-      "primary_item": {
-        "id": "f23c4db1553b14f78aeb3bd0b2aa65d4546fec8d",
-        "title": "GPT-6.1 Sol 帮助 CodeRabbit 加强复杂代码库的安全性 / GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_bf81ae046163",
-      "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-      "url": "https://x.com/thsottiaux/status/2114800277677092936",
-      "primary_url": "https://x.com/thsottiaux/status/2114800277677092936",
-      "source": "X：Tibo (@thsottiaux)",
+      "story_id": "story_70e4d7a9c5f0",
+      "title": "Apple 发布搭载 M6 芯片的 14 英寸 MacBook Pro，起售价 $1,999",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+      "primary_url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+      "source": "Apple：Newsroom（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-          "url": "https://x.com/thsottiaux/status/2114800277677092936",
-          "source": "X：Tibo (@thsottiaux)",
+          "id": "1314aaee153403df219f06262ec893c9556721d5",
+          "title": "Apple 发布搭载 M6 芯片的 14 英寸 MacBook Pro，起售价 $1,999",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+          "source": "Apple：Newsroom（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-26T19:24:11Z"
+          "published_at": "2026-10-26T16:00:00Z"
+        },
+        {
+          "id": "c2d922e16f363cff1bd9217633b11a1da20167ca",
+          "title": "Apple 发布搭载 M6 芯片的 14 英寸 MacBook Pro，起售价 $1,999 / Apple introduces the new 14-inch MacBook Pro with M6",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-27T13:01:07Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Tibo (@thsottiaux)"
+        "Apple：Newsroom（RSS）",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-          "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-          "url": "https://x.com/thsottiaux/status/2114800277677092936",
-          "source": "X：Tibo (@thsottiaux)",
+          "id": "1314aaee153403df219f06262ec893c9556721d5",
+          "title": "Apple 发布搭载 M6 芯片的 14 英寸 MacBook Pro，起售价 $1,999",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+          "source": "Apple：Newsroom（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-26T19:24:11Z"
+          "published_at": "2026-10-26T16:00:00Z"
+        },
+        {
+          "id": "c2d922e16f363cff1bd9217633b11a1da20167ca",
+          "title": "Apple 发布搭载 M6 芯片的 14 英寸 MacBook Pro，起售价 $1,999 / Apple introduces the new 14-inch MacBook Pro with M6",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-27T13:01:07Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7063,
+      "importance": 0.7063,
+      "importance_score": 0.7063,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8329,
-        "story_heat": 0.0
+        "recency": 0.7204,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-26T19:24:11Z",
-      "latest_at": "2026-10-26T19:24:11Z",
+      "earliest_at": "2026-10-26T16:00:00Z",
+      "latest_at": "2026-10-27T13:01:07Z",
       "primary_item": {
-        "id": "6fc1b843e3e3084a58585ef63e7746b59b64bdd8",
-        "title": "OpenAI 发布 GPT-6.1 Terra，主打电脑操作与写作能力",
-        "url": "https://x.com/thsottiaux/status/2114800277677092936",
-        "source": "X：Tibo (@thsottiaux)",
+        "id": "1314aaee153403df219f06262ec893c9556721d5",
+        "title": "Apple 发布搭载 M6 芯片的 14 英寸 MacBook Pro，起售价 $1,999",
+        "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6",
+        "source": "Apple：Newsroom（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_3eb19ab037a0",
-      "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
-      "url": "https://x.com/testingcatalog/status/2114696424021451174",
-      "primary_url": "https://x.com/testingcatalog/status/2114696424021451174",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "source_name": "AI HOT",
+      "story_id": "story_cfb5d385e5fe",
+      "title": "三十亿美元加码!英伟达与Meta联手重塑AI智能体新纪元",
+      "url": "https://www.aibase.com/news/31902",
+      "primary_url": "https://www.aibase.com/news/31902",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "6966a925f9504e78c17a17e111bbabed438852f6",
-          "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
-          "url": "https://x.com/testingcatalog/status/2114696424021451174",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T12:31:31Z"
+          "id": "38cc71d07193624731c993843d1ac685f5369598",
+          "title": "三十亿美元加码!英伟达与Meta联手重塑AI智能体新纪元",
+          "url": "https://www.aibase.com/news/31902",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T14:42:31.901349Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Testing Catalog (@testingcatalog)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "6966a925f9504e78c17a17e111bbabed438852f6",
-          "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
-          "url": "https://x.com/testingcatalog/status/2114696424021451174",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T12:31:31Z"
+          "id": "38cc71d07193624731c993843d1ac685f5369598",
+          "title": "三十亿美元加码!英伟达与Meta联手重塑AI智能体新纪元",
+          "url": "https://www.aibase.com/news/31902",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T14:42:31.901349Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7542,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T12:31:31Z",
-      "latest_at": "2026-10-26T12:31:31Z",
-      "primary_item": {
-        "id": "6966a925f9504e78c17a17e111bbabed438852f6",
-        "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
-        "url": "https://x.com/testingcatalog/status/2114696424021451174",
-        "source": "X：Testing Catalog (@testingcatalog)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ca658eeba187",
-      "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
-      "url": "https://x.com/ClementDelangue/status/2114713576296300604",
-      "primary_url": "https://x.com/ClementDelangue/status/2114713576296300604",
-      "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
-          "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
-          "url": "https://x.com/ClementDelangue/status/2114713576296300604",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T13:39:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)"
-      ],
-      "items": [
-        {
-          "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
-          "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
-          "url": "https://x.com/ClementDelangue/status/2114713576296300604",
-          "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T13:39:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7376,
-      "importance": 0.7376,
-      "importance_score": 0.7376,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7667,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T13:39:40Z",
-      "latest_at": "2026-10-26T13:39:40Z",
-      "primary_item": {
-        "id": "f1d19ff9a89e53c9742e67848e2474582184c82f",
-        "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
-        "url": "https://x.com/ClementDelangue/status/2114713576296300604",
-        "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_15c985181520",
-      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-      "url": "https://x.com/gdb/status/2114814747254432243",
-      "primary_url": "https://x.com/gdb/status/2114814747254432243",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-          "url": "https://x.com/gdb/status/2114814747254432243",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T20:21:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-          "url": "https://x.com/gdb/status/2114814747254432243",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T20:21:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7366,
-      "importance": 0.7366,
-      "importance_score": 0.7366,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8445,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-26T20:21:41Z",
-      "latest_at": "2026-10-26T20:21:41Z",
-      "primary_item": {
-        "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-        "url": "https://x.com/gdb/status/2114814747254432243",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b09118234f85",
-      "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
-      "url": "https://x.com/OpenRouter/status/2114791584755839168",
-      "primary_url": "https://x.com/OpenRouter/status/2114791584755839168",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
-          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
-          "url": "https://x.com/OpenRouter/status/2114791584755839168",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T18:49:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
-          "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
-          "url": "https://x.com/OpenRouter/status/2114791584755839168",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T18:49:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.826,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-26T18:49:39Z",
-      "latest_at": "2026-10-26T18:49:39Z",
+      "earliest_at": "2026-10-27T14:42:31.901349Z",
+      "latest_at": "2026-10-27T14:42:31.901349Z",
       "primary_item": {
-        "id": "49f0e8494e9d81c09e0ab694ab37d7e8c7b4a21a",
-        "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
-        "url": "https://x.com/OpenRouter/status/2114791584755839168",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
+        "id": "38cc71d07193624731c993843d1ac685f5369598",
+        "title": "三十亿美元加码!英伟达与Meta联手重塑AI智能体新纪元",
+        "url": "https://www.aibase.com/news/31902",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
