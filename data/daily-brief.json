@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T02:11:09.862369Z",
+  "generated_at": "2026-10-27T08:03:42.711579Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.874,
-      "importance": 0.874,
-      "importance_score": 0.874,
+      "score": 0.8617,
+      "importance": 0.8617,
+      "importance_score": 0.8617,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8447,
+        "recency": 0.776,
         "story_heat": 0.5
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8501,
-      "importance": 0.8501,
-      "importance_score": 0.8501,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9636,
+        "recency": 0.8853,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -239,15 +239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8429,
-      "importance": 0.8429,
-      "importance_score": 0.8429,
+      "score": 0.8296,
+      "importance": 0.8296,
+      "importance_score": 0.8296,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9049,
+        "recency": 0.8313,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,68 +263,6 @@
         "title": "GitHub Copilot 中的 GPT-6.1 Terra / GPT-6.1 Terra in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_250e5d8f3024",
-      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-          "url": "https://openai.com/index/greptile-code-review-codex-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-26T22:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8494,
-      "importance": 0.8494,
-      "importance_score": 0.8494,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9413,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T22:00:00Z",
-      "latest_at": "2026-10-26T22:00:00Z",
-      "primary_item": {
-        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
-        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
-        "url": "https://openai.com/index/greptile-code-review-codex-astra",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -363,15 +301,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8632,
+        "recency": 0.793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -387,6 +325,68 @@
         "title": "我们最新的人工智能任务：绘制人类大脑图谱 / Our newest AI Quest: Mapping the human brain",
         "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
         "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_250e5d8f3024",
+      "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "primary_url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+          "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8648,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T22:00:00Z",
+      "latest_at": "2026-10-26T22:00:00Z",
+      "primary_item": {
+        "id": "f70d66c5f72f091891eedd0380bb337824a4f31f",
+        "title": "Greptile 使用 GPT-6 Astra 使错误检测超越代码审查 / Greptile takes bug detection beyond code review with GPT-6 Astra",
+        "url": "https://openai.com/index/greptile-code-review-codex-astra",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -463,15 +463,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7943,
+        "recency": 0.7297,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -488,6 +488,68 @@
         "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
         "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e3d7ad0ea6ab",
+      "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+      "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
+          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:31:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
+          "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+          "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-26T22:31:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8713,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-26T22:31:30Z",
+      "latest_at": "2026-10-26T22:31:30Z",
+      "primary_item": {
+        "id": "47c426c6e283716ab1b30e1915e2d4b39193df18",
+        "title": "GitHub Copilot 辅助权限正式可用 / GitHub Copilot assisted permissions generally available",
+        "url": "https://github.blog/changelog/2026-10-26-github-copilot-assisted-permissions-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -525,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9701,
+        "recency": 0.8912,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -549,6 +611,87 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687831&idx=1&sn=6502cb593318d6e324e29d278fae4fcc",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_51e367f7293f",
+      "title": "塔塔通讯砸 4 亿美元铺光纤，串起印度 AI 数据中心",
+      "url": "https://www.aibase.com/news/31893",
+      "primary_url": "https://www.aibase.com/news/31893",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5693584d1b5ef9ceed7083133192a35abb2a8664",
+          "title": "塔塔通讯砸 4 亿美元铺光纤，串起印度 AI 数据中心",
+          "url": "https://www.aibase.com/news/31893",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T08:03:42.711579Z"
+        },
+        {
+          "id": "47930d9a84b8a828b32dba5de189425c2a47922b",
+          "title": "塔塔通讯砸 4 亿美元铺光纤，串起印度 AI 数据中心",
+          "url": "https://www.aibase.com/zh/news/31893",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5693584d1b5ef9ceed7083133192a35abb2a8664",
+          "title": "塔塔通讯砸 4 亿美元铺光纤，串起印度 AI 数据中心",
+          "url": "https://www.aibase.com/news/31893",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T08:03:42.711579Z"
+        },
+        {
+          "id": "47930d9a84b8a828b32dba5de189425c2a47922b",
+          "title": "塔塔通讯砸 4 亿美元铺光纤，串起印度 AI 数据中心",
+          "url": "https://www.aibase.com/zh/news/31893",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T08:03:42.711579Z",
+      "latest_at": "2026-10-27T08:03:42.711579Z",
+      "primary_item": {
+        "id": "5693584d1b5ef9ceed7083133192a35abb2a8664",
+        "title": "塔塔通讯砸 4 亿美元铺光纤，串起印度 AI 数据中心",
+        "url": "https://www.aibase.com/news/31893",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -605,15 +748,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8036,
-      "importance": 0.8036,
-      "importance_score": 0.8036,
+      "score": 0.7908,
+      "importance": 0.7908,
+      "importance_score": 0.7908,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.878,
+        "recency": 0.8065,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -667,15 +810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.977,
+        "recency": 0.8976,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -691,87 +834,6 @@
         "url": "https://x.com/Khazix0918/status/2114878401190506902",
         "source": "X：卡兹克 (@Khazix0918)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_965cddc2eb44",
-      "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-      "url": "https://www.aibase.com/news/31878",
-      "primary_url": "https://www.aibase.com/news/31878",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
-          "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-          "url": "https://www.aibase.com/news/31878",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T02:11:09.862369Z"
-        },
-        {
-          "id": "ad4027808ee60358e03c7ea58a29364eded45422",
-          "title": "Anthropic IPO 招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外「沙箱逃逸」",
-          "url": "https://www.aibase.com/zh/news/31878",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
-          "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-          "url": "https://www.aibase.com/news/31878",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T02:11:09.862369Z"
-        },
-        {
-          "id": "ad4027808ee60358e03c7ea58a29364eded45422",
-          "title": "Anthropic IPO 招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外「沙箱逃逸」",
-          "url": "https://www.aibase.com/zh/news/31878",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T02:11:09.862369Z",
-      "latest_at": "2026-10-27T02:11:09.862369Z",
-      "primary_item": {
-        "id": "edda28551b955e1d704bcc4245d12ee9a52d20ad",
-        "title": "Anthropic IPO招股书披露：曾因安全顾虑暂停主力模型训练，四个智能体意外“沙箱逃逸”",
-        "url": "https://www.aibase.com/news/31878",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -809,15 +871,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
+      "score": 0.775,
+      "importance": 0.775,
+      "importance_score": 0.775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8972,
+        "recency": 0.8242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -870,15 +932,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.88,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8278,
+        "recency": 0.7604,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -894,6 +956,87 @@
         "url": "https://x.com/AnthropicAI/status/2114705042817110293",
         "source": "X：Anthropic (@AnthropicAI)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0c466a250b77",
+      "title": "安全研究员利用生成式AI挖掘PS5高危漏洞获索尼33万元奖励",
+      "url": "https://www.aibase.com/news/31896",
+      "primary_url": "https://www.aibase.com/news/31896",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e9b3ffa51ecd81bb84cd0bb210d53c32a7416171",
+          "title": "安全研究员利用生成式AI挖掘PS5高危漏洞获索尼33万元奖励",
+          "url": "https://www.aibase.com/news/31896",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T08:03:42.711579Z"
+        },
+        {
+          "id": "3fabb2b44523440400147c3611c272e9cc6cbf52",
+          "title": "安全研究员利用生成式 AI 挖掘 PS5 高危漏洞获索尼 33 万元奖励",
+          "url": "https://www.aibase.com/zh/news/31896",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e9b3ffa51ecd81bb84cd0bb210d53c32a7416171",
+          "title": "安全研究员利用生成式AI挖掘PS5高危漏洞获索尼33万元奖励",
+          "url": "https://www.aibase.com/news/31896",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-27T08:03:42.711579Z"
+        },
+        {
+          "id": "3fabb2b44523440400147c3611c272e9cc6cbf52",
+          "title": "安全研究员利用生成式 AI 挖掘 PS5 高危漏洞获索尼 33 万元奖励",
+          "url": "https://www.aibase.com/zh/news/31896",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T08:03:42.711579Z",
+      "latest_at": "2026-10-27T08:03:42.711579Z",
+      "primary_item": {
+        "id": "e9b3ffa51ecd81bb84cd0bb210d53c32a7416171",
+        "title": "安全研究员利用生成式AI挖掘PS5高危漏洞获索尼33万元奖励",
+        "url": "https://www.aibase.com/news/31896",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -931,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8304,
-      "importance": 0.8304,
-      "importance_score": 0.8304,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8356,
+        "recency": 0.7676,
         "story_heat": 0.0
       },
       "category": "official",
@@ -956,87 +1099,6 @@
         "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e5cc05002152",
-      "title": "Soul 推出 Loxinity，把 AI 语音做成了\"有活人感\"的实时交互产品",
-      "url": "https://www.aibase.com/news/31881",
-      "primary_url": "https://www.aibase.com/news/31881",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "22b3c5a0e6ea671b7dacb71ad2b930c649b72203",
-          "title": "Soul 推出 Loxinity，把 AI 语音做成了\"有活人感\"的实时交互产品",
-          "url": "https://www.aibase.com/news/31881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T02:11:09.862369Z"
-        },
-        {
-          "id": "82f9f022faa3584fb015a3252722e837108722e8",
-          "title": "Soul 推出 Loxinity，把 AI 语音做成了「有活人感」的实时交互产品",
-          "url": "https://www.aibase.com/zh/news/31881",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "22b3c5a0e6ea671b7dacb71ad2b930c649b72203",
-          "title": "Soul 推出 Loxinity，把 AI 语音做成了\"有活人感\"的实时交互产品",
-          "url": "https://www.aibase.com/news/31881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-27T02:11:09.862369Z"
-        },
-        {
-          "id": "82f9f022faa3584fb015a3252722e837108722e8",
-          "title": "Soul 推出 Loxinity，把 AI 语音做成了「有活人感」的实时交互产品",
-          "url": "https://www.aibase.com/zh/news/31881",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T02:11:09.862369Z",
-      "latest_at": "2026-10-27T02:11:09.862369Z",
-      "primary_item": {
-        "id": "22b3c5a0e6ea671b7dacb71ad2b930c649b72203",
-        "title": "Soul 推出 Loxinity，把 AI 语音做成了\"有活人感\"的实时交互产品",
-        "url": "https://www.aibase.com/news/31881",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1074,21 +1136,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9067,
+        "recency": 0.8329,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-26T19:24:11Z",
       "latest_at": "2026-10-26T19:24:11Z",
@@ -1135,21 +1196,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.821,
+        "recency": 0.7542,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-26T12:31:31Z",
       "latest_at": "2026-10-26T12:31:31Z",
@@ -1158,67 +1218,6 @@
         "title": "Anthropic 计划今日 9AM EST 提交 S-1 IPO 申请文件",
         "url": "https://x.com/testingcatalog/status/2114696424021451174",
         "source": "X：Testing Catalog (@testingcatalog)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_15c985181520",
-      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-      "url": "https://x.com/gdb/status/2114814747254432243",
-      "primary_url": "https://x.com/gdb/status/2114814747254432243",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-          "url": "https://x.com/gdb/status/2114814747254432243",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T20:21:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-          "url": "https://x.com/gdb/status/2114814747254432243",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T20:21:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9193,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T20:21:41Z",
-      "latest_at": "2026-10-26T20:21:41Z",
-      "primary_item": {
-        "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
-        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
-        "url": "https://x.com/gdb/status/2114814747254432243",
-        "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
       }
     },
@@ -1257,15 +1256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7498,
-      "importance": 0.7498,
-      "importance_score": 0.7498,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8345,
+        "recency": 0.7667,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1279,6 +1278,66 @@
         "title": "Hugging Face CEO 转评前 DOGE 研究人员用 AI 智能体渗透 Anthropic 系统事件",
         "url": "https://x.com/ClementDelangue/status/2114713576296300604",
         "source": "X：Clément Delangue（Hugging Face CEO） (@ClementDelangue)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_15c985181520",
+      "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+      "url": "https://x.com/gdb/status/2114814747254432243",
+      "primary_url": "https://x.com/gdb/status/2114814747254432243",
+      "source": "X：Greg Brockman (@gdb)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T20:21:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Greg Brockman (@gdb)"
+      ],
+      "items": [
+        {
+          "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+          "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+          "url": "https://x.com/gdb/status/2114814747254432243",
+          "source": "X：Greg Brockman (@gdb)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-26T20:21:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7366,
+      "importance": 0.7366,
+      "importance_score": 0.7366,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8445,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-26T20:21:41Z",
+      "latest_at": "2026-10-26T20:21:41Z",
+      "primary_item": {
+        "id": "dd4d1374b51550309968b35123279eeeb9d93b74",
+        "title": "Greg Brockman 称 GPT-6.1 Terra 的电脑操作速度已超过他本人",
+        "url": "https://x.com/gdb/status/2114814747254432243",
+        "source": "X：Greg Brockman (@gdb)",
         "source_name": "AI HOT"
       }
     },
@@ -1317,15 +1376,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8992,
+        "recency": 0.826,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1339,87 +1398,6 @@
         "title": "OpenAI GPT-6.1 Terra 上线 OpenRouter，定价 $1/M input、$5/M output",
         "url": "https://x.com/OpenRouter/status/2114791584755839168",
         "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_55bfe464aca2",
-      "title": "Meta 宣布至多 950 亿美元融资计划，为 AI 等业务筹集资金",
-      "url": "https://www.ithome.com/1/018/144.htm",
-      "primary_url": "https://www.ithome.com/1/018/144.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ccf58bf2124c92979e2879422fa05f5830a8e49a",
-          "title": "Meta 宣布至多 950 亿美元融资计划，为 AI 等业务筹集资金",
-          "url": "https://www.ithome.com/1/018/144.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T12:26:21.940000Z"
-        },
-        {
-          "id": "847fc9e6e7ac8f769565aa58cf15ddd7baa63666",
-          "title": "Meta 宣布至多 950 亿美元重大融资计划，为人工智能等业务筹集资金",
-          "url": "https://www.ithome.com/1/018/144.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-26T12:26:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "ccf58bf2124c92979e2879422fa05f5830a8e49a",
-          "title": "Meta 宣布至多 950 亿美元融资计划，为 AI 等业务筹集资金",
-          "url": "https://www.ithome.com/1/018/144.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-26T12:26:21.940000Z"
-        },
-        {
-          "id": "847fc9e6e7ac8f769565aa58cf15ddd7baa63666",
-          "title": "Meta 宣布至多 950 亿美元重大融资计划，为人工智能等业务筹集资金",
-          "url": "https://www.ithome.com/1/018/144.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-26T12:26:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.82,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-26T12:26:21Z",
-      "latest_at": "2026-10-26T12:26:21.940000Z",
-      "primary_item": {
-        "id": "ccf58bf2124c92979e2879422fa05f5830a8e49a",
-        "title": "Meta 宣布至多 950 亿美元融资计划，为 AI 等业务筹集资金",
-        "url": "https://www.ithome.com/1/018/144.htm",
-        "source": "IT之家·人工智能",
         "source_name": "AI HOT"
       }
     }
