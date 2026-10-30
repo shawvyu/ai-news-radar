@@ -1,172 +1,71 @@
 {
-  "generated_at": "2026-10-29T13:23:25.503980Z",
+  "generated_at": "2026-10-30T16:03:05.869475Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_7ae8eb20550e",
-      "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "source": "Hugging Face Blog",
+      "story_id": "story_7bf0065ceb16",
+      "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "primary_url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "Hugging Face Blog",
+          "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
+          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T14:58:17Z"
+          "published_at": "2026-10-29T17:00:00Z"
         },
         {
-          "id": "8f7e3ffdffdc80c2d52891a3d2f60432a2cc30a1",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-28T22:56:46.012000Z"
-        },
-        {
-          "id": "09e92228d01396a732020c738ee9e6f4c46034a9",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-28T15:17:53Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hugging Face Blog",
-        "huggingface.co"
-      ],
-      "items": [
-        {
-          "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T14:58:17Z"
-        },
-        {
-          "id": "8f7e3ffdffdc80c2d52891a3d2f60432a2cc30a1",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR）",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-28T22:56:46.012000Z"
-        },
-        {
-          "id": "09e92228d01396a732020c738ee9e6f4c46034a9",
-          "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-28T15:17:53Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8682,
-      "importance": 0.8682,
-      "importance_score": 0.8682,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7234,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T14:58:17Z",
-      "latest_at": "2026-10-28T22:56:46.012000Z",
-      "primary_item": {
-        "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
-        "title": "Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_34b0bf3f94c3",
-      "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-      "primary_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
-          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T17:00:58Z"
-        },
-        {
-          "id": "f8ada884b4b34fada811e6af35ece237061ce63c",
-          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-          "source": "Google DeepMind：Blog（RSS）",
+          "id": "235b793514572cf958fd9b7036a6d6fd7a9b3329",
+          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T17:00:58Z"
+          "published_at": "2026-10-29T17:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Google DeepMind",
-        "Google DeepMind：Blog（RSS）"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
-          "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
-          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-          "source": "Google DeepMind",
+          "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
+          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T17:00:58Z"
+          "published_at": "2026-10-29T17:00:00Z"
         },
         {
-          "id": "f8ada884b4b34fada811e6af35ece237061ce63c",
-          "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型",
-          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-          "source": "Google DeepMind：Blog（RSS）",
+          "id": "235b793514572cf958fd9b7036a6d6fd7a9b3329",
+          "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则",
+          "url": "https://openai.com/index/updated-model-spec",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T17:00:58Z"
+          "published_at": "2026-10-29T17:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.826,
+      "importance": 0.826,
+      "importance_score": 0.826,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7451,
+        "recency": 0.7169,
         "story_heat": 0.25
       },
       "category": "official",
@@ -176,113 +75,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T17:00:58Z",
-      "latest_at": "2026-10-28T17:00:58Z",
+      "earliest_at": "2026-10-29T17:00:00Z",
+      "latest_at": "2026-10-29T17:00:00Z",
       "primary_item": {
-        "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
-        "title": "Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model",
-        "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
-        "source": "Google DeepMind",
+        "id": "3ea3683e8cb7252a32198e4679519068e68b8eae",
+        "title": "OpenAI 更新 Model Spec，围绕五项核心价值观重组模型行为准则 / An updated Model Spec for more capable and beneficial AI",
+        "url": "https://openai.com/index/updated-model-spec",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_d7766a294965",
-      "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
-      "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
-      "primary_url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "af60c04413c21de76dda706eafcda5fedf8b7805",
-          "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
-          "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T10:16:34Z"
-        },
-        {
-          "id": "c2ffa511fe3d32a061d1ea47093d596bb3cb549c",
-          "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务 / Google's AI search problem finally shows up in the earnings report, some investors believe",
-          "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-29T10:16:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "af60c04413c21de76dda706eafcda5fedf8b7805",
-          "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
-          "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T10:16:34Z"
-        },
-        {
-          "id": "c2ffa511fe3d32a061d1ea47093d596bb3cb549c",
-          "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务 / Google's AI search problem finally shows up in the earnings report, some investors believe",
-          "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-29T10:16:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.956,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T10:16:34Z",
-      "latest_at": "2026-10-29T10:16:34Z",
-      "primary_item": {
-        "id": "af60c04413c21de76dda706eafcda5fedf8b7805",
-        "title": "Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务",
-        "url": "https://the-decoder.com/googles-ai-search-problem-finally-shows-up-in-the-earnings-report-some-investors-believe",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_194ab4b69c2c",
-      "title": "使用 GitHub Copilot Fusion 路由和编排模型 / Route and orchestrate models with GitHub Copilot Fusion",
-      "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
-      "primary_url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+      "story_id": "story_3bf0ecbcedeb",
+      "title": "Webhook IP ranges added to the Meta API",
+      "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
+      "primary_url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3c8515f5056cc65d60ea2d94ced5d06f13712973",
-          "title": "使用 GitHub Copilot Fusion 路由和编排模型 / Route and orchestrate models with GitHub Copilot Fusion",
-          "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+          "id": "8d165123a67224af2eca552ed849a2bd1682d7d2",
+          "title": "Webhook IP ranges added to the Meta API",
+          "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T16:00:00Z"
+          "published_at": "2026-10-29T17:14:38Z"
         }
       ],
       "source_count": 1,
@@ -291,26 +109,26 @@
       ],
       "items": [
         {
-          "id": "3c8515f5056cc65d60ea2d94ced5d06f13712973",
-          "title": "使用 GitHub Copilot Fusion 路由和编排模型 / Route and orchestrate models with GitHub Copilot Fusion",
-          "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+          "id": "8d165123a67224af2eca552ed849a2bd1682d7d2",
+          "title": "Webhook IP ranges added to the Meta API",
+          "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T16:00:00Z"
+          "published_at": "2026-10-29T17:14:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7343,
+        "ai_relevance": 0.87,
+        "recency": 0.7194,
         "story_heat": 0.0
       },
       "category": "official",
@@ -319,99 +137,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T16:00:00Z",
-      "latest_at": "2026-10-28T16:00:00Z",
+      "earliest_at": "2026-10-29T17:14:38Z",
+      "latest_at": "2026-10-29T17:14:38Z",
       "primary_item": {
-        "id": "3c8515f5056cc65d60ea2d94ced5d06f13712973",
-        "title": "使用 GitHub Copilot Fusion 路由和编排模型 / Route and orchestrate models with GitHub Copilot Fusion",
-        "url": "https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion",
+        "id": "8d165123a67224af2eca552ed849a2bd1682d7d2",
+        "title": "Webhook IP ranges added to the Meta API",
+        "url": "https://github.blog/changelog/2026-10-29-webhook-ip-ranges-added-to-the-meta-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_85d975255b4f",
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
-      "primary_url": "https://huggingface.co/blog/anydecisionmodel",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
-          "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "url": "https://huggingface.co/blog/anydecisionmodel",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
-          "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-          "url": "https://huggingface.co/blog/anydecisionmodel",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8242,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T00:00:00Z",
-      "latest_at": "2026-10-29T00:00:00Z",
-      "primary_item": {
-        "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
-        "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-        "url": "https://huggingface.co/blog/anydecisionmodel",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1633f6467c36",
-      "title": "GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比",
-      "url": "https://www.aibase.com/news/31962",
-      "primary_url": "https://www.aibase.com/news/31962",
+      "story_id": "story_f77edb2f903d",
+      "title": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
+      "url": "https://www.aibase.com/news/31991",
+      "primary_url": "https://www.aibase.com/news/31991",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3e6952218ae740ba8731b081a91ae9cce07df7a9",
-          "title": "GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比",
-          "url": "https://www.aibase.com/news/31962",
+          "id": "836d362bed2eee885778174ba8d118127a6a839b",
+          "title": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
+          "url": "https://www.aibase.com/news/31991",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-29T13:23:25.503980Z"
+          "published_at": "2026-10-30T15:40:05.869475Z"
         },
         {
-          "id": "ae5f29d21f925b78e8d06b36493d4f177d5ef6a3",
-          "title": "GitHub 发布 Copilot Fusion，多模型自动编排提升编码效率与性价比",
-          "url": "https://www.aibase.com/zh/news/31962",
+          "id": "15f445146311c1d11a33d676a3040e960a524efd",
+          "title": "AI 也能重新编曲和翻唱？Spotify 计划推出付费音乐混音服务",
+          "url": "https://www.aibase.com/zh/news/31991",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -425,18 +181,18 @@
       ],
       "items": [
         {
-          "id": "3e6952218ae740ba8731b081a91ae9cce07df7a9",
-          "title": "GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比",
-          "url": "https://www.aibase.com/news/31962",
+          "id": "836d362bed2eee885778174ba8d118127a6a839b",
+          "title": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
+          "url": "https://www.aibase.com/news/31991",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-29T13:23:25.503980Z"
+          "published_at": "2026-10-30T15:40:05.869475Z"
         },
         {
-          "id": "ae5f29d21f925b78e8d06b36493d4f177d5ef6a3",
-          "title": "GitHub 发布 Copilot Fusion，多模型自动编排提升编码效率与性价比",
-          "url": "https://www.aibase.com/zh/news/31962",
+          "id": "15f445146311c1d11a33d676a3040e960a524efd",
+          "title": "AI 也能重新编曲和翻唱？Spotify 计划推出付费音乐混音服务",
+          "url": "https://www.aibase.com/zh/news/31991",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -445,96 +201,622 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9945,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T15:40:05.869475Z",
+      "latest_at": "2026-10-30T16:03:05.869475Z",
+      "primary_item": {
+        "id": "836d362bed2eee885778174ba8d118127a6a839b",
+        "title": "AI也能重新编曲和翻唱?Spotify计划推出付费音乐混音服务",
+        "url": "https://www.aibase.com/news/31991",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5ec9437afb13",
+      "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
+          "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T13:11:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
+          "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T13:11:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9594,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T13:11:05Z",
+      "latest_at": "2026-10-30T13:11:05Z",
+      "primary_item": {
+        "id": "d7fb8cbaabd9907004a46c51b82748c25cbea18f",
+        "title": "The Verge 解读 Anthropic S-1 文件中的奇迹叙事与风险披露",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_21f09b4af674",
+      "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
+      "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "primary_url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "66c9008c3638deeb0bcaace1cca0024a483c0f10",
+          "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
+          "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T21:29:51.580000Z"
+        },
+        {
+          "id": "c8f3538d5b5f9c781904fbfd075a69c253ea1b4f",
+          "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧 / Google value plunges by $500B as AI fears rattle Wall Street",
+          "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-29T22:22:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News：AI 热帖"
+      ],
+      "items": [
+        {
+          "id": "66c9008c3638deeb0bcaace1cca0024a483c0f10",
+          "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
+          "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T21:29:51.580000Z"
+        },
+        {
+          "id": "c8f3538d5b5f9c781904fbfd075a69c253ea1b4f",
+          "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧 / Google value plunges by $500B as AI fears rattle Wall Street",
+          "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-29T22:22:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.765,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T21:29:51.580000Z",
+      "latest_at": "2026-10-29T22:22:13Z",
+      "primary_item": {
+        "id": "66c9008c3638deeb0bcaace1cca0024a483c0f10",
+        "title": "Google 市值蒸发 5000 亿美元，AI 概要冲击搜索广告引发华尔街担忧",
+        "url": "https://www.bbc.com/news/articles/cm9qzdqpxy48o",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_31dafc82d146",
+      "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
+      "url": "https://www.platformer.news/thursday-newsletter-6",
+      "primary_url": "https://www.platformer.news/thursday-newsletter-6",
+      "source": "Platformer（热点 RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
+          "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
+          "url": "https://www.platformer.news/thursday-newsletter-6",
+          "source": "Platformer（热点 RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T00:51:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Platformer（热点 RSS）"
+      ],
+      "items": [
+        {
+          "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
+          "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
+          "url": "https://www.platformer.news/thursday-newsletter-6",
+          "source": "Platformer（热点 RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T00:51:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8029,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T00:51:00Z",
+      "latest_at": "2026-10-30T00:51:00Z",
+      "primary_item": {
+        "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
+        "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
+        "url": "https://www.platformer.news/thursday-newsletter-6",
+        "source": "Platformer（热点 RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_720b04b8c5b9",
+      "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元",
+      "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "primary_url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "30883c518b340c50ea1b4b708c78d60b95af5b3f",
+          "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元",
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T23:42:22Z"
+        },
+        {
+          "id": "b2e52b30cc9619ceed550b85f5d43845865a4de6",
+          "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元 / AWS will be a $1T business, Jassy says — but first, it will spend big",
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-29T23:42:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "30883c518b340c50ea1b4b708c78d60b95af5b3f",
+          "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元",
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T23:42:22Z"
+        },
+        {
+          "id": "b2e52b30cc9619ceed550b85f5d43845865a4de6",
+          "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元 / AWS will be a $1T business, Jassy says — but first, it will spend big",
+          "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-29T23:42:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7898,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T23:42:22Z",
+      "latest_at": "2026-10-29T23:42:22Z",
+      "primary_item": {
+        "id": "30883c518b340c50ea1b4b708c78d60b95af5b3f",
+        "title": "Jassy 称 AWS 五到十年内将成为万亿美元营收业务，2026 年 capex 约 2200 亿美元",
+        "url": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6e7a037d77f2",
+      "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
+      "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+      "primary_url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+      "source": "Epoch AI：Gradient Updates（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e7532ef07732ce1984278cea3c9d2ef08ee34e67",
+          "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
+          "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+          "source": "Epoch AI：Gradient Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T12:07:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Epoch AI：Gradient Updates（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e7532ef07732ce1984278cea3c9d2ef08ee34e67",
+          "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
+          "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+          "source": "Epoch AI：Gradient Updates（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T12:07:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9448,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-30T12:07:16Z",
+      "latest_at": "2026-10-30T12:07:16Z",
+      "primary_item": {
+        "id": "e7532ef07732ce1984278cea3c9d2ef08ee34e67",
+        "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
+        "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
+        "source": "Epoch AI：Gradient Updates（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f7d0f7defa94",
+      "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+      "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+      "primary_url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+      "source": "Timothy B. Lee：Understanding AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
+          "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+          "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+          "source": "Timothy B. Lee：Understanding AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T19:10:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Timothy B. Lee：Understanding AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
+          "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+          "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+          "source": "Timothy B. Lee：Understanding AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T19:10:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7398,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T19:10:41Z",
+      "latest_at": "2026-10-29T19:10:41Z",
+      "primary_item": {
+        "id": "c57b1132c9326c88bce5f776e8fa8638f7b83df1",
+        "title": "Anthropic S-1 文件解读：财务表现强劲但增长放缓存隐忧",
+        "url": "https://www.understandingai.org/p/anthropics-financials-are-surprisingly",
+        "source": "Timothy B. Lee：Understanding AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1379ddace73f",
+      "title": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
+      "url": "https://www.aibase.com/news/31995",
+      "primary_url": "https://www.aibase.com/news/31995",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1daa6533f0453e3bb2b9f84d884192accb4f41f3",
+          "title": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
+          "url": "https://www.aibase.com/news/31995",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T16:03:05.869475Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1daa6533f0453e3bb2b9f84d884192accb4f41f3",
+          "title": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
+          "url": "https://www.aibase.com/news/31995",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T16:03:05.869475Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-29T13:23:25.503980Z",
-      "latest_at": "2026-10-29T13:23:25.503980Z",
+      "earliest_at": "2026-10-30T16:03:05.869475Z",
+      "latest_at": "2026-10-30T16:03:05.869475Z",
       "primary_item": {
-        "id": "3e6952218ae740ba8731b081a91ae9cce07df7a9",
-        "title": "GitHub发布Copilot Fusion，多模型自动编排提升编码效率与性价比",
-        "url": "https://www.aibase.com/news/31962",
+        "id": "1daa6533f0453e3bb2b9f84d884192accb4f41f3",
+        "title": "Fable 5. 5 测试曝光：Claude每次回答背后，都在偷偷执行你看不见的“安全审判”",
+        "url": "https://www.aibase.com/news/31995",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d7f88b36e305",
-      "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
-      "url": "https://www.ithome.com/1/019/268.htm",
-      "primary_url": "https://www.ithome.com/1/019/268.htm",
-      "source": "IT之家·人工智能",
+      "story_id": "story_b14e39232143",
+      "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
+      "url": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
+      "primary_url": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
+      "source": "Sierra：Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "36ce1c0ac3c28ccdfbca5c7ef388f74dabf116e1",
-          "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
-          "url": "https://www.ithome.com/1/019/268.htm",
-          "source": "IT之家·人工智能",
+          "id": "e68eae64b1758b39ba34ddf7038dee1f03c58346",
+          "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
+          "url": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
+          "source": "Sierra：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T22:35:25.040000Z"
+          "published_at": "2026-10-30T12:50:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Sierra：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e68eae64b1758b39ba34ddf7038dee1f03c58346",
+          "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
+          "url": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
+          "source": "Sierra：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-30T12:50:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9546,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-30T12:50:00Z",
+      "latest_at": "2026-10-30T12:50:00Z",
+      "primary_item": {
+        "id": "e68eae64b1758b39ba34ddf7038dee1f03c58346",
+        "title": "Sierra 宣布 ARR 突破 4 亿美元，Q3 单季新增超 1.5 亿美元",
+        "url": "https://sierra.ai/blog/our-customers-ambition-is-accelerating-our-growth",
+        "source": "Sierra：Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1e09943a421e",
+      "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+      "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "primary_url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T20:08:31Z"
         },
         {
-          "id": "02de9975c2177bcbc413bff59e671656e468bd9e",
-          "title": "Claude AI 找漏洞实战：安卓手机锁屏下提取照片、53 分钟攻破 Linux 获取最高权限",
-          "url": "https://www.ithome.com/1/019/268.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "8e3516f54ddd6bf7d6b87e8a37f4ad9ad8973336",
+          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-29T20:08:31Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家·人工智能",
-        "Readhub · AI"
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "36ce1c0ac3c28ccdfbca5c7ef388f74dabf116e1",
-          "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
-          "url": "https://www.ithome.com/1/019/268.htm",
-          "source": "IT之家·人工智能",
+          "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T22:35:25.040000Z"
+          "published_at": "2026-10-29T20:08:31Z"
         },
         {
-          "id": "02de9975c2177bcbc413bff59e671656e468bd9e",
-          "title": "Claude AI 找漏洞实战：安卓手机锁屏下提取照片、53 分钟攻破 Linux 获取最高权限",
-          "url": "https://www.ithome.com/1/019/268.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "8e3516f54ddd6bf7d6b87e8a37f4ad9ad8973336",
+          "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑 / As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+          "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-29T20:08:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8076,
+        "recency": 0.7501,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -543,216 +825,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T22:35:25.040000Z",
-      "latest_at": "2026-10-29T00:29:06.508416Z",
+      "earliest_at": "2026-10-29T20:08:31Z",
+      "latest_at": "2026-10-29T20:08:31Z",
       "primary_item": {
-        "id": "36ce1c0ac3c28ccdfbca5c7ef388f74dabf116e1",
-        "title": "Anthropic 报告：Claude 研究模型在 Chrome、Safari、Android、Windows、Linux 发现漏洞并串联 5 条攻击链",
-        "url": "https://www.ithome.com/1/019/268.htm",
-        "source": "IT之家·人工智能",
+        "id": "90661e6e3855267c31e8f33a748c9c50402fa6d4",
+        "title": "Reddit 宣布转向以登录为主的体验，以应对 AI 搜索带来的流量下滑",
+        "url": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_f3aa6dba8d09",
-      "title": "GitHub Copilot 应用程序、Universe 发布 / GitHub Copilot app, Universe releases",
-      "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-      "primary_url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f8fbc5ad7b9234fe2d8855c76227e11580efad81",
-          "title": "GitHub Copilot 应用程序、Universe 发布 / GitHub Copilot app, Universe releases",
-          "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:55:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f8fbc5ad7b9234fe2d8855c76227e11580efad81",
-          "title": "GitHub Copilot 应用程序、Universe 发布 / GitHub Copilot app, Universe releases",
-          "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:55:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7334,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T15:55:00Z",
-      "latest_at": "2026-10-28T15:55:00Z",
-      "primary_item": {
-        "id": "f8fbc5ad7b9234fe2d8855c76227e11580efad81",
-        "title": "GitHub Copilot 应用程序、Universe 发布 / GitHub Copilot app, Universe releases",
-        "url": "https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a9f7caff5c00",
-      "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
-      "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
-          "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
-          "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:11:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
-          "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
-          "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:11:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.747,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T17:11:27Z",
-      "latest_at": "2026-10-28T17:11:27Z",
-      "primary_item": {
-        "id": "36fa834a55e5c7ba5b1d9e4a592f9aa72ca95680",
-        "title": "Anthropic IPO 文件披露现金及短期投资达 131.7B 美元，超过 Amazon 和 Microsoft",
-        "url": "https://x.com/rohanpaul_ai/status/2115491649543635378",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b76749fb7bd8",
-      "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
-      "url": "https://x.com/addyosmani/status/2115688494865465370",
-      "primary_url": "https://x.com/addyosmani/status/2115688494865465370",
-      "source": "X：Addy Osmani (@addyosmani)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e8d8d82b3d02fec46424e67df6482a7f2fd29bcb",
-          "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
-          "url": "https://x.com/addyosmani/status/2115688494865465370",
-          "source": "X：Addy Osmani (@addyosmani)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T06:13:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Addy Osmani (@addyosmani)"
-      ],
-      "items": [
-        {
-          "id": "e8d8d82b3d02fec46424e67df6482a7f2fd29bcb",
-          "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
-          "url": "https://x.com/addyosmani/status/2115688494865465370",
-          "source": "X：Addy Osmani (@addyosmani)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-29T06:13:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9017,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T06:13:39Z",
-      "latest_at": "2026-10-29T06:13:39Z",
-      "primary_item": {
-        "id": "e8d8d82b3d02fec46424e67df6482a7f2fd29bcb",
-        "title": "Addy Osmani 谈你可能对 Claude 过度提示了",
-        "url": "https://x.com/addyosmani/status/2115688494865465370",
-        "source": "X：Addy Osmani (@addyosmani)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3455b962bfa9",
-      "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-      "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
-      "primary_url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
+      "story_id": "story_83f40a93c59f",
+      "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
+      "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
+      "primary_url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
       "source": "OpenRouter：Announcements（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
-          "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-          "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
+          "id": "a5357833e5dba28959e17c2c76ce9ac70bc98be5",
+          "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
+          "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
           "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-29T00:00:00Z"
+          "published_at": "2026-10-30T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -761,665 +859,535 @@
       ],
       "items": [
         {
-          "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
-          "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-          "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
+          "id": "a5357833e5dba28959e17c2c76ce9ac70bc98be5",
+          "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
+          "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
           "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-29T00:00:00Z"
+          "published_at": "2026-10-30T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7304,
+      "importance": 0.7304,
+      "importance_score": 0.7304,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8242,
+        "recency": 0.7931,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-29T00:00:00Z",
-      "latest_at": "2026-10-29T00:00:00Z",
+      "earliest_at": "2026-10-30T00:00:00Z",
+      "latest_at": "2026-10-30T00:00:00Z",
       "primary_item": {
-        "id": "aced1aa9efc5bfdb2073c94bee51c5eb5baf4442",
-        "title": "OpenRouter 教程：用 LLM 从 PDF 中抽取表格",
-        "url": "https://openrouter.ai/blog/tutorials/extract-tables-from-pdf-llm",
+        "id": "a5357833e5dba28959e17c2c76ce9ac70bc98be5",
+        "title": "OpenRouter 实测 Claude Opus vs Sonnet vs Haiku 5.5 该选哪个",
+        "url": "https://openrouter.ai/blog/insights/claude-opus-vs-sonnet-vs-haiku",
         "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_067bd3e13080",
-      "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
-      "url": "https://www.wheresyoured.at/exit-liquidity",
-      "primary_url": "https://www.wheresyoured.at/exit-liquidity",
-      "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+      "story_id": "story_6cbde97d8260",
+      "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
+      "source": "公众号：月之暗面（Kimi）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
-          "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
-          "url": "https://www.wheresyoured.at/exit-liquidity",
-          "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+          "id": "4341062db06c4806c98812189a143621cafb83cd",
+          "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
+          "source": "公众号：月之暗面（Kimi）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T17:51:00Z"
+          "published_at": "2026-10-30T04:04:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Ed Zitron 长文 / Where’s Your Ed At（RSS）"
+        "公众号：月之暗面（Kimi）"
       ],
       "items": [
         {
-          "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
-          "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
-          "url": "https://www.wheresyoured.at/exit-liquidity",
-          "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+          "id": "4341062db06c4806c98812189a143621cafb83cd",
+          "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
+          "source": "公众号：月之暗面（Kimi）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T17:51:00Z"
+          "published_at": "2026-10-30T04:04:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7541,
+        "recency": 0.8413,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-28T17:51:00Z",
-      "latest_at": "2026-10-28T17:51:00Z",
+      "earliest_at": "2026-10-30T04:04:56Z",
+      "latest_at": "2026-10-30T04:04:56Z",
       "primary_item": {
-        "id": "e1bce0a78d751dae23274eb2ed44ab6f3d4ce402",
-        "title": "Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性",
-        "url": "https://www.wheresyoured.at/exit-liquidity",
-        "source": "Ed Zitron 长文 / Where’s Your Ed At（RSS）",
+        "id": "4341062db06c4806c98812189a143621cafb83cd",
+        "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
+        "source": "公众号：月之暗面（Kimi）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_841f88c40f1c",
-      "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
-      "url": "https://x.com/sundarpichai/status/2115535455156642066",
-      "primary_url": "https://x.com/sundarpichai/status/2115535455156642066",
-      "source": "X：Sundar Pichai (@sundarpichai)",
+      "story_id": "story_f5f5b3a4eebe",
+      "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
+      "url": "https://x.com/cursor_ai/status/2116074289053175808",
+      "primary_url": "https://x.com/cursor_ai/status/2116074289053175808",
+      "source": "X：Cursor (@cursor_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
-          "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
-          "url": "https://x.com/sundarpichai/status/2115535455156642066",
-          "source": "X：Sundar Pichai (@sundarpichai)",
+          "id": "d5b8514def591da58e136a9e44520c38dc9a51ef",
+          "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
+          "url": "https://x.com/cursor_ai/status/2116074289053175808",
+          "source": "X：Cursor (@cursor_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T20:05:31Z"
+          "published_at": "2026-10-30T07:46:39Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Sundar Pichai (@sundarpichai)"
+        "X：Cursor (@cursor_ai)"
       ],
       "items": [
         {
-          "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
-          "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
-          "url": "https://x.com/sundarpichai/status/2115535455156642066",
-          "source": "X：Sundar Pichai (@sundarpichai)",
+          "id": "d5b8514def591da58e136a9e44520c38dc9a51ef",
+          "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
+          "url": "https://x.com/cursor_ai/status/2116074289053175808",
+          "source": "X：Cursor (@cursor_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-28T20:05:31Z"
+          "published_at": "2026-10-30T07:46:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.779,
+        "recency": 0.8874,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-28T20:05:31Z",
-      "latest_at": "2026-10-28T20:05:31Z",
+      "earliest_at": "2026-10-30T07:46:39Z",
+      "latest_at": "2026-10-30T07:46:39Z",
       "primary_item": {
-        "id": "fd53467550a751aad87fd7e5f6f51c99ecafa8ab",
-        "title": "Alphabet Q3 财报：年化收入达 5000 亿美元，Google Cloud 增长 103%",
-        "url": "https://x.com/sundarpichai/status/2115535455156642066",
-        "source": "X：Sundar Pichai (@sundarpichai)",
+        "id": "d5b8514def591da58e136a9e44520c38dc9a51ef",
+        "title": "Cursor 披露 Claude Code VS Code 扩展被植入恶意软件事件，最多影响 5000 用户",
+        "url": "https://x.com/cursor_ai/status/2116074289053175808",
+        "source": "X：Cursor (@cursor_ai)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_8bb31ca7fd08",
-      "title": "Chrome 开始\"翻你的邮箱\"帮你填表：Gemini 把 Gmail 变填单助手",
-      "url": "https://www.aibase.com/news/31952",
-      "primary_url": "https://www.aibase.com/news/31952",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c2861e26a175",
+      "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+      "url": "https://x.com/thsottiaux/status/2115850175868727621",
+      "primary_url": "https://x.com/thsottiaux/status/2115850175868727621",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "08cc25711dc3cb30fdaf6bf825ebfbe34f26a1a9",
-          "title": "Chrome 开始\"翻你的邮箱\"帮你填表：Gemini 把 Gmail 变填单助手",
-          "url": "https://www.aibase.com/news/31952",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-29T06:11:48.871798Z"
+          "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
+          "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+          "url": "https://x.com/thsottiaux/status/2115850175868727621",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T16:56:07Z"
         },
         {
-          "id": "39c2da5c4df5ae5c0e6af65749a657f8771b014c",
-          "title": "Chrome 开始「翻你的邮箱」帮你填表：Gemini 把 Gmail 变填单助手",
-          "url": "https://www.aibase.com/zh/news/31952",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "ccbaa7fa040c2380579fa57f6312a4392384b76a",
+          "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍 / Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage wi...",
+          "url": "https://x.com/thsottiaux/status/2115850175868727621",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-29T16:56:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
       ],
       "items": [
         {
-          "id": "08cc25711dc3cb30fdaf6bf825ebfbe34f26a1a9",
-          "title": "Chrome 开始\"翻你的邮箱\"帮你填表：Gemini 把 Gmail 变填单助手",
-          "url": "https://www.aibase.com/news/31952",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-29T06:11:48.871798Z"
+          "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
+          "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+          "url": "https://x.com/thsottiaux/status/2115850175868727621",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T16:56:07Z"
         },
         {
-          "id": "39c2da5c4df5ae5c0e6af65749a657f8771b014c",
-          "title": "Chrome 开始「翻你的邮箱」帮你填表：Gemini 把 Gmail 变填单助手",
-          "url": "https://www.aibase.com/zh/news/31952",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "ccbaa7fa040c2380579fa57f6312a4392384b76a",
+          "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍 / Day 25/ We are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today. We heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage wi...",
+          "url": "https://x.com/thsottiaux/status/2115850175868727621",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-10-29T16:56:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7175,
+      "importance": 0.7175,
+      "importance_score": 0.7175,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7162,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-29T16:56:07Z",
+      "latest_at": "2026-10-29T16:56:07Z",
+      "primary_item": {
+        "id": "00b59977dc0bd1a205a8340d09aff2f8388ca75c",
+        "title": "Codex 宣布即日起 Pro 及 Business Premium 各档位用量上限翻倍",
+        "url": "https://x.com/thsottiaux/status/2115850175868727621",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c4bedd819100",
+      "title": "Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师",
+      "url": "https://www.aibase.com/news/31994",
+      "primary_url": "https://www.aibase.com/news/31994",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "04de0e9bb79741accfdf810cc503536c59eee85d",
+          "title": "Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师",
+          "url": "https://www.aibase.com/news/31994",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T16:03:05.869475Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "04de0e9bb79741accfdf810cc503536c59eee85d",
+          "title": "Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师",
+          "url": "https://www.aibase.com/news/31994",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-30T16:03:05.869475Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9013,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-29T06:11:48.871798Z",
-      "latest_at": "2026-10-29T06:11:48.871798Z",
+      "earliest_at": "2026-10-30T16:03:05.869475Z",
+      "latest_at": "2026-10-30T16:03:05.869475Z",
       "primary_item": {
-        "id": "08cc25711dc3cb30fdaf6bf825ebfbe34f26a1a9",
-        "title": "Chrome 开始\"翻你的邮箱\"帮你填表：Gemini 把 Gmail 变填单助手",
-        "url": "https://www.aibase.com/news/31952",
+        "id": "04de0e9bb79741accfdf810cc503536c59eee85d",
+        "title": "Meta 把你的朋友圈变成试衣间：Style Sketch 让旧照片生出 AI 穿搭师",
+        "url": "https://www.aibase.com/news/31994",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_393d97d2e447",
-      "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
-          "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:50:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
-          "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:50:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7325,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-28T15:50:00Z",
-      "latest_at": "2026-10-28T15:50:00Z",
-      "primary_item": {
-        "id": "e60ec0da27a658af8f30013865adc40b01dade2f",
-        "title": "GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_85daa6a85474",
-      "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-      "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-      "primary_url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-      "source": "GitHub Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "61da53cc177498974cdf57d108b0f69954338a4b",
-          "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-          "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T16:07:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "61da53cc177498974cdf57d108b0f69954338a4b",
-          "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-          "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T16:07:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7356,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T16:07:40Z",
-      "latest_at": "2026-10-28T16:07:40Z",
-      "primary_item": {
-        "id": "61da53cc177498974cdf57d108b0f69954338a4b",
-        "title": "GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草",
-        "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents",
-        "source": "GitHub Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f7c3c9c067f4",
-      "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-      "url": "https://x.com/bcherny/status/2115491259381072269",
-      "primary_url": "https://x.com/bcherny/status/2115491259381072269",
-      "source": "X：Boris Cherny (@bcherny)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
-          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-          "url": "https://x.com/bcherny/status/2115491259381072269",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:09:54Z"
-        },
-        {
-          "id": "2fdaf08456d41172dc5c6ee428c553bf2d583e51",
-          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot. https://t.co/ERZpBFuYSa",
-          "url": "https://x.com/bcherny/status/2115491259381072269",
-          "source": "Follow Builders · X · Boris Cherny",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-28T17:09:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Boris Cherny",
-        "X：Boris Cherny (@bcherny)"
-      ],
-      "items": [
-        {
-          "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
-          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-          "url": "https://x.com/bcherny/status/2115491259381072269",
-          "source": "X：Boris Cherny (@bcherny)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:09:54Z"
-        },
-        {
-          "id": "2fdaf08456d41172dc5c6ee428c553bf2d583e51",
-          "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+ hours by the end of the four-week pilot. https://t.co/ERZpBFuYSa",
-          "url": "https://x.com/bcherny/status/2115491259381072269",
-          "source": "Follow Builders · X · Boris Cherny",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-10-28T17:09:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7467,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T17:09:54Z",
-      "latest_at": "2026-10-28T17:09:54Z",
-      "primary_item": {
-        "id": "d2353704e32a7603145331df04f6fc2fb8260bee",
-        "title": "犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code",
-        "url": "https://x.com/bcherny/status/2115491259381072269",
-        "source": "X：Boris Cherny (@bcherny)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_375dc07ac160",
-      "title": "OpenAI员工撰文详解AI融入企业的未来三种形态",
-      "url": "https://www.aibase.com/news/31954",
-      "primary_url": "https://www.aibase.com/news/31954",
+      "story_id": "story_ea21b196c13d",
+      "title": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
+      "url": "https://www.aibase.com/news/31992",
+      "primary_url": "https://www.aibase.com/news/31992",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b1c85d60cc40b452f34e59c300256fdad2e1e1ec",
-          "title": "OpenAI员工撰文详解AI融入企业的未来三种形态",
-          "url": "https://www.aibase.com/news/31954",
+          "id": "150df31a7d38b7405fc93d1b8ae1d16659c8cd4c",
+          "title": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
+          "url": "https://www.aibase.com/news/31992",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-29T06:11:48.871798Z"
-        },
-        {
-          "id": "49f47eb4b970f79c249348b4e2753c98e64b9f93",
-          "title": "OpenAI 员工撰文详解 AI 融入企业的未来三种形态",
-          "url": "https://www.aibase.com/zh/news/31954",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-10-30T16:03:05.869475Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "b1c85d60cc40b452f34e59c300256fdad2e1e1ec",
-          "title": "OpenAI员工撰文详解AI融入企业的未来三种形态",
-          "url": "https://www.aibase.com/news/31954",
+          "id": "150df31a7d38b7405fc93d1b8ae1d16659c8cd4c",
+          "title": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
+          "url": "https://www.aibase.com/news/31992",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-29T06:11:48.871798Z"
-        },
-        {
-          "id": "49f47eb4b970f79c249348b4e2753c98e64b9f93",
-          "title": "OpenAI 员工撰文详解 AI 融入企业的未来三种形态",
-          "url": "https://www.aibase.com/zh/news/31954",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-10-30T16:03:05.869475Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9013,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-29T06:11:48.871798Z",
-      "latest_at": "2026-10-29T06:11:48.871798Z",
+      "earliest_at": "2026-10-30T16:03:05.869475Z",
+      "latest_at": "2026-10-30T16:03:05.869475Z",
       "primary_item": {
-        "id": "b1c85d60cc40b452f34e59c300256fdad2e1e1ec",
-        "title": "OpenAI员工撰文详解AI融入企业的未来三种形态",
-        "url": "https://www.aibase.com/news/31954",
+        "id": "150df31a7d38b7405fc93d1b8ae1d16659c8cd4c",
+        "title": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
+        "url": "https://www.aibase.com/news/31992",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_adf1996fc970",
-      "title": "GitHub Copilot 应用程序的安全扩展 / Security extension for the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_2df82173bb28",
+      "title": "这套七层可复用的 Claude Code 工作流，可以帮你把Opus 5.5任务做成可断点续跑、自带证据留存的可靠体系。它把项目规范、技能脚本、MCP数据源、权限钩子、独立审查子智能体、推理强度和验收目标拆解开，用固定目录结构和校验表格沉淀成果。不管是写稿还是资料核验，都不用反复重建对话，很适合长期稳定的AI工程化工作。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-29",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
-          "title": "GitHub Copilot 应用程序的安全扩展 / Security extension for the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:45:00Z"
+          "id": "b546cd95685d6035d6b1952b25d8f962886f4918",
+          "title": "作者用同一套任务测了 Grok Bot、Muse、Dots、Instinct。实测覆盖四类共 8 个通用场景：信息与沟通（邮件、日程）、主动与定时（金融行情监控、定时买咖啡）、消费与出行闭环（订酒店、买火车票、打车）和找活动（筛选近期 AI 活动）。一起来看看他们的效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-30T16:03:05.869475Z"
+        },
+        {
+          "id": "ca6b41734a86ad9a7434dae3c9a7cca63d79400b",
+          "title": "这套七层可复用的 Claude Code 工作流，可以帮你把Opus 5.5任务做成可断点续跑、自带证据留存的可靠体系。它把项目规范、技能脚本、MCP数据源、权限钩子、独立审查子智能体、推理强度和验收目标拆解开，用固定目录结构和校验表格沉淀成果。不管是写稿还是资料核验，都不用反复重建对话，很适合长期稳定的AI工程化工作。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-30T16:03:05.869475Z"
+        },
+        {
+          "id": "b669a9e12032657fc52de5b5013cebd0b6bb7bd4",
+          "title": "这是面向工程师、QA 和产品经理的评估与追踪指南的第二部分，旨在帮助您测试 AI 应用的每一项变更。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-30T16:03:05.869475Z"
+        },
+        {
+          "id": "86d14162e54d9e4009cf522bba0a48d075022b73",
+          "title": "这篇文章深度拆解了线性注意力从 DeltaNet、GDN 到 KDA 的演进脉络，同时落地到 vLLM 里 Hybrid 混合模型的缓存工程实现，帮你看懂模型架构和推理调度之间的软硬件取舍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-30T16:03:05.869475Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "GitHub Changelog"
+        "社区更新 · 2026-10-29"
       ],
       "items": [
         {
-          "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
-          "title": "GitHub Copilot 应用程序的安全扩展 / Security extension for the GitHub Copilot app",
-          "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-28T15:45:00Z"
+          "id": "b546cd95685d6035d6b1952b25d8f962886f4918",
+          "title": "作者用同一套任务测了 Grok Bot、Muse、Dots、Instinct。实测覆盖四类共 8 个通用场景：信息与沟通（邮件、日程）、主动与定时（金融行情监控、定时买咖啡）、消费与出行闭环（订酒店、买火车票、打车）和找活动（筛选近期 AI 活动）。一起来看看他们的效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-30T16:03:05.869475Z"
+        },
+        {
+          "id": "ca6b41734a86ad9a7434dae3c9a7cca63d79400b",
+          "title": "这套七层可复用的 Claude Code 工作流，可以帮你把Opus 5.5任务做成可断点续跑、自带证据留存的可靠体系。它把项目规范、技能脚本、MCP数据源、权限钩子、独立审查子智能体、推理强度和验收目标拆解开，用固定目录结构和校验表格沉淀成果。不管是写稿还是资料核验，都不用反复重建对话，很适合长期稳定的AI工程化工作。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-30T16:03:05.869475Z"
+        },
+        {
+          "id": "b669a9e12032657fc52de5b5013cebd0b6bb7bd4",
+          "title": "这是面向工程师、QA 和产品经理的评估与追踪指南的第二部分，旨在帮助您测试 AI 应用的每一项变更。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-30T16:03:05.869475Z"
+        },
+        {
+          "id": "86d14162e54d9e4009cf522bba0a48d075022b73",
+          "title": "这篇文章深度拆解了线性注意力从 DeltaNet、GDN 到 KDA 的演进脉络，同时落地到 vLLM 里 Hybrid 混合模型的缓存工程实现，帮你看懂模型架构和推理调度之间的软硬件取舍。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-29",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-30T16:03:05.869475Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "官方更新",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6567,
+      "importance": 0.6567,
+      "importance_score": 0.6567,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7316,
-        "story_heat": 0.0
+        "editorial": 0.4896,
+        "source_tier": 0.54,
+        "ai_relevance": 0.68,
+        "recency": 1.0,
+        "story_heat": 0.75
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-28T15:45:00Z",
-      "latest_at": "2026-10-28T15:45:00Z",
+      "earliest_at": "2026-10-30T16:03:05.869475Z",
+      "latest_at": "2026-10-30T16:03:05.869475Z",
       "primary_item": {
-        "id": "026c7449911905b0e5e4cf5547827fd121f6688c",
-        "title": "GitHub Copilot 应用程序的安全扩展 / Security extension for the GitHub Copilot app",
-        "url": "https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "ca6b41734a86ad9a7434dae3c9a7cca63d79400b",
+        "title": "这套七层可复用的 Claude Code 工作流，可以帮你把Opus 5.5任务做成可断点续跑、自带证据留存的可靠体系。它把项目规范、技能脚本、MCP数据源、权限钩子、独立审查子智能体、推理强度和验收目标拆解开，用固定目录结构和校验表格沉淀成果。不管是写稿还是资料核验，都不用反复重建对话，很适合长期稳定的AI工程化工作。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-10-29",
+        "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_c8a6bee3174b",
-      "title": "开源图像生成迎来新突破：OpenMOSS发布MOSS-Image，主打长文本渲染与可编辑布局",
-      "url": "https://www.aibase.com/news/31949",
-      "primary_url": "https://www.aibase.com/news/31949",
+      "story_id": "story_634ace01a702",
+      "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+      "url": "https://www.aibase.com/news/31990",
+      "primary_url": "https://www.aibase.com/news/31990",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ff3c36ef00cd1d1e9424375cd22c3519c17aae50",
-          "title": "开源图像生成迎来新突破：OpenMOSS发布MOSS-Image，主打长文本渲染与可编辑布局",
-          "url": "https://www.aibase.com/news/31949",
+          "id": "d877eafd256c14dbc04213745bbf0fe1f8d618ed",
+          "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+          "url": "https://www.aibase.com/news/31990",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-29T06:11:48.871798Z"
-        },
-        {
-          "id": "28eef2beab2055f3f740bbda473ed6bee82146b5",
-          "title": "开源图像生成迎来新突破：OpenMOSS 发布 MOSS-Image，主打长文本渲染与可编辑布局",
-          "url": "https://www.aibase.com/zh/news/31949",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-10-30T15:14:05.869475Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "ff3c36ef00cd1d1e9424375cd22c3519c17aae50",
-          "title": "开源图像生成迎来新突破：OpenMOSS发布MOSS-Image，主打长文本渲染与可编辑布局",
-          "url": "https://www.aibase.com/news/31949",
+          "id": "d877eafd256c14dbc04213745bbf0fe1f8d618ed",
+          "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+          "url": "https://www.aibase.com/news/31990",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-10-29T06:11:48.871798Z"
-        },
-        {
-          "id": "28eef2beab2055f3f740bbda473ed6bee82146b5",
-          "title": "开源图像生成迎来新突破：OpenMOSS 发布 MOSS-Image，主打长文本渲染与可编辑布局",
-          "url": "https://www.aibase.com/zh/news/31949",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-10-30T15:14:05.869475Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9013,
-        "story_heat": 0.25
+        "recency": 0.9883,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-29T06:11:48.871798Z",
-      "latest_at": "2026-10-29T06:11:48.871798Z",
+      "earliest_at": "2026-10-30T15:14:05.869475Z",
+      "latest_at": "2026-10-30T15:14:05.869475Z",
       "primary_item": {
-        "id": "ff3c36ef00cd1d1e9424375cd22c3519c17aae50",
-        "title": "开源图像生成迎来新突破：OpenMOSS发布MOSS-Image，主打长文本渲染与可编辑布局",
-        "url": "https://www.aibase.com/news/31949",
+        "id": "d877eafd256c14dbc04213745bbf0fe1f8d618ed",
+        "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
+        "url": "https://www.aibase.com/news/31990",
         "source": "AIbase",
         "source_name": "AIbase"
       }
