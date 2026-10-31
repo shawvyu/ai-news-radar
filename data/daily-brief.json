@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T00:12:37.355278Z",
+  "generated_at": "2026-10-31T05:59:27.914503Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8695,
-      "importance": 0.8695,
-      "importance_score": 0.8695,
+      "score": 0.8563,
+      "importance": 0.8563,
+      "importance_score": 0.8563,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9137,
+        "recency": 0.8405,
         "story_heat": 0.25
       },
       "category": "official",
@@ -195,15 +195,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8688,
-      "importance": 0.8688,
-      "importance_score": 0.8688,
+      "score": 0.8562,
+      "importance": 0.8562,
+      "importance_score": 0.8562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8735,
+        "recency": 0.8035,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -276,15 +276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.8299,
+      "importance": 0.8299,
+      "importance_score": 0.8299,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8028,
+        "recency": 0.7385,
         "story_heat": 0.25
       },
       "category": "official",
@@ -302,87 +302,6 @@
         "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-      "source": "公众号：千问APP（阿里）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
-          "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T00:03:47Z"
-        },
-        {
-          "id": "4341062db06c4806c98812189a143621cafb83cd",
-          "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
-          "source": "公众号：月之暗面（Kimi）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T04:04:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "公众号：千问APP（阿里）",
-        "公众号：月之暗面（Kimi）"
-      ],
-      "items": [
-        {
-          "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
-          "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-31T00:03:47Z"
-        },
-        {
-          "id": "4341062db06c4806c98812189a143621cafb83cd",
-          "title": "Kimi 官方教程：如何用 Kimi K3.1 Pro 创作 3D 作品",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484364&idx=1&sn=42491c3f098deb797ee8f2a17d147b3a",
-          "source": "公众号：月之暗面（Kimi）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-30T04:04:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9979,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-30T04:04:56Z",
-      "latest_at": "2026-10-31T00:03:47Z",
-      "primary_item": {
-        "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
-        "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
-        "source": "公众号：千问APP（阿里）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -439,15 +358,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9588,
+        "recency": 0.882,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -520,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
+      "score": 0.7864,
+      "importance": 0.7864,
+      "importance_score": 0.7864,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9045,
+        "recency": 0.832,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -582,15 +501,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9807,
+        "recency": 0.9022,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -605,6 +524,128 @@
         "title": "Wiz 报告“黑色十月”：九个 AI 开发者平台接连披露安全事件",
         "url": "https://www.wiz.io/blog/black-october-for-ai-developer-platforms",
         "source": "Wiz：Research（安全研究）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
+      "source": "公众号：千问APP（阿里）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
+          "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-31T00:03:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：千问APP（阿里）"
+      ],
+      "items": [
+        {
+          "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
+          "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-31T00:03:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7828,
+      "importance": 0.7828,
+      "importance_score": 0.7828,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.918,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-31T00:03:47Z",
+      "latest_at": "2026-10-31T00:03:47Z",
+      "primary_item": {
+        "id": "859857f93b21c272dbf2bf8a7bced2b5d2f39c20",
+        "title": "阿里巴巴与Apple合作，千问集成至Apple智能，11月4日开放测试",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489416&idx=1&sn=9525f61df8086fcd6fe4d4183da068de",
+        "source": "公众号：千问APP（阿里）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8ebddbd33edc",
+      "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+      "url": "https://www.ithome.com/1/020/444.htm",
+      "primary_url": "https://www.ithome.com/1/020/444.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f4ae6efe532bd39179a32811a662bd80ecdb4249",
+          "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+          "url": "https://www.ithome.com/1/020/444.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-31T03:25:09.697000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "f4ae6efe532bd39179a32811a662bd80ecdb4249",
+          "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+          "url": "https://www.ithome.com/1/020/444.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-31T03:25:09.697000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9635,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-31T03:25:09.697000Z",
+      "latest_at": "2026-10-31T03:25:09.697000Z",
+      "primary_item": {
+        "id": "f4ae6efe532bd39179a32811a662bd80ecdb4249",
+        "title": "Anthropic IPO 招股文件披露近 9000 亿美元隐性债务",
+        "url": "https://www.ithome.com/1/020/444.htm",
+        "source": "IT之家·人工智能",
         "source_name": "AI HOT"
       }
     },
@@ -643,15 +684,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8086,
+        "recency": 0.7439,
         "story_heat": 0.0
       },
       "category": "official",
@@ -668,6 +709,87 @@
         "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c6b2d3ea7917",
+      "title": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+      "primary_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4b1cd24de8b1316db66e6731ca7c111697482f30",
+          "title": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-31T01:20:05Z"
+        },
+        {
+          "id": "9b6ee53e085b267df8c3e5b560fc8ce4e1244706",
+          "title": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保 / Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-31T01:20:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4b1cd24de8b1316db66e6731ca7c111697482f30",
+          "title": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-31T01:20:05Z"
+        },
+        {
+          "id": "9b6ee53e085b267df8c3e5b560fc8ce4e1244706",
+          "title": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保 / Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+          "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-31T01:20:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.935,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-31T01:20:05Z",
+      "latest_at": "2026-10-31T01:20:05Z",
+      "primary_item": {
+        "id": "4b1cd24de8b1316db66e6731ca7c111697482f30",
+        "title": "Nvidia 洽谈为 Nscale 西弗吉尼亚 Anthropic 数据中心提供债务担保",
+        "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -724,15 +846,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.884,
+        "recency": 0.8132,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -786,21 +908,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8528,
+        "recency": 0.7845,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-30T13:11:05Z",
       "latest_at": "2026-10-30T13:11:05Z",
@@ -813,63 +934,62 @@
       }
     },
     {
-      "story_id": "story_31dafc82d146",
-      "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
-      "url": "https://www.platformer.news/thursday-newsletter-6",
-      "primary_url": "https://www.platformer.news/thursday-newsletter-6",
-      "source": "Platformer（热点 RSS）",
+      "story_id": "story_58ae6d82a053",
+      "title": "OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News",
+      "url": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent",
+      "primary_url": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent",
+      "source": "OpenRouter：Announcements（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
-          "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
-          "url": "https://www.platformer.news/thursday-newsletter-6",
-          "source": "Platformer（热点 RSS）",
+          "id": "3451f61faf40c1daadd44366497ce6ebedf576e9",
+          "title": "OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News",
+          "url": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-30T00:51:00Z"
+          "published_at": "2026-10-31T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Platformer（热点 RSS）"
+        "OpenRouter：Announcements（RSS）"
       ],
       "items": [
         {
-          "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
-          "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
-          "url": "https://www.platformer.news/thursday-newsletter-6",
-          "source": "Platformer（热点 RSS）",
+          "id": "3451f61faf40c1daadd44366497ce6ebedf576e9",
+          "title": "OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News",
+          "url": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-30T00:51:00Z"
+          "published_at": "2026-10-31T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.86,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7137,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-30T00:51:00Z",
-      "latest_at": "2026-10-30T00:51:00Z",
+      "earliest_at": "2026-10-31T00:00:00Z",
+      "latest_at": "2026-10-31T00:00:00Z",
       "primary_item": {
-        "id": "7b1b5b237e0bb7d0ae899dfe65982365b2b6962a",
-        "title": "Google 与 Reddit 同日股价大跌，AI 搜索变现困境冲击开放网络",
-        "url": "https://www.platformer.news/thursday-newsletter-6",
-        "source": "Platformer（热点 RSS）",
+        "id": "3451f61faf40c1daadd44366497ce6ebedf576e9",
+        "title": "OpenRouter 教程：用 Agent SDK 搭建常驻 AI Agent 监控 Hacker News",
+        "url": "https://openrouter.ai/blog/tutorials/build-always-on-ai-agent",
+        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -908,21 +1028,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8398,
+        "recency": 0.7726,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-30T12:07:16Z",
       "latest_at": "2026-10-30T12:07:16Z",
@@ -931,6 +1050,66 @@
         "title": "Epoch AI 实验显示 GLM 5.3 可利用补丁窗口期自主攻击 Firefox",
         "url": "https://epochai.substack.com/p/glm-patch-gap-exploit-firefox",
         "source": "Epoch AI：Gradient Updates（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_543af653b59f",
+      "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
+      "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
+      "primary_url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
+      "source": "Figma AI / Agent / Make",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6a95eb1b1e328d068349223e15b35339f8c995ed",
+          "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
+          "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
+          "source": "Figma AI / Agent / Make",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-31T00:58:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Figma AI / Agent / Make"
+      ],
+      "items": [
+        {
+          "id": "6a95eb1b1e328d068349223e15b35339f8c995ed",
+          "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
+          "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
+          "source": "Figma AI / Agent / Make",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-31T00:58:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.93,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-31T00:58:00Z",
+      "latest_at": "2026-10-31T00:58:00Z",
+      "primary_item": {
+        "id": "6a95eb1b1e328d068349223e15b35339f8c995ed",
+        "title": "Figma 发布 Weave 创作平台，用节点化工作流让创意流程可复用",
+        "url": "https://www.figma.com/blog/the-tldr-on-figma-weave",
+        "source": "Figma AI / Agent / Make",
         "source_name": "AI HOT"
       }
     },
@@ -969,15 +1148,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.731,
+      "importance": 0.731,
+      "importance_score": 0.731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9204,
+        "recency": 0.8467,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1029,15 +1208,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7425,
-      "importance": 0.7425,
-      "importance_score": 0.7425,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9104,
+        "recency": 0.8375,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1089,15 +1268,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8889,
+        "recency": 0.8177,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1149,15 +1328,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8889,
+        "recency": 0.8177,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1247,15 +1426,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6803,
-      "importance": 0.6803,
-      "importance_score": 0.6803,
+      "score": 0.6663,
+      "importance": 0.6663,
+      "importance_score": 0.6663,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9667,
+        "recency": 0.8893,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1270,313 +1449,6 @@
         "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "这套七层可复用的 Claude Code 工作流，可以帮你把Opus 5.5任务做成可断点续跑、自带证据留存的可靠体系。它把项目规范、技能脚本、MCP数据源、权限钩子、独立审查子智能体、推理强度和验收目标拆解开，用固定目录结构和校验表格沉淀成果。不管是写稿还是资料核验，都不用反复重建对话，很适合长期稳定的AI工程化工作。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-29",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "85830b2518ee1285c5ae490ecc541b8a71a08681",
-          "title": "Suno 开放了 MCP 内测，无需 API Key，授权后就能在 Claude、Cursor 等主流AI工具里直接调用作曲能力，彻底告别跨窗口复制文案的割裂创作流程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T20:54:55.994867Z"
-        },
-        {
-          "id": "9668bafd82ced4970e06a69d9b8e9e313f0d2951",
-          "title": "不少人把精力放在临时提示词上，却忽视了AGENTS.md、CLAUDE.md的巨大价值。它能沉淀项目固定约定，明确技术栈、执行命令、代码风格与操作边界，避免每次对话重复沟通，防止 Agent 擅自重构、编造命令、过度设计。文中附有适配Codex与Claude Code的可直接套用的模板，可以帮你稳定Agent输出，减少反复沟通，让代码交付可控、风格统一。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T20:54:55.994867Z"
-        },
-        {
-          "id": "d671e7c3e58ce7b05a374ade34e8d1cf9382fc5f",
-          "title": "大多数智能体项目起步方式相同：最强的模型、长长的提示词、精彩的演示。随后真正的任务到来，一周之内你发现数字与源头不符、上下文丢失，有一天还出现一封未经任何人批准的客户邮件。一起来看看到底如何构建生产级智能体！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T20:54:55.994867Z"
-        },
-        {
-          "id": "ebfbb4b4c9c9f6c1875ff9af2c3a85dbb9430f20",
-          "title": "火爆出圈的DSH Go，是社区打造的安卓端DSH客户端，免Root就能在手机本地跑Agent脚本，一键无缝接力电脑任务。除了支持任务中途插话调整需求，还可授权AI操控手机完成日程等操作，同时对支付、验证码等高风险行为也做了严格限制。一起上手试试，随时随地调度DeepSeek Harness处理代码、数据任务。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T20:54:55.994867Z"
-        },
-        {
-          "id": "b546cd95685d6035d6b1952b25d8f962886f4918",
-          "title": "作者用同一套任务测了 Grok Bot、Muse、Dots、Instinct。实测覆盖四类共 8 个通用场景：信息与沟通（邮件、日程）、主动与定时（金融行情监控、定时买咖啡）、消费与出行闭环（订酒店、买火车票、打车）和找活动（筛选近期 AI 活动）。一起来看看他们的效果如何！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T16:03:05.869475Z"
-        },
-        {
-          "id": "ca6b41734a86ad9a7434dae3c9a7cca63d79400b",
-          "title": "这套七层可复用的 Claude Code 工作流，可以帮你把Opus 5.5任务做成可断点续跑、自带证据留存的可靠体系。它把项目规范、技能脚本、MCP数据源、权限钩子、独立审查子智能体、推理强度和验收目标拆解开，用固定目录结构和校验表格沉淀成果。不管是写稿还是资料核验，都不用反复重建对话，很适合长期稳定的AI工程化工作。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T16:03:05.869475Z"
-        },
-        {
-          "id": "b669a9e12032657fc52de5b5013cebd0b6bb7bd4",
-          "title": "这是面向工程师、QA 和产品经理的评估与追踪指南的第二部分，旨在帮助您测试 AI 应用的每一项变更。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T16:03:05.869475Z"
-        },
-        {
-          "id": "86d14162e54d9e4009cf522bba0a48d075022b73",
-          "title": "这篇文章深度拆解了线性注意力从 DeltaNet、GDN 到 KDA 的演进脉络，同时落地到 vLLM 里 Hybrid 混合模型的缓存工程实现，帮你看懂模型架构和推理调度之间的软硬件取舍。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T16:03:05.869475Z"
-        }
-      ],
-      "source_count": 8,
-      "source_names": [
-        "社区更新 · 2026-10-29",
-        "社区更新 · 2026-10-30"
-      ],
-      "items": [
-        {
-          "id": "85830b2518ee1285c5ae490ecc541b8a71a08681",
-          "title": "Suno 开放了 MCP 内测，无需 API Key，授权后就能在 Claude、Cursor 等主流AI工具里直接调用作曲能力，彻底告别跨窗口复制文案的割裂创作流程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T20:54:55.994867Z"
-        },
-        {
-          "id": "9668bafd82ced4970e06a69d9b8e9e313f0d2951",
-          "title": "不少人把精力放在临时提示词上，却忽视了AGENTS.md、CLAUDE.md的巨大价值。它能沉淀项目固定约定，明确技术栈、执行命令、代码风格与操作边界，避免每次对话重复沟通，防止 Agent 擅自重构、编造命令、过度设计。文中附有适配Codex与Claude Code的可直接套用的模板，可以帮你稳定Agent输出，减少反复沟通，让代码交付可控、风格统一。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T20:54:55.994867Z"
-        },
-        {
-          "id": "d671e7c3e58ce7b05a374ade34e8d1cf9382fc5f",
-          "title": "大多数智能体项目起步方式相同：最强的模型、长长的提示词、精彩的演示。随后真正的任务到来，一周之内你发现数字与源头不符、上下文丢失，有一天还出现一封未经任何人批准的客户邮件。一起来看看到底如何构建生产级智能体！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T20:54:55.994867Z"
-        },
-        {
-          "id": "ebfbb4b4c9c9f6c1875ff9af2c3a85dbb9430f20",
-          "title": "火爆出圈的DSH Go，是社区打造的安卓端DSH客户端，免Root就能在手机本地跑Agent脚本，一键无缝接力电脑任务。除了支持任务中途插话调整需求，还可授权AI操控手机完成日程等操作，同时对支付、验证码等高风险行为也做了严格限制。一起上手试试，随时随地调度DeepSeek Harness处理代码、数据任务。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-30",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T20:54:55.994867Z"
-        },
-        {
-          "id": "b546cd95685d6035d6b1952b25d8f962886f4918",
-          "title": "作者用同一套任务测了 Grok Bot、Muse、Dots、Instinct。实测覆盖四类共 8 个通用场景：信息与沟通（邮件、日程）、主动与定时（金融行情监控、定时买咖啡）、消费与出行闭环（订酒店、买火车票、打车）和找活动（筛选近期 AI 活动）。一起来看看他们的效果如何！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T16:03:05.869475Z"
-        },
-        {
-          "id": "ca6b41734a86ad9a7434dae3c9a7cca63d79400b",
-          "title": "这套七层可复用的 Claude Code 工作流，可以帮你把Opus 5.5任务做成可断点续跑、自带证据留存的可靠体系。它把项目规范、技能脚本、MCP数据源、权限钩子、独立审查子智能体、推理强度和验收目标拆解开，用固定目录结构和校验表格沉淀成果。不管是写稿还是资料核验，都不用反复重建对话，很适合长期稳定的AI工程化工作。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T16:03:05.869475Z"
-        },
-        {
-          "id": "b669a9e12032657fc52de5b5013cebd0b6bb7bd4",
-          "title": "这是面向工程师、QA 和产品经理的评估与追踪指南的第二部分，旨在帮助您测试 AI 应用的每一项变更。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T16:03:05.869475Z"
-        },
-        {
-          "id": "86d14162e54d9e4009cf522bba0a48d075022b73",
-          "title": "这篇文章深度拆解了线性注意力从 DeltaNet、GDN 到 KDA 的演进脉络，同时落地到 vLLM 里 Hybrid 混合模型的缓存工程实现，帮你看懂模型架构和推理调度之间的软硬件取舍。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-29",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-30T16:03:05.869475Z"
-        }
-      ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6617,
-      "importance": 0.6617,
-      "importance_score": 0.6617,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.54,
-        "ai_relevance": 0.68,
-        "recency": 0.8889,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-30T16:03:05.869475Z",
-      "latest_at": "2026-10-30T20:54:55.994867Z",
-      "primary_item": {
-        "id": "ca6b41734a86ad9a7434dae3c9a7cca63d79400b",
-        "title": "这套七层可复用的 Claude Code 工作流，可以帮你把Opus 5.5任务做成可断点续跑、自带证据留存的可靠体系。它把项目规范、技能脚本、MCP数据源、权限钩子、独立审查子智能体、推理强度和验收目标拆解开，用固定目录结构和校验表格沉淀成果。不管是写稿还是资料核验，都不用反复重建对话，很适合长期稳定的AI工程化工作。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-29",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_ea21b196c13d",
-      "title": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
-      "url": "https://www.aibase.com/news/31992",
-      "primary_url": "https://www.aibase.com/news/31992",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "150df31a7d38b7405fc93d1b8ae1d16659c8cd4c",
-          "title": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
-          "url": "https://www.aibase.com/news/31992",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T16:03:05.869475Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "150df31a7d38b7405fc93d1b8ae1d16659c8cd4c",
-          "title": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
-          "url": "https://www.aibase.com/news/31992",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T16:03:05.869475Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8889,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T16:03:05.869475Z",
-      "latest_at": "2026-10-30T16:03:05.869475Z",
-      "primary_item": {
-        "id": "150df31a7d38b7405fc93d1b8ae1d16659c8cd4c",
-        "title": "在聊天窗口直接改文档！谷歌Gemini升级：全面支持PDF、表格及代码文件内联编辑",
-        "url": "https://www.aibase.com/news/31992",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_634ace01a702",
-      "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-      "url": "https://www.aibase.com/news/31990",
-      "primary_url": "https://www.aibase.com/news/31990",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d877eafd256c14dbc04213745bbf0fe1f8d618ed",
-          "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-          "url": "https://www.aibase.com/news/31990",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T15:14:05.869475Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d877eafd256c14dbc04213745bbf0fe1f8d618ed",
-          "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-          "url": "https://www.aibase.com/news/31990",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-30T15:14:05.869475Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8784,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-30T15:14:05.869475Z",
-      "latest_at": "2026-10-30T15:14:05.869475Z",
-      "primary_item": {
-        "id": "d877eafd256c14dbc04213745bbf0fe1f8d618ed",
-        "title": "百度升级AI搜索及搜索AI API，调用价格低至4.9元/千次",
-        "url": "https://www.aibase.com/news/31990",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
