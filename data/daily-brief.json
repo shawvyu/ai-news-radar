@@ -1,162 +1,24 @@
 {
-  "generated_at": "2026-11-05T07:03:55.783703Z",
+  "generated_at": "2026-11-05T15:38:45.584421Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_3a06f84c0f51",
-      "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "primary_url": "https://openai.com/index/openai-to-acquire-pierre",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
-          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
-          "url": "https://openai.com/index/openai-to-acquire-pierre",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T14:30:00Z"
-        },
-        {
-          "id": "195fd593e3472bb34545c23e2c84a75cf54bf212",
-          "title": "OpenAI将收购Pierre Computer Company",
-          "url": "https://openai.com/index/openai-to-acquire-pierre",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T21:12:50.695000Z"
-        },
-        {
-          "id": "5e0ef8874d8987721446f796fb6987a1346a7599",
-          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company",
-          "url": "https://openai.com/index/openai-to-acquire-pierre",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T15:21:21Z"
-        },
-        {
-          "id": "3c4b7ca66be58e1ab9ed97226c73f51e1975e9ad",
-          "title": "OpenAI 将收购 Pierre 计算机公司 / OpenAI to acquire Pierre Computer Company",
-          "url": "https://news.ycombinator.com/item?id=50366863",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T15:21:21Z"
-        },
-        {
-          "id": "14f67dac200d99bd459aee85f954bcea7af5d7c0",
-          "title": "Pierre Computer 被 OpenAI 收购 / Pierre Computer is being acquired by OpenAI",
-          "url": "https://news.ycombinator.com/item?id=50366863",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T15:21:21Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News",
-        "hackernews",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
-          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
-          "url": "https://openai.com/index/openai-to-acquire-pierre",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T14:30:00Z"
-        },
-        {
-          "id": "195fd593e3472bb34545c23e2c84a75cf54bf212",
-          "title": "OpenAI将收购Pierre Computer Company",
-          "url": "https://openai.com/index/openai-to-acquire-pierre",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T21:12:50.695000Z"
-        },
-        {
-          "id": "5e0ef8874d8987721446f796fb6987a1346a7599",
-          "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company",
-          "url": "https://openai.com/index/openai-to-acquire-pierre",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T15:21:21Z"
-        },
-        {
-          "id": "3c4b7ca66be58e1ab9ed97226c73f51e1975e9ad",
-          "title": "OpenAI 将收购 Pierre 计算机公司 / OpenAI to acquire Pierre Computer Company",
-          "url": "https://news.ycombinator.com/item?id=50366863",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T15:21:21Z"
-        },
-        {
-          "id": "14f67dac200d99bd459aee85f954bcea7af5d7c0",
-          "title": "Pierre Computer 被 OpenAI 收购 / Pierre Computer is being acquired by OpenAI",
-          "url": "https://news.ycombinator.com/item?id=50366863",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T15:21:21Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.9137,
-      "importance": 0.9137,
-      "importance_score": 0.9137,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7872,
-        "story_heat": 1.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T14:30:00Z",
-      "latest_at": "2026-11-04T21:12:50.695000Z",
-      "primary_item": {
-        "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
-        "title": "OpenAI将收购Pierre Computer Company / OpenAI to acquire Pierre Computer Company, Inc.",
-        "url": "https://openai.com/index/openai-to-acquire-pierre",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5afc49da7bd4",
-      "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "story_id": "story_89209ab642b1",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "primary_url": "https://huggingface.co/blog/phonon-tts",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
+          "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "url": "https://huggingface.co/blog/phonon-tts",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-04T17:50:10Z"
+          "published_at": "2026-11-05T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -165,26 +27,26 @@
       ],
       "items": [
         {
-          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
+          "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+          "url": "https://huggingface.co/blog/phonon-tts",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-04T17:50:10Z"
+          "published_at": "2026-11-05T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8296,
+      "importance": 0.8296,
+      "importance_score": 0.8296,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8261,
+        "ai_relevance": 0.98,
+        "recency": 0.7978,
         "story_heat": 0.0
       },
       "category": "official",
@@ -193,13 +55,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T17:50:10Z",
-      "latest_at": "2026-11-04T17:50:10Z",
+      "earliest_at": "2026-11-05T00:00:00Z",
+      "latest_at": "2026-11-05T00:00:00Z",
       "primary_item": {
-        "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
-        "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-        "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+        "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
+        "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+        "url": "https://huggingface.co/blog/phonon-tts",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f93567576105",
+      "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "primary_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
+          "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T02:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
+          "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+          "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-05T02:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8211,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T02:00:00Z",
+      "latest_at": "2026-11-05T02:00:00Z",
+      "primary_item": {
+        "id": "0d20fd66080c6b3e00759f5b6deef3ed7a4101b7",
+        "title": "为负责任的人工智能基础设施设定新标准 / Setting a new standard for responsible AI infrastructure",
+        "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -238,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8423,
+        "recency": 0.7441,
         "story_heat": 0.0
       },
       "category": "official",
@@ -266,103 +190,64 @@
       }
     },
     {
-      "story_id": "story_a4f4c423c542",
-      "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "source": "OpenAI News",
+      "story_id": "story_5afc49da7bd4",
+      "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-          "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "source": "OpenAI News",
+          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-04T08:00:00Z"
-        },
-        {
-          "id": "aa228762a9fff3cb54547c4b48a689f9c48de331",
-          "title": "通往root的路径少了1000条简体中文（大陆）",
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T02:01:04.884000Z"
-        },
-        {
-          "id": "8b44f78450231e957fe21af9ce06feb288767161",
-          "title": "通往root的路径少了1000条简体中文（大陆） / Local privilege escalation vulnerabilities in Linux",
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T23:33:14Z"
+          "published_at": "2026-11-04T17:50:10Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News",
-        "openai.com"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-          "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "source": "OpenAI News",
+          "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+          "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-04T08:00:00Z"
-        },
-        {
-          "id": "aa228762a9fff3cb54547c4b48a689f9c48de331",
-          "title": "通往root的路径少了1000条简体中文（大陆）",
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T02:01:04.884000Z"
-        },
-        {
-          "id": "8b44f78450231e957fe21af9ce06feb288767161",
-          "title": "通往root的路径少了1000条简体中文（大陆） / Local privilege escalation vulnerabilities in Linux",
-          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T23:33:14Z"
+          "published_at": "2026-11-04T17:50:10Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.851,
-      "importance": 0.851,
-      "importance_score": 0.851,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7167,
-        "story_heat": 0.5
+        "ai_relevance": 0.95,
+        "recency": 0.7298,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T08:00:00Z",
-      "latest_at": "2026-11-05T02:01:04.884000Z",
+      "earliest_at": "2026-11-04T17:50:10Z",
+      "latest_at": "2026-11-04T17:50:10Z",
       "primary_item": {
-        "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-        "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
-        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-        "source": "OpenAI News",
+        "id": "08bfe5e7ca7bc3a4c5c2064c405849618d38bfbc",
+        "title": "Dharma 字段提取器：任何文档输入，JSON 输出中的结构化字段 / Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+        "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -420,15 +305,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8835,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -482,15 +367,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8533,
+        "recency": 0.7539,
         "story_heat": 0.0
       },
       "category": "official",
@@ -563,15 +448,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8835,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -644,15 +529,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8835,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -725,15 +610,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8835,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -806,15 +691,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8835,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -887,15 +772,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8835,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -912,6 +797,84 @@
         "url": "https://www.aibase.com/news/32110",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_49dbbd04a6b4",
+      "title": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频 / You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
+      "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+      "primary_url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "172eed791f80b2f1594ff0edd40c897c78f0a8bf",
+          "title": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频 / You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
+          "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-05T15:00:00Z"
+        },
+        {
+          "id": "67c95d1f130194b49e9c29d301186bb704f3dcdd",
+          "title": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频 / You can edit your videos with AI on Instagram’s new desktop Edits app",
+          "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-05T15:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "172eed791f80b2f1594ff0edd40c897c78f0a8bf",
+          "title": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频 / You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
+          "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-05T15:00:00Z"
+        },
+        {
+          "id": "67c95d1f130194b49e9c29d301186bb704f3dcdd",
+          "title": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频 / You can edit your videos with AI on Instagram’s new desktop Edits app",
+          "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-05T15:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6138,
+      "importance": 0.6138,
+      "importance_score": 0.6138,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9907,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-05T15:00:00Z",
+      "latest_at": "2026-11-05T15:00:00Z",
+      "primary_item": {
+        "id": "172eed791f80b2f1594ff0edd40c897c78f0a8bf",
+        "title": "您可以在 Instagram 的新桌面编辑应用程序上使用 AI 编辑视频 / You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
+        "url": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -968,15 +931,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8835,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -991,6 +954,67 @@
         "id": "8e4fbcca8e6911874aea20d617eaeb144698e8e4",
         "title": "美国中期选举变\"数据中心公投\"：76% 选民反对，AI 基建撞上地方墙",
         "url": "https://www.aibase.com/news/32106",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0630fd88b807",
+      "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+      "url": "https://www.aibase.com/news/32125",
+      "primary_url": "https://www.aibase.com/news/32125",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d38cef93fba4899dfcbd86eb301d41a4619a3355",
+          "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+          "url": "https://www.aibase.com/news/32125",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T15:38:45.584421Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d38cef93fba4899dfcbd86eb301d41a4619a3355",
+          "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+          "url": "https://www.aibase.com/news/32125",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T15:38:45.584421Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T15:38:45.584421Z",
+      "latest_at": "2026-11-05T15:38:45.584421Z",
+      "primary_item": {
+        "id": "d38cef93fba4899dfcbd86eb301d41a4619a3355",
+        "title": "AI 帮用户成功“越狱”跑步机：Claude 轻松干掉 iFIT 订阅墙，大屏幕秒变自由流媒体",
+        "url": "https://www.aibase.com/news/32125",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1048,15 +1072,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6022,
-      "importance": 0.6022,
-      "importance_score": 0.6022,
+      "score": 0.5843,
+      "importance": 0.5843,
+      "importance_score": 0.5843,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8571,
+        "recency": 0.7572,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1126,15 +1150,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5653,
-      "importance": 0.5653,
-      "importance_score": 0.5653,
+      "score": 0.5477,
+      "importance": 0.5477,
+      "importance_score": 0.5477,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8394,
+        "recency": 0.7416,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1223,15 +1247,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5588,
-      "importance": 0.5588,
-      "importance_score": 0.5588,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9333,
+        "recency": 0.8245,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1246,67 +1270,6 @@
         "url": "https://openai.com/index/introducing-images-2-6",
         "source": "openai.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5277472daa97",
-      "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-      "url": "https://www.aibase.com/news/32108",
-      "primary_url": "https://www.aibase.com/news/32108",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0f4bdfb8bdee7b11ac961ecd194a28ddb74982f7",
-          "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-          "url": "https://www.aibase.com/news/32108",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T07:03:55.783703Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0f4bdfb8bdee7b11ac961ecd194a28ddb74982f7",
-          "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-          "url": "https://www.aibase.com/news/32108",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-05T07:03:55.783703Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T07:03:55.783703Z",
-      "latest_at": "2026-11-05T07:03:55.783703Z",
-      "primary_item": {
-        "id": "0f4bdfb8bdee7b11ac961ecd194a28ddb74982f7",
-        "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
-        "url": "https://www.aibase.com/news/32108",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1382,15 +1345,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5575,
-      "importance": 0.5575,
-      "importance_score": 0.5575,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9261,
+        "recency": 0.8181,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1408,278 +1371,143 @@
       }
     },
     {
-      "story_id": "story_d94c9f77ddaf",
-      "title": "大型语言模型可证明推理方面的进展",
-      "url": "https://www.anthropic.com/research/provable-inference",
-      "primary_url": "https://www.anthropic.com/research/provable-inference",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
+      "story_id": "story_e283a84179fb",
+      "title": "Anthropic微微发力，AI中转站的天就要塌了？",
+      "url": "https://www.huxiu.com/article/4903276.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4903276.html?f=rss",
+      "source": "虎嗅 (Huxiu)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
-          "title": "大型语言模型可证明推理方面的进展",
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T19:37:46.946000Z"
-        },
-        {
-          "id": "348d9e158e28595c981f0e9a280b0642db152915",
-          "title": "大型语言模型可证明推理方面的进展 / Progress on provable inference for large language models",
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "Hacker News (黑客新闻)",
+          "id": "7647dffeb8e3badd145dd2ae49f6a22bd8eb951e",
+          "title": "Anthropic微微发力，AI中转站的天就要塌了？",
+          "url": "https://www.huxiu.com/article/4903276.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-04T17:17:46Z"
+          "published_at": "2026-11-05T09:14:17Z"
         },
         {
-          "id": "98c7ef865b048e2bf6e83592103193e50ed23812",
-          "title": "大型语言模型可证明推理方面的进展 / Anthropic: Progress on provable inference for large language models",
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-04T07:57:06Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Hacker News (黑客新闻)",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
-          "title": "大型语言模型可证明推理方面的进展",
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T19:37:46.946000Z"
-        },
-        {
-          "id": "348d9e158e28595c981f0e9a280b0642db152915",
-          "title": "大型语言模型可证明推理方面的进展 / Progress on provable inference for large language models",
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T17:17:46Z"
-        },
-        {
-          "id": "98c7ef865b048e2bf6e83592103193e50ed23812",
-          "title": "大型语言模型可证明推理方面的进展 / Anthropic: Progress on provable inference for large language models",
-          "url": "https://www.anthropic.com/research/provable-inference",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-04T07:57:06Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8478,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T07:57:06Z",
-      "latest_at": "2026-11-04T19:37:46.946000Z",
-      "primary_item": {
-        "id": "34cca887ea7f44444830c0131f4780de4c1cc6b8",
-        "title": "大型语言模型可证明推理方面的进展",
-        "url": "https://www.anthropic.com/research/provable-inference",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_68c44263a0af",
-      "title": "人工智能正迫使我们偿还40年的技术债务",
-      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "primary_url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-      "source": "spectrum.ieee.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-          "title": "人工智能正迫使我们偿还40年的技术债务",
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.120000Z"
-        },
-        {
-          "id": "6eac2d5740e9b687f718cc245fbf2cf9410a333a",
-          "title": "人工智能正迫使我们偿还40年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T11:52:17Z"
-        },
-        {
-          "id": "92ada4a5d68578102017b863d8a2e24934223fac",
-          "title": "人工智能正在迫使我们偿还 40 年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "url": "https://news.ycombinator.com/item?id=50364336",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T11:52:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "spectrum.ieee.org"
-      ],
-      "items": [
-        {
-          "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-          "title": "人工智能正迫使我们偿还40年的技术债务",
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T15:21:22.120000Z"
-        },
-        {
-          "id": "6eac2d5740e9b687f718cc245fbf2cf9410a333a",
-          "title": "人工智能正迫使我们偿还40年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-04T11:52:17Z"
-        },
-        {
-          "id": "92ada4a5d68578102017b863d8a2e24934223fac",
-          "title": "人工智能正在迫使我们偿还 40 年的技术债务 / AI is forcing us to pay off 40 years of technical debt",
-          "url": "https://news.ycombinator.com/item?id=50364336",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T11:52:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.797,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T11:52:17Z",
-      "latest_at": "2026-11-04T15:21:22.120000Z",
-      "primary_item": {
-        "id": "62b2d59afbeb268e0ba276277eed31188601add7",
-        "title": "人工智能正迫使我们偿还40年的技术债务",
-        "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-        "source": "spectrum.ieee.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c37b55e5cd26",
-      "title": "Agility Robotics将人形机器人推向公开市场，这在华尔街尚属首次",
-      "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
-      "primary_url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "47bb0aa12dc33ff032e1574cbbbd04aab4d6ce31",
-          "title": "Agility Robotics将人形机器人推向公开市场，这在华尔街尚属首次",
-          "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T01:29:44.057000Z"
-        },
-        {
-          "id": "c663858fd46e34de406d5a4299d4027941d75a01",
-          "title": "Agility Robotics将人形机器人推向公开市场，这在华尔街尚属首次 / Agility Robotics is taking humanoid robots public in a first for Wall Street",
-          "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-05T01:12:23Z"
+          "id": "b3b6b37b06ac9aa6762e85bcd6023efe69d75358",
+          "title": "Anthropic微微发力，AI中转站的天就要塌了？",
+          "url": "https://www.36kr.com/p/4056019887510401",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "36氪 · 24小时热榜",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "47bb0aa12dc33ff032e1574cbbbd04aab4d6ce31",
-          "title": "Agility Robotics将人形机器人推向公开市场，这在华尔街尚属首次",
-          "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-05T01:29:44.057000Z"
+          "id": "7647dffeb8e3badd145dd2ae49f6a22bd8eb951e",
+          "title": "Anthropic微微发力，AI中转站的天就要塌了？",
+          "url": "https://www.huxiu.com/article/4903276.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-05T09:14:17Z"
         },
         {
-          "id": "c663858fd46e34de406d5a4299d4027941d75a01",
-          "title": "Agility Robotics将人形机器人推向公开市场，这在华尔街尚属首次 / Agility Robotics is taking humanoid robots public in a first for Wall Street",
-          "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-05T01:12:23Z"
+          "id": "b3b6b37b06ac9aa6762e85bcd6023efe69d75358",
+          "title": "Anthropic微微发力，AI中转站的天就要塌了？",
+          "url": "https://www.36kr.com/p/4056019887510401",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9227,
+        "recency": 0.9116,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-05T01:12:23Z",
-      "latest_at": "2026-11-05T01:29:44.057000Z",
+      "earliest_at": "2026-11-05T07:03:55.783703Z",
+      "latest_at": "2026-11-05T09:14:17Z",
       "primary_item": {
-        "id": "47bb0aa12dc33ff032e1574cbbbd04aab4d6ce31",
-        "title": "Agility Robotics将人形机器人推向公开市场，这在华尔街尚属首次",
-        "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "7647dffeb8e3badd145dd2ae49f6a22bd8eb951e",
+        "title": "Anthropic微微发力，AI中转站的天就要塌了？",
+        "url": "https://www.huxiu.com/article/4903276.html?f=rss",
+        "source": "虎嗅 (Huxiu)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_3138590e516b",
+      "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+      "url": "https://www.aibase.com/news/32123",
+      "primary_url": "https://www.aibase.com/news/32123",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "efc81c6ef96326d9ebb5c9a4aba2dcee5f4d67ae",
+          "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+          "url": "https://www.aibase.com/news/32123",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T15:38:45.584421Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "efc81c6ef96326d9ebb5c9a4aba2dcee5f4d67ae",
+          "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+          "url": "https://www.aibase.com/news/32123",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T15:38:45.584421Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T15:38:45.584421Z",
+      "latest_at": "2026-11-05T15:38:45.584421Z",
+      "primary_item": {
+        "id": "efc81c6ef96326d9ebb5c9a4aba2dcee5f4d67ae",
+        "title": "AI 让死亡成为\"可选项\"？布罗克曼抛出生命终极命题",
+        "url": "https://www.aibase.com/news/32123",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
