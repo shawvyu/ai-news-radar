@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T00:02:20.998825Z",
+  "generated_at": "2026-11-05T07:03:55.783703Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -113,15 +113,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9288,
-      "importance": 0.9288,
-      "importance_score": 0.9288,
+      "score": 0.9137,
+      "importance": 0.9137,
+      "importance_score": 0.9137,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8713,
+        "recency": 0.7872,
         "story_heat": 1.0
       },
       "category": "official",
@@ -176,15 +176,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9143,
+        "recency": 0.8261,
         "story_heat": 0.0
       },
       "category": "official",
@@ -238,15 +238,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
+      "score": 0.8236,
+      "importance": 0.8236,
+      "importance_score": 0.8236,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9322,
+        "recency": 0.8423,
         "story_heat": 0.0
       },
       "category": "official",
@@ -267,7 +267,7 @@
     },
     {
       "story_id": "story_a4f4c423c542",
-      "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+      "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
       "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "primary_url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
       "source": "OpenAI News",
@@ -275,7 +275,7 @@
       "sources": [
         {
           "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+          "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
           "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -283,8 +283,17 @@
           "published_at": "2026-11-04T08:00:00Z"
         },
         {
+          "id": "aa228762a9fff3cb54547c4b48a689f9c48de331",
+          "title": "通往root的路径少了1000条简体中文（大陆）",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T02:01:04.884000Z"
+        },
+        {
           "id": "8b44f78450231e957fe21af9ce06feb288767161",
-          "title": "Linux 中的本地提权漏洞 / Local privilege escalation vulnerabilities in Linux",
+          "title": "通往root的路径少了1000条简体中文（大陆） / Local privilege escalation vulnerabilities in Linux",
           "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -292,15 +301,16 @@
           "published_at": "2026-11-04T23:33:14Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "OpenAI News"
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
           "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-          "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+          "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
           "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -308,8 +318,17 @@
           "published_at": "2026-11-04T08:00:00Z"
         },
         {
+          "id": "aa228762a9fff3cb54547c4b48a689f9c48de331",
+          "title": "通往root的路径少了1000条简体中文（大陆）",
+          "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T02:01:04.884000Z"
+        },
+        {
           "id": "8b44f78450231e957fe21af9ce06feb288767161",
-          "title": "Linux 中的本地提权漏洞 / Local privilege escalation vulnerabilities in Linux",
+          "title": "通往root的路径少了1000条简体中文（大陆） / Local privilege escalation vulnerabilities in Linux",
           "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -317,18 +336,18 @@
           "published_at": "2026-11-04T23:33:14Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.851,
+      "importance": 0.851,
+      "importance_score": 0.851,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7933,
-        "story_heat": 0.25
+        "recency": 0.7167,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
@@ -338,13 +357,94 @@
         "high_importance"
       ],
       "earliest_at": "2026-11-04T08:00:00Z",
-      "latest_at": "2026-11-04T23:33:14Z",
+      "latest_at": "2026-11-05T02:01:04.884000Z",
       "primary_item": {
         "id": "e847b83d4b78cfeb44f598d593db6aa5d5d80526",
-        "title": "减少一千条通往根的路径 / A thousand fewer paths to root",
+        "title": "通往root的路径少了1000条简体中文（大陆） / A thousand fewer paths to root",
         "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_62c565dd062f",
+      "title": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
+      "url": "https://www.aibase.com/news/32111",
+      "primary_url": "https://www.aibase.com/news/32111",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5792fc96146bc110294bb524ec624812ee7e36f8",
+          "title": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
+          "url": "https://www.aibase.com/news/32111",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T07:03:55.783703Z"
+        },
+        {
+          "id": "1e6222fd3b7126603bfea0811a2f71caed66287c",
+          "title": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
+          "url": "https://www.aibase.com/zh/news/32111",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5792fc96146bc110294bb524ec624812ee7e36f8",
+          "title": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
+          "url": "https://www.aibase.com/news/32111",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T07:03:55.783703Z"
+        },
+        {
+          "id": "1e6222fd3b7126603bfea0811a2f71caed66287c",
+          "title": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
+          "url": "https://www.aibase.com/zh/news/32111",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T07:03:55.783703Z",
+      "latest_at": "2026-11-05T07:03:55.783703Z",
+      "primary_item": {
+        "id": "5792fc96146bc110294bb524ec624812ee7e36f8",
+        "title": "OpenAI 新模型自动挖出 948 个 Linux 内核提权漏洞，每个漏洞利用成本仅 1279 美元",
+        "url": "https://www.aibase.com/news/32111",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -382,15 +482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9444,
+        "recency": 0.8533,
         "story_heat": 0.0
       },
       "category": "official",
@@ -410,26 +510,26 @@
       }
     },
     {
-      "story_id": "story_d3b38be87eda",
-      "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
-      "url": "https://www.aibase.com/news/32091",
-      "primary_url": "https://www.aibase.com/news/32091",
+      "story_id": "story_c9ab813cf094",
+      "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+      "url": "https://www.aibase.com/news/32116",
+      "primary_url": "https://www.aibase.com/news/32116",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3811967584c703c8d62335daebae484c6912011d",
-          "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
-          "url": "https://www.aibase.com/news/32091",
+          "id": "f501c750233c97c1fbdfdffc5865aefafcfe015c",
+          "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+          "url": "https://www.aibase.com/news/32116",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T17:56:45.212254Z"
+          "published_at": "2026-11-05T07:03:55.783703Z"
         },
         {
-          "id": "22f9bdcb0b1e174ba0a7c811d8a89687f923a4e1",
-          "title": "用自家大模型造自己的「芯」：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
-          "url": "https://www.aibase.com/zh/news/32091",
+          "id": "8c815cfcf69424bb37c797af309a6399689c6b20",
+          "title": "从「能画」到「能改」：OpenAI 用 Images 2.6 补齐生图工作流",
+          "url": "https://www.aibase.com/zh/news/32116",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -443,18 +543,18 @@
       ],
       "items": [
         {
-          "id": "3811967584c703c8d62335daebae484c6912011d",
-          "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
-          "url": "https://www.aibase.com/news/32091",
+          "id": "f501c750233c97c1fbdfdffc5865aefafcfe015c",
+          "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+          "url": "https://www.aibase.com/news/32116",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T17:56:45.212254Z"
+          "published_at": "2026-11-05T07:03:55.783703Z"
         },
         {
-          "id": "22f9bdcb0b1e174ba0a7c811d8a89687f923a4e1",
-          "title": "用自家大模型造自己的「芯」：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
-          "url": "https://www.aibase.com/zh/news/32091",
+          "id": "8c815cfcf69424bb37c797af309a6399689c6b20",
+          "title": "从「能画」到「能改」：OpenAI 用 Images 2.6 补齐生图工作流",
+          "url": "https://www.aibase.com/zh/news/32116",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -463,15 +563,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9158,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -480,380 +580,417 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T17:56:45.212254Z",
-      "latest_at": "2026-11-04T18:56:45.212254Z",
+      "earliest_at": "2026-11-05T07:03:55.783703Z",
+      "latest_at": "2026-11-05T07:03:55.783703Z",
       "primary_item": {
-        "id": "3811967584c703c8d62335daebae484c6912011d",
-        "title": "用自家大模型造自己的“芯”：Anthropic 组建 15 人芯片设计团队，Claude 助阵让研发提速",
-        "url": "https://www.aibase.com/news/32091",
+        "id": "f501c750233c97c1fbdfdffc5865aefafcfe015c",
+        "title": "从\"能画\"到\"能改\"：OpenAI 用 Images 2.6 补齐生图工作流",
+        "url": "https://www.aibase.com/news/32116",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_75679f5aa60b",
-      "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
-          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
-          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T07:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
-          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
-          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T07:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7819,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T07:00:00Z",
-      "latest_at": "2026-11-04T07:00:00Z",
-      "primary_item": {
-        "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
-        "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
-        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_0f281cabd4f6",
-      "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-      "primary_url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
-          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T00:32:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
-          "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-04T00:32:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7122,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T00:32:19Z",
-      "latest_at": "2026-11-04T00:32:19Z",
-      "primary_item": {
-        "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
-        "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
-        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_060903e444ef",
-      "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-      "url": "https://www.aibase.com/news/32089",
-      "primary_url": "https://www.aibase.com/news/32089",
+      "story_id": "story_673373e31e3a",
+      "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
+      "url": "https://www.aibase.com/news/32115",
+      "primary_url": "https://www.aibase.com/news/32115",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
-          "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-          "url": "https://www.aibase.com/news/32089",
+          "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
+          "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
+          "url": "https://www.aibase.com/news/32115",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T17:56:45.212254Z"
+          "published_at": "2026-11-05T07:03:55.783703Z"
+        },
+        {
+          "id": "5e06f31a40e4c9b76b64d46e8974fab56ca7980e",
+          "title": "千问 AI Office 升级端内编辑与模板能力，Word、Excel、PPT 均可按需修改",
+          "url": "https://www.aibase.com/zh/news/32115",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
-          "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-          "url": "https://www.aibase.com/news/32089",
+          "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
+          "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
+          "url": "https://www.aibase.com/news/32115",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T17:56:45.212254Z"
+          "published_at": "2026-11-05T07:03:55.783703Z"
+        },
+        {
+          "id": "5e06f31a40e4c9b76b64d46e8974fab56ca7980e",
+          "title": "千问 AI Office 升级端内编辑与模板能力，Word、Excel、PPT 均可按需修改",
+          "url": "https://www.aibase.com/zh/news/32115",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9158,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T17:56:45.212254Z",
-      "latest_at": "2026-11-04T17:56:45.212254Z",
+      "earliest_at": "2026-11-05T07:03:55.783703Z",
+      "latest_at": "2026-11-05T07:03:55.783703Z",
       "primary_item": {
-        "id": "5ad830cd72f917c094845028a4281a1db1a229f4",
-        "title": "OpenAI 员工的\"副业\"硬件：GPT-6 Astra 一周出图、一月出样",
-        "url": "https://www.aibase.com/news/32089",
+        "id": "a5390b5a2c21dd5f3a09c23f8f73a3bf08c1d684",
+        "title": "千问AI Office升级端内编辑与模板能力，Word、Excel、PPT均可按需修改",
+        "url": "https://www.aibase.com/news/32115",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_406ac5e8ed29",
-      "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
-      "url": "https://www.aibase.com/news/32088",
-      "primary_url": "https://www.aibase.com/news/32088",
+      "story_id": "story_74b22be63824",
+      "title": "国产RNA生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源",
+      "url": "https://www.aibase.com/news/32107",
+      "primary_url": "https://www.aibase.com/news/32107",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "59e2c45e7c4f8ac1db2a0e349793854ea3844b91",
-          "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
-          "url": "https://www.aibase.com/news/32088",
+          "id": "cb9b39e3853ef1ef2e47b826724e391709ec60e3",
+          "title": "国产RNA生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源",
+          "url": "https://www.aibase.com/news/32107",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T17:56:45.212254Z"
+          "published_at": "2026-11-05T07:03:55.783703Z"
+        },
+        {
+          "id": "a813b7c6ed295ca8d648655f5d1a8834ae1e8421",
+          "title": "国产 RNA 生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源",
+          "url": "https://www.aibase.com/zh/news/32107",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "59e2c45e7c4f8ac1db2a0e349793854ea3844b91",
-          "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
-          "url": "https://www.aibase.com/news/32088",
+          "id": "cb9b39e3853ef1ef2e47b826724e391709ec60e3",
+          "title": "国产RNA生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源",
+          "url": "https://www.aibase.com/news/32107",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T17:56:45.212254Z"
+          "published_at": "2026-11-05T07:03:55.783703Z"
+        },
+        {
+          "id": "a813b7c6ed295ca8d648655f5d1a8834ae1e8421",
+          "title": "国产 RNA 生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源",
+          "url": "https://www.aibase.com/zh/news/32107",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9158,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T17:56:45.212254Z",
-      "latest_at": "2026-11-04T17:56:45.212254Z",
+      "earliest_at": "2026-11-05T07:03:55.783703Z",
+      "latest_at": "2026-11-05T07:03:55.783703Z",
       "primary_item": {
-        "id": "59e2c45e7c4f8ac1db2a0e349793854ea3844b91",
-        "title": "一个人一天搞定：Windows 11 原生测速工具背后的\"AI 副驾\"模式",
-        "url": "https://www.aibase.com/news/32088",
+        "id": "cb9b39e3853ef1ef2e47b826724e391709ec60e3",
+        "title": "国产RNA生物大模型重大突破：中国科大团队研发 structRFM 登上《自然》并全面开源",
+        "url": "https://www.aibase.com/news/32107",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ffd2bf54b787",
-      "title": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
-      "url": "https://www.aibase.com/news/32085",
-      "primary_url": "https://www.aibase.com/news/32085",
+      "story_id": "story_0dc9f04eea2e",
+      "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+      "url": "https://www.aibase.com/news/32100",
+      "primary_url": "https://www.aibase.com/news/32100",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c7e9f5fda5f6a3c86508b0046d85f20519300dfc",
-          "title": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
-          "url": "https://www.aibase.com/news/32085",
+          "id": "3bd3524eebdafbaeaf5aee3bbb577ad87e335de6",
+          "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+          "url": "https://www.aibase.com/news/32100",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T16:56:45.212254Z"
+          "published_at": "2026-11-05T07:03:55.783703Z"
+        },
+        {
+          "id": "c381e2f1ce313019c68b84bb8ead960c17cf54a7",
+          "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，登顶 Agent Arena 开源榜",
+          "url": "https://www.aibase.com/zh/news/32100",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "c7e9f5fda5f6a3c86508b0046d85f20519300dfc",
-          "title": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
-          "url": "https://www.aibase.com/news/32085",
+          "id": "3bd3524eebdafbaeaf5aee3bbb577ad87e335de6",
+          "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+          "url": "https://www.aibase.com/news/32100",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T16:56:45.212254Z"
+          "published_at": "2026-11-05T07:03:55.783703Z"
+        },
+        {
+          "id": "c381e2f1ce313019c68b84bb8ead960c17cf54a7",
+          "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，登顶 Agent Arena 开源榜",
+          "url": "https://www.aibase.com/zh/news/32100",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9026,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T16:56:45.212254Z",
-      "latest_at": "2026-11-04T16:56:45.212254Z",
+      "earliest_at": "2026-11-05T07:03:55.783703Z",
+      "latest_at": "2026-11-05T07:03:55.783703Z",
       "primary_item": {
-        "id": "c7e9f5fda5f6a3c86508b0046d85f20519300dfc",
-        "title": "灵光开放生态持续扩容，新增微信读书、夸克、哈啰打车、麦当劳等多项服务连接",
-        "url": "https://www.aibase.com/news/32085",
+        "id": "3bd3524eebdafbaeaf5aee3bbb577ad87e335de6",
+        "title": "月之暗面开放 2.8 万亿参数 Kimi K3.1 Pro 权重，强势登顶 Agent Arena 开源榜",
+        "url": "https://www.aibase.com/news/32100",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ad0f861d078a",
-      "title": "百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营",
-      "url": "https://www.aibase.com/news/32087",
-      "primary_url": "https://www.aibase.com/news/32087",
+      "story_id": "story_00ae186c0f57",
+      "title": "盖茨炮轰白宫 AI 监管僵局：生物武器风险或超新冠",
+      "url": "https://www.aibase.com/news/32110",
+      "primary_url": "https://www.aibase.com/news/32110",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "af22aeb2e39bace889a5eae7000252fd0aaf2675",
-          "title": "百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营",
-          "url": "https://www.aibase.com/news/32087",
+          "id": "9664dcb87148a7d1579dad494ba3c27bd7fc2c02",
+          "title": "盖茨炮轰白宫 AI 监管僵局：生物武器风险或超新冠",
+          "url": "https://www.aibase.com/news/32110",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T16:56:45.212254Z"
+          "published_at": "2026-11-05T07:03:55.783703Z"
+        },
+        {
+          "id": "ddebba9ca7d41fe017f5ce92f1f0e8a4fc6fa7c3",
+          "title": "盖茨炮轰白宫 AI 监管僵局：生物武器风险或超新冠",
+          "url": "https://www.aibase.com/zh/news/32110",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "af22aeb2e39bace889a5eae7000252fd0aaf2675",
-          "title": "百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营",
-          "url": "https://www.aibase.com/news/32087",
+          "id": "9664dcb87148a7d1579dad494ba3c27bd7fc2c02",
+          "title": "盖茨炮轰白宫 AI 监管僵局：生物武器风险或超新冠",
+          "url": "https://www.aibase.com/news/32110",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T16:56:45.212254Z"
+          "published_at": "2026-11-05T07:03:55.783703Z"
+        },
+        {
+          "id": "ddebba9ca7d41fe017f5ce92f1f0e8a4fc6fa7c3",
+          "title": "盖茨炮轰白宫 AI 监管僵局：生物武器风险或超新冠",
+          "url": "https://www.aibase.com/zh/news/32110",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9026,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-04T16:56:45.212254Z",
-      "latest_at": "2026-11-04T16:56:45.212254Z",
+      "earliest_at": "2026-11-05T07:03:55.783703Z",
+      "latest_at": "2026-11-05T07:03:55.783703Z",
       "primary_item": {
-        "id": "af22aeb2e39bace889a5eae7000252fd0aaf2675",
-        "title": "百度首次发布物理AI世界模型Apollo World，萝卜快跑近百辆无人车搭载新架构运营",
-        "url": "https://www.aibase.com/news/32087",
+        "id": "9664dcb87148a7d1579dad494ba3c27bd7fc2c02",
+        "title": "盖茨炮轰白宫 AI 监管僵局：生物武器风险或超新冠",
+        "url": "https://www.aibase.com/news/32110",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3084408fb14d",
+      "title": "美国中期选举变\"数据中心公投\"：76% 选民反对，AI 基建撞上地方墙",
+      "url": "https://www.aibase.com/news/32106",
+      "primary_url": "https://www.aibase.com/news/32106",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8e4fbcca8e6911874aea20d617eaeb144698e8e4",
+          "title": "美国中期选举变\"数据中心公投\"：76% 选民反对，AI 基建撞上地方墙",
+          "url": "https://www.aibase.com/news/32106",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T07:03:55.783703Z"
+        },
+        {
+          "id": "eb47595e4e042d6e03c6809f865b91ace3a92366",
+          "title": "美国中期选举变「数据中心公投」：76% 选民反对，AI 基建撞上地方墙",
+          "url": "https://www.aibase.com/zh/news/32106",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8e4fbcca8e6911874aea20d617eaeb144698e8e4",
+          "title": "美国中期选举变\"数据中心公投\"：76% 选民反对，AI 基建撞上地方墙",
+          "url": "https://www.aibase.com/news/32106",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-05T07:03:55.783703Z"
+        },
+        {
+          "id": "eb47595e4e042d6e03c6809f865b91ace3a92366",
+          "title": "美国中期选举变「数据中心公投」：76% 选民反对，AI 基建撞上地方墙",
+          "url": "https://www.aibase.com/zh/news/32106",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-05T07:03:55.783703Z",
+      "latest_at": "2026-11-05T07:03:55.783703Z",
+      "primary_item": {
+        "id": "8e4fbcca8e6911874aea20d617eaeb144698e8e4",
+        "title": "美国中期选举变\"数据中心公投\"：76% 选民反对，AI 基建撞上地方墙",
+        "url": "https://www.aibase.com/news/32106",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -911,15 +1048,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6187,
-      "importance": 0.6187,
-      "importance_score": 0.6187,
+      "score": 0.6022,
+      "importance": 0.6022,
+      "importance_score": 0.6022,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9487,
+        "recency": 0.8571,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -934,67 +1071,6 @@
         "url": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
         "source": "The Verge",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_9ffc24e514b1",
-      "title": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
-      "url": "https://www.aibase.com/news/32086",
-      "primary_url": "https://www.aibase.com/news/32086",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "01dc91730c54a8f6cd173c5a7adc3277edde8ce6",
-          "title": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
-          "url": "https://www.aibase.com/news/32086",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T16:56:45.212254Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "01dc91730c54a8f6cd173c5a7adc3277edde8ce6",
-          "title": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
-          "url": "https://www.aibase.com/news/32086",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-04T16:56:45.212254Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9026,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-04T16:56:45.212254Z",
-      "latest_at": "2026-11-04T16:56:45.212254Z",
-      "primary_item": {
-        "id": "01dc91730c54a8f6cd173c5a7adc3277edde8ce6",
-        "title": "给 AI 输出盖\"数字指纹\"：Anthropic 研发 FlashProve 让换模型无处遁形",
-        "url": "https://www.aibase.com/news/32086",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1050,15 +1126,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5814,
-      "importance": 0.5814,
-      "importance_score": 0.5814,
+      "score": 0.5653,
+      "importance": 0.5653,
+      "importance_score": 0.5653,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9291,
+        "recency": 0.8394,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1076,21 +1152,118 @@
       }
     },
     {
-      "story_id": "story_d19e7f22548e",
-      "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
-      "url": "https://www.aibase.com/news/32082",
-      "primary_url": "https://www.aibase.com/news/32082",
+      "story_id": "story_0a437d67f2ef",
+      "title": "图 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "primary_url": "https://openai.com/index/introducing-images-2-6",
+      "source": "openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "419e7b9b7f0f255a677f79dd61beac18aab80800",
+          "title": "图 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T02:17:02.236000Z"
+        },
+        {
+          "id": "764fca460568a3a59b474225bdad8d9fcd4be7cb",
+          "title": "图 2.6 / Images 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T23:35:44Z"
+        },
+        {
+          "id": "f24af13a70e534688d265ecd3a9217f117f524ca",
+          "title": "图 2.6 / Introducing Images 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T23:35:44Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "419e7b9b7f0f255a677f79dd61beac18aab80800",
+          "title": "图 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T02:17:02.236000Z"
+        },
+        {
+          "id": "764fca460568a3a59b474225bdad8d9fcd4be7cb",
+          "title": "图 2.6 / Images 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T23:35:44Z"
+        },
+        {
+          "id": "f24af13a70e534688d265ecd3a9217f117f524ca",
+          "title": "图 2.6 / Introducing Images 2.6",
+          "url": "https://openai.com/index/introducing-images-2-6",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T23:35:44Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5588,
+      "importance": 0.5588,
+      "importance_score": 0.5588,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9333,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T23:35:44Z",
+      "latest_at": "2026-11-05T02:17:02.236000Z",
+      "primary_item": {
+        "id": "419e7b9b7f0f255a677f79dd61beac18aab80800",
+        "title": "图 2.6",
+        "url": "https://openai.com/index/introducing-images-2-6",
+        "source": "openai.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5277472daa97",
+      "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
+      "url": "https://www.aibase.com/news/32108",
+      "primary_url": "https://www.aibase.com/news/32108",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b28a9cfc8e6305ff4790828343e96aff9cf318bd",
-          "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
-          "url": "https://www.aibase.com/news/32082",
+          "id": "0f4bdfb8bdee7b11ac961ecd194a28ddb74982f7",
+          "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
+          "url": "https://www.aibase.com/news/32108",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T15:56:45.212254Z"
+          "published_at": "2026-11-05T07:03:55.783703Z"
         }
       ],
       "source_count": 1,
@@ -1099,40 +1272,139 @@
       ],
       "items": [
         {
-          "id": "b28a9cfc8e6305ff4790828343e96aff9cf318bd",
-          "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
-          "url": "https://www.aibase.com/news/32082",
+          "id": "0f4bdfb8bdee7b11ac961ecd194a28ddb74982f7",
+          "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
+          "url": "https://www.aibase.com/news/32108",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-04T15:56:45.212254Z"
+          "published_at": "2026-11-05T07:03:55.783703Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8897,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-04T15:56:45.212254Z",
-      "latest_at": "2026-11-04T15:56:45.212254Z",
+      "earliest_at": "2026-11-05T07:03:55.783703Z",
+      "latest_at": "2026-11-05T07:03:55.783703Z",
       "primary_item": {
-        "id": "b28a9cfc8e6305ff4790828343e96aff9cf318bd",
-        "title": "后摩智能完成数十亿元B轮融资，端侧大模型AI芯片驶入规模化落地快车道",
-        "url": "https://www.aibase.com/news/32082",
+        "id": "0f4bdfb8bdee7b11ac961ecd194a28ddb74982f7",
+        "title": "GPT-6.2 蛛丝马迹提前泄露，OpenAI 三款新模型或本周亮相",
+        "url": "https://www.aibase.com/news/32108",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9082a853a58f",
+      "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "primary_url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "source": "www.qualcomm.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9af032572ab7d62a6e5944543f5f413c51d29e40",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "www.qualcomm.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T01:44:43.584000Z"
+        },
+        {
+          "id": "0138ba9712bbf061fa049303df2a9fc354f6f8d8",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s / Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T19:55:14Z"
+        },
+        {
+          "id": "ec8de290a51dff0517e5d5973043b1cbd9735ac0",
+          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI 加速卡，128GB，548GB/s / Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "url": "https://news.ycombinator.com/item?id=50370654",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T19:55:14Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.qualcomm.com"
+      ],
+      "items": [
+        {
+          "id": "9af032572ab7d62a6e5944543f5f413c51d29e40",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "www.qualcomm.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-05T01:44:43.584000Z"
+        },
+        {
+          "id": "0138ba9712bbf061fa049303df2a9fc354f6f8d8",
+          "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s / Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T19:55:14Z"
+        },
+        {
+          "id": "ec8de290a51dff0517e5d5973043b1cbd9735ac0",
+          "title": "Qualcomm Cloud AI 100 Ultra – 150W AI 加速卡，128GB，548GB/s / Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+          "url": "https://news.ycombinator.com/item?id=50370654",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T19:55:14Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5575,
+      "importance": 0.5575,
+      "importance_score": 0.5575,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9261,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T19:55:14Z",
+      "latest_at": "2026-11-05T01:44:43.584000Z",
+      "primary_item": {
+        "id": "9af032572ab7d62a6e5944543f5f413c51d29e40",
+        "title": "高通 Cloud AI 100 Ultra——150W 人工智能加速卡，配备 128GB 内存，传输速率达 548GB/s",
+        "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+        "source": "www.qualcomm.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1208,15 +1480,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5597,
-      "importance": 0.5597,
-      "importance_score": 0.5597,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9383,
+        "recency": 0.8478,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1306,15 +1578,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5496,
-      "importance": 0.5496,
-      "importance_score": 0.5496,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8822,
+        "recency": 0.797,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1332,109 +1604,30 @@
       }
     },
     {
-      "story_id": "story_46f48fe38746",
-      "title": "现在什么都是AI骗局了",
-      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
-      "primary_url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
-      "source": "www.davidralphlewis.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6f9612dcd0fafdb78fd9a6c73b14286b49e648c7",
-          "title": "现在什么都是AI骗局了",
-          "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
-          "source": "www.davidralphlewis.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T23:04:46.586000Z"
-        },
-        {
-          "id": "ee69d5b879a43b91a7e0fa328e5fa10c916302e5",
-          "title": "现在什么都是AI骗局了 / Everything is an AI scam now",
-          "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-04T21:05:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.davidralphlewis.co.uk"
-      ],
-      "items": [
-        {
-          "id": "6f9612dcd0fafdb78fd9a6c73b14286b49e648c7",
-          "title": "现在什么都是AI骗局了",
-          "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
-          "source": "www.davidralphlewis.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-04T23:04:46.586000Z"
-        },
-        {
-          "id": "ee69d5b879a43b91a7e0fa328e5fa10c916302e5",
-          "title": "现在什么都是AI骗局了 / Everything is an AI scam now",
-          "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-04T21:05:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9862,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-04T21:05:19Z",
-      "latest_at": "2026-11-04T23:04:46.586000Z",
-      "primary_item": {
-        "id": "6f9612dcd0fafdb78fd9a6c73b14286b49e648c7",
-        "title": "现在什么都是AI骗局了",
-        "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now",
-        "source": "www.davidralphlewis.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_93dea57e67cd",
-      "title": "Meta不再用水果的名字来命名其人工智能模型了",
-      "url": "https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11",
-      "primary_url": "https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11",
+      "story_id": "story_c37b55e5cd26",
+      "title": "Agility Robotics将人形机器人推向公开市场，这在华尔街尚属首次",
+      "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
+      "primary_url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3924c28fe96cd245ab54a32455d759d6819c39b8",
-          "title": "Meta不再用水果的名字来命名其人工智能模型了",
-          "url": "https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11",
+          "id": "47bb0aa12dc33ff032e1574cbbbd04aab4d6ce31",
+          "title": "Agility Robotics将人形机器人推向公开市场，这在华尔街尚属首次",
+          "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-04T22:01:05.532000Z"
+          "published_at": "2026-11-05T01:29:44.057000Z"
         },
         {
-          "id": "3afa50b370172c1f4d9d62c3a420cd8fdd29e93d",
-          "title": "Meta不再用水果的名字来命名其人工智能模型了 / Meta isn't naming its AI models after fruit anymore",
-          "url": "https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11",
+          "id": "c663858fd46e34de406d5a4299d4027941d75a01",
+          "title": "Agility Robotics将人形机器人推向公开市场，这在华尔街尚属首次 / Agility Robotics is taking humanoid robots public in a first for Wall Street",
+          "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-04T21:53:20Z"
+          "published_at": "2026-11-05T01:12:23Z"
         }
       ],
       "source_count": 2,
@@ -1444,47 +1637,47 @@
       ],
       "items": [
         {
-          "id": "3924c28fe96cd245ab54a32455d759d6819c39b8",
-          "title": "Meta不再用水果的名字来命名其人工智能模型了",
-          "url": "https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11",
+          "id": "47bb0aa12dc33ff032e1574cbbbd04aab4d6ce31",
+          "title": "Agility Robotics将人形机器人推向公开市场，这在华尔街尚属首次",
+          "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-04T22:01:05.532000Z"
+          "published_at": "2026-11-05T01:29:44.057000Z"
         },
         {
-          "id": "3afa50b370172c1f4d9d62c3a420cd8fdd29e93d",
-          "title": "Meta不再用水果的名字来命名其人工智能模型了 / Meta isn't naming its AI models after fruit anymore",
-          "url": "https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11",
+          "id": "c663858fd46e34de406d5a4299d4027941d75a01",
+          "title": "Agility Robotics将人形机器人推向公开市场，这在华尔街尚属首次 / Agility Robotics is taking humanoid robots public in a first for Wall Street",
+          "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-04T21:53:20Z"
+          "published_at": "2026-11-05T01:12:23Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9712,
+        "recency": 0.9227,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-04T21:53:20Z",
-      "latest_at": "2026-11-04T22:01:05.532000Z",
+      "earliest_at": "2026-11-05T01:12:23Z",
+      "latest_at": "2026-11-05T01:29:44.057000Z",
       "primary_item": {
-        "id": "3924c28fe96cd245ab54a32455d759d6819c39b8",
-        "title": "Meta不再用水果的名字来命名其人工智能模型了",
-        "url": "https://www.businessinsider.com/meta-will-stop-naming-its-ai-models-after-fruit-2026-11",
+        "id": "47bb0aa12dc33ff032e1574cbbbd04aab4d6ce31",
+        "title": "Agility Robotics将人形机器人推向公开市场，这在华尔街尚属首次",
+        "url": "https://www.businessinsider.com/agility-robotics-heads-to-wall-street-tough-road-to-profit-2026-11",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
