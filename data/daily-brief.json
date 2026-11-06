@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T16:23:16.632638Z",
+  "generated_at": "2026-11-06T21:39:24.832477Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_be1ba71e55b7",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "title": "ToyBlocks：用于机器人学习和评估的受控世界 / ToyBlocks: A controlled world for robot learning and evaluation",
       "url": "https://huggingface.co/blog/allenai/toyblocks",
       "primary_url": "https://huggingface.co/blog/allenai/toyblocks",
       "source": "Hugging Face Blog",
@@ -13,7 +13,7 @@
       "sources": [
         {
           "id": "a100fcc3e909a1dcbb72bdee0996e7bbccfdad8d",
-          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "title": "ToyBlocks：用于机器人学习和评估的受控世界 / ToyBlocks: A controlled world for robot learning and evaluation",
           "url": "https://huggingface.co/blog/allenai/toyblocks",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
@@ -28,7 +28,7 @@
       "items": [
         {
           "id": "a100fcc3e909a1dcbb72bdee0996e7bbccfdad8d",
-          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+          "title": "ToyBlocks：用于机器人学习和评估的受控世界 / ToyBlocks: A controlled world for robot learning and evaluation",
           "url": "https://huggingface.co/blog/allenai/toyblocks",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8639,
-      "importance": 0.8639,
-      "importance_score": 0.8639,
+      "score": 0.8512,
+      "importance": 0.8512,
+      "importance_score": 0.8512,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9663,
+        "recency": 0.8955,
         "story_heat": 0.0
       },
       "category": "official",
@@ -59,9 +59,91 @@
       "latest_at": "2026-11-06T14:00:48Z",
       "primary_item": {
         "id": "a100fcc3e909a1dcbb72bdee0996e7bbccfdad8d",
-        "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+        "title": "ToyBlocks：用于机器人学习和评估的受控世界 / ToyBlocks: A controlled world for robot learning and evaluation",
         "url": "https://huggingface.co/blog/allenai/toyblocks",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bc8f9eac1966",
+      "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "primary_url": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
+          "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T08:00:00Z"
+        },
+        {
+          "id": "066b4628f2a1c4cd02fbc1bee08e5f039ab13a98",
+          "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
+          "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T08:00:00Z"
+        },
+        {
+          "id": "066b4628f2a1c4cd02fbc1bee08e5f039ab13a98",
+          "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞",
+          "url": "https://openai.com/index/partnering-with-hacktron",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8448,
+      "importance": 0.8448,
+      "importance_score": 0.8448,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.821,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T08:00:00Z",
+      "latest_at": "2026-11-06T21:39:24.832477Z",
+      "primary_item": {
+        "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
+        "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+        "url": "https://openai.com/index/partnering-with-hacktron",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7893,
+        "recency": 0.7314,
         "story_heat": 0.0
       },
       "category": "official",
@@ -124,232 +206,6 @@
         "title": "Codex CLI 0.167.0",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d7e9e3e89ee7",
-      "title": "Gemini Omni 1.2 Flash：快速、经济高效，具有更长的剪辑 / Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7a5e46648fa3f11f9617dc0c8228da6bc8321ca7",
-          "title": "Gemini Omni 1.2 Flash：快速、经济高效，具有更长的剪辑 / Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T17:00:00Z"
-        },
-        {
-          "id": "eb482a0a4350909a410ec35efd2d3a059f97002f",
-          "title": "Gemini Omni 1.2 Flash",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T15:21:47.306000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google AI Blog",
-        "blog.google"
-      ],
-      "items": [
-        {
-          "id": "7a5e46648fa3f11f9617dc0c8228da6bc8321ca7",
-          "title": "Gemini Omni 1.2 Flash：快速、经济高效，具有更长的剪辑 / Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T17:00:00Z"
-        },
-        {
-          "id": "eb482a0a4350909a410ec35efd2d3a059f97002f",
-          "title": "Gemini Omni 1.2 Flash",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T15:21:47.306000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7134,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T17:00:00Z",
-      "latest_at": "2026-11-06T15:21:47.306000Z",
-      "primary_item": {
-        "id": "7a5e46648fa3f11f9617dc0c8228da6bc8321ca7",
-        "title": "Gemini Omni 1.2 Flash：快速、经济高效，具有更长的剪辑 / Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c88b52d0b210",
-      "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "primary_url": "https://openai.com/index/cultfit-builds-with-codex",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ba025fbad02a10169c191970e604d56009173d01",
-          "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-          "url": "https://openai.com/index/cultfit-builds-with-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T20:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "ba025fbad02a10169c191970e604d56009173d01",
-          "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-          "url": "https://openai.com/index/cultfit-builds-with-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.745,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T20:00:00Z",
-      "latest_at": "2026-11-05T20:00:00Z",
-      "primary_item": {
-        "id": "ba025fbad02a10169c191970e604d56009173d01",
-        "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-        "url": "https://openai.com/index/cultfit-builds-with-codex",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e8690f74b67f",
-      "title": "NVIDIA 发布 Cosmos 3 开放模型，用于交互式世界模拟 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "primary_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-          "title": "NVIDIA 发布 Cosmos 3 开放模型，用于交互式世界模拟 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T19:35:16Z"
-        },
-        {
-          "id": "03e94daeea9c2f7d344ab15cbd59d1735162094b",
-          "title": "NVIDIA 发布 Cosmos 3 开放模型，用于交互式世界模拟",
-          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-          "title": "NVIDIA 发布 Cosmos 3 开放模型，用于交互式世界模拟 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T19:35:16Z"
-        },
-        {
-          "id": "03e94daeea9c2f7d344ab15cbd59d1735162094b",
-          "title": "NVIDIA 发布 Cosmos 3 开放模型，用于交互式世界模拟",
-          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7405,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T19:35:16Z",
-      "latest_at": "2026-11-05T21:37:37.923048Z",
-      "primary_item": {
-        "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-        "title": "NVIDIA 发布 Cosmos 3 开放模型，用于交互式世界模拟 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -388,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8067,
-      "importance": 0.8067,
-      "importance_score": 0.8067,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7929,
+        "recency": 0.7348,
         "story_heat": 0.0
       },
       "category": "official",
@@ -412,6 +268,130 @@
         "title": "使用指标 API 添加了代码审查详细信息和解决率 / Usage metrics API adds code review details and addressed rate",
         "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_82196d4ece0a",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "primary_url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
+          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
+          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8117,
+      "importance": 0.8117,
+      "importance_score": 0.8117,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7314,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T00:00:00Z",
+      "latest_at": "2026-11-06T00:00:00Z",
+      "primary_item": {
+        "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
+        "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+        "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_cfd4354afa14",
+      "title": "衡量人工智能代理如何处理日常湿实验室科学 / Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "primary_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
+          "title": "衡量人工智能代理如何处理日常湿实验室科学 / Measuring how AI agents handle everyday wet-lab science",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
+          "title": "衡量人工智能代理如何处理日常湿实验室科学 / Measuring how AI agents handle everyday wet-lab science",
+          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7314,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T00:00:00Z",
+      "latest_at": "2026-11-06T00:00:00Z",
+      "primary_item": {
+        "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
+        "title": "衡量人工智能代理如何处理日常湿实验室科学 / Measuring how AI agents handle everyday wet-lab science",
+        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -450,15 +430,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
+      "score": 0.7959,
+      "importance": 0.7959,
+      "importance_score": 0.7959,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7909,
+        "recency": 0.7329,
         "story_heat": 0.0
       },
       "category": "official",
@@ -531,15 +511,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
+        "recency": 0.8287,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -556,130 +536,6 @@
         "url": "https://www.aibase.com/news/32152",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b58fee4edbbb",
-      "title": "Australian universities are creating AI-native graduates",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "primary_url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0d21f3013b6577a82dfdd83b78d72606164b5b3f",
-          "title": "Australian universities are creating AI-native graduates",
-          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "0d21f3013b6577a82dfdd83b78d72606164b5b3f",
-          "title": "Australian universities are creating AI-native graduates",
-          "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8004,
-      "importance": 0.8004,
-      "importance_score": 0.8004,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7134,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-05T17:00:00Z",
-      "latest_at": "2026-11-05T17:00:00Z",
-      "primary_item": {
-        "id": "0d21f3013b6577a82dfdd83b78d72606164b5b3f",
-        "title": "Australian universities are creating AI-native graduates",
-        "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_82196d4ece0a",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "primary_url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
-          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
-          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7893,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T00:00:00Z",
-      "latest_at": "2026-11-06T00:00:00Z",
-      "primary_item": {
-        "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
-        "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-        "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -736,15 +592,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
+        "recency": 0.8287,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -817,15 +673,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
+        "recency": 0.8287,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -898,15 +754,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
+        "recency": 0.8287,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -979,15 +835,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
+        "recency": 0.8287,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1004,254 +860,6 @@
         "url": "https://www.aibase.com/news/32151",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "ChatGPT发布了Images 2.6，这次不只会画静态图片，也支持制作GIF了。看到这个更新，老金也尝试着做了动态表情包，一起看看效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-05",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "db5436062d0e93375f3d1dcbc99c9f7870bab790",
-          "title": "ChatGPT发布了Images 2.6，这次不只会画静态图片，也支持制作GIF了。看到这个更新，老金也尝试着做了动态表情包，一起看看效果如何！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-05T21:37:37.923048Z"
-        },
-        {
-          "id": "0d0493ab988c48d792a90b0ccb2f29bc6eed7805",
-          "title": "不少人苦恼没有Opus 5.5，做不出高质量的Vibe Coding动态作品。作者用商汤SenseNova-6.8-Flash，测试了代码动画、UI、3D、SVG动态海报四类生成效果，搭配自研的vibecoding-humanizer Skill优化去AI味，可以帮你用国产模型就做出接近标杆的动态作品。快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-05T21:37:37.923048Z"
-        },
-        {
-          "id": "b5aead06a0170a7425d8d37eeb0ec1ccc6de94fe",
-          "title": "很多团队的AI Agent看似能跑，一到多部门协作就暴露各种权限混乱、数据版本冲突、隐性经验难以留存的痛点。Ankole这款开源、模型中立的Agent OS给出了底层解法，依托权限内核、A2A智能体通信、FUSE虚拟文件系统与本体组织记忆，把业务状态、Skill规则、权限隔离固化在系统底层，让团队经验持续沉淀复利，同时企业可以自主掌控数据资产，不被单一模型厂商锁定。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-05T21:37:37.923048Z"
-        },
-        {
-          "id": "fbe04e5709bd90c0b0d2639bd967d73b4126d923",
-          "title": "看到别人用 AI 做游戏，很容易一上来就生成角色、场景和特效，忙几天才发现：画面堆了不少，核心玩法没跑通，改一处还牵着全局返工。作者用 4 天做出一款 3D 钓鱼游戏，把路线拆得很适合新手跟。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-05T21:37:37.923048Z"
-        },
-        {
-          "id": "7030c8d42e431d6cfcb64bffea5fe8698c6b412a",
-          "title": "这篇文章只解决一个问题：怎么靠一套多模型工作流和实际操作过程中需要注意的事项，用尽量少的钱、尽量低的抽卡率，做出一条自己满意的AI视频。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-05T21:37:37.923048Z"
-        },
-        {
-          "id": "03036da398e76a8d92251d4f26b6fdf118802dab",
-          "title": "这篇面向工程师、产品与管理者的分层评估指南，戳破了AI评测里常见的自欺陷阱。作者带大家拆解了代码评分器、模型裁判、幻觉检测器的适用边界，看完你也能搭建一套可落地、可信的评测流水线，用扎实的数据验证每一次迭代，避免分数好看、线上翻车。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-05T21:37:37.923048Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "社区更新 · 2026-11-05"
-      ],
-      "items": [
-        {
-          "id": "db5436062d0e93375f3d1dcbc99c9f7870bab790",
-          "title": "ChatGPT发布了Images 2.6，这次不只会画静态图片，也支持制作GIF了。看到这个更新，老金也尝试着做了动态表情包，一起看看效果如何！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-05T21:37:37.923048Z"
-        },
-        {
-          "id": "0d0493ab988c48d792a90b0ccb2f29bc6eed7805",
-          "title": "不少人苦恼没有Opus 5.5，做不出高质量的Vibe Coding动态作品。作者用商汤SenseNova-6.8-Flash，测试了代码动画、UI、3D、SVG动态海报四类生成效果，搭配自研的vibecoding-humanizer Skill优化去AI味，可以帮你用国产模型就做出接近标杆的动态作品。快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-05T21:37:37.923048Z"
-        },
-        {
-          "id": "b5aead06a0170a7425d8d37eeb0ec1ccc6de94fe",
-          "title": "很多团队的AI Agent看似能跑，一到多部门协作就暴露各种权限混乱、数据版本冲突、隐性经验难以留存的痛点。Ankole这款开源、模型中立的Agent OS给出了底层解法，依托权限内核、A2A智能体通信、FUSE虚拟文件系统与本体组织记忆，把业务状态、Skill规则、权限隔离固化在系统底层，让团队经验持续沉淀复利，同时企业可以自主掌控数据资产，不被单一模型厂商锁定。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-05T21:37:37.923048Z"
-        },
-        {
-          "id": "fbe04e5709bd90c0b0d2639bd967d73b4126d923",
-          "title": "看到别人用 AI 做游戏，很容易一上来就生成角色、场景和特效，忙几天才发现：画面堆了不少，核心玩法没跑通，改一处还牵着全局返工。作者用 4 天做出一款 3D 钓鱼游戏，把路线拆得很适合新手跟。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-05T21:37:37.923048Z"
-        },
-        {
-          "id": "7030c8d42e431d6cfcb64bffea5fe8698c6b412a",
-          "title": "这篇文章只解决一个问题：怎么靠一套多模型工作流和实际操作过程中需要注意的事项，用尽量少的钱、尽量低的抽卡率，做出一条自己满意的AI视频。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-05T21:37:37.923048Z"
-        },
-        {
-          "id": "03036da398e76a8d92251d4f26b6fdf118802dab",
-          "title": "这篇面向工程师、产品与管理者的分层评估指南，戳破了AI评测里常见的自欺陷阱。作者带大家拆解了代码评分器、模型裁判、幻觉检测器的适用边界，看完你也能搭建一套可落地、可信的评测流水线，用扎实的数据验证每一次迭代，避免分数好看、线上翻车。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-05",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-05T21:37:37.923048Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6265,
-      "importance": 0.6265,
-      "importance_score": 0.6265,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7627,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-05T21:37:37.923048Z",
-      "latest_at": "2026-11-05T21:37:37.923048Z",
-      "primary_item": {
-        "id": "db5436062d0e93375f3d1dcbc99c9f7870bab790",
-        "title": "ChatGPT发布了Images 2.6，这次不只会画静态图片，也支持制作GIF了。看到这个更新，老金也尝试着做了动态表情包，一起看看效果如何！",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-11-05",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_2e06a7a163b7",
-      "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
-      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-      "primary_url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "d35bd8b9cb33d2489c0dadf239cb41578385cd7e",
-          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
-          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-05T19:12:39Z"
-        },
-        {
-          "id": "e94f4afbcfef1f6a8701cdbd5c1deecb6e5d03ef",
-          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
-          "url": "https://www.reddit.com/r/technology/comments/1xorh8s/meta_warns_that_election_backlash_against_data",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-05T19:14:24Z"
-        },
-        {
-          "id": "fe04847973f0fb71b78be33844d320bb635cacf0",
-          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta’s warns that election backlash against data centers could make AI expansion harder",
-          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-05T19:12:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Reddit (热门)",
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "d35bd8b9cb33d2489c0dadf239cb41578385cd7e",
-          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
-          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-05T19:12:39Z"
-        },
-        {
-          "id": "e94f4afbcfef1f6a8701cdbd5c1deecb6e5d03ef",
-          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
-          "url": "https://www.reddit.com/r/technology/comments/1xorh8s/meta_warns_that_election_backlash_against_data",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-05T19:14:24Z"
-        },
-        {
-          "id": "fe04847973f0fb71b78be33844d320bb635cacf0",
-          "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta’s warns that election backlash against data centers could make AI expansion harder",
-          "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-05T19:12:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6263,
-      "importance": 0.6263,
-      "importance_score": 0.6263,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7365,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-05T19:12:39Z",
-      "latest_at": "2026-11-05T19:14:24Z",
-      "primary_item": {
-        "id": "d35bd8b9cb33d2489c0dadf239cb41578385cd7e",
-        "title": "Meta 警告称，选举对数据中心的强烈反对可能会使人工智能扩张变得更加困难 / Meta warns that election backlash against data centers could make AI expansion harder",
-        "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
       }
     },
     {
@@ -1308,15 +916,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
+        "recency": 0.8287,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1333,6 +941,84 @@
         "url": "https://www.aibase.com/news/32139",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_52e0623fab79",
+      "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "primary_url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "b11483a3cf8a1467162ddb565e4965805e41f34b",
+          "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+          "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-06T18:10:10Z"
+        },
+        {
+          "id": "0a640d0412560f1f9868bacd221052c7a6adaaa6",
+          "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+          "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-06T18:10:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "b11483a3cf8a1467162ddb565e4965805e41f34b",
+          "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+          "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-06T18:10:10Z"
+        },
+        {
+          "id": "0a640d0412560f1f9868bacd221052c7a6adaaa6",
+          "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+          "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-06T18:10:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6066,
+      "importance": 0.6066,
+      "importance_score": 0.6066,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9509,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T18:10:10Z",
+      "latest_at": "2026-11-06T18:10:10Z",
+      "primary_item": {
+        "id": "b11483a3cf8a1467162ddb565e4965805e41f34b",
+        "title": "Meta 的 Muse AI 可以为您现在需要的应用程序版本创建自定义“空间” / Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+        "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -1389,15 +1075,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7618,
+      "importance": 0.7618,
+      "importance_score": 0.7618,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8942,
+        "recency": 0.8287,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1444,7 +1130,7 @@
         },
         {
           "id": "8305b8466f16c43b06d205993b2c659d35c522da",
-          "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+          "title": "Show HN：代理身份代理、AI 代理的 OAuth 委派 / Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
           "url": "https://news.ycombinator.com/item?id=50393235",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1479,7 +1165,7 @@
         },
         {
           "id": "8305b8466f16c43b06d205993b2c659d35c522da",
-          "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
+          "title": "Show HN：代理身份代理、AI 代理的 OAuth 委派 / Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
           "url": "https://news.ycombinator.com/item?id=50393235",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1489,15 +1175,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5682,
-      "importance": 0.5682,
-      "importance_score": 0.5682,
+      "score": 0.5552,
+      "importance": 0.5552,
+      "importance_score": 0.5552,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9853,
+        "recency": 0.9131,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1587,15 +1273,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5645,
-      "importance": 0.5645,
-      "importance_score": 0.5645,
+      "score": 0.5518,
+      "importance": 0.5518,
+      "importance_score": 0.5518,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9652,
+        "recency": 0.8944,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1610,6 +1296,244 @@
         "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_ad7cf1f4b65d",
+      "title": "我很难相信人工智能的研发是独具匠心的",
+      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "primary_url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+      "source": "www.lesswrong.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5fc33739fcc0dafbdc3ec992eb93528b175eab22",
+          "title": "我很难相信人工智能的研发是独具匠心的",
+          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+          "source": "www.lesswrong.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T10:52:42.861000Z"
+        },
+        {
+          "id": "ebca00608954f11f69d95a820d4b72c7302346a1",
+          "title": "我很难相信人工智能的研发是独具匠心的 / I struggle to believe that AI R&D is ingenious",
+          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-06T05:19:04Z"
+        },
+        {
+          "id": "012f513ef2d9c88d13da43ae58cc33988275ab86",
+          "title": "I struggle to believe that AI R&D is ingenious",
+          "url": "https://news.ycombinator.com/item?id=50388513",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T05:19:04Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.lesswrong.com"
+      ],
+      "items": [
+        {
+          "id": "5fc33739fcc0dafbdc3ec992eb93528b175eab22",
+          "title": "我很难相信人工智能的研发是独具匠心的",
+          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+          "source": "www.lesswrong.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T10:52:42.861000Z"
+        },
+        {
+          "id": "ebca00608954f11f69d95a820d4b72c7302346a1",
+          "title": "我很难相信人工智能的研发是独具匠心的 / I struggle to believe that AI R&D is ingenious",
+          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-06T05:19:04Z"
+        },
+        {
+          "id": "012f513ef2d9c88d13da43ae58cc33988275ab86",
+          "title": "I struggle to believe that AI R&D is ingenious",
+          "url": "https://news.ycombinator.com/item?id=50388513",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T05:19:04Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8559,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T05:19:04Z",
+      "latest_at": "2026-11-06T10:52:42.861000Z",
+      "primary_item": {
+        "id": "5fc33739fcc0dafbdc3ec992eb93528b175eab22",
+        "title": "我很难相信人工智能的研发是独具匠心的",
+        "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+        "source": "www.lesswrong.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_573db17ff16f",
+      "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+      "url": "https://www.aibase.com/news/32155",
+      "primary_url": "https://www.aibase.com/news/32155",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
+          "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+          "url": "https://www.aibase.com/news/32155",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T16:23:16.632638Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
+          "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+          "url": "https://www.aibase.com/news/32155",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-06T16:23:16.632638Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7544,
+      "importance": 0.7544,
+      "importance_score": 0.7544,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9267,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T16:23:16.632638Z",
+      "latest_at": "2026-11-06T16:23:16.632638Z",
+      "primary_item": {
+        "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
+        "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
+        "url": "https://www.aibase.com/news/32155",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_67a73228881a",
+      "title": "SketchAgentBench – 评估 3D 空间推理的法学硕士 / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
+      "url": "https://sketchagent.dev",
+      "primary_url": "https://sketchagent.dev",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "903c640db9c9a2b4b31750983a198b32b8fd0977",
+          "title": "SketchAgentBench – 评估 3D 空间推理的法学硕士 / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
+          "url": "https://sketchagent.dev",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T20:28:24Z"
+        },
+        {
+          "id": "2c265a5856ac131a3f6501ba8a0ae4150c3fa052",
+          "title": "SketchAgentBench – 评估 3D 空间推理的法学硕士 / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
+          "url": "https://news.ycombinator.com/item?id=50398010",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T20:28:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "903c640db9c9a2b4b31750983a198b32b8fd0977",
+          "title": "SketchAgentBench – 评估 3D 空间推理的法学硕士 / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
+          "url": "https://sketchagent.dev",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T20:28:24Z"
+        },
+        {
+          "id": "2c265a5856ac131a3f6501ba8a0ae4150c3fa052",
+          "title": "SketchAgentBench – 评估 3D 空间推理的法学硕士 / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
+          "url": "https://news.ycombinator.com/item?id=50398010",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T20:28:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9831,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T20:28:24Z",
+      "latest_at": "2026-11-06T20:28:24Z",
+      "primary_item": {
+        "id": "903c640db9c9a2b4b31750983a198b32b8fd0977",
+        "title": "SketchAgentBench – 评估 3D 空间推理的法学硕士 / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
+        "url": "https://sketchagent.dev",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
