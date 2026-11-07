@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T07:23:21.789045Z",
+  "generated_at": "2026-11-07T14:13:06.689886Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8348,
-      "importance": 0.8348,
-      "importance_score": 0.8348,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9047,
+        "recency": 0.8198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,68 +62,6 @@
         "title": "Copilot 代码审查：API 管理和审查概述更新 / Copilot code review: API management and review overview updates",
         "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_be1ba71e55b7",
-      "title": "ToyBlocks：用于机器人学习和评估的受控世界 / ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "primary_url": "https://huggingface.co/blog/allenai/toyblocks",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a100fcc3e909a1dcbb72bdee0996e7bbccfdad8d",
-          "title": "ToyBlocks：用于机器人学习和评估的受控世界 / ToyBlocks: A controlled world for robot learning and evaluation",
-          "url": "https://huggingface.co/blog/allenai/toyblocks",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T14:00:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "a100fcc3e909a1dcbb72bdee0996e7bbccfdad8d",
-          "title": "ToyBlocks：用于机器人学习和评估的受控世界 / ToyBlocks: A controlled world for robot learning and evaluation",
-          "url": "https://huggingface.co/blog/allenai/toyblocks",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T14:00:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8301,
-      "importance": 0.8301,
-      "importance_score": 0.8301,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7781,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T14:00:48Z",
-      "latest_at": "2026-11-06T14:00:48Z",
-      "primary_item": {
-        "id": "a100fcc3e909a1dcbb72bdee0996e7bbccfdad8d",
-        "title": "ToyBlocks：用于机器人学习和评估的受控世界 / ToyBlocks: A controlled world for robot learning and evaluation",
-        "url": "https://huggingface.co/blog/allenai/toyblocks",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
+      "score": 0.813,
+      "importance": 0.813,
+      "importance_score": 0.813,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8766,
+        "recency": 0.7942,
         "story_heat": 0.0
       },
       "category": "official",
@@ -186,88 +124,6 @@
         "title": "超越代码生成：代理工程开发人员指南 / Beyond code generation: A developer’s guide to agentic engineering",
         "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_bc8f9eac1966",
-      "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "primary_url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
-          "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T08:00:00Z"
-        },
-        {
-          "id": "066b4628f2a1c4cd02fbc1bee08e5f039ab13a98",
-          "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞",
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
-          "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T08:00:00Z"
-        },
-        {
-          "id": "066b4628f2a1c4cd02fbc1bee08e5f039ab13a98",
-          "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞",
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7134,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T08:00:00Z",
-      "latest_at": "2026-11-06T21:39:24.832477Z",
-      "primary_item": {
-        "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
-        "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-        "url": "https://openai.com/index/partnering-with-hacktron",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -306,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8298,
-      "importance": 0.8298,
-      "importance_score": 0.8298,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8769,
+        "recency": 0.7945,
         "story_heat": 0.0
       },
       "category": "official",
@@ -368,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8608,
+        "recency": 0.7799,
         "story_heat": 0.0
       },
       "category": "official",
@@ -393,86 +249,6 @@
         "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_638397408330",
-      "title": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
-      "url": "https://www.aibase.com/news/32152",
-      "primary_url": "https://www.aibase.com/news/32152",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3c686d99a15a22bfda6ec1142a9fa16847e47806",
-          "title": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
-          "url": "https://www.aibase.com/news/32152",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:38:31.947028Z"
-        },
-        {
-          "id": "aef03e6c78ec9f90c4a56377e235bf41ad08880e",
-          "title": "Perplexity 发布全新「队友」功能：以 AI 代理程式管理持续性专案",
-          "url": "https://www.aibase.com/zh/news/32152",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3c686d99a15a22bfda6ec1142a9fa16847e47806",
-          "title": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
-          "url": "https://www.aibase.com/news/32152",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:38:31.947028Z"
-        },
-        {
-          "id": "aef03e6c78ec9f90c4a56377e235bf41ad08880e",
-          "title": "Perplexity 发布全新「队友」功能：以 AI 代理程式管理持续性专案",
-          "url": "https://www.aibase.com/zh/news/32152",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.72,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T08:38:31.947028Z",
-      "latest_at": "2026-11-06T08:38:31.947028Z",
-      "primary_item": {
-        "id": "3c686d99a15a22bfda6ec1142a9fa16847e47806",
-        "title": "Perplexity发布全新「队友」功能:以 AI 代理程式管理持续性专案",
-        "url": "https://www.aibase.com/news/32152",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -510,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8547,
+        "recency": 0.7745,
         "story_heat": 0.0
       },
       "category": "official",
@@ -538,403 +314,135 @@
       }
     },
     {
-      "story_id": "story_74f55b235eae",
-      "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-      "url": "https://www.aibase.com/news/32147",
-      "primary_url": "https://www.aibase.com/news/32147",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2df82173bb28",
+      "title": "GPT Image 2.6正式上线，新增了透明底GIF、SVG矢量图能力，生成速度提升约50%，API还提供多档思考强度可调。小歪做了多场景的实测，电商图、漫画分镜、家装方案都能落地，噪点问题小幅改善，但依然存在手指畸形、中文信息图文字错乱、多次迭代修改后质感下滑、塑料感变强等短板。快来看看真实效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-11-06",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
-          "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "url": "https://www.aibase.com/news/32147",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:38:31.947028Z"
+          "id": "af2381a64d45268bfbcf2dbc85f51111cb17e8a5",
+          "title": "GPT Image 2.6正式上线，新增了透明底GIF、SVG矢量图能力，生成速度提升约50%，API还提供多档思考强度可调。小歪做了多场景的实测，电商图、漫画分镜、家装方案都能落地，噪点问题小幅改善，但依然存在手指畸形、中文信息图文字错乱、多次迭代修改后质感下滑、塑料感变强等短板。快来看看真实效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T14:13:06.689886Z"
         },
         {
-          "id": "0504d343ff3f411a7e0ebc3b0d1017b72da4d7fa",
-          "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的「闲人」自白",
-          "url": "https://www.aibase.com/zh/news/32147",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "edca6713d8ca85f9709e9ce8c5cd6d56e49da3a5",
+          "title": "企业把 AI 接进来，很多团队还是停留在单纯地“给员工装个工具”：一碰权限、数据、业务系统和万人并发，方案就乱了。作者这篇文章完整梳理了企业如何搭建一套自己的 AI 智能体工作台，适合正在做内部落地、又担心安全和规模的人。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T14:13:06.689886Z"
+        },
+        {
+          "id": "4f3beb51bcdcfb0b8631159a2f0c6395635d16a3",
+          "title": "作者用 520 万字、50 万次语义判断，把 AI 写作习惯拆成了 100 多项指标。如果你平时用 AI 写东西，这篇能帮你省下很多改稿到崩溃的时间。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T14:13:06.689886Z"
+        },
+        {
+          "id": "ae122f675a6a3acd50575087cc161acf963b14d9",
+          "title": "姚金刚和乔木老师的《海外GEO白皮书》正式发布，把海外的 GEO 拆成了一条可执行的路线，适合出海品牌、SEO/内容和增长团队，把“被 AI 看见”做成可测的长期工程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T14:13:06.689886Z"
+        },
+        {
+          "id": "4c8bf049c801c4ee3279f8726b7ed0fc5d2ebb09",
+          "title": "找不到爆款AI视频的提示词？作者这套方案可以直接逆向拆解。依托Antigravity+Gemini原生视频理解，它能识别运镜时序与动作节奏，远胜过普通抽帧方案。作者实测了7条爆款，同时讲清了批量生成、垫图锁画风的实操技巧，很适合短视频创作者复刻爆款画面。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T14:13:06.689886Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 5,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "社区更新 · 2026-11-06"
       ],
       "items": [
         {
-          "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
-          "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-          "url": "https://www.aibase.com/news/32147",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:38:31.947028Z"
+          "id": "af2381a64d45268bfbcf2dbc85f51111cb17e8a5",
+          "title": "GPT Image 2.6正式上线，新增了透明底GIF、SVG矢量图能力，生成速度提升约50%，API还提供多档思考强度可调。小歪做了多场景的实测，电商图、漫画分镜、家装方案都能落地，噪点问题小幅改善，但依然存在手指畸形、中文信息图文字错乱、多次迭代修改后质感下滑、塑料感变强等短板。快来看看真实效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T14:13:06.689886Z"
         },
         {
-          "id": "0504d343ff3f411a7e0ebc3b0d1017b72da4d7fa",
-          "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的「闲人」自白",
-          "url": "https://www.aibase.com/zh/news/32147",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "edca6713d8ca85f9709e9ce8c5cd6d56e49da3a5",
+          "title": "企业把 AI 接进来，很多团队还是停留在单纯地“给员工装个工具”：一碰权限、数据、业务系统和万人并发，方案就乱了。作者这篇文章完整梳理了企业如何搭建一套自己的 AI 智能体工作台，适合正在做内部落地、又担心安全和规模的人。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T14:13:06.689886Z"
+        },
+        {
+          "id": "4f3beb51bcdcfb0b8631159a2f0c6395635d16a3",
+          "title": "作者用 520 万字、50 万次语义判断，把 AI 写作习惯拆成了 100 多项指标。如果你平时用 AI 写东西，这篇能帮你省下很多改稿到崩溃的时间。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T14:13:06.689886Z"
+        },
+        {
+          "id": "ae122f675a6a3acd50575087cc161acf963b14d9",
+          "title": "姚金刚和乔木老师的《海外GEO白皮书》正式发布，把海外的 GEO 拆成了一条可执行的路线，适合出海品牌、SEO/内容和增长团队，把“被 AI 看见”做成可测的长期工程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T14:13:06.689886Z"
+        },
+        {
+          "id": "4c8bf049c801c4ee3279f8726b7ed0fc5d2ebb09",
+          "title": "找不到爆款AI视频的提示词？作者这套方案可以直接逆向拆解。依托Antigravity+Gemini原生视频理解，它能识别运镜时序与动作节奏，远胜过普通抽帧方案。作者实测了7条爆款，同时讲清了批量生成、垫图锁画风的实操技巧，很适合短视频创作者复刻爆款画面。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T14:13:06.689886Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
-      "importance_label": "行业动态",
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.72,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-06T08:38:31.947028Z",
-      "latest_at": "2026-11-06T08:38:31.947028Z",
+      "earliest_at": "2026-11-07T14:13:06.689886Z",
+      "latest_at": "2026-11-07T14:13:06.689886Z",
       "primary_item": {
-        "id": "81e6325c04b3034ee6a3f42d34455f3548f9fd72",
-        "title": "写 3 万行代码的不是他，是 AI：前谷歌工程师的\"闲人\"自白",
-        "url": "https://www.aibase.com/news/32147",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_16a922ac66e7",
-      "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-      "url": "https://www.aibase.com/news/32150",
-      "primary_url": "https://www.aibase.com/news/32150",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
-          "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-          "url": "https://www.aibase.com/news/32150",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:38:31.947028Z"
-        },
-        {
-          "id": "88142803e45c5e83d09b729fa27e48cd482fbd5a",
-          "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-          "url": "https://www.aibase.com/zh/news/32150",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
-          "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-          "url": "https://www.aibase.com/news/32150",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:38:31.947028Z"
-        },
-        {
-          "id": "88142803e45c5e83d09b729fa27e48cd482fbd5a",
-          "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-          "url": "https://www.aibase.com/zh/news/32150",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.72,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T08:38:31.947028Z",
-      "latest_at": "2026-11-06T08:38:31.947028Z",
-      "primary_item": {
-        "id": "a308ea8d9a1c95fd87154514eafef80e8273ff65",
-        "title": "张朝阳首度直面错失移动互联网：大模型需要拼资源我们做不起，别被 AI 盲目带跑",
-        "url": "https://www.aibase.com/news/32150",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9202faa10f73",
-      "title": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
-      "url": "https://www.aibase.com/news/32145",
-      "primary_url": "https://www.aibase.com/news/32145",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b894fca77eff8b2f8a72b2c084eb6890e536f9bf",
-          "title": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
-          "url": "https://www.aibase.com/news/32145",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:38:31.947028Z"
-        },
-        {
-          "id": "7e5a0d1d950d07a883d1b7404142be84d9a4dc82",
-          "title": "披着「名人外衣」的 AI 乱象迎严惩：多平台违规账号被集中处置",
-          "url": "https://www.aibase.com/zh/news/32145",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b894fca77eff8b2f8a72b2c084eb6890e536f9bf",
-          "title": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
-          "url": "https://www.aibase.com/news/32145",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:38:31.947028Z"
-        },
-        {
-          "id": "7e5a0d1d950d07a883d1b7404142be84d9a4dc82",
-          "title": "披着「名人外衣」的 AI 乱象迎严惩：多平台违规账号被集中处置",
-          "url": "https://www.aibase.com/zh/news/32145",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.72,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T08:38:31.947028Z",
-      "latest_at": "2026-11-06T08:38:31.947028Z",
-      "primary_item": {
-        "id": "b894fca77eff8b2f8a72b2c084eb6890e536f9bf",
-        "title": "披着“名人外衣”的AI乱象迎严惩:多平台违规账号被集中处置",
-        "url": "https://www.aibase.com/news/32145",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d1d21577ec6a",
-      "title": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
-      "url": "https://www.aibase.com/news/32151",
-      "primary_url": "https://www.aibase.com/news/32151",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4af014a5a48e73079d3e119009a8c13aa39c1b24",
-          "title": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
-          "url": "https://www.aibase.com/news/32151",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:38:31.947028Z"
-        },
-        {
-          "id": "bf53970454444d029d1c9668706d6e2042712000",
-          "title": "淘宝 MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
-          "url": "https://www.aibase.com/zh/news/32151",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4af014a5a48e73079d3e119009a8c13aa39c1b24",
-          "title": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
-          "url": "https://www.aibase.com/news/32151",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:38:31.947028Z"
-        },
-        {
-          "id": "bf53970454444d029d1c9668706d6e2042712000",
-          "title": "淘宝 MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
-          "url": "https://www.aibase.com/zh/news/32151",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.72,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T08:38:31.947028Z",
-      "latest_at": "2026-11-06T08:38:31.947028Z",
-      "primary_item": {
-        "id": "4af014a5a48e73079d3e119009a8c13aa39c1b24",
-        "title": "淘宝MNN 团队开源 MNN-Pocket-0.3B，iPhone 18 Pro 离线解码飙升至 350 token/s",
-        "url": "https://www.aibase.com/news/32151",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a68dbec714db",
-      "title": "诉讼指控谷歌 Gemini 导致学生产生严重自杀倾向，引发未成年人 AI 安全信任危机",
-      "url": "https://www.aibase.com/news/32139",
-      "primary_url": "https://www.aibase.com/news/32139",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d80bc2f172e9a6144325ede5788ea3afa382935f",
-          "title": "诉讼指控谷歌 Gemini 导致学生产生严重自杀倾向，引发未成年人 AI 安全信任危机",
-          "url": "https://www.aibase.com/news/32139",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:38:31.947028Z"
-        },
-        {
-          "id": "4824dbf7e382fd9022d2816e23df8e5889d52061",
-          "title": "诉讼指控谷歌 Gemini 导致学生产生严重自杀倾向，引发未成年人 AI 安全信任危机",
-          "url": "https://www.aibase.com/zh/news/32139",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d80bc2f172e9a6144325ede5788ea3afa382935f",
-          "title": "诉讼指控谷歌 Gemini 导致学生产生严重自杀倾向，引发未成年人 AI 安全信任危机",
-          "url": "https://www.aibase.com/news/32139",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:38:31.947028Z"
-        },
-        {
-          "id": "4824dbf7e382fd9022d2816e23df8e5889d52061",
-          "title": "诉讼指控谷歌 Gemini 导致学生产生严重自杀倾向，引发未成年人 AI 安全信任危机",
-          "url": "https://www.aibase.com/zh/news/32139",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.72,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T08:38:31.947028Z",
-      "latest_at": "2026-11-06T08:38:31.947028Z",
-      "primary_item": {
-        "id": "d80bc2f172e9a6144325ede5788ea3afa382935f",
-        "title": "诉讼指控谷歌 Gemini 导致学生产生严重自杀倾向，引发未成年人 AI 安全信任危机",
-        "url": "https://www.aibase.com/news/32139",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "af2381a64d45268bfbcf2dbc85f51111cb17e8a5",
+        "title": "GPT Image 2.6正式上线，新增了透明底GIF、SVG矢量图能力，生成速度提升约50%，API还提供多档思考强度可调。小歪做了多场景的实测，电商图、漫画分镜、家装方案都能落地，噪点问题小幅改善，但依然存在手指畸形、中文信息图文字错乱、多次迭代修改后质感下滑、塑料感变强等短板。快来看看真实效果如何！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-11-06",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -990,15 +498,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5842,
-      "importance": 0.5842,
-      "importance_score": 0.5842,
+      "score": 0.5702,
+      "importance": 0.5702,
+      "importance_score": 0.5702,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8262,
+        "recency": 0.7486,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1033,12 +541,12 @@
           "published_at": "2026-11-07T05:22:36.632000Z"
         },
         {
-          "id": "afff8aa14dbc3edd6cf0ba1f68feddbdfd301fe0",
+          "id": "f0d123d72648d498d3702c6cfe6aea658b009822",
           "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
           "url": "https://arxiv.org/abs/2610.21375",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-06T18:03:33Z"
         },
         {
@@ -1053,7 +561,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "arxiv.org",
         "hackernews"
       ],
@@ -1068,12 +576,12 @@
           "published_at": "2026-11-07T05:22:36.632000Z"
         },
         {
-          "id": "afff8aa14dbc3edd6cf0ba1f68feddbdfd301fe0",
+          "id": "f0d123d72648d498d3702c6cfe6aea658b009822",
           "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
           "url": "https://arxiv.org/abs/2610.21375",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-06T18:03:33Z"
         },
         {
@@ -1088,15 +596,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5656,
-      "importance": 0.5656,
-      "importance_score": 0.5656,
+      "score": 0.5492,
+      "importance": 0.5492,
+      "importance_score": 0.5492,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9714,
+        "recency": 0.8801,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1114,27 +622,106 @@
       }
     },
     {
-      "story_id": "story_d38f4eb7822c",
-      "title": "谷歌发布 Gemini Omni1.2Flash:单次时长增至15秒，成本降幅达30%",
-      "url": "https://www.aibase.com/news/32146",
-      "primary_url": "https://www.aibase.com/news/32146",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_f00aebf0875e",
+      "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
+      "url": "https://www.ithome.com/1/023/752.htm",
+      "primary_url": "https://www.ithome.com/1/023/752.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "ade36b16c6a8c100e21646435372c89f5125e558",
-          "title": "谷歌发布 Gemini Omni1.2Flash:单次时长增至15秒，成本降幅达30%",
-          "url": "https://www.aibase.com/news/32146",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:38:31.947028Z"
+          "id": "ed657592e5aa3846232aad271fec1820ae131761",
+          "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
+          "url": "https://www.ithome.com/1/023/752.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "0523f16ad0826463f75f125e674b1341dfd952de",
-          "title": "谷歌发布 Gemini Omni1.2Flash：单次时长增至 15 秒，成本降幅达 30%",
-          "url": "https://www.aibase.com/zh/news/32146",
+          "id": "f87a6c2de08a47f9ce52d28a9650f2bf8002a7ac",
+          "title": "Anthropic 神秘模型“立功”，AI 帮助攻克量子计算领域重大难题",
+          "url": "https://www.ithome.com/1/023/752.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T08:10:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ed657592e5aa3846232aad271fec1820ae131761",
+          "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
+          "url": "https://www.ithome.com/1/023/752.htm",
           "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f87a6c2de08a47f9ce52d28a9650f2bf8002a7ac",
+          "title": "Anthropic 神秘模型“立功”，AI 帮助攻克量子计算领域重大难题",
+          "url": "https://www.ithome.com/1/023/752.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T08:10:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T08:10:11Z",
+      "latest_at": "2026-11-07T14:13:06.689886Z",
+      "primary_item": {
+        "id": "ed657592e5aa3846232aad271fec1820ae131761",
+        "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
+        "url": "https://www.ithome.com/1/023/752.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_f6f0b21aa3e6",
+      "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
+      "url": "https://www.producthunt.com/products/openai",
+      "primary_url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt · 今日新产品",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "3b83d87d9c0f4a3a9d005c62533417b2905e1a00",
+          "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "Product Hunt · 今日新产品",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1be470331a87a065dab70508ae0eee370b6fe954",
+          "title": "GPT-6 网络 / GPT‑6 Cyber",
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "Product Hunt · 今日新产品",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
@@ -1142,24 +729,23 @@
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Product Hunt · 今日新产品"
       ],
       "items": [
         {
-          "id": "ade36b16c6a8c100e21646435372c89f5125e558",
-          "title": "谷歌发布 Gemini Omni1.2Flash:单次时长增至15秒，成本降幅达30%",
-          "url": "https://www.aibase.com/news/32146",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T08:38:31.947028Z"
+          "id": "3b83d87d9c0f4a3a9d005c62533417b2905e1a00",
+          "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "Product Hunt · 今日新产品",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "0523f16ad0826463f75f125e674b1341dfd952de",
-          "title": "谷歌发布 Gemini Omni1.2Flash：单次时长增至 15 秒，成本降幅达 30%",
-          "url": "https://www.aibase.com/zh/news/32146",
-          "source": "Readhub · AI",
+          "id": "1be470331a87a065dab70508ae0eee370b6fe954",
+          "title": "GPT-6 网络 / GPT‑6 Cyber",
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "Product Hunt · 今日新产品",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
@@ -1167,30 +753,345 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
-      "importance_label": "行业动态",
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.72,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-06T08:38:31.947028Z",
-      "latest_at": "2026-11-06T08:38:31.947028Z",
+      "earliest_at": "2026-11-07T14:13:06.689886Z",
+      "latest_at": "2026-11-07T14:13:06.689886Z",
       "primary_item": {
-        "id": "ade36b16c6a8c100e21646435372c89f5125e558",
-        "title": "谷歌发布 Gemini Omni1.2Flash:单次时长增至15秒，成本降幅达30%",
-        "url": "https://www.aibase.com/news/32146",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "3b83d87d9c0f4a3a9d005c62533417b2905e1a00",
+        "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
+        "url": "https://www.producthunt.com/products/openai",
+        "source": "Product Hunt · 今日新产品",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_b95f6aa29001",
+      "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory / nvke",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "primary_url": "https://github.com/dsx-ai-factory/nvke",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ded629dd211e146cbd6c7ab017f3907ec69c0631",
+          "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory / nvke",
+          "url": "https://github.com/dsx-ai-factory/nvke",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "778c1770dfe203d6bb084f0550ee054509a76b74",
+          "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory /      nvke",
+          "url": "https://github.com/dsx-ai-factory/nvke",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T13:45:09.527000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "ded629dd211e146cbd6c7ab017f3907ec69c0631",
+          "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory / nvke",
+          "url": "https://github.com/dsx-ai-factory/nvke",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "778c1770dfe203d6bb084f0550ee054509a76b74",
+          "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory /      nvke",
+          "url": "https://github.com/dsx-ai-factory/nvke",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-07T13:45:09.527000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T13:45:09.527000Z",
+      "latest_at": "2026-11-07T14:13:06.689886Z",
+      "primary_item": {
+        "id": "ded629dd211e146cbd6c7ab017f3907ec69c0631",
+        "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory / nvke",
+        "url": "https://github.com/dsx-ai-factory/nvke",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_614b221353b6",
+      "title": "微软正逐步终止与甲骨文的AI云算力租赁协议",
+      "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
+      "primary_url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1dfd86a0ead0d615d086e8d70c5af436b480aea3",
+          "title": "微软正逐步终止与甲骨文的AI云算力租赁协议",
+          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T12:45:48.287000Z"
+        },
+        {
+          "id": "277d37daf3540ad6476e3743b73a714b8044d7e6",
+          "title": "微软正逐步终止与甲骨文的AI云算力租赁协议 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
+          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-06T18:04:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "1dfd86a0ead0d615d086e8d70c5af436b480aea3",
+          "title": "微软正逐步终止与甲骨文的AI云算力租赁协议",
+          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T12:45:48.287000Z"
+        },
+        {
+          "id": "277d37daf3540ad6476e3743b73a714b8044d7e6",
+          "title": "微软正逐步终止与甲骨文的AI云算力租赁协议 / Microsoft is winding down Oracle deal to rent AI cloud capacity",
+          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-06T18:04:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9792,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T18:04:06Z",
+      "latest_at": "2026-11-07T12:45:48.287000Z",
+      "primary_item": {
+        "id": "1dfd86a0ead0d615d086e8d70c5af436b480aea3",
+        "title": "微软正逐步终止与甲骨文的AI云算力租赁协议",
+        "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5ec03af4da1d",
+      "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "primary_url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "source": "8rank.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "15ab017e2478008a5fb85134e73bd28dc2fd6ec9",
+          "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
+          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+          "source": "8rank.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T11:57:50.761000Z"
+        },
+        {
+          "id": "a397626cf6c503c66ff0dbfa4c75e0e59c25e7c0",
+          "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器 / Every Mac comes with an (undocumented) family member classifier",
+          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T09:46:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "8rank.ai",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "15ab017e2478008a5fb85134e73bd28dc2fd6ec9",
+          "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
+          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+          "source": "8rank.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T11:57:50.761000Z"
+        },
+        {
+          "id": "a397626cf6c503c66ff0dbfa4c75e0e59c25e7c0",
+          "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器 / Every Mac comes with an (undocumented) family member classifier",
+          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T09:46:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.968,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T09:46:03Z",
+      "latest_at": "2026-11-07T11:57:50.761000Z",
+      "primary_item": {
+        "id": "15ab017e2478008a5fb85134e73bd28dc2fd6ec9",
+        "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
+        "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+        "source": "8rank.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_95e756c01fde",
+      "title": "埃隆·马斯克的御用律师谈人工智能对法律行业的影响：“中间的冗余将被剔除”",
+      "url": "https://www.businessinsider.com/alex-spiro-attorney-ai-legal-industry-fat-cut-law-2026-11",
+      "primary_url": "https://www.businessinsider.com/alex-spiro-attorney-ai-legal-industry-fat-cut-law-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c9126b07c2118ae66d82c4bc47a5d163deab1426",
+          "title": "埃隆·马斯克的御用律师谈人工智能对法律行业的影响：“中间的冗余将被剔除”",
+          "url": "https://www.businessinsider.com/alex-spiro-attorney-ai-legal-industry-fat-cut-law-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T11:10:45.974000Z"
+        },
+        {
+          "id": "3745dfbe29e50d87d4b360f1dd9083134da7949f",
+          "title": "埃隆·马斯克的御用律师谈人工智能对法律行业的影响：“中间的冗余将被剔除” / Elon Musk’s go-to lawyer on AI’s impact on the legal industry: ‘Fat in the middle is going to be cut out’",
+          "url": "https://www.businessinsider.com/alex-spiro-attorney-ai-legal-industry-fat-cut-law-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-06T19:55:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "c9126b07c2118ae66d82c4bc47a5d163deab1426",
+          "title": "埃隆·马斯克的御用律师谈人工智能对法律行业的影响：“中间的冗余将被剔除”",
+          "url": "https://www.businessinsider.com/alex-spiro-attorney-ai-legal-industry-fat-cut-law-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T11:10:45.974000Z"
+        },
+        {
+          "id": "3745dfbe29e50d87d4b360f1dd9083134da7949f",
+          "title": "埃隆·马斯克的御用律师谈人工智能对法律行业的影响：“中间的冗余将被剔除” / Elon Musk’s go-to lawyer on AI’s impact on the legal industry: ‘Fat in the middle is going to be cut out’",
+          "url": "https://www.businessinsider.com/alex-spiro-attorney-ai-legal-industry-fat-cut-law-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-06T19:55:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9571,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T19:55:24Z",
+      "latest_at": "2026-11-07T11:10:45.974000Z",
+      "primary_item": {
+        "id": "c9126b07c2118ae66d82c4bc47a5d163deab1426",
+        "title": "埃隆·马斯克的御用律师谈人工智能对法律行业的影响：“中间的冗余将被剔除”",
+        "url": "https://www.businessinsider.com/alex-spiro-attorney-ai-legal-industry-fat-cut-law-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1266,15 +1167,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5501,
-      "importance": 0.5501,
-      "importance_score": 0.5501,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8851,
+        "recency": 0.802,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1364,15 +1265,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5501,
-      "importance": 0.5501,
-      "importance_score": 0.5501,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8851,
+        "recency": 0.802,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1387,6 +1288,242 @@
         "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
         "source": "www.cbc.ca",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6b207537f32f",
+      "title": "你如何应对人工智能在网络上带来的种种负面影响？",
+      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+      "primary_url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+      "source": "lobste.rs",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8f33c5c76bd77ab29b8fd209c1120c466c0ecd17",
+          "title": "你如何应对人工智能在网络上带来的种种负面影响？",
+          "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+          "source": "lobste.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T09:51:40.442000Z"
+        },
+        {
+          "id": "320442707f24b39c0b56166e6026430905db9891",
+          "title": "你如何应对人工智能在网络上带来的种种负面影响？ / How are you dealing with all the negative side effects of AI on the web?",
+          "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T09:47:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "lobste.rs"
+      ],
+      "items": [
+        {
+          "id": "8f33c5c76bd77ab29b8fd209c1120c466c0ecd17",
+          "title": "你如何应对人工智能在网络上带来的种种负面影响？",
+          "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+          "source": "lobste.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T09:51:40.442000Z"
+        },
+        {
+          "id": "320442707f24b39c0b56166e6026430905db9891",
+          "title": "你如何应对人工智能在网络上带来的种种负面影响？ / How are you dealing with all the negative side effects of AI on the web?",
+          "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T09:47:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.939,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T09:47:24Z",
+      "latest_at": "2026-11-07T09:51:40.442000Z",
+      "primary_item": {
+        "id": "8f33c5c76bd77ab29b8fd209c1120c466c0ecd17",
+        "title": "你如何应对人工智能在网络上带来的种种负面影响？",
+        "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+        "source": "lobste.rs",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f441801c064c",
+      "title": "Firecracker VM 逃脱：PwnEscape 第二部分 / Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "primary_url": "https://pwn.ai/blog/firecracker-escape",
+      "source": "Lobsters (技术社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "ad64b81bce2a2037c90cedbface2a2f99895bb81",
+          "title": "Firecracker VM 逃脱：PwnEscape 第二部分 / Firecracker VM Escape: PwnEscape Part 2",
+          "url": "https://pwn.ai/blog/firecracker-escape",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T08:44:02Z"
+        },
+        {
+          "id": "a840d8b5900f9b2cefed7af797a76fd14f00de34",
+          "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
+          "url": "https://pwn.ai/blog/firecracker-escape",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T22:56:22.798000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "pwn.ai"
+      ],
+      "items": [
+        {
+          "id": "ad64b81bce2a2037c90cedbface2a2f99895bb81",
+          "title": "Firecracker VM 逃脱：PwnEscape 第二部分 / Firecracker VM Escape: PwnEscape Part 2",
+          "url": "https://pwn.ai/blog/firecracker-escape",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T08:44:02Z"
+        },
+        {
+          "id": "a840d8b5900f9b2cefed7af797a76fd14f00de34",
+          "title": "Firecracker VM 逃脱：PwnEscape 第二部分",
+          "url": "https://pwn.ai/blog/firecracker-escape",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T22:56:22.798000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9239,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T22:56:22.798000Z",
+      "latest_at": "2026-11-07T08:44:02Z",
+      "primary_item": {
+        "id": "ad64b81bce2a2037c90cedbface2a2f99895bb81",
+        "title": "Firecracker VM 逃脱：PwnEscape 第二部分 / Firecracker VM Escape: PwnEscape Part 2",
+        "url": "https://pwn.ai/blog/firecracker-escape",
+        "source": "Lobsters (技术社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_89599610b106",
+      "title": "DeepSeek 网页 / API 服务突发部分中断，提示“服务器暂时不可用”",
+      "url": "https://www.ithome.com/1/023/697.htm",
+      "primary_url": "https://www.ithome.com/1/023/697.htm",
+      "source": "IT之家 (ITHome)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "5bb464e17c37a257b8ec9f4e80d55c3d2163ea2a",
+          "title": "DeepSeek 网页 / API 服务突发部分中断，提示“服务器暂时不可用”",
+          "url": "https://www.ithome.com/1/023/697.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T07:18:03Z"
+        },
+        {
+          "id": "742e616ee4c4072d2cc6a5f17b00e993c48f02ba",
+          "title": "（更新：已恢复）DeepSeek 网页 / API 服务突发部分中断，提示“服务器暂时不可用”",
+          "url": "https://www.ithome.com/1/023/697.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T07:18:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "5bb464e17c37a257b8ec9f4e80d55c3d2163ea2a",
+          "title": "DeepSeek 网页 / API 服务突发部分中断，提示“服务器暂时不可用”",
+          "url": "https://www.ithome.com/1/023/697.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T07:18:03Z"
+        },
+        {
+          "id": "742e616ee4c4072d2cc6a5f17b00e993c48f02ba",
+          "title": "（更新：已恢复）DeepSeek 网页 / API 服务突发部分中断，提示“服务器暂时不可用”",
+          "url": "https://www.ithome.com/1/023/697.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T07:18:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9049,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T07:18:03Z",
+      "latest_at": "2026-11-07T07:18:03Z",
+      "primary_item": {
+        "id": "5bb464e17c37a257b8ec9f4e80d55c3d2163ea2a",
+        "title": "DeepSeek 网页 / API 服务突发部分中断，提示“服务器暂时不可用”",
+        "url": "https://www.ithome.com/1/023/697.htm",
+        "source": "IT之家 (ITHome)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1462,15 +1599,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7934,
+        "recency": 0.7189,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1485,85 +1622,6 @@
         "url": "https://github.com/zalando-incubator/agentic-identity-broker",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e13dc250dfd9",
-      "title": "AI 编程进入「通话时代」：Cursor 智能体可实时语音协作",
-      "url": "https://www.ithome.com/1/023/610.htm",
-      "primary_url": "https://www.ithome.com/1/023/610.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "548f4726802c86b1eb80aa4f916a942f482374c8",
-          "title": "AI 编程进入「通话时代」：Cursor 智能体可实时语音协作",
-          "url": "https://www.ithome.com/1/023/610.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6f7df69c657513b54d0f5d7e8c662c5c2a7fef48",
-          "title": "AI 编程进入“通话时代”：Cursor 智能体可实时语音协作",
-          "url": "https://www.ithome.com/1/023/610.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T23:11:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "548f4726802c86b1eb80aa4f916a942f482374c8",
-          "title": "AI 编程进入「通话时代」：Cursor 智能体可实时语音协作",
-          "url": "https://www.ithome.com/1/023/610.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6f7df69c657513b54d0f5d7e8c662c5c2a7fef48",
-          "title": "AI 编程进入“通话时代”：Cursor 智能体可实时语音协作",
-          "url": "https://www.ithome.com/1/023/610.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T23:11:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9166,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T23:11:36Z",
-      "latest_at": "2026-11-07T01:21:26.971359Z",
-      "primary_item": {
-        "id": "548f4726802c86b1eb80aa4f916a942f482374c8",
-        "title": "AI 编程进入「通话时代」：Cursor 智能体可实时语音协作",
-        "url": "https://www.ithome.com/1/023/610.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
