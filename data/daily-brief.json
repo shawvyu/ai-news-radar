@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-11-06T21:39:24.832477Z",
+  "generated_at": "2026-11-07T01:21:26.971359Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_d28d7745dd02",
+      "title": "Copilot 代码审查：API 管理和审查概述更新 / Copilot code review: API management and review overview updates",
+      "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+      "primary_url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e1e7e8357f58d807f61c1cd8c07e904d4a3d4f2b",
+          "title": "Copilot 代码审查：API 管理和审查概述更新 / Copilot code review: API management and review overview updates",
+          "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-07T00:27:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e1e7e8357f58d807f61c1cd8c07e904d4a3d4f2b",
+          "title": "Copilot 代码审查：API 管理和审查概述更新 / Copilot code review: API management and review overview updates",
+          "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-07T00:27:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8497,
+      "importance": 0.8497,
+      "importance_score": 0.8497,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9871,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-07T00:27:19Z",
+      "latest_at": "2026-11-07T00:27:19Z",
+      "primary_item": {
+        "id": "e1e7e8357f58d807f61c1cd8c07e904d4a3d4f2b",
+        "title": "Copilot 代码审查：API 管理和审查概述更新 / Copilot code review: API management and review overview updates",
+        "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_be1ba71e55b7",
       "title": "ToyBlocks：用于机器人学习和评估的受控世界 / ToyBlocks: A controlled world for robot learning and evaluation",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8512,
-      "importance": 0.8512,
-      "importance_score": 0.8512,
+      "score": 0.8428,
+      "importance": 0.8428,
+      "importance_score": 0.8428,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8955,
+        "recency": 0.8489,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +124,68 @@
         "title": "ToyBlocks：用于机器人学习和评估的受控世界 / ToyBlocks: A controlled world for robot learning and evaluation",
         "url": "https://huggingface.co/blog/allenai/toyblocks",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5cecc12e376b",
+      "title": "超越代码生成：代理工程开发人员指南 / Beyond code generation: A developer’s guide to agentic engineering",
+      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "944ae2d1d51482ecd077a4290415714a03b50c20",
+          "title": "超越代码生成：代理工程开发人员指南 / Beyond code generation: A developer’s guide to agentic engineering",
+          "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T22:15:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "944ae2d1d51482ecd077a4290415714a03b50c20",
+          "title": "超越代码生成：代理工程开发人员指南 / Beyond code generation: A developer’s guide to agentic engineering",
+          "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T22:15:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.9563,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T22:15:59Z",
+      "latest_at": "2026-11-06T22:15:59Z",
+      "primary_item": {
+        "id": "944ae2d1d51482ecd077a4290415714a03b50c20",
+        "title": "超越代码生成：代理工程开发人员指南 / Beyond code generation: A developer’s guide to agentic engineering",
+        "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -119,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8448,
-      "importance": 0.8448,
-      "importance_score": 0.8448,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.821,
+        "recency": 0.7783,
         "story_heat": 0.25
       },
       "category": "official",
@@ -148,83 +272,21 @@
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.167.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "88677f33f1069dded4b9389443a6b9d0786a0f3b",
-          "title": "Codex CLI 0.167.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "88677f33f1069dded4b9389443a6b9d0786a0f3b",
-          "title": "Codex CLI 0.167.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7314,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T00:00:00Z",
-      "latest_at": "2026-11-06T00:00:00Z",
-      "primary_item": {
-        "id": "88677f33f1069dded4b9389443a6b9d0786a0f3b",
-        "title": "Codex CLI 0.167.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_dcf7efe8bcfb",
-      "title": "使用指标 API 添加了代码审查详细信息和解决率 / Usage metrics API adds code review details and addressed rate",
-      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
-      "primary_url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+      "story_id": "story_df141a94aef9",
+      "title": "Copilot 影响仪表板添加了聊天和 VS Code 代理使用情况 / Copilot impact dashboard adds chat and VS Code agent usage",
+      "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+      "primary_url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c2737b9d0db10690646fc4acd9b75e709d9c7f50",
-          "title": "使用指标 API 添加了代码审查详细信息和解决率 / Usage metrics API adds code review details and addressed rate",
-          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+          "id": "0a471a22197c1926949bc0f24eb536ce9837e4f3",
+          "title": "Copilot 影响仪表板添加了聊天和 VS Code 代理使用情况 / Copilot impact dashboard adds chat and VS Code agent usage",
+          "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-06T00:19:07Z"
+          "published_at": "2026-11-06T22:17:28Z"
         }
       ],
       "source_count": 1,
@@ -233,150 +295,26 @@
       ],
       "items": [
         {
-          "id": "c2737b9d0db10690646fc4acd9b75e709d9c7f50",
-          "title": "使用指标 API 添加了代码审查详细信息和解决率 / Usage metrics API adds code review details and addressed rate",
-          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
+          "id": "0a471a22197c1926949bc0f24eb536ce9837e4f3",
+          "title": "Copilot 影响仪表板添加了聊天和 VS Code 代理使用情况 / Copilot impact dashboard adds chat and VS Code agent usage",
+          "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-06T00:19:07Z"
+          "published_at": "2026-11-06T22:17:28Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7348,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T00:19:07Z",
-      "latest_at": "2026-11-06T00:19:07Z",
-      "primary_item": {
-        "id": "c2737b9d0db10690646fc4acd9b75e709d9c7f50",
-        "title": "使用指标 API 添加了代码审查详细信息和解决率 / Usage metrics API adds code review details and addressed rate",
-        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-adds-code-review-details-and-addressed-rate",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_82196d4ece0a",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "primary_url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
-          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
-          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8117,
-      "importance": 0.8117,
-      "importance_score": 0.8117,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7314,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T00:00:00Z",
-      "latest_at": "2026-11-06T00:00:00Z",
-      "primary_item": {
-        "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
-        "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-        "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_cfd4354afa14",
-      "title": "衡量人工智能代理如何处理日常湿实验室科学 / Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "primary_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
-          "title": "衡量人工智能代理如何处理日常湿实验室科学 / Measuring how AI agents handle everyday wet-lab science",
-          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
-          "title": "衡量人工智能代理如何处理日常湿实验室科学 / Measuring how AI agents handle everyday wet-lab science",
-          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.8442,
+      "importance": 0.8442,
+      "importance_score": 0.8442,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7314,
+        "recency": 0.9567,
         "story_heat": 0.0
       },
       "category": "official",
@@ -385,32 +323,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-06T00:00:00Z",
-      "latest_at": "2026-11-06T00:00:00Z",
+      "earliest_at": "2026-11-06T22:17:28Z",
+      "latest_at": "2026-11-06T22:17:28Z",
       "primary_item": {
-        "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
-        "title": "衡量人工智能代理如何处理日常湿实验室科学 / Measuring how AI agents handle everyday wet-lab science",
-        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-        "source": "OpenAI News",
+        "id": "0a471a22197c1926949bc0f24eb536ce9837e4f3",
+        "title": "Copilot 影响仪表板添加了聊天和 VS Code 代理使用情况 / Copilot impact dashboard adds chat and VS Code agent usage",
+        "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_b6de41f0f45e",
-      "title": "使用指标 API 标记遥测和版本差距 / Usage metrics API flags telemetry and version gaps",
-      "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
-      "primary_url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+      "story_id": "story_5175c20e07f3",
+      "title": "GitHub Copilot 每周发布 — 11 月 2 日 / GitHub Copilot weekly releases — November 2",
+      "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
+      "primary_url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0d916efc5e7382218a7bf118a3ede0df4ced1309",
-          "title": "使用指标 API 标记遥测和版本差距 / Usage metrics API flags telemetry and version gaps",
-          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+          "id": "8b2466e1d959b52b9141ece0dc3752834776c44d",
+          "title": "GitHub Copilot 每周发布 — 11 月 2 日 / GitHub Copilot weekly releases — November 2",
+          "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-06T00:08:31Z"
+          "published_at": "2026-11-06T21:00:26Z"
         }
       ],
       "source_count": 1,
@@ -419,26 +357,26 @@
       ],
       "items": [
         {
-          "id": "0d916efc5e7382218a7bf118a3ede0df4ced1309",
-          "title": "使用指标 API 标记遥测和版本差距 / Usage metrics API flags telemetry and version gaps",
-          "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+          "id": "8b2466e1d959b52b9141ece0dc3752834776c44d",
+          "title": "GitHub Copilot 每周发布 — 11 月 2 日 / GitHub Copilot weekly releases — November 2",
+          "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-06T00:08:31Z"
+          "published_at": "2026-11-06T21:00:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7329,
+        "ai_relevance": 0.91,
+        "recency": 0.9391,
         "story_heat": 0.0
       },
       "category": "official",
@@ -447,12 +385,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-06T00:08:31Z",
-      "latest_at": "2026-11-06T00:08:31Z",
+      "earliest_at": "2026-11-06T21:00:26Z",
+      "latest_at": "2026-11-06T21:00:26Z",
       "primary_item": {
-        "id": "0d916efc5e7382218a7bf118a3ede0df4ced1309",
-        "title": "使用指标 API 标记遥测和版本差距 / Usage metrics API flags telemetry and version gaps",
-        "url": "https://github.blog/changelog/2026-11-05-usage-metrics-api-flags-telemetry-and-version-gaps",
+        "id": "8b2466e1d959b52b9141ece0dc3752834776c44d",
+        "title": "GitHub Copilot 每周发布 — 11 月 2 日 / GitHub Copilot weekly releases — November 2",
+        "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -511,15 +449,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.7855,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -536,6 +474,68 @@
         "url": "https://www.aibase.com/news/32152",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_23359978bbf7",
+      "title": "Slack 和 Teams 中的 @GitHub 已普遍可用以及更多 / @GitHub in Slack and Teams is generally available and more",
+      "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "49e18942be8158cc7e6b7282ead421b7899be1bf",
+          "title": "Slack 和 Teams 中的 @GitHub 已普遍可用以及更多 / @GitHub in Slack and Teams is generally available and more",
+          "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T20:31:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "49e18942be8158cc7e6b7282ead421b7899be1bf",
+          "title": "Slack 和 Teams 中的 @GitHub 已普遍可用以及更多 / @GitHub in Slack and Teams is generally available and more",
+          "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T20:31:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9325,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-06T20:31:08Z",
+      "latest_at": "2026-11-06T20:31:08Z",
+      "primary_item": {
+        "id": "49e18942be8158cc7e6b7282ead421b7899be1bf",
+        "title": "Slack 和 Teams 中的 @GitHub 已普遍可用以及更多 / @GitHub in Slack and Teams is generally available and more",
+        "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -592,15 +592,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.7855,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -673,15 +673,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.7855,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -754,15 +754,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.7855,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -835,15 +835,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.7855,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -916,15 +916,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.7855,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -996,15 +996,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6066,
-      "importance": 0.6066,
-      "importance_score": 0.6066,
+      "score": 0.5977,
+      "importance": 0.5977,
+      "importance_score": 0.5977,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9509,
+        "recency": 0.9014,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1075,15 +1075,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8287,
+        "recency": 0.7855,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1100,6 +1100,202 @@
         "url": "https://www.aibase.com/news/32146",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5072f0d6af00",
+      "title": "人工智能正在极大地加速人工智能研究",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "primary_url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "source": "www.planned-obsolescence.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "53a5769058469f2c5f75021643659032056787d7",
+          "title": "人工智能正在极大地加速人工智能研究",
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "source": "www.planned-obsolescence.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T22:56:23.304000Z"
+        },
+        {
+          "id": "0ac70f26f68f853ed622c456a8c54eaeb37c43a2",
+          "title": "人工智能正在极大地加速人工智能研究 / AI is dramatically accelerating AI research",
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T20:27:23Z"
+        },
+        {
+          "id": "305a64ec674f8cf86aaf4b6a8f0e2a613db8fa8d",
+          "title": "人工智能正在极大地加速人工智能研究 / AI is dramatically accelerating AI research",
+          "url": "https://news.ycombinator.com/item?id=50397994",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T20:27:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.planned-obsolescence.org"
+      ],
+      "items": [
+        {
+          "id": "53a5769058469f2c5f75021643659032056787d7",
+          "title": "人工智能正在极大地加速人工智能研究",
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "source": "www.planned-obsolescence.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T22:56:23.304000Z"
+        },
+        {
+          "id": "0ac70f26f68f853ed622c456a8c54eaeb37c43a2",
+          "title": "人工智能正在极大地加速人工智能研究 / AI is dramatically accelerating AI research",
+          "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T20:27:23Z"
+        },
+        {
+          "id": "305a64ec674f8cf86aaf4b6a8f0e2a613db8fa8d",
+          "title": "人工智能正在极大地加速人工智能研究 / AI is dramatically accelerating AI research",
+          "url": "https://news.ycombinator.com/item?id=50397994",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T20:27:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5646,
+      "importance": 0.5646,
+      "importance_score": 0.5646,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9657,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T20:27:23Z",
+      "latest_at": "2026-11-06T22:56:23.304000Z",
+      "primary_item": {
+        "id": "53a5769058469f2c5f75021643659032056787d7",
+        "title": "人工智能正在极大地加速人工智能研究",
+        "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+        "source": "www.planned-obsolescence.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c63019ae7846",
+      "title": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
+      "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "primary_url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+      "source": "www.cbc.ca",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3aa34763702cd1594d06d66ff2d343f223d16a58",
+          "title": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
+          "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+          "source": "www.cbc.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T22:56:22.193000Z"
+        },
+        {
+          "id": "d55a5e3791d75b31e0626117fdb713fb88bee8b3",
+          "title": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁 / University libraries are being swarmed by AI bots, putting public access at risk",
+          "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-06T14:13:09Z"
+        },
+        {
+          "id": "0a115cd9e0633ab3c1c44fbfcfa096ee4f4f221c",
+          "title": "大学图书馆正被人工智能机器人淹没，公众访问面临风险 / University libraries are being swarmed by AI bots, putting public access at risk",
+          "url": "https://news.ycombinator.com/item?id=50392499",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T14:13:09Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.cbc.ca"
+      ],
+      "items": [
+        {
+          "id": "3aa34763702cd1594d06d66ff2d343f223d16a58",
+          "title": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
+          "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+          "source": "www.cbc.ca",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-06T22:56:22.193000Z"
+        },
+        {
+          "id": "d55a5e3791d75b31e0626117fdb713fb88bee8b3",
+          "title": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁 / University libraries are being swarmed by AI bots, putting public access at risk",
+          "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-06T14:13:09Z"
+        },
+        {
+          "id": "0a115cd9e0633ab3c1c44fbfcfa096ee4f4f221c",
+          "title": "大学图书馆正被人工智能机器人淹没，公众访问面临风险 / University libraries are being swarmed by AI bots, putting public access at risk",
+          "url": "https://news.ycombinator.com/item?id=50392499",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T14:13:09Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5646,
+      "importance": 0.5646,
+      "importance_score": 0.5646,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9657,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T14:13:09Z",
+      "latest_at": "2026-11-06T22:56:22.193000Z",
+      "primary_item": {
+        "id": "3aa34763702cd1594d06d66ff2d343f223d16a58",
+        "title": "大学图书馆正被人工智能机器人蜂拥而至，这给公众的访问权带来了威胁",
+        "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+        "source": "www.cbc.ca",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1175,15 +1371,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5552,
-      "importance": 0.5552,
-      "importance_score": 0.5552,
+      "score": 0.5466,
+      "importance": 0.5466,
+      "importance_score": 0.5466,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9131,
+        "recency": 0.8656,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1201,8 +1397,87 @@
       }
     },
     {
+      "story_id": "story_e13dc250dfd9",
+      "title": "AI 编程进入「通话时代」：Cursor 智能体可实时语音协作",
+      "url": "https://www.ithome.com/1/023/610.htm",
+      "primary_url": "https://www.ithome.com/1/023/610.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "548f4726802c86b1eb80aa4f916a942f482374c8",
+          "title": "AI 编程进入「通话时代」：Cursor 智能体可实时语音协作",
+          "url": "https://www.ithome.com/1/023/610.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6f7df69c657513b54d0f5d7e8c662c5c2a7fef48",
+          "title": "AI 编程进入“通话时代”：Cursor 智能体可实时语音协作",
+          "url": "https://www.ithome.com/1/023/610.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T23:11:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "548f4726802c86b1eb80aa4f916a942f482374c8",
+          "title": "AI 编程进入「通话时代」：Cursor 智能体可实时语音协作",
+          "url": "https://www.ithome.com/1/023/610.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6f7df69c657513b54d0f5d7e8c662c5c2a7fef48",
+          "title": "AI 编程进入“通话时代”：Cursor 智能体可实时语音协作",
+          "url": "https://www.ithome.com/1/023/610.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T23:11:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T23:11:36Z",
+      "latest_at": "2026-11-07T01:21:26.971359Z",
+      "primary_item": {
+        "id": "548f4726802c86b1eb80aa4f916a942f482374c8",
+        "title": "AI 编程进入「通话时代」：Cursor 智能体可实时语音协作",
+        "url": "https://www.ithome.com/1/023/610.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
       "story_id": "story_ba3649eb747f",
-      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "title": "抗议者闯入阿姆斯特丹的微软数据中心 / Protesters break into Microsoft data center site in Amsterdam",
       "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
       "primary_url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
       "source": "Hacker News · 24h最热",
@@ -1210,7 +1485,7 @@
       "sources": [
         {
           "id": "99c92a2d10ea9f49f2a3c99fb8a16c5108fc9230",
-          "title": "Protesters break into Microsoft data center site in Amsterdam",
+          "title": "抗议者闯入阿姆斯特丹的微软数据中心 / Protesters break into Microsoft data center site in Amsterdam",
           "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1245,7 +1520,7 @@
       "items": [
         {
           "id": "99c92a2d10ea9f49f2a3c99fb8a16c5108fc9230",
-          "title": "Protesters break into Microsoft data center site in Amsterdam",
+          "title": "抗议者闯入阿姆斯特丹的微软数据中心 / Protesters break into Microsoft data center site in Amsterdam",
           "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1273,15 +1548,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5518,
-      "importance": 0.5518,
-      "importance_score": 0.5518,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8944,
+        "recency": 0.8479,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1292,248 +1567,10 @@
       "latest_at": "2026-11-06T13:55:56Z",
       "primary_item": {
         "id": "99c92a2d10ea9f49f2a3c99fb8a16c5108fc9230",
-        "title": "Protesters break into Microsoft data center site in Amsterdam",
+        "title": "抗议者闯入阿姆斯特丹的微软数据中心 / Protesters break into Microsoft data center site in Amsterdam",
         "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_ad7cf1f4b65d",
-      "title": "我很难相信人工智能的研发是独具匠心的",
-      "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "primary_url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-      "source": "www.lesswrong.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5fc33739fcc0dafbdc3ec992eb93528b175eab22",
-          "title": "我很难相信人工智能的研发是独具匠心的",
-          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-          "source": "www.lesswrong.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T10:52:42.861000Z"
-        },
-        {
-          "id": "ebca00608954f11f69d95a820d4b72c7302346a1",
-          "title": "我很难相信人工智能的研发是独具匠心的 / I struggle to believe that AI R&D is ingenious",
-          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-06T05:19:04Z"
-        },
-        {
-          "id": "012f513ef2d9c88d13da43ae58cc33988275ab86",
-          "title": "I struggle to believe that AI R&D is ingenious",
-          "url": "https://news.ycombinator.com/item?id=50388513",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T05:19:04Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.lesswrong.com"
-      ],
-      "items": [
-        {
-          "id": "5fc33739fcc0dafbdc3ec992eb93528b175eab22",
-          "title": "我很难相信人工智能的研发是独具匠心的",
-          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-          "source": "www.lesswrong.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-06T10:52:42.861000Z"
-        },
-        {
-          "id": "ebca00608954f11f69d95a820d4b72c7302346a1",
-          "title": "我很难相信人工智能的研发是独具匠心的 / I struggle to believe that AI R&D is ingenious",
-          "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-06T05:19:04Z"
-        },
-        {
-          "id": "012f513ef2d9c88d13da43ae58cc33988275ab86",
-          "title": "I struggle to believe that AI R&D is ingenious",
-          "url": "https://news.ycombinator.com/item?id=50388513",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T05:19:04Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8559,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T05:19:04Z",
-      "latest_at": "2026-11-06T10:52:42.861000Z",
-      "primary_item": {
-        "id": "5fc33739fcc0dafbdc3ec992eb93528b175eab22",
-        "title": "我很难相信人工智能的研发是独具匠心的",
-        "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
-        "source": "www.lesswrong.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_573db17ff16f",
-      "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
-      "url": "https://www.aibase.com/news/32155",
-      "primary_url": "https://www.aibase.com/news/32155",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
-          "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
-          "url": "https://www.aibase.com/news/32155",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T16:23:16.632638Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
-          "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
-          "url": "https://www.aibase.com/news/32155",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T16:23:16.632638Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9267,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T16:23:16.632638Z",
-      "latest_at": "2026-11-06T16:23:16.632638Z",
-      "primary_item": {
-        "id": "44d94a8ec2b9ebf20339fcc1937a2ede965c817e",
-        "title": "13 岁女孩被指通过学校 Chromebook 经 Gemini 策划轻生，家属正式起诉 Google",
-        "url": "https://www.aibase.com/news/32155",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_67a73228881a",
-      "title": "SketchAgentBench – 评估 3D 空间推理的法学硕士 / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-      "url": "https://sketchagent.dev",
-      "primary_url": "https://sketchagent.dev",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "903c640db9c9a2b4b31750983a198b32b8fd0977",
-          "title": "SketchAgentBench – 评估 3D 空间推理的法学硕士 / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "url": "https://sketchagent.dev",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T20:28:24Z"
-        },
-        {
-          "id": "2c265a5856ac131a3f6501ba8a0ae4150c3fa052",
-          "title": "SketchAgentBench – 评估 3D 空间推理的法学硕士 / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "url": "https://news.ycombinator.com/item?id=50398010",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T20:28:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "903c640db9c9a2b4b31750983a198b32b8fd0977",
-          "title": "SketchAgentBench – 评估 3D 空间推理的法学硕士 / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "url": "https://sketchagent.dev",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T20:28:24Z"
-        },
-        {
-          "id": "2c265a5856ac131a3f6501ba8a0ae4150c3fa052",
-          "title": "SketchAgentBench – 评估 3D 空间推理的法学硕士 / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-          "url": "https://news.ycombinator.com/item?id=50398010",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-06T20:28:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9831,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T20:28:24Z",
-      "latest_at": "2026-11-06T20:28:24Z",
-      "primary_item": {
-        "id": "903c640db9c9a2b4b31750983a198b32b8fd0977",
-        "title": "SketchAgentBench – 评估 3D 空间推理的法学硕士 / SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
-        "url": "https://sketchagent.dev",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     }
   ]
