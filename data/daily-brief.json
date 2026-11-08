@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T19:48:37.085944Z",
+  "generated_at": "2026-11-08T23:14:20.840415Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_ea760ce1fa5f",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8879,
+        "recency": 0.845,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -170,15 +170,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6605,
+      "importance": 0.6605,
+      "importance_score": 0.6605,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9517,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -193,6 +193,518 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-11-08",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_45fb196cb1bb",
+      "title": "我如何对抗AI脑力透支",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "primary_url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "source": "sergeykuhne.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d57f924153c691d936e302db8a945c1275036341",
+          "title": "我如何对抗AI脑力透支",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+          "source": "sergeykuhne.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T22:19:44.002000Z"
+        },
+        {
+          "id": "4bf3a5f895b78c58cc6a50ad4dbfc47499168349",
+          "title": "我如何对抗AI脑力透支 / How I Fight AI Brain Fry",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T19:37:42Z"
+        },
+        {
+          "id": "3789f0677926e9e5fd2bedeeb772b2676776581c",
+          "title": "我如何对抗人工智能脑残 / How I Fight AI Brain Fry",
+          "url": "https://news.ycombinator.com/item?id=50416363",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T19:37:42Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "sergeykuhne.com"
+      ],
+      "items": [
+        {
+          "id": "d57f924153c691d936e302db8a945c1275036341",
+          "title": "我如何对抗AI脑力透支",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+          "source": "sergeykuhne.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T22:19:44.002000Z"
+        },
+        {
+          "id": "4bf3a5f895b78c58cc6a50ad4dbfc47499168349",
+          "title": "我如何对抗AI脑力透支 / How I Fight AI Brain Fry",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T19:37:42Z"
+        },
+        {
+          "id": "3789f0677926e9e5fd2bedeeb772b2676776581c",
+          "title": "我如何对抗人工智能脑残 / How I Fight AI Brain Fry",
+          "url": "https://news.ycombinator.com/item?id=50416363",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T19:37:42Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5684,
+      "importance": 0.5684,
+      "importance_score": 0.5684,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9869,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T19:37:42Z",
+      "latest_at": "2026-11-08T22:19:44.002000Z",
+      "primary_item": {
+        "id": "d57f924153c691d936e302db8a945c1275036341",
+        "title": "我如何对抗AI脑力透支",
+        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "source": "sergeykuhne.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5e9d3fd0e59c",
+      "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "primary_url": "https://github.com/synchopate/llama-modchip",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
+          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:03.367000Z"
+        },
+        {
+          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T10:22:04Z"
+        },
+        {
+          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://news.ycombinator.com/item?id=50411961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T10:22:04Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
+          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:03.367000Z"
+        },
+        {
+          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T10:22:04Z"
+        },
+        {
+          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://news.ycombinator.com/item?id=50411961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T10:22:04Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5649,
+      "importance": 0.5649,
+      "importance_score": 0.5649,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9673,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T10:22:04Z",
+      "latest_at": "2026-11-08T20:56:03.367000Z",
+      "primary_item": {
+        "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
+        "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+        "url": "https://github.com/synchopate/llama-modchip",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_63afb5aa91d0",
+      "title": "为什么我不会在编程中使用大型语言模型",
+      "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+      "primary_url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+      "source": "www.polso.info",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2704834de82acc4f58d1989254432d7e63eef624",
+          "title": "为什么我不会在编程中使用大型语言模型",
+          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "source": "www.polso.info",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T21:47:44Z"
+        },
+        {
+          "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
+          "title": "为什么我不会在编程中使用大型语言模型 / I will not be using LLMs in my coding",
+          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T12:14:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.polso.info"
+      ],
+      "items": [
+        {
+          "id": "2704834de82acc4f58d1989254432d7e63eef624",
+          "title": "为什么我不会在编程中使用大型语言模型",
+          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "source": "www.polso.info",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T21:47:44Z"
+        },
+        {
+          "id": "ac79346a3ad19a65c99641bc0c1849913acd53e7",
+          "title": "为什么我不会在编程中使用大型语言模型 / I will not be using LLMs in my coding",
+          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T12:14:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9794,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T12:14:10Z",
+      "latest_at": "2026-11-08T21:47:44Z",
+      "primary_item": {
+        "id": "2704834de82acc4f58d1989254432d7e63eef624",
+        "title": "为什么我不会在编程中使用大型语言模型",
+        "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+        "source": "www.polso.info",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1d660dc4ea7a",
+      "title": "OpenAI以1.25万亿美元估值融资110亿美元",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+      "primary_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+      "source": "247wallst.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
+          "title": "OpenAI以1.25万亿美元估值融资110亿美元",
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "247wallst.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:03.911000Z"
+        },
+        {
+          "id": "2d02cd05dea16af32f1e53f8275e579854f25c61",
+          "title": "OpenAI以1.25万亿美元估值融资110亿美元 / OpenAI raises $11B at a $1.25T valuation",
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T14:49:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "247wallst.com",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
+          "title": "OpenAI以1.25万亿美元估值融资110亿美元",
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "247wallst.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:03.911000Z"
+        },
+        {
+          "id": "2d02cd05dea16af32f1e53f8275e579854f25c61",
+          "title": "OpenAI以1.25万亿美元估值融资110亿美元 / OpenAI raises $11B at a $1.25T valuation",
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T14:49:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9673,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T14:49:23Z",
+      "latest_at": "2026-11-08T20:56:03.911000Z",
+      "primary_item": {
+        "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
+        "title": "OpenAI以1.25万亿美元估值融资110亿美元",
+        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+        "source": "247wallst.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7f83204997ea",
+      "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？",
+      "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+      "primary_url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+      "source": "lobste.rs",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2f707956a9d5057063a1fbafa1be7553393f078c",
+          "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？",
+          "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+          "source": "lobste.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:15.361000Z"
+        },
+        {
+          "id": "eef953c0170c3ae75f6e66a62dba620c3d94da1c",
+          "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？ / What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+          "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T17:07:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "lobste.rs"
+      ],
+      "items": [
+        {
+          "id": "2f707956a9d5057063a1fbafa1be7553393f078c",
+          "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？",
+          "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+          "source": "lobste.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:15.361000Z"
+        },
+        {
+          "id": "eef953c0170c3ae75f6e66a62dba620c3d94da1c",
+          "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？ / What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+          "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T17:07:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9673,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T17:07:51Z",
+      "latest_at": "2026-11-08T20:56:15.361000Z",
+      "primary_item": {
+        "id": "2f707956a9d5057063a1fbafa1be7553393f078c",
+        "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？",
+        "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+        "source": "lobste.rs",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_eda53e4d3719",
+      "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。",
+      "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+      "primary_url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "106ef5d16d6ed92c5d755a079b47783d0fe13874",
+          "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。",
+          "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:17.292000Z"
+        },
+        {
+          "id": "66365d6f39117065c0bad43f45f9ba5124b98e6c",
+          "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。 / DARPA wants AI to find hidden flaws in digital markets that adversaries could exploit to wreak economic havoc",
+          "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-08T14:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "106ef5d16d6ed92c5d755a079b47783d0fe13874",
+          "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。",
+          "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:17.292000Z"
+        },
+        {
+          "id": "66365d6f39117065c0bad43f45f9ba5124b98e6c",
+          "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。 / DARPA wants AI to find hidden flaws in digital markets that adversaries could exploit to wreak economic havoc",
+          "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-08T14:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9673,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T14:00:01Z",
+      "latest_at": "2026-11-08T20:56:17.292000Z",
+      "primary_item": {
+        "id": "106ef5d16d6ed92c5d755a079b47783d0fe13874",
+        "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。",
+        "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -249,15 +761,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9844,
+        "recency": 0.9368,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -328,15 +840,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5266,
+      "importance": 0.5266,
+      "importance_score": 0.5266,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9384,
+        "recency": 0.8931,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -407,15 +919,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
+      "score": 0.5204,
+      "importance": 0.5204,
+      "importance_score": 0.5204,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9023,
+        "recency": 0.8587,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -430,104 +942,6 @@
         "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_5186d80b7eef",
-      "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "primary_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "source": "apiiro.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1513613c40ea8527528953578f44a089b0b5f552",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "apiiro.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T00:06:44.743000Z"
-        },
-        {
-          "id": "4b4b0561cf19026e2c0425c8d13bc94623ca954c",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T20:45:32Z"
-        },
-        {
-          "id": "bb744760bc89f3e1a9434a3cd9f8d3d7451ea43a",
-          "title": "Claude Code 的“Don’t Ask Again”暴露了 1,122 个公共 GitHub 文件中的密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://news.ycombinator.com/item?id=50407882",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T20:45:32Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "apiiro.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1513613c40ea8527528953578f44a089b0b5f552",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "apiiro.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T00:06:44.743000Z"
-        },
-        {
-          "id": "4b4b0561cf19026e2c0425c8d13bc94623ca954c",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T20:45:32Z"
-        },
-        {
-          "id": "bb744760bc89f3e1a9434a3cd9f8d3d7451ea43a",
-          "title": "Claude Code 的“Don’t Ask Again”暴露了 1,122 个公共 GitHub 文件中的密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://news.ycombinator.com/item?id=50407882",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T20:45:32Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7524,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T20:45:32Z",
-      "latest_at": "2026-11-08T00:06:44.743000Z",
-      "primary_item": {
-        "id": "1513613c40ea8527528953578f44a089b0b5f552",
-        "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-        "source": "apiiro.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -584,15 +998,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5179,
-      "importance": 0.5179,
-      "importance_score": 0.5179,
+      "score": 0.5106,
+      "importance": 0.5106,
+      "importance_score": 0.5106,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8452,
+        "recency": 0.8044,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -610,8 +1024,87 @@
       }
     },
     {
+      "story_id": "story_831a9fbe986d",
+      "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？",
+      "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+      "primary_url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+      "source": "lobste.rs",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3041fae439ea0d17c0dd2d8d6f4f77d0781c03da",
+          "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？",
+          "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+          "source": "lobste.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:15.158000Z"
+        },
+        {
+          "id": "be8fb2c5e9e0b5c4e2532b6749aa106989a4678a",
+          "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？ / Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+          "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T16:36:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "lobste.rs"
+      ],
+      "items": [
+        {
+          "id": "3041fae439ea0d17c0dd2d8d6f4f77d0781c03da",
+          "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？",
+          "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+          "source": "lobste.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:15.158000Z"
+        },
+        {
+          "id": "be8fb2c5e9e0b5c4e2532b6749aa106989a4678a",
+          "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？ / Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+          "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T16:36:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9673,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T16:36:17Z",
+      "latest_at": "2026-11-08T20:56:15.158000Z",
+      "primary_item": {
+        "id": "3041fae439ea0d17c0dd2d8d6f4f77d0781c03da",
+        "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？",
+        "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+        "source": "lobste.rs",
+        "source_name": "Buzzing"
+      }
+    },
+    {
       "story_id": "story_a78801b83036",
-      "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "title": "高盛正要求其银行家和交易员停止使用“克劳德代码” / Goldman Sachs is pulling Claude Code from its bankers and traders",
       "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
       "primary_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
       "source": "Hacker News (黑客新闻)",
@@ -619,7 +1112,7 @@
       "sources": [
         {
           "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
-          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title": "高盛正要求其银行家和交易员停止使用“克劳德代码” / Goldman Sachs is pulling Claude Code from its bankers and traders",
           "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -628,7 +1121,7 @@
         },
         {
           "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
-          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回克劳德·科德 (Claude Code) / Goldman Sachs is pulling Claude Code from its bankers and traders",
           "url": "https://news.ycombinator.com/item?id=50415628",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -644,7 +1137,7 @@
       "items": [
         {
           "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
-          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title": "高盛正要求其银行家和交易员停止使用“克劳德代码” / Goldman Sachs is pulling Claude Code from its bankers and traders",
           "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -653,7 +1146,7 @@
         },
         {
           "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
-          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "title": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回克劳德·科德 (Claude Code) / Goldman Sachs is pulling Claude Code from its bankers and traders",
           "url": "https://news.ycombinator.com/item?id=50415628",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -663,15 +1156,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.978,
+        "recency": 0.9307,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -682,7 +1175,7 @@
       "latest_at": "2026-11-08T18:16:07Z",
       "primary_item": {
         "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
-        "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "title": "高盛正要求其银行家和交易员停止使用“克劳德代码” / Goldman Sachs is pulling Claude Code from its bankers and traders",
         "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
@@ -690,7 +1183,7 @@
     },
     {
       "story_id": "story_7cbf7714d720",
-      "title": "彼德雷德 / Petered",
+      "title": "彼得德 / Petered",
       "url": "https://aworkinglibrary.com/writing/petered",
       "primary_url": "https://aworkinglibrary.com/writing/petered",
       "source": "Hacker News · 24h最热",
@@ -698,7 +1191,7 @@
       "sources": [
         {
           "id": "4e1306e4ec0e76e89024f76afb7ed735d5edf638",
-          "title": "彼德雷德 / Petered",
+          "title": "彼得德 / Petered",
           "url": "https://aworkinglibrary.com/writing/petered",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -707,7 +1200,7 @@
         },
         {
           "id": "6e6ae0fa9eea921a51192b42b9cf2705f5fdbd34",
-          "title": "Petered（彼得原理之后会发生什么） / Petered (what happens after the Peter Principle)",
+          "title": "彼得德 / Petered (what happens after the Peter Principle)",
           "url": "https://aworkinglibrary.com/writing/petered",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -722,7 +1215,7 @@
       "items": [
         {
           "id": "4e1306e4ec0e76e89024f76afb7ed735d5edf638",
-          "title": "彼德雷德 / Petered",
+          "title": "彼得德 / Petered",
           "url": "https://aworkinglibrary.com/writing/petered",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -731,7 +1224,7 @@
         },
         {
           "id": "6e6ae0fa9eea921a51192b42b9cf2705f5fdbd34",
-          "title": "Petered（彼得原理之后会发生什么） / Petered (what happens after the Peter Principle)",
+          "title": "彼得德 / Petered (what happens after the Peter Principle)",
           "url": "https://aworkinglibrary.com/writing/petered",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -741,15 +1234,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8798,
+        "recency": 0.8373,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -760,7 +1253,7 @@
       "latest_at": "2026-11-08T10:56:43Z",
       "primary_item": {
         "id": "4e1306e4ec0e76e89024f76afb7ed735d5edf638",
-        "title": "彼德雷德 / Petered",
+        "title": "彼得德 / Petered",
         "url": "https://aworkinglibrary.com/writing/petered",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -820,15 +1313,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5042,
-      "importance": 0.5042,
-      "importance_score": 0.5042,
+      "score": 0.4975,
+      "importance": 0.4975,
+      "importance_score": 0.4975,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7687,
+        "recency": 0.7315,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -843,85 +1336,6 @@
         "url": "https://www.ithome.com/1/023/849.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_5e9d3fd0e59c",
-      "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "primary_url": "https://github.com/synchopate/llama-modchip",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://github.com/synchopate/llama-modchip",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T10:22:04Z"
-        },
-        {
-          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
-          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://news.ycombinator.com/item?id=50411961",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T10:22:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://github.com/synchopate/llama-modchip",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T10:22:04Z"
-        },
-        {
-          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
-          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://news.ycombinator.com/item?id=50411961",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T10:22:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5229,
-      "importance": 0.5229,
-      "importance_score": 0.5229,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8725,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T10:22:04Z",
-      "latest_at": "2026-11-08T10:22:04Z",
-      "primary_item": {
-        "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-        "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-        "url": "https://github.com/synchopate/llama-modchip",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -978,15 +1392,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5074,
-      "importance": 0.5074,
-      "importance_score": 0.5074,
+      "score": 0.5006,
+      "importance": 0.5006,
+      "importance_score": 0.5006,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7867,
+        "recency": 0.7487,
         "story_heat": 0.25
       },
       "category": "watch",
