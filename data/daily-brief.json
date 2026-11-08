@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T15:24:38.272960Z",
+  "generated_at": "2026-11-08T19:48:37.085944Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_ea760ce1fa5f",
@@ -38,21 +38,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7579,
-      "importance": 0.7579,
-      "importance_score": 0.7579,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9461,
+        "recency": 0.8879,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-08T11:34:35Z",
       "latest_at": "2026-11-08T11:34:35Z",
@@ -66,13 +65,31 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
+      "title": "作者用 Claude、MiniMax H3 和剪映拆出了一条个人AI短剧制作路线：先定剧本与角色、场景图，再按短镜头生成带对白的片段，最后补镜头、统一声音和字幕。文中还有可复制的提示词、H3 工作流设置和相关Skill包，可以上手试试。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-11-08",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "1e2603b316d7b77c60f91459f09ceb2ba7b62f78",
+          "title": "作者用 Claude、MiniMax H3 和剪映拆出了一条个人AI短剧制作路线：先定剧本与角色、场景图，再按短镜头生成带对白的片段，最后补镜头、统一声音和字幕。文中还有可复制的提示词、H3 工作流设置和相关Skill包，可以上手试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T19:48:37.085944Z"
+        },
+        {
+          "id": "09df639f22eac41f4cb2800fd38fff0b4a30e253",
+          "title": "本周精选的10项前沿研究，覆盖上下文压缩、技能路由、递归自学习、持续记忆、合规门控、销售智能体、后训练训练场、决策模型、协作基准、生活化任务评测。各项方案都附带实测数据与落地价值，不管是优化成本、提升智能体稳定性，还是搭建自进化系统，都能找到可参考的技术思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T19:48:37.085944Z"
+        },
+        {
           "id": "082ad56beda9336881fe078c989d91b40c50fa09",
           "title": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -100,12 +117,30 @@
           "published_at": "2026-11-08T15:24:38.272960Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 5,
       "source_names": [
         "社区更新 · 2026-11-08"
       ],
       "items": [
         {
+          "id": "1e2603b316d7b77c60f91459f09ceb2ba7b62f78",
+          "title": "作者用 Claude、MiniMax H3 和剪映拆出了一条个人AI短剧制作路线：先定剧本与角色、场景图，再按短镜头生成带对白的片段，最后补镜头、统一声音和字幕。文中还有可复制的提示词、H3 工作流设置和相关Skill包，可以上手试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T19:48:37.085944Z"
+        },
+        {
+          "id": "09df639f22eac41f4cb2800fd38fff0b4a30e253",
+          "title": "本周精选的10项前沿研究，覆盖上下文压缩、技能路由、递归自学习、持续记忆、合规门控、销售智能体、后训练训练场、决策模型、协作基准、生活化任务评测。各项方案都附带实测数据与落地价值，不管是优化成本、提升智能体稳定性，还是搭建自进化系统，都能找到可参考的技术思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T19:48:37.085944Z"
+        },
+        {
           "id": "082ad56beda9336881fe078c989d91b40c50fa09",
           "title": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -133,31 +168,110 @@
           "published_at": "2026-11-08T15:24:38.272960Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6275,
-      "importance": 0.6275,
-      "importance_score": 0.6275,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4824,
+        "editorial": 0.468,
         "source_tier": 0.54,
-        "ai_relevance": 0.67,
+        "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.5
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-11-08T15:24:38.272960Z",
-      "latest_at": "2026-11-08T15:24:38.272960Z",
+      "latest_at": "2026-11-08T19:48:37.085944Z",
       "primary_item": {
-        "id": "b8be4ed53457e0b8f6a2c34cdb20603b3b455f73",
-        "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
+        "id": "1e2603b316d7b77c60f91459f09ceb2ba7b62f78",
+        "title": "作者用 Claude、MiniMax H3 和剪映拆出了一条个人AI短剧制作路线：先定剧本与角色、场景图，再按短镜头生成带对白的片段，最后补镜头、统一声音和字幕。文中还有可复制的提示词、H3 工作流设置和相关Skill包，可以上手试试。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-11-08",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_d8ba3532e1ff",
+      "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "primary_url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
+          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T18:43:07Z"
+        },
+        {
+          "id": "94e3bc16650cf0dc95de7f225a04e2a48115d8f1",
+          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "url": "https://news.ycombinator.com/item?id=50415817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T18:43:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
+          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T18:43:07Z"
+        },
+        {
+          "id": "94e3bc16650cf0dc95de7f225a04e2a48115d8f1",
+          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "url": "https://news.ycombinator.com/item?id=50415817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T18:43:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9844,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T18:43:07Z",
+      "latest_at": "2026-11-08T18:43:07Z",
+      "primary_item": {
+        "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
+        "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+        "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -214,15 +328,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9384,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -237,6 +351,85 @@
         "url": "https://github.com/anthropics/claude-quickstarts",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_d4758dafd35c",
+      "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+      "primary_url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
+          "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T12:41:25Z"
+        },
+        {
+          "id": "fb5554a8f926d61d9e944ee3ac6cb0bc0df0b9b1",
+          "title": "Anthropic达成34亿美元协议，为数据中心提供燃气发电服务",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T11:28:32.102000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.ft.com"
+      ],
+      "items": [
+        {
+          "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
+          "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T12:41:25Z"
+        },
+        {
+          "id": "fb5554a8f926d61d9e944ee3ac6cb0bc0df0b9b1",
+          "title": "Anthropic达成34亿美元协议，为数据中心提供燃气发电服务",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T11:28:32.102000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9023,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T11:28:32.102000Z",
+      "latest_at": "2026-11-08T12:41:25Z",
+      "primary_item": {
+        "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
+        "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+        "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -312,15 +505,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8018,
+        "recency": 0.7524,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -335,85 +528,6 @@
         "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
         "source": "apiiro.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5e9d3fd0e59c",
-      "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "primary_url": "https://github.com/synchopate/llama-modchip",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://github.com/synchopate/llama-modchip",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T10:22:04Z"
-        },
-        {
-          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
-          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://news.ycombinator.com/item?id=50411961",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T10:22:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://github.com/synchopate/llama-modchip",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T10:22:04Z"
-        },
-        {
-          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
-          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://news.ycombinator.com/item?id=50411961",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T10:22:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5332,
-      "importance": 0.5332,
-      "importance_score": 0.5332,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9298,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T10:22:04Z",
-      "latest_at": "2026-11-08T10:22:04Z",
-      "primary_item": {
-        "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-        "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-        "url": "https://github.com/synchopate/llama-modchip",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -470,15 +584,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
+      "score": 0.5179,
+      "importance": 0.5179,
+      "importance_score": 0.5179,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9007,
+        "recency": 0.8452,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -496,286 +610,109 @@
       }
     },
     {
-      "story_id": "story_1eeaf5457cb1",
-      "title": "微软研究院“AI Frontiers”团队的解散",
-      "url": "https://hunch.net/?p=13764006",
-      "primary_url": "https://hunch.net/?p=13764006",
-      "source": "hunch.net",
-      "source_name": "Buzzing",
+      "story_id": "story_a78801b83036",
+      "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "primary_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
-          "title": "微软研究院“AI Frontiers”团队的解散",
-          "url": "https://hunch.net/?p=13764006",
-          "source": "hunch.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T19:40:52.028000Z"
-        },
-        {
-          "id": "ada3daab238c0bf635fe511f0003c79e74d106f7",
-          "title": "微软研究院“AI Frontiers”团队的解散 / The End of AI Frontiers",
-          "url": "https://hunch.net/?p=13764006",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T18:04:07Z"
-        },
-        {
-          "id": "2e98d0544a58d52e34da032c24e72fb766091eeb",
-          "title": "微软研究院“AI Frontiers”团队的解散 / The end of Microsoft Research's AI Frontiers group",
-          "url": "https://hunch.net/?p=13764006",
+          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-07T18:02:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hunch.net"
-      ],
-      "items": [
-        {
-          "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
-          "title": "微软研究院“AI Frontiers”团队的解散",
-          "url": "https://hunch.net/?p=13764006",
-          "source": "hunch.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T19:40:52.028000Z"
+          "published_at": "2026-11-08T18:16:07Z"
         },
         {
-          "id": "ada3daab238c0bf635fe511f0003c79e74d106f7",
-          "title": "微软研究院“AI Frontiers”团队的解散 / The End of AI Frontiers",
-          "url": "https://hunch.net/?p=13764006",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T18:04:07Z"
-        },
-        {
-          "id": "2e98d0544a58d52e34da032c24e72fb766091eeb",
-          "title": "微软研究院“AI Frontiers”团队的解散 / The end of Microsoft Research's AI Frontiers group",
-          "url": "https://hunch.net/?p=13764006",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T18:02:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7521,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T18:02:17Z",
-      "latest_at": "2026-11-07T19:40:52.028000Z",
-      "primary_item": {
-        "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
-        "title": "微软研究院“AI Frontiers”团队的解散",
-        "url": "https://hunch.net/?p=13764006",
-        "source": "hunch.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f7fffb994d85",
-      "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-      "primary_url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-      "source": "maxxbench.unlap.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "maxxbench.unlap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T20:43:55.325000Z"
-        },
-        {
-          "id": "8bd74463349c59c443141e88f803f9c6521e790a",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？” / MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T17:19:00Z"
+          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
+          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "url": "https://news.ycombinator.com/item?id=50415628",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T18:16:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "maxxbench.unlap.ai"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "maxxbench.unlap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T20:43:55.325000Z"
-        },
-        {
-          "id": "8bd74463349c59c443141e88f803f9c6521e790a",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？” / MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-07T17:19:00Z"
+          "published_at": "2026-11-08T18:16:07Z"
+        },
+        {
+          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
+          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "url": "https://news.ycombinator.com/item?id=50415628",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T18:16:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5032,
-      "importance": 0.5032,
-      "importance_score": 0.5032,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7636,
+        "recency": 0.978,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-07T17:19:00Z",
-      "latest_at": "2026-11-07T20:43:55.325000Z",
+      "earliest_at": "2026-11-08T18:16:07Z",
+      "latest_at": "2026-11-08T18:16:07Z",
       "primary_item": {
-        "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
-        "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-        "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-        "source": "maxxbench.unlap.ai",
-        "source_name": "Buzzing"
+        "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+        "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_ccf16ddd4103",
-      "title": "人工智能正在改变成为一名数学家所需的条件",
-      "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-      "primary_url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0d0bfb2bdcb9a01b5fc1da47a4dff145396f7d0b",
-          "title": "人工智能正在改变成为一名数学家所需的条件",
-          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T17:33:00.917000Z"
-        },
-        {
-          "id": "4114d11a72eab019203db88c277c93a73956522d",
-          "title": "人工智能正在改变成为一名数学家所需的条件 / AI is changing what it takes to get hired as a mathematician",
-          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-07T16:17:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "0d0bfb2bdcb9a01b5fc1da47a4dff145396f7d0b",
-          "title": "人工智能正在改变成为一名数学家所需的条件",
-          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T17:33:00.917000Z"
-        },
-        {
-          "id": "4114d11a72eab019203db88c277c93a73956522d",
-          "title": "人工智能正在改变成为一名数学家所需的条件 / AI is changing what it takes to get hired as a mathematician",
-          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-07T16:17:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4971,
-      "importance": 0.4971,
-      "importance_score": 0.4971,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7293,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T16:17:17Z",
-      "latest_at": "2026-11-07T17:33:00.917000Z",
-      "primary_item": {
-        "id": "0d0bfb2bdcb9a01b5fc1da47a4dff145396f7d0b",
-        "title": "人工智能正在改变成为一名数学家所需的条件",
-        "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9c95d9f4cc46",
-      "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "primary_url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "story_id": "story_7cbf7714d720",
+      "title": "彼德雷德 / Petered",
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "primary_url": "https://aworkinglibrary.com/writing/petered",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "74f474688395052ee5207fad55b606ba19fae7dc",
-          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+          "id": "4e1306e4ec0e76e89024f76afb7ed735d5edf638",
+          "title": "彼德雷德 / Petered",
+          "url": "https://aworkinglibrary.com/writing/petered",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-07T17:06:36Z"
+          "published_at": "2026-11-08T10:56:43Z"
         },
         {
-          "id": "ac3788867506544ca4834cb0333b5ead1985798a",
-          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+          "id": "6e6ae0fa9eea921a51192b42b9cf2705f5fdbd34",
+          "title": "Petered（彼得原理之后会发生什么） / Petered (what happens after the Peter Principle)",
+          "url": "https://aworkinglibrary.com/writing/petered",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-07T17:06:36Z"
+          "published_at": "2026-11-08T10:56:43Z"
         }
       ],
       "source_count": 2,
@@ -784,146 +721,49 @@
       ],
       "items": [
         {
-          "id": "74f474688395052ee5207fad55b606ba19fae7dc",
-          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+          "id": "4e1306e4ec0e76e89024f76afb7ed735d5edf638",
+          "title": "彼德雷德 / Petered",
+          "url": "https://aworkinglibrary.com/writing/petered",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-07T17:06:36Z"
+          "published_at": "2026-11-08T10:56:43Z"
         },
         {
-          "id": "ac3788867506544ca4834cb0333b5ead1985798a",
-          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+          "id": "6e6ae0fa9eea921a51192b42b9cf2705f5fdbd34",
+          "title": "Petered（彼得原理之后会发生什么） / Petered (what happens after the Peter Principle)",
+          "url": "https://aworkinglibrary.com/writing/petered",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-07T17:06:36Z"
+          "published_at": "2026-11-08T10:56:43Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4962,
-      "importance": 0.4962,
-      "importance_score": 0.4962,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7247,
+        "recency": 0.8798,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-07T17:06:36Z",
-      "latest_at": "2026-11-07T17:06:36Z",
+      "earliest_at": "2026-11-08T10:56:43Z",
+      "latest_at": "2026-11-08T10:56:43Z",
       "primary_item": {
-        "id": "74f474688395052ee5207fad55b606ba19fae7dc",
-        "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
-        "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+        "id": "4e1306e4ec0e76e89024f76afb7ed735d5edf638",
+        "title": "彼德雷德 / Petered",
+        "url": "https://aworkinglibrary.com/writing/petered",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_58d1e7f2f30e",
-      "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-      "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
-      "primary_url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "0eff591ddab3052fb4d9a7dfd7f217912a0850f0",
-          "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T18:02:17Z"
-        },
-        {
-          "id": "534ec052b6c26339eb31448ba00c6fa201d6f785",
-          "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "url": "https://news.ycombinator.com/item?id=50406563",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T18:02:17Z"
-        },
-        {
-          "id": "f0bfdc71f0f3fb8834297a8fce13ce277da79f2e",
-          "title": "微软研究院人工智能前沿小组的终结 / The end of Microsoft Research's AI Frontiers group",
-          "url": "https://news.ycombinator.com/item?id=50406563",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T18:02:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0eff591ddab3052fb4d9a7dfd7f217912a0850f0",
-          "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T18:02:17Z"
-        },
-        {
-          "id": "534ec052b6c26339eb31448ba00c6fa201d6f785",
-          "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-          "url": "https://news.ycombinator.com/item?id=50406563",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T18:02:17Z"
-        },
-        {
-          "id": "f0bfdc71f0f3fb8834297a8fce13ce277da79f2e",
-          "title": "微软研究院人工智能前沿小组的终结 / The end of Microsoft Research's AI Frontiers group",
-          "url": "https://news.ycombinator.com/item?id=50406563",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T18:02:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7345,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T18:02:17Z",
-      "latest_at": "2026-11-07T18:02:17Z",
-      "primary_item": {
-        "id": "0eff591ddab3052fb4d9a7dfd7f217912a0850f0",
-        "title": "微软研究员约翰·兰福德退出。 AI Frontiers Group 宣布完成 / Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
-        "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -980,15 +820,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5132,
-      "importance": 0.5132,
-      "importance_score": 0.5132,
+      "score": 0.5042,
+      "importance": 0.5042,
+      "importance_score": 0.5042,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8191,
+        "recency": 0.7687,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1006,8 +846,87 @@
       }
     },
     {
+      "story_id": "story_5e9d3fd0e59c",
+      "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "primary_url": "https://github.com/synchopate/llama-modchip",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T10:22:04Z"
+        },
+        {
+          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://news.ycombinator.com/item?id=50411961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T10:22:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T10:22:04Z"
+        },
+        {
+          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://news.ycombinator.com/item?id=50411961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T10:22:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8725,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T10:22:04Z",
+      "latest_at": "2026-11-08T10:22:04Z",
+      "primary_item": {
+        "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+        "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "url": "https://github.com/synchopate/llama-modchip",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
       "story_id": "story_e66f4eeac8f3",
-      "title": "再见，克劳德；你好，π / Goodbye Claude, Hello Pi",
+      "title": "再见，克劳德；你好，π / Goodbye Claude, hello Pi",
       "url": "https://caleb.software/posts/claude-to-pi.html",
       "primary_url": "https://caleb.software/posts/claude-to-pi.html",
       "source": "Hacker News (黑客新闻)",
@@ -1015,7 +934,7 @@
       "sources": [
         {
           "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
-          "title": "再见，克劳德；你好，π / Goodbye Claude, Hello Pi",
+          "title": "再见，克劳德；你好，π / Goodbye Claude, hello Pi",
           "url": "https://caleb.software/posts/claude-to-pi.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -1024,7 +943,7 @@
         },
         {
           "id": "f9e6a111a822d959b2ebb2618203323831a1dd64",
-          "title": "再见克劳德，你好皮 / Goodbye Claude, Hello Pi",
+          "title": "再见克劳德，你好皮 / Goodbye Claude, hello Pi",
           "url": "https://news.ycombinator.com/item?id=50410107",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1040,7 +959,7 @@
       "items": [
         {
           "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
-          "title": "再见，克劳德；你好，π / Goodbye Claude, Hello Pi",
+          "title": "再见，克劳德；你好，π / Goodbye Claude, hello Pi",
           "url": "https://caleb.software/posts/claude-to-pi.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -1049,7 +968,7 @@
         },
         {
           "id": "f9e6a111a822d959b2ebb2618203323831a1dd64",
-          "title": "再见克劳德，你好皮 / Goodbye Claude, Hello Pi",
+          "title": "再见克劳德，你好皮 / Goodbye Claude, hello Pi",
           "url": "https://news.ycombinator.com/item?id=50410107",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1059,15 +978,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5167,
-      "importance": 0.5167,
-      "importance_score": 0.5167,
+      "score": 0.5074,
+      "importance": 0.5074,
+      "importance_score": 0.5074,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8383,
+        "recency": 0.7867,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1078,7 +997,7 @@
       "latest_at": "2026-11-08T03:11:48Z",
       "primary_item": {
         "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
-        "title": "再见，克劳德；你好，π / Goodbye Claude, Hello Pi",
+        "title": "再见，克劳德；你好，π / Goodbye Claude, hello Pi",
         "url": "https://caleb.software/posts/claude-to-pi.html",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
