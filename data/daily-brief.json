@@ -1,138 +1,242 @@
 {
-  "generated_at": "2026-11-08T08:10:04.034975Z",
+  "generated_at": "2026-11-08T15:24:38.272960Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 13,
   "items": [
     {
-      "story_id": "story_2df82173bb28",
-      "title": "GPT Image 2.6正式上线，新增了透明底GIF、SVG矢量图能力，生成速度提升约50%，API还提供多档思考强度可调。小歪做了多场景的实测，电商图、漫画分镜、家装方案都能落地，噪点问题小幅改善，但依然存在手指畸形、中文信息图文字错乱、多次迭代修改后质感下滑、塑料感变强等短板。快来看看真实效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-06",
-      "source_name": "WaytoAGI",
+      "story_id": "story_ea760ce1fa5f",
+      "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "af2381a64d45268bfbcf2dbc85f51111cb17e8a5",
-          "title": "GPT Image 2.6正式上线，新增了透明底GIF、SVG矢量图能力，生成速度提升约50%，API还提供多档思考强度可调。小歪做了多场景的实测，电商图、漫画分镜、家装方案都能落地，噪点问题小幅改善，但依然存在手指畸形、中文信息图文字错乱、多次迭代修改后质感下滑、塑料感变强等短板。快来看看真实效果如何！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-07T14:13:06.689886Z"
-        },
-        {
-          "id": "edca6713d8ca85f9709e9ce8c5cd6d56e49da3a5",
-          "title": "企业把 AI 接进来，很多团队还是停留在单纯地“给员工装个工具”：一碰权限、数据、业务系统和万人并发，方案就乱了。作者这篇文章完整梳理了企业如何搭建一套自己的 AI 智能体工作台，适合正在做内部落地、又担心安全和规模的人。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-07T14:13:06.689886Z"
-        },
-        {
-          "id": "4f3beb51bcdcfb0b8631159a2f0c6395635d16a3",
-          "title": "作者用 520 万字、50 万次语义判断，把 AI 写作习惯拆成了 100 多项指标。如果你平时用 AI 写东西，这篇能帮你省下很多改稿到崩溃的时间。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-07T14:13:06.689886Z"
-        },
-        {
-          "id": "ae122f675a6a3acd50575087cc161acf963b14d9",
-          "title": "姚金刚和乔木老师的《海外GEO白皮书》正式发布，把海外的 GEO 拆成了一条可执行的路线，适合出海品牌、SEO/内容和增长团队，把“被 AI 看见”做成可测的长期工程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-07T14:13:06.689886Z"
-        },
-        {
-          "id": "4c8bf049c801c4ee3279f8726b7ed0fc5d2ebb09",
-          "title": "找不到爆款AI视频的提示词？作者这套方案可以直接逆向拆解。依托Antigravity+Gemini原生视频理解，它能识别运镜时序与动作节奏，远胜过普通抽帧方案。作者实测了7条爆款，同时讲清了批量生成、垫图锁画风的实操技巧，很适合短视频创作者复刻爆款画面。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-07T14:13:06.689886Z"
+          "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
+          "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-08T11:34:35Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 1,
       "source_names": [
-        "社区更新 · 2026-11-06"
+        "Daily Digest"
       ],
       "items": [
         {
-          "id": "af2381a64d45268bfbcf2dbc85f51111cb17e8a5",
-          "title": "GPT Image 2.6正式上线，新增了透明底GIF、SVG矢量图能力，生成速度提升约50%，API还提供多档思考强度可调。小歪做了多场景的实测，电商图、漫画分镜、家装方案都能落地，噪点问题小幅改善，但依然存在手指畸形、中文信息图文字错乱、多次迭代修改后质感下滑、塑料感变强等短板。快来看看真实效果如何！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-07T14:13:06.689886Z"
-        },
-        {
-          "id": "edca6713d8ca85f9709e9ce8c5cd6d56e49da3a5",
-          "title": "企业把 AI 接进来，很多团队还是停留在单纯地“给员工装个工具”：一碰权限、数据、业务系统和万人并发，方案就乱了。作者这篇文章完整梳理了企业如何搭建一套自己的 AI 智能体工作台，适合正在做内部落地、又担心安全和规模的人。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-07T14:13:06.689886Z"
-        },
-        {
-          "id": "4f3beb51bcdcfb0b8631159a2f0c6395635d16a3",
-          "title": "作者用 520 万字、50 万次语义判断，把 AI 写作习惯拆成了 100 多项指标。如果你平时用 AI 写东西，这篇能帮你省下很多改稿到崩溃的时间。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-07T14:13:06.689886Z"
-        },
-        {
-          "id": "ae122f675a6a3acd50575087cc161acf963b14d9",
-          "title": "姚金刚和乔木老师的《海外GEO白皮书》正式发布，把海外的 GEO 拆成了一条可执行的路线，适合出海品牌、SEO/内容和增长团队，把“被 AI 看见”做成可测的长期工程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-07T14:13:06.689886Z"
-        },
-        {
-          "id": "4c8bf049c801c4ee3279f8726b7ed0fc5d2ebb09",
-          "title": "找不到爆款AI视频的提示词？作者这套方案可以直接逆向拆解。依托Antigravity+Gemini原生视频理解，它能识别运镜时序与动作节奏，远胜过普通抽帧方案。作者实测了7条爆款，同时讲清了批量生成、垫图锁画风的实操技巧，很适合短视频创作者复刻爆款画面。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-06",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-07T14:13:06.689886Z"
+          "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
+          "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-08T11:34:35Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6281,
-      "importance": 0.6281,
-      "importance_score": 0.6281,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9461,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-08T11:34:35Z",
+      "latest_at": "2026-11-08T11:34:35Z",
+      "primary_item": {
+        "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
+        "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-11-08",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "082ad56beda9336881fe078c989d91b40c50fa09",
+          "title": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T15:24:38.272960Z"
+        },
+        {
+          "id": "5dbfa067e03a57466db1dde11f66ecebb2de339a",
+          "title": "让 Agent 跑个长任务，电脑一合、服务一重启，聊天记录还在，但做到哪一步却得自己重新理。作者开源了一个网页版小助手，解决的就是这种“活干到一半断了”的问题；同时还整理了大量落地踩坑细节与技术局限，适合想要搭建长期自治、稳定不掉线的个人 Agent 的开发者，拿来作为自研底座参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T15:24:38.272960Z"
+        },
+        {
+          "id": "b8be4ed53457e0b8f6a2c34cdb20603b3b455f73",
+          "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T15:24:38.272960Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "社区更新 · 2026-11-08"
+      ],
+      "items": [
+        {
+          "id": "082ad56beda9336881fe078c989d91b40c50fa09",
+          "title": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T15:24:38.272960Z"
+        },
+        {
+          "id": "5dbfa067e03a57466db1dde11f66ecebb2de339a",
+          "title": "让 Agent 跑个长任务，电脑一合、服务一重启，聊天记录还在，但做到哪一步却得自己重新理。作者开源了一个网页版小助手，解决的就是这种“活干到一半断了”的问题；同时还整理了大量落地踩坑细节与技术局限，适合想要搭建长期自治、稳定不掉线的个人 Agent 的开发者，拿来作为自研底座参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T15:24:38.272960Z"
+        },
+        {
+          "id": "b8be4ed53457e0b8f6a2c34cdb20603b3b455f73",
+          "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T15:24:38.272960Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6275,
+      "importance": 0.6275,
+      "importance_score": 0.6275,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.468,
+        "editorial": 0.4824,
         "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7717,
-        "story_heat": 1.0
+        "ai_relevance": 0.67,
+        "recency": 1.0,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-07T14:13:06.689886Z",
-      "latest_at": "2026-11-07T14:13:06.689886Z",
+      "earliest_at": "2026-11-08T15:24:38.272960Z",
+      "latest_at": "2026-11-08T15:24:38.272960Z",
       "primary_item": {
-        "id": "af2381a64d45268bfbcf2dbc85f51111cb17e8a5",
-        "title": "GPT Image 2.6正式上线，新增了透明底GIF、SVG矢量图能力，生成速度提升约50%，API还提供多档思考强度可调。小歪做了多场景的实测，电商图、漫画分镜、家装方案都能落地，噪点问题小幅改善，但依然存在手指畸形、中文信息图文字错乱、多次迭代修改后质感下滑、塑料感变强等短板。快来看看真实效果如何！",
+        "id": "b8be4ed53457e0b8f6a2c34cdb20603b3b455f73",
+        "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-11-06",
+        "source": "社区更新 · 2026-11-08",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_26b52d229f33",
+      "title": "人类学 / 克劳德快速入门 / anthropics / claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "primary_url": "https://github.com/anthropics/claude-quickstarts",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "db5583eb4aa330ac6131feaabf89b9547bcd4d09",
+          "title": "人类学 / 克劳德快速入门 / anthropics / claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "11002f4e8e25dc72519ebfb572dfa7ed8e6f32ef",
+          "title": "人类学 / 克劳德快速入门 / anthropics /      claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T15:06:41.707000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "db5583eb4aa330ac6131feaabf89b9547bcd4d09",
+          "title": "人类学 / 克劳德快速入门 / anthropics / claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "11002f4e8e25dc72519ebfb572dfa7ed8e6f32ef",
+          "title": "人类学 / 克劳德快速入门 / anthropics /      claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T15:06:41.707000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T15:06:41.707000Z",
+      "latest_at": "2026-11-08T15:24:38.272960Z",
+      "primary_item": {
+        "id": "db5583eb4aa330ac6131feaabf89b9547bcd4d09",
+        "title": "人类学 / 克劳德快速入门 / anthropics / claude-quickstarts",
+        "url": "https://github.com/anthropics/claude-quickstarts",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
       }
     },
     {
@@ -208,15 +312,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.551,
-      "importance": 0.551,
-      "importance_score": 0.551,
+      "score": 0.5351,
+      "importance": 0.5351,
+      "importance_score": 0.5351,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8902,
+        "recency": 0.8018,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -231,6 +335,85 @@
         "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
         "source": "apiiro.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5e9d3fd0e59c",
+      "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "primary_url": "https://github.com/synchopate/llama-modchip",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T10:22:04Z"
+        },
+        {
+          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://news.ycombinator.com/item?id=50411961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T10:22:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T10:22:04Z"
+        },
+        {
+          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://news.ycombinator.com/item?id=50411961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T10:22:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9298,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T10:22:04Z",
+      "latest_at": "2026-11-08T10:22:04Z",
+      "primary_item": {
+        "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+        "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "url": "https://github.com/synchopate/llama-modchip",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -287,15 +470,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9007,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -385,15 +568,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.835,
+        "recency": 0.7521,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -408,6 +591,242 @@
         "url": "https://hunch.net/?p=13764006",
         "source": "hunch.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f7fffb994d85",
+      "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+      "primary_url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+      "source": "maxxbench.unlap.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
+          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+          "source": "maxxbench.unlap.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T20:43:55.325000Z"
+        },
+        {
+          "id": "8bd74463349c59c443141e88f803f9c6521e790a",
+          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？” / MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T17:19:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "maxxbench.unlap.ai"
+      ],
+      "items": [
+        {
+          "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
+          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+          "source": "maxxbench.unlap.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T20:43:55.325000Z"
+        },
+        {
+          "id": "8bd74463349c59c443141e88f803f9c6521e790a",
+          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？” / MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T17:19:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5032,
+      "importance": 0.5032,
+      "importance_score": 0.5032,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7636,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T17:19:00Z",
+      "latest_at": "2026-11-07T20:43:55.325000Z",
+      "primary_item": {
+        "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
+        "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
+        "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
+        "source": "maxxbench.unlap.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ccf16ddd4103",
+      "title": "人工智能正在改变成为一名数学家所需的条件",
+      "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
+      "primary_url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0d0bfb2bdcb9a01b5fc1da47a4dff145396f7d0b",
+          "title": "人工智能正在改变成为一名数学家所需的条件",
+          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T17:33:00.917000Z"
+        },
+        {
+          "id": "4114d11a72eab019203db88c277c93a73956522d",
+          "title": "人工智能正在改变成为一名数学家所需的条件 / AI is changing what it takes to get hired as a mathematician",
+          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-07T16:17:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "0d0bfb2bdcb9a01b5fc1da47a4dff145396f7d0b",
+          "title": "人工智能正在改变成为一名数学家所需的条件",
+          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T17:33:00.917000Z"
+        },
+        {
+          "id": "4114d11a72eab019203db88c277c93a73956522d",
+          "title": "人工智能正在改变成为一名数学家所需的条件 / AI is changing what it takes to get hired as a mathematician",
+          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-07T16:17:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4971,
+      "importance": 0.4971,
+      "importance_score": 0.4971,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7293,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T16:17:17Z",
+      "latest_at": "2026-11-07T17:33:00.917000Z",
+      "primary_item": {
+        "id": "0d0bfb2bdcb9a01b5fc1da47a4dff145396f7d0b",
+        "title": "人工智能正在改变成为一名数学家所需的条件",
+        "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9c95d9f4cc46",
+      "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
+      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "primary_url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "74f474688395052ee5207fad55b606ba19fae7dc",
+          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
+          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-07T17:06:36Z"
+        },
+        {
+          "id": "ac3788867506544ca4834cb0333b5ead1985798a",
+          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-07T17:06:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "74f474688395052ee5207fad55b606ba19fae7dc",
+          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
+          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-07T17:06:36Z"
+        },
+        {
+          "id": "ac3788867506544ca4834cb0333b5ead1985798a",
+          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-07T17:06:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4962,
+      "importance": 0.4962,
+      "importance_score": 0.4962,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7247,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T17:06:36Z",
+      "latest_at": "2026-11-07T17:06:36Z",
+      "primary_item": {
+        "id": "74f474688395052ee5207fad55b606ba19fae7dc",
+        "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
+        "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -482,15 +901,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5376,
-      "importance": 0.5376,
-      "importance_score": 0.5376,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8154,
+        "recency": 0.7345,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -508,395 +927,81 @@
       }
     },
     {
-      "story_id": "story_f7fffb994d85",
-      "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-      "primary_url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-      "source": "maxxbench.unlap.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "maxxbench.unlap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T20:43:55.325000Z"
-        },
-        {
-          "id": "8bd74463349c59c443141e88f803f9c6521e790a",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？” / MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T17:19:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "maxxbench.unlap.ai"
-      ],
-      "items": [
-        {
-          "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "maxxbench.unlap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T20:43:55.325000Z"
-        },
-        {
-          "id": "8bd74463349c59c443141e88f803f9c6521e790a",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？” / MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T17:19:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8478,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T17:19:00Z",
-      "latest_at": "2026-11-07T20:43:55.325000Z",
-      "primary_item": {
-        "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
-        "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-        "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-        "source": "maxxbench.unlap.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ccf16ddd4103",
-      "title": "人工智能正在改变成为一名数学家所需的条件",
-      "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-      "primary_url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0d0bfb2bdcb9a01b5fc1da47a4dff145396f7d0b",
-          "title": "人工智能正在改变成为一名数学家所需的条件",
-          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T17:33:00.917000Z"
-        },
-        {
-          "id": "4114d11a72eab019203db88c277c93a73956522d",
-          "title": "人工智能正在改变成为一名数学家所需的条件 / AI is changing what it takes to get hired as a mathematician",
-          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-07T16:17:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "0d0bfb2bdcb9a01b5fc1da47a4dff145396f7d0b",
-          "title": "人工智能正在改变成为一名数学家所需的条件",
-          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T17:33:00.917000Z"
-        },
-        {
-          "id": "4114d11a72eab019203db88c277c93a73956522d",
-          "title": "人工智能正在改变成为一名数学家所需的条件 / AI is changing what it takes to get hired as a mathematician",
-          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-07T16:17:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5115,
-      "importance": 0.5115,
-      "importance_score": 0.5115,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8097,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T16:17:17Z",
-      "latest_at": "2026-11-07T17:33:00.917000Z",
-      "primary_item": {
-        "id": "0d0bfb2bdcb9a01b5fc1da47a4dff145396f7d0b",
-        "title": "人工智能正在改变成为一名数学家所需的条件",
-        "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9c95d9f4cc46",
-      "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "primary_url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "74f474688395052ee5207fad55b606ba19fae7dc",
-          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T17:06:36Z"
-        },
-        {
-          "id": "ac3788867506544ca4834cb0333b5ead1985798a",
-          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T17:06:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "74f474688395052ee5207fad55b606ba19fae7dc",
-          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T17:06:36Z"
-        },
-        {
-          "id": "ac3788867506544ca4834cb0333b5ead1985798a",
-          "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-          "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T17:06:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5106,
-      "importance": 0.5106,
-      "importance_score": 0.5106,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8046,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T17:06:36Z",
-      "latest_at": "2026-11-07T17:06:36Z",
-      "primary_item": {
-        "id": "74f474688395052ee5207fad55b606ba19fae7dc",
-        "title": "苹果的“灰色名单”：iPhone 不会帮你拼写这些单词和短语 / Apple Keyboard has a blacklist of phrases you can't swipe",
-        "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_f6f0b21aa3e6",
-      "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
-      "url": "https://www.producthunt.com/products/openai",
-      "primary_url": "https://www.producthunt.com/products/openai",
-      "source": "Product Hunt · 今日新产品",
+      "story_id": "story_885bc368b079",
+      "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
+      "url": "https://www.ithome.com/1/023/849.htm",
+      "primary_url": "https://www.ithome.com/1/023/849.htm",
+      "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "3b83d87d9c0f4a3a9d005c62533417b2905e1a00",
-          "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "Product Hunt · 今日新产品",
+          "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
+          "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
+          "url": "https://www.ithome.com/1/023/849.htm",
+          "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "1be470331a87a065dab70508ae0eee370b6fe954",
-          "title": "GPT-6 网络 / GPT‑6 Cyber",
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "Product Hunt · 今日新产品",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "be22e34e878a61144e96d87397631f8dd1fcdd42",
+          "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
+          "url": "https://www.ithome.com/1/023/849.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T00:05:52Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Product Hunt · 今日新产品"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "3b83d87d9c0f4a3a9d005c62533417b2905e1a00",
-          "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "Product Hunt · 今日新产品",
+          "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
+          "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
+          "url": "https://www.ithome.com/1/023/849.htm",
+          "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "1be470331a87a065dab70508ae0eee370b6fe954",
-          "title": "GPT-6 网络 / GPT‑6 Cyber",
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "Product Hunt · 今日新产品",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "be22e34e878a61144e96d87397631f8dd1fcdd42",
+          "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
+          "url": "https://www.ithome.com/1/023/849.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T00:05:52Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
+      "score": 0.5132,
+      "importance": 0.5132,
+      "importance_score": 0.5132,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7717,
+        "recency": 0.8191,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-07T14:13:06.689886Z",
-      "latest_at": "2026-11-07T14:13:06.689886Z",
+      "earliest_at": "2026-11-08T00:05:52Z",
+      "latest_at": "2026-11-08T01:35:29.276897Z",
       "primary_item": {
-        "id": "3b83d87d9c0f4a3a9d005c62533417b2905e1a00",
-        "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
-        "url": "https://www.producthunt.com/products/openai",
-        "source": "Product Hunt · 今日新产品",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_b95f6aa29001",
-      "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory / nvke",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "primary_url": "https://github.com/dsx-ai-factory/nvke",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ded629dd211e146cbd6c7ab017f3907ec69c0631",
-          "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory / nvke",
-          "url": "https://github.com/dsx-ai-factory/nvke",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "778c1770dfe203d6bb084f0550ee054509a76b74",
-          "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory /      nvke",
-          "url": "https://github.com/dsx-ai-factory/nvke",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T13:45:09.527000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "ded629dd211e146cbd6c7ab017f3907ec69c0631",
-          "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory / nvke",
-          "url": "https://github.com/dsx-ai-factory/nvke",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "778c1770dfe203d6bb084f0550ee054509a76b74",
-          "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory /      nvke",
-          "url": "https://github.com/dsx-ai-factory/nvke",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T13:45:09.527000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7717,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T13:45:09.527000Z",
-      "latest_at": "2026-11-07T14:13:06.689886Z",
-      "primary_item": {
-        "id": "ded629dd211e146cbd6c7ab017f3907ec69c0631",
-        "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory / nvke",
-        "url": "https://github.com/dsx-ai-factory/nvke",
-        "source": "GitHub · Trending Today",
+        "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
+        "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
+        "url": "https://www.ithome.com/1/023/849.htm",
+        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
@@ -954,15 +1059,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.5167,
+      "importance": 0.5167,
+      "importance_score": 0.5167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9307,
+        "recency": 0.8383,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -977,638 +1082,6 @@
         "url": "https://caleb.software/posts/claude-to-pi.html",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_5ec03af4da1d",
-      "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "primary_url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "source": "8rank.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "15ab017e2478008a5fb85134e73bd28dc2fd6ec9",
-          "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-          "source": "8rank.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T11:57:50.761000Z"
-        },
-        {
-          "id": "a397626cf6c503c66ff0dbfa4c75e0e59c25e7c0",
-          "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器 / Every Mac comes with an (undocumented) family member classifier",
-          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T09:46:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "8rank.ai",
-        "Hacker News (黑客新闻)"
-      ],
-      "items": [
-        {
-          "id": "15ab017e2478008a5fb85134e73bd28dc2fd6ec9",
-          "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-          "source": "8rank.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T11:57:50.761000Z"
-        },
-        {
-          "id": "a397626cf6c503c66ff0dbfa4c75e0e59c25e7c0",
-          "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器 / Every Mac comes with an (undocumented) family member classifier",
-          "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T09:46:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5003,
-      "importance": 0.5003,
-      "importance_score": 0.5003,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.747,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T09:46:03Z",
-      "latest_at": "2026-11-07T11:57:50.761000Z",
-      "primary_item": {
-        "id": "15ab017e2478008a5fb85134e73bd28dc2fd6ec9",
-        "title": "每台 Mac 都内置了一个（未记录在文档中的）家庭成员识别器",
-        "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-        "source": "8rank.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_885bc368b079",
-      "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
-      "url": "https://www.ithome.com/1/023/849.htm",
-      "primary_url": "https://www.ithome.com/1/023/849.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
-          "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
-          "url": "https://www.ithome.com/1/023/849.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "be22e34e878a61144e96d87397631f8dd1fcdd42",
-          "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
-          "url": "https://www.ithome.com/1/023/849.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T00:05:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
-          "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
-          "url": "https://www.ithome.com/1/023/849.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "be22e34e878a61144e96d87397631f8dd1fcdd42",
-          "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
-          "url": "https://www.ithome.com/1/023/849.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T00:05:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9094,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T00:05:52Z",
-      "latest_at": "2026-11-08T01:35:29.276897Z",
-      "primary_item": {
-        "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
-        "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
-        "url": "https://www.ithome.com/1/023/849.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6b207537f32f",
-      "title": "你如何应对人工智能在网络上带来的种种负面影响？",
-      "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-      "primary_url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-      "source": "lobste.rs",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8f33c5c76bd77ab29b8fd209c1120c466c0ecd17",
-          "title": "你如何应对人工智能在网络上带来的种种负面影响？",
-          "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-          "source": "lobste.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T09:51:40.442000Z"
-        },
-        {
-          "id": "320442707f24b39c0b56166e6026430905db9891",
-          "title": "你如何应对人工智能在网络上带来的种种负面影响？ / How are you dealing with all the negative side effects of AI on the web?",
-          "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T09:47:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "lobste.rs"
-      ],
-      "items": [
-        {
-          "id": "8f33c5c76bd77ab29b8fd209c1120c466c0ecd17",
-          "title": "你如何应对人工智能在网络上带来的种种负面影响？",
-          "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-          "source": "lobste.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T09:51:40.442000Z"
-        },
-        {
-          "id": "320442707f24b39c0b56166e6026430905db9891",
-          "title": "你如何应对人工智能在网络上带来的种种负面影响？ / How are you dealing with all the negative side effects of AI on the web?",
-          "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T09:47:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4962,
-      "importance": 0.4962,
-      "importance_score": 0.4962,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7246,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T09:47:24Z",
-      "latest_at": "2026-11-07T09:51:40.442000Z",
-      "primary_item": {
-        "id": "8f33c5c76bd77ab29b8fd209c1120c466c0ecd17",
-        "title": "你如何应对人工智能在网络上带来的种种负面影响？",
-        "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-        "source": "lobste.rs",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_507023ef4131",
-      "title": "一家发展迅速的街头服饰零售商在假日季来临前揭晓了其AI购物助手战略",
-      "url": "https://www.businessinsider.com/all-star-elite-streetwear-ai-agent-shopping-strategy-holidays-2026-11",
-      "primary_url": "https://www.businessinsider.com/all-star-elite-streetwear-ai-agent-shopping-strategy-holidays-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d120cd4c60ff0607d7686bffbc6bf4725d2c144d",
-          "title": "一家发展迅速的街头服饰零售商在假日季来临前揭晓了其AI购物助手战略",
-          "url": "https://www.businessinsider.com/all-star-elite-streetwear-ai-agent-shopping-strategy-holidays-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T16:12:43.747000Z"
-        },
-        {
-          "id": "3d02a7c2d6e49fda0f682e3db3d02d41337cf1d6",
-          "title": "一家发展迅速的街头服饰零售商在假日季来临前揭晓了其AI购物助手战略 / A growing streetwear retailer reveals its AI agent shopping strategy ahead of the holidays",
-          "url": "https://www.businessinsider.com/all-star-elite-streetwear-ai-agent-shopping-strategy-holidays-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-07T10:47:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "d120cd4c60ff0607d7686bffbc6bf4725d2c144d",
-          "title": "一家发展迅速的街头服饰零售商在假日季来临前揭晓了其AI购物助手战略",
-          "url": "https://www.businessinsider.com/all-star-elite-streetwear-ai-agent-shopping-strategy-holidays-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T16:12:43.747000Z"
-        },
-        {
-          "id": "3d02a7c2d6e49fda0f682e3db3d02d41337cf1d6",
-          "title": "一家发展迅速的街头服饰零售商在假日季来临前揭晓了其AI购物助手战略 / A growing streetwear retailer reveals its AI agent shopping strategy ahead of the holidays",
-          "url": "https://www.businessinsider.com/all-star-elite-streetwear-ai-agent-shopping-strategy-holidays-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-07T10:47:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5088,
-      "importance": 0.5088,
-      "importance_score": 0.5088,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7942,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T10:47:01Z",
-      "latest_at": "2026-11-07T16:12:43.747000Z",
-      "primary_item": {
-        "id": "d120cd4c60ff0607d7686bffbc6bf4725d2c144d",
-        "title": "一家发展迅速的街头服饰零售商在假日季来临前揭晓了其AI购物助手战略",
-        "url": "https://www.businessinsider.com/all-star-elite-streetwear-ai-agent-shopping-strategy-holidays-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f45973610354",
-      "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "primary_url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "21d9df437718fa920d9892ade2924765dbb15afa",
-          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T15:16:01Z"
-        },
-        {
-          "id": "307451c705f6211f27896dc8d1f5f26bd1cd88e2",
-          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "url": "https://news.ycombinator.com/item?id=50405263",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T15:16:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "21d9df437718fa920d9892ade2924765dbb15afa",
-          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T15:16:01Z"
-        },
-        {
-          "id": "307451c705f6211f27896dc8d1f5f26bd1cd88e2",
-          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "url": "https://news.ycombinator.com/item?id=50405263",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T15:16:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5068,
-      "importance": 0.5068,
-      "importance_score": 0.5068,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7834,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T15:16:01Z",
-      "latest_at": "2026-11-07T15:16:01Z",
-      "primary_item": {
-        "id": "21d9df437718fa920d9892ade2924765dbb15afa",
-        "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-        "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_5a16899cf400",
-      "title": "竞争对手初创公司Railway与Primcloud之间的纠纷，揭示了人工智能代理时代面临的重大法律难题",
-      "url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-      "primary_url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "14e004247ea4e15b2bcb2c164a30cbcd219f9db9",
-          "title": "竞争对手初创公司Railway与Primcloud之间的纠纷，揭示了人工智能代理时代面临的重大法律难题",
-          "url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T14:21:55.286000Z"
-        },
-        {
-          "id": "f2cf34c58cbba77a17866207d85b1db73af2664f",
-          "title": "竞争对手初创公司Railway与Primcloud之间的纠纷，揭示了人工智能代理时代面临的重大法律难题 / This week's drama in startup land exposes the big legal headache of the AI agent era",
-          "url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-07T11:05:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "14e004247ea4e15b2bcb2c164a30cbcd219f9db9",
-          "title": "竞争对手初创公司Railway与Primcloud之间的纠纷，揭示了人工智能代理时代面临的重大法律难题",
-          "url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T14:21:55.286000Z"
-        },
-        {
-          "id": "f2cf34c58cbba77a17866207d85b1db73af2664f",
-          "title": "竞争对手初创公司Railway与Primcloud之间的纠纷，揭示了人工智能代理时代面临的重大法律难题 / This week's drama in startup land exposes the big legal headache of the AI agent era",
-          "url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-07T11:05:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7733,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T11:05:01Z",
-      "latest_at": "2026-11-07T14:21:55.286000Z",
-      "primary_item": {
-        "id": "14e004247ea4e15b2bcb2c164a30cbcd219f9db9",
-        "title": "竞争对手初创公司Railway与Primcloud之间的纠纷，揭示了人工智能代理时代面临的重大法律难题",
-        "url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f00aebf0875e",
-      "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
-      "url": "https://www.ithome.com/1/023/752.htm",
-      "primary_url": "https://www.ithome.com/1/023/752.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ed657592e5aa3846232aad271fec1820ae131761",
-          "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
-          "url": "https://www.ithome.com/1/023/752.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f87a6c2de08a47f9ce52d28a9650f2bf8002a7ac",
-          "title": "Anthropic 神秘模型“立功”，AI 帮助攻克量子计算领域重大难题",
-          "url": "https://www.ithome.com/1/023/752.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T08:10:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ed657592e5aa3846232aad271fec1820ae131761",
-          "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
-          "url": "https://www.ithome.com/1/023/752.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f87a6c2de08a47f9ce52d28a9650f2bf8002a7ac",
-          "title": "Anthropic 神秘模型“立功”，AI 帮助攻克量子计算领域重大难题",
-          "url": "https://www.ithome.com/1/023/752.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T08:10:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7717,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T08:10:11Z",
-      "latest_at": "2026-11-07T14:13:06.689886Z",
-      "primary_item": {
-        "id": "ed657592e5aa3846232aad271fec1820ae131761",
-        "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
-        "url": "https://www.ithome.com/1/023/752.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2383ce3a4c61",
-      "title": "谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature",
-      "url": "https://www.ithome.com/1/023/788.htm",
-      "primary_url": "https://www.ithome.com/1/023/788.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d46843da247a0b837591781f54960ecdb726b2ff",
-          "title": "谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature",
-          "url": "https://www.ithome.com/1/023/788.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5c48dbcf61d5d775a2e5a797a4178e0c452d038b",
-          "title": "谷歌 AI 新研究：无需袖带利用消费级智能手表检测高血压，成果登 Nature",
-          "url": "https://www.ithome.com/1/023/788.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T10:26:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d46843da247a0b837591781f54960ecdb726b2ff",
-          "title": "谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature",
-          "url": "https://www.ithome.com/1/023/788.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5c48dbcf61d5d775a2e5a797a4178e0c452d038b",
-          "title": "谷歌 AI 新研究：无需袖带利用消费级智能手表检测高血压，成果登 Nature",
-          "url": "https://www.ithome.com/1/023/788.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T10:26:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7717,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T10:26:47Z",
-      "latest_at": "2026-11-07T14:13:06.689886Z",
-      "primary_item": {
-        "id": "d46843da247a0b837591781f54960ecdb726b2ff",
-        "title": "谷歌 AI 新研究：无需袖带，利用消费级智能手表检测高血压，成果登 Nature",
-        "url": "https://www.ithome.com/1/023/788.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
