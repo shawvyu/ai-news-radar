@@ -1,86 +1,66 @@
 {
-  "generated_at": "2026-11-14T11:01:01.843049Z",
+  "generated_at": "2026-11-14T17:13:34.997555Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_40e78db6601d",
-      "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "story_id": "story_2427bacb74a9",
+      "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z"
-        },
-        {
-          "id": "9f853de54633dc07aea35625c7f0fa25e308ae8c",
-          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-13T18:00:39Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hugging Face Blog",
-        "Readhub · AI"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T14:05:22Z"
-        },
-        {
-          "id": "9f853de54633dc07aea35625c7f0fa25e308ae8c",
-          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础",
-          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-13T18:00:39Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8381,
-      "importance": 0.8381,
-      "importance_score": 0.8381,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7392,
-        "story_heat": 0.25
+        "ai_relevance": 0.98,
+        "recency": 0.7152,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T14:05:22Z",
-      "latest_at": "2026-11-13T18:12:08.706229Z",
+      "earliest_at": "2026-11-13T18:00:39Z",
+      "latest_at": "2026-11-13T18:00:39Z",
       "primary_item": {
-        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
-        "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+        "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
@@ -120,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7866,
+        "recency": 0.7192,
         "story_heat": 0.0
       },
       "category": "official",
@@ -144,130 +124,6 @@
         "title": "GitHub Copilot 中的 Gemini 4 Hydrogen / Gemini 4 Hydrogen in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5bf4951adbe9",
-      "title": "ChatGPT 钱包简介 / Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
-          "title": "ChatGPT 钱包简介 / Introducing ChatGPT Wallet",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
-          "title": "ChatGPT 钱包简介 / Introducing ChatGPT Wallet",
-          "url": "https://openai.com/index/introducing-chatgpt-wallet",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.749,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T15:00:00Z",
-      "latest_at": "2026-11-13T15:00:00Z",
-      "primary_item": {
-        "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
-        "title": "ChatGPT 钱包简介 / Introducing ChatGPT Wallet",
-        "url": "https://openai.com/index/introducing-chatgpt-wallet",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2427bacb74a9",
-      "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T18:00:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T18:00:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7822,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T18:00:39Z",
-      "latest_at": "2026-11-13T18:00:39Z",
-      "primary_item": {
-        "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
-        "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
-        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -306,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8128,
+        "recency": 0.7431,
         "story_heat": 0.0
       },
       "category": "official",
@@ -368,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9142,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -392,68 +248,6 @@
         "url": "https://www.aibase.com/news/32323",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8400bdfe1e2a",
-      "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "primary_url": "https://huggingface.co/blog/allenai/xybench",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-          "url": "https://huggingface.co/blog/allenai/xybench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T17:02:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-          "url": "https://huggingface.co/blog/allenai/xybench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T17:02:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7714,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T17:02:35Z",
-      "latest_at": "2026-11-13T17:02:35Z",
-      "primary_item": {
-        "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
-        "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
-        "url": "https://huggingface.co/blog/allenai/xybench",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -491,15 +285,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7873,
+        "recency": 0.7197,
         "story_heat": 0.0
       },
       "category": "official",
@@ -514,68 +308,6 @@
         "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
         "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
         "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fba640cc6c89",
-      "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
-      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "80ac462642d08ac454ccc85158579adc912e472c",
-          "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
-          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T12:22:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "80ac462642d08ac454ccc85158579adc912e472c",
-          "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
-          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T12:22:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7211,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T12:22:41Z",
-      "latest_at": "2026-11-13T12:22:41Z",
-      "primary_item": {
-        "id": "80ac462642d08ac454ccc85158579adc912e472c",
-        "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
-        "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -669,15 +401,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "score": 0.6288,
+      "importance": 0.6288,
+      "importance_score": 0.6288,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9142,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -692,6 +424,84 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-11-13",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_d46b516a4c83",
+      "title": "解雇萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 董事会成员表示，我们仍然不能信任人工智能首席执行官 / The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "primary_url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
+          "title": "解雇萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 董事会成员表示，我们仍然不能信任人工智能首席执行官 / The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-14T15:00:00Z"
+        },
+        {
+          "id": "07c57064317e0b14edfba41d485fa8d7e0849883",
+          "title": "解雇萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 董事会成员表示，我们仍然不能信任人工智能首席执行官 / The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-14T15:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
+          "title": "解雇萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 董事会成员表示，我们仍然不能信任人工智能首席执行官 / The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-14T15:00:00Z"
+        },
+        {
+          "id": "07c57064317e0b14edfba41d485fa8d7e0849883",
+          "title": "解雇萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 董事会成员表示，我们仍然不能信任人工智能首席执行官 / The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+          "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-14T15:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6223,
+      "importance": 0.6223,
+      "importance_score": 0.6223,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.9684,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T15:00:00Z",
+      "latest_at": "2026-11-14T15:00:00Z",
+      "primary_item": {
+        "id": "6af52e3783fbd5c80a30d1506e49dfb29b46bea4",
+        "title": "解雇萨姆·奥尔特曼 (Sam Altman) 的 OpenAI 董事会成员表示，我们仍然不能信任人工智能首席执行官 / The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+        "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -748,15 +558,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6192,
-      "importance": 0.6192,
-      "importance_score": 0.6192,
+      "score": 0.607,
+      "importance": 0.607,
+      "importance_score": 0.607,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.7898,
+        "recency": 0.7221,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -774,30 +584,30 @@
       }
     },
     {
-      "story_id": "story_966f15c56a4e",
-      "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成「虚拟细胞」预训练复现",
-      "url": "https://www.ithome.com/1/027/148.htm",
-      "primary_url": "https://www.ithome.com/1/027/148.htm",
+      "story_id": "story_c0e7ee2c6665",
+      "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+      "url": "https://www.ithome.com/1/027/229.htm",
+      "primary_url": "https://www.ithome.com/1/027/229.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "24a57acbe00d52844c34d6d9230fd1453ba31a7d",
-          "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成「虚拟细胞」预训练复现",
-          "url": "https://www.ithome.com/1/027/148.htm",
+          "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
+          "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+          "url": "https://www.ithome.com/1/027/229.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "331f9c8c1ab232e9afedbc9215522d05a9f09b6b",
-          "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成“虚拟细胞”预训练复现",
-          "url": "https://www.ithome.com/1/027/148.htm",
+          "id": "eadacb5ccf04bd4d5a7d2572e0baefb2be9bbf9c",
+          "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+          "url": "https://www.ithome.com/1/027/229.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-14T07:09:10Z"
+          "published_at": "2026-11-14T13:03:22Z"
         }
       ],
       "source_count": 2,
@@ -807,22 +617,22 @@
       ],
       "items": [
         {
-          "id": "24a57acbe00d52844c34d6d9230fd1453ba31a7d",
-          "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成「虚拟细胞」预训练复现",
-          "url": "https://www.ithome.com/1/027/148.htm",
+          "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
+          "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+          "url": "https://www.ithome.com/1/027/229.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "331f9c8c1ab232e9afedbc9215522d05a9f09b6b",
-          "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成“虚拟细胞”预训练复现",
-          "url": "https://www.ithome.com/1/027/148.htm",
+          "id": "eadacb5ccf04bd4d5a7d2572e0baefb2be9bbf9c",
+          "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+          "url": "https://www.ithome.com/1/027/229.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-14T07:09:10Z"
+          "published_at": "2026-11-14T13:03:22Z"
         }
       ],
       "item_count": 2,
@@ -842,110 +652,91 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T07:09:10Z",
-      "latest_at": "2026-11-14T11:01:01.843049Z",
+      "earliest_at": "2026-11-14T13:03:22Z",
+      "latest_at": "2026-11-14T17:13:34.997555Z",
       "primary_item": {
-        "id": "24a57acbe00d52844c34d6d9230fd1453ba31a7d",
-        "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成「虚拟细胞」预训练复现",
-        "url": "https://www.ithome.com/1/027/148.htm",
+        "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
+        "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+        "url": "https://www.ithome.com/1/027/229.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_da51afadad30",
-      "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-      "primary_url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+      "story_id": "story_8f2daa11c505",
+      "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+      "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
+      "primary_url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+          "id": "521bf0670814346061bd747307a915a263dc009d",
+          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-14T00:28:11Z"
+          "published_at": "2026-11-14T14:09:25Z"
         },
         {
-          "id": "09c03475580e31d548233207197f9127496e8641",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "url": "https://news.ycombinator.com/item?id=50492141",
+          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
+          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "url": "https://news.ycombinator.com/item?id=50497155",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "66d12209692eec3def727ca53357b4e371faa565",
-          "title": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "url": "https://claude.com/resources/articles/projects-redesigned",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T00:28:11Z"
+          "published_at": "2026-11-14T14:09:25Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+          "id": "521bf0670814346061bd747307a915a263dc009d",
+          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-14T00:28:11Z"
+          "published_at": "2026-11-14T14:09:25Z"
         },
         {
-          "id": "09c03475580e31d548233207197f9127496e8641",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "url": "https://news.ycombinator.com/item?id=50492141",
+          "id": "195b954efe87d3eb4915c0f699c2435562f638f9",
+          "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+          "url": "https://news.ycombinator.com/item?id=50497155",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "66d12209692eec3def727ca53357b4e371faa565",
-          "title": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "url": "https://claude.com/resources/articles/projects-redesigned",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T00:28:11Z"
+          "published_at": "2026-11-14T14:09:25Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8587,
-        "story_heat": 0.5
+        "recency": 0.9566,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T00:28:11Z",
-      "latest_at": "2026-11-14T00:28:11Z",
+      "earliest_at": "2026-11-14T14:09:25Z",
+      "latest_at": "2026-11-14T14:09:25Z",
       "primary_item": {
-        "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-        "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-        "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
+        "id": "521bf0670814346061bd747307a915a263dc009d",
+        "title": "通过两个带有 vLLM 的 Nvidia DGX 站以 607.8 tok/s 的速度为 GLM-5.3 提供服务 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+        "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
@@ -1004,15 +795,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5297,
+      "importance": 0.5297,
+      "importance_score": 0.5297,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.996,
+        "recency": 0.9106,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1026,85 +817,6 @@
         "title": "克劳德会议",
         "url": "https://claude.com/resources/articles/claude-meetings",
         "source": "claude.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c19e7ef010f7",
-      "title": "你完全可以凭记忆发明出变形金刚",
-      "url": "https://alexwang.ai/posts/associative-memory",
-      "primary_url": "https://alexwang.ai/posts/associative-memory",
-      "source": "alexwang.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-          "title": "你完全可以凭记忆发明出变形金刚",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "alexwang.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:46.164000Z"
-        },
-        {
-          "id": "34c0bd958b731204d23f44ae18127a5d4b8641b9",
-          "title": "你完全可以凭记忆发明出变形金刚 / You could have invented transformers from memory",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T04:49:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "alexwang.ai"
-      ],
-      "items": [
-        {
-          "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-          "title": "你完全可以凭记忆发明出变形金刚",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "alexwang.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:46.164000Z"
-        },
-        {
-          "id": "34c0bd958b731204d23f44ae18127a5d4b8641b9",
-          "title": "你完全可以凭记忆发明出变形金刚 / You could have invented transformers from memory",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T04:49:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5446,
-      "importance": 0.5446,
-      "importance_score": 0.5446,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9932,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T04:49:47Z",
-      "latest_at": "2026-11-14T10:32:46.164000Z",
-      "primary_item": {
-        "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-        "title": "你完全可以凭记忆发明出变形金刚",
-        "url": "https://alexwang.ai/posts/associative-memory",
-        "source": "alexwang.ai",
         "source_name": "Buzzing"
       }
     },
@@ -1162,15 +874,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9931,
+        "recency": 0.9079,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,15 +953,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9931,
+        "recency": 0.9079,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1263,6 +975,85 @@
         "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
         "url": "https://unsloth.ai/docs/models/qwen3.8",
         "source": "unsloth.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c19e7ef010f7",
+      "title": "你完全可以凭记忆发明出变形金刚",
+      "url": "https://alexwang.ai/posts/associative-memory",
+      "primary_url": "https://alexwang.ai/posts/associative-memory",
+      "source": "alexwang.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1165087802d3484327bc10c6dbfbac4f89354054",
+          "title": "你完全可以凭记忆发明出变形金刚",
+          "url": "https://alexwang.ai/posts/associative-memory",
+          "source": "alexwang.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:32:46.164000Z"
+        },
+        {
+          "id": "34c0bd958b731204d23f44ae18127a5d4b8641b9",
+          "title": "你完全可以凭记忆发明出变形金刚 / You could have invented transformers from memory",
+          "url": "https://alexwang.ai/posts/associative-memory",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T04:49:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "alexwang.ai"
+      ],
+      "items": [
+        {
+          "id": "1165087802d3484327bc10c6dbfbac4f89354054",
+          "title": "你完全可以凭记忆发明出变形金刚",
+          "url": "https://alexwang.ai/posts/associative-memory",
+          "source": "alexwang.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:32:46.164000Z"
+        },
+        {
+          "id": "34c0bd958b731204d23f44ae18127a5d4b8641b9",
+          "title": "你完全可以凭记忆发明出变形金刚 / You could have invented transformers from memory",
+          "url": "https://alexwang.ai/posts/associative-memory",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T04:49:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.908,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T04:49:47Z",
+      "latest_at": "2026-11-14T10:32:46.164000Z",
+      "primary_item": {
+        "id": "1165087802d3484327bc10c6dbfbac4f89354054",
+        "title": "你完全可以凭记忆发明出变形金刚",
+        "url": "https://alexwang.ai/posts/associative-memory",
+        "source": "alexwang.ai",
         "source_name": "Buzzing"
       }
     },
@@ -1339,15 +1130,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.527,
+      "importance": 0.527,
+      "importance_score": 0.527,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8274,
+        "recency": 0.7565,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1383,7 +1174,7 @@
         },
         {
           "id": "7cc7890601c605f9afb933f53b1256b8fe337eaa",
-          "title": "“超前于时代”：人工智能助力揭开这位改变数学史的学者笔记本中隐藏的发现 / AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "title": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理 / AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
           "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1391,18 +1182,19 @@
           "published_at": "2026-11-13T17:30:10Z"
         },
         {
-          "id": "7415aa86552bf46238efdb599bbc070915954d15",
-          "title": "“超前于时代”：人工智能助力揭开这位改变数学史的学者笔记本中隐藏的发现",
-          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T16:51:50.020000Z"
+          "id": "bcc09a11f3b6411a37632ddbe03bc004aa4c03aa",
+          "title": "人工智能解锁哥德尔笔记本，据说其中包含数百个已证明的定理 / AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "url": "https://news.ycombinator.com/item?id=50486748",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T17:30:10Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
+        "hackernews",
         "www.theguardian.com"
       ],
       "items": [
@@ -1417,7 +1209,7 @@
         },
         {
           "id": "7cc7890601c605f9afb933f53b1256b8fe337eaa",
-          "title": "“超前于时代”：人工智能助力揭开这位改变数学史的学者笔记本中隐藏的发现 / AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "title": "据称，人工智能解锁了哥德尔的笔记，其中包含数百个已证明的定理 / AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
           "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1425,33 +1217,33 @@
           "published_at": "2026-11-13T17:30:10Z"
         },
         {
-          "id": "7415aa86552bf46238efdb599bbc070915954d15",
-          "title": "“超前于时代”：人工智能助力揭开这位改变数学史的学者笔记本中隐藏的发现",
-          "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T16:51:50.020000Z"
+          "id": "bcc09a11f3b6411a37632ddbe03bc004aa4c03aa",
+          "title": "人工智能解锁哥德尔笔记本，据说其中包含数百个已证明的定理 / AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+          "url": "https://news.ycombinator.com/item?id=50486748",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T17:30:10Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.533,
-      "importance": 0.533,
-      "importance_score": 0.533,
+      "score": 0.5208,
+      "importance": 0.5208,
+      "importance_score": 0.5208,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.79,
+        "recency": 0.7223,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-13T16:51:50.020000Z",
+      "earliest_at": "2026-11-13T17:30:10Z",
       "latest_at": "2026-11-13T18:41:46.415000Z",
       "primary_item": {
         "id": "af47462fee284e66db42bf90310de7b0c0e09e1c",
@@ -1462,100 +1254,319 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "source": "www.youtube.com",
-      "source_name": "Buzzing",
+      "story_id": "story_197819bcc934",
+      "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://news.ycombinator.com/item?id=50493251",
+      "primary_url": "https://news.ycombinator.com/item?id=50493251",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "3a55bfcc69f4ee51a74becfcb6b60d6c77555f4d",
-          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T17:54:54.250000Z"
+          "id": "2d7623a763c69046c3901343648bd636f62daa03",
+          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://news.ycombinator.com/item?id=50493251",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T02:52:59Z"
         },
         {
-          "id": "f8eb3fcad27cb89dc08a29cd24291f3745addd4c",
-          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频] / Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T15:08:44Z"
-        },
-        {
-          "id": "a2bdc41eb2f6197e217e871614a0da6aa5e31cde",
-          "title": "黄仁勋的垮台：英伟达的贪婪和腐败 [视频] / The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]",
-          "url": "https://www.youtube.com/watch?v=YYU_geUwQoA",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T13:45:06Z"
+          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
+          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T02:10:01Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.youtube.com"
+        "Reddit (热门)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "3a55bfcc69f4ee51a74becfcb6b60d6c77555f4d",
-          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T17:54:54.250000Z"
+          "id": "2d7623a763c69046c3901343648bd636f62daa03",
+          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://news.ycombinator.com/item?id=50493251",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T02:52:59Z"
         },
         {
-          "id": "f8eb3fcad27cb89dc08a29cd24291f3745addd4c",
-          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频] / Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T15:08:44Z"
-        },
-        {
-          "id": "a2bdc41eb2f6197e217e871614a0da6aa5e31cde",
-          "title": "黄仁勋的垮台：英伟达的贪婪和腐败 [视频] / The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]",
-          "url": "https://www.youtube.com/watch?v=YYU_geUwQoA",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T13:45:06Z"
+          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
+          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T02:10:01Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7812,
-        "story_heat": 0.5
+        "recency": 0.8129,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-13T13:45:06Z",
-      "latest_at": "2026-11-13T17:54:54.250000Z",
+      "earliest_at": "2026-11-14T02:10:01Z",
+      "latest_at": "2026-11-14T02:52:59Z",
       "primary_item": {
-        "id": "3a55bfcc69f4ee51a74becfcb6b60d6c77555f4d",
-        "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
-        "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-        "source": "www.youtube.com",
+        "id": "2d7623a763c69046c3901343648bd636f62daa03",
+        "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+        "url": "https://news.ycombinator.com/item?id=50493251",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_18188c8ad3a8",
+      "title": "Perplexity Decider v1.3：训练、评估及应用场景",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "primary_url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "source": "www.perplexity.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7291c4476b2dfa6b4903699500d8ade2b3b7d8bf",
+          "title": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+          "source": "www.perplexity.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T02:39:53.814000Z"
+        },
+        {
+          "id": "bb54ee24d70dd3b94f1dccfdce3ee044b1b878e2",
+          "title": "Perplexity Decider v1.3：训练、评估及应用场景 / Perplexity Decider v1.3: Training, eval, and use cases",
+          "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-13T19:24:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.perplexity.ai"
+      ],
+      "items": [
+        {
+          "id": "7291c4476b2dfa6b4903699500d8ade2b3b7d8bf",
+          "title": "Perplexity Decider v1.3：训练、评估及应用场景",
+          "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+          "source": "www.perplexity.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T02:39:53.814000Z"
+        },
+        {
+          "id": "bb54ee24d70dd3b94f1dccfdce3ee044b1b878e2",
+          "title": "Perplexity Decider v1.3：训练、评估及应用场景 / Perplexity Decider v1.3: Training, eval, and use cases",
+          "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-13T19:24:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5117,
+      "importance": 0.5117,
+      "importance_score": 0.5117,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8104,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T19:24:47Z",
+      "latest_at": "2026-11-14T02:39:53.814000Z",
+      "primary_item": {
+        "id": "7291c4476b2dfa6b4903699500d8ade2b3b7d8bf",
+        "title": "Perplexity Decider v1.3：训练、评估及应用场景",
+        "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+        "source": "www.perplexity.ai",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_40e78db6601d",
+      "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / Llama.cpp hits v1.0 with a native app for macOS",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "855015be6dd2202010cc4c6588a6ced118b5be4e",
+          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / Llama.cpp hits v1.0 with a native app for macOS",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T02:05:37Z"
+        },
+        {
+          "id": "9f853de54633dc07aea35625c7f0fa25e308ae8c",
+          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "855015be6dd2202010cc4c6588a6ced118b5be4e",
+          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / Llama.cpp hits v1.0 with a native app for macOS",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T02:05:37Z"
+        },
+        {
+          "id": "9f853de54633dc07aea35625c7f0fa25e308ae8c",
+          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5105,
+      "importance": 0.5105,
+      "importance_score": 0.5105,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8037,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T18:12:08.706229Z",
+      "latest_at": "2026-11-14T02:05:37Z",
+      "primary_item": {
+        "id": "855015be6dd2202010cc4c6588a6ced118b5be4e",
+        "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / Llama.cpp hits v1.0 with a native app for macOS",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_3f060b226b66",
+      "title": "Show HN: Agweb——一款专为经纪人设计的浏览器，操作简便，不干扰您的工作 / Show HN: Agweb – a browser for agents that stays out of your way",
+      "url": "https://github.com/paul-nameless/agweb",
+      "primary_url": "https://github.com/paul-nameless/agweb",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
+          "title": "Show HN: Agweb——一款专为经纪人设计的浏览器，操作简便，不干扰您的工作 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "url": "https://github.com/paul-nameless/agweb",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T14:08:12Z"
+        },
+        {
+          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
+          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "url": "https://news.ycombinator.com/item?id=50497147",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T14:08:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
+          "title": "Show HN: Agweb——一款专为经纪人设计的浏览器，操作简便，不干扰您的工作 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "url": "https://github.com/paul-nameless/agweb",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T14:08:12Z"
+        },
+        {
+          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
+          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "url": "https://news.ycombinator.com/item?id=50497147",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T14:08:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9564,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T14:08:12Z",
+      "latest_at": "2026-11-14T14:08:12Z",
+      "primary_item": {
+        "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
+        "title": "Show HN: Agweb——一款专为经纪人设计的浏览器，操作简便，不干扰您的工作 / Show HN: Agweb – a browser for agents that stays out of your way",
+        "url": "https://github.com/paul-nameless/agweb",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
