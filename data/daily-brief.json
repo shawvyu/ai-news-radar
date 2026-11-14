@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T23:43:56.117990Z",
+  "generated_at": "2026-11-14T03:46:04.858096Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8616,
-      "importance": 0.8616,
-      "importance_score": 0.8616,
+      "score": 0.8527,
+      "importance": 0.8527,
+      "importance_score": 0.8527,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.87,
+        "recency": 0.8208,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8467,
-      "importance": 0.8467,
-      "importance_score": 0.8467,
+      "score": 0.8372,
+      "importance": 0.8372,
+      "importance_score": 0.8372,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9258,
+        "recency": 0.8734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -144,87 +144,6 @@
         "title": "GitHub Copilot 中的 Gemini 4 Hydrogen / Gemini 4 Hydrogen in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.168.0 / Codex CLI 0.168.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "aff218038415ee87812e41136d03188eae6f9248",
-          "title": "法典 CLI 0.168.0 / Codex CLI 0.168.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T00:00:00Z"
-        },
-        {
-          "id": "ca218b41e4defe86f033e3116698e1f72c7ff25f",
-          "title": "法典 CLI 0.169.0 / Codex CLI 0.169.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "aff218038415ee87812e41136d03188eae6f9248",
-          "title": "法典 CLI 0.168.0 / Codex CLI 0.168.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T00:00:00Z"
-        },
-        {
-          "id": "ca218b41e4defe86f033e3116698e1f72c7ff25f",
-          "title": "法典 CLI 0.169.0 / Codex CLI 0.169.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-13T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7098,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T00:00:00Z",
-      "latest_at": "2026-11-13T00:00:00Z",
-      "primary_item": {
-        "id": "aff218038415ee87812e41136d03188eae6f9248",
-        "title": "法典 CLI 0.168.0 / Codex CLI 0.168.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -263,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8815,
+        "recency": 0.8316,
         "story_heat": 0.0
       },
       "category": "official",
@@ -325,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8517,
-      "importance": 0.8517,
-      "importance_score": 0.8517,
+      "score": 0.8423,
+      "importance": 0.8423,
+      "importance_score": 0.8423,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9207,
+        "recency": 0.8686,
         "story_heat": 0.0
       },
       "category": "official",
@@ -387,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8442,
-      "importance": 0.8442,
-      "importance_score": 0.8442,
+      "score": 0.8345,
+      "importance": 0.8345,
+      "importance_score": 0.8345,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9567,
+        "recency": 0.9026,
         "story_heat": 0.0
       },
       "category": "official",
@@ -411,6 +330,68 @@
         "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
         "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d1318183fe17",
+      "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "primary_url": "https://openai.com/business/customer-stories/shield",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
+          "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T08:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
+          "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
+          "url": "https://openai.com/business/customer-stories/shield",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T08:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7517,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T08:00:00Z",
+      "latest_at": "2026-11-13T08:00:00Z",
+      "primary_item": {
+        "id": "7d5abb0059fb7bbbd53685d7df5da2afc6192a8c",
+        "title": "Shield 帮助技术人员使用 OpenAI 移交遗留门户工作 / Shield helps technicians hand off legacy portal work with OpenAI",
+        "url": "https://openai.com/business/customer-stories/shield",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -449,15 +430,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8434,
-      "importance": 0.8434,
-      "importance_score": 0.8434,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9079,
+        "recency": 0.8565,
         "story_heat": 0.0
       },
       "category": "official",
@@ -511,15 +492,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8293,
+      "importance": 0.8293,
+      "importance_score": 0.8293,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9266,
+        "recency": 0.8741,
         "story_heat": 0.0
       },
       "category": "official",
@@ -592,15 +573,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8271,
+        "recency": 0.7803,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -673,15 +654,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8271,
+        "recency": 0.7803,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -735,15 +716,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8488,
+        "recency": 0.8007,
         "story_heat": 0.0
       },
       "category": "official",
@@ -816,15 +797,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8271,
+        "recency": 0.7803,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -897,15 +878,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8271,
+        "recency": 0.7803,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -978,15 +959,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6444,
-      "importance": 0.6444,
-      "importance_score": 0.6444,
+      "score": 0.6349,
+      "importance": 0.6349,
+      "importance_score": 0.6349,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.9296,
+        "recency": 0.8769,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1057,15 +1038,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8271,
+        "recency": 0.7803,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1138,15 +1119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8271,
+        "recency": 0.7803,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1219,15 +1200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8271,
+        "recency": 0.7803,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1319,15 +1300,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5661,
-      "importance": 0.5661,
-      "importance_score": 0.5661,
+      "score": 0.5562,
+      "importance": 0.5562,
+      "importance_score": 0.5562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9739,
+        "recency": 0.9187,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1416,15 +1397,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5582,
-      "importance": 0.5582,
-      "importance_score": 0.5582,
+      "score": 0.5487,
+      "importance": 0.5487,
+      "importance_score": 0.5487,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9299,
+        "recency": 0.8772,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1459,12 +1440,12 @@
           "published_at": "2026-11-13T17:54:54.250000Z"
         },
         {
-          "id": "2ed729574be84e5c3b66ae960ca17344dd63a591",
+          "id": "f8eb3fcad27cb89dc08a29cd24291f3745addd4c",
           "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频] / Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
           "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-13T15:08:44Z"
         },
         {
@@ -1479,7 +1460,6 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
         "www.youtube.com"
       ],
@@ -1494,12 +1474,12 @@
           "published_at": "2026-11-13T17:54:54.250000Z"
         },
         {
-          "id": "2ed729574be84e5c3b66ae960ca17344dd63a591",
+          "id": "f8eb3fcad27cb89dc08a29cd24291f3745addd4c",
           "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频] / Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
           "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-13T15:08:44Z"
         },
         {
@@ -1514,15 +1494,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5563,
-      "importance": 0.5563,
-      "importance_score": 0.5563,
+      "score": 0.5469,
+      "importance": 0.5469,
+      "importance_score": 0.5469,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9194,
+        "recency": 0.8674,
         "story_heat": 0.5
       },
       "category": "multi_source",
