@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T21:35:52.124097Z",
+  "generated_at": "2026-11-15T01:23:07.975147Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 15,
   "items": [
     {
       "story_id": "story_53dbbc26da9d",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7339,
+      "importance": 0.7339,
+      "importance_score": 0.7339,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8583,
+        "recency": 0.8126,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -261,15 +261,15 @@
       ],
       "item_count": 10,
       "duplicate_count": 10,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6596,
+      "importance": 0.6596,
+      "importance_score": 0.6596,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9468,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -339,15 +339,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6116,
-      "importance": 0.6116,
-      "importance_score": 0.6116,
+      "score": 0.6029,
+      "importance": 0.6029,
+      "importance_score": 0.6029,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9091,
+        "recency": 0.8607,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -362,6 +362,123 @@
         "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
         "source": "The Verge",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_197819bcc934",
+      "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "www.techpowerup.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
+          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "source": "www.techpowerup.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:32:03.584000Z"
+        },
+        {
+          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
+          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T02:52:59Z"
+        },
+        {
+          "id": "2d7623a763c69046c3901343648bd636f62daa03",
+          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://news.ycombinator.com/item?id=50493251",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T02:52:59Z"
+        },
+        {
+          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
+          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T02:10:01Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Reddit (热门)",
+        "hackernews",
+        "www.techpowerup.com"
+      ],
+      "items": [
+        {
+          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
+          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "source": "www.techpowerup.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:32:03.584000Z"
+        },
+        {
+          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
+          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T02:52:59Z"
+        },
+        {
+          "id": "2d7623a763c69046c3901343648bd636f62daa03",
+          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://news.ycombinator.com/item?id=50493251",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T02:52:59Z"
+        },
+        {
+          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
+          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T02:10:01Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5611,
+      "importance": 0.5611,
+      "importance_score": 0.5611,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.807,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T02:10:01Z",
+      "latest_at": "2026-11-14T10:32:03.584000Z",
+      "primary_item": {
+        "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
+        "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "source": "www.techpowerup.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -382,12 +499,12 @@
           "published_at": "2026-11-14T19:38:56.216000Z"
         },
         {
-          "id": "521bf0670814346061bd747307a915a263dc009d",
+          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
           "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
           "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-14T14:09:25Z"
         },
         {
@@ -402,7 +519,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "developer.nvidia.com",
         "hackernews"
       ],
@@ -417,12 +534,12 @@
           "published_at": "2026-11-14T19:38:56.216000Z"
         },
         {
-          "id": "521bf0670814346061bd747307a915a263dc009d",
+          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
           "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
           "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-14T14:09:25Z"
         },
         {
@@ -437,15 +554,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5658,
-      "importance": 0.5658,
-      "importance_score": 0.5658,
+      "score": 0.5565,
+      "importance": 0.5565,
+      "importance_score": 0.5565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9722,
+        "recency": 0.9205,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -490,7 +607,7 @@
         },
         {
           "id": "c3a51213b2121f17ae638fc37adeadeeead61fcc",
-          "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+          "title": "以约 200 行纯 Jax 代码显示 HN：DeepSeek V3 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
           "url": "https://news.ycombinator.com/item?id=50497589",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -525,7 +642,7 @@
         },
         {
           "id": "c3a51213b2121f17ae638fc37adeadeeead61fcc",
-          "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+          "title": "以约 200 行纯 Jax 代码显示 HN：DeepSeek V3 / Show HN: DeepSeek V3 in ~200 lines of pure Jax",
           "url": "https://news.ycombinator.com/item?id=50497589",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -535,15 +652,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5548,
-      "importance": 0.5548,
-      "importance_score": 0.5548,
+      "score": 0.5461,
+      "importance": 0.5461,
+      "importance_score": 0.5461,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.911,
+        "recency": 0.8625,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -558,84 +675,6 @@
         "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_73d9d5b1e903",
-      "title": "SpaceX Catches the Starship to end Flight 15",
-      "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-      "primary_url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "afcc10c4716477b2deec2d54411abc1744908163",
-          "title": "SpaceX Catches the Starship to end Flight 15",
-          "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T21:22:24Z"
-        },
-        {
-          "id": "ff938037bc095d76045448e5df76ea120d7ce970",
-          "title": "Starship Launch 15 Live",
-          "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T22:18:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "afcc10c4716477b2deec2d54411abc1744908163",
-          "title": "SpaceX Catches the Starship to end Flight 15",
-          "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T21:22:24Z"
-        },
-        {
-          "id": "ff938037bc095d76045448e5df76ea120d7ce970",
-          "title": "Starship Launch 15 Live",
-          "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T22:18:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9968,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-13T22:18:33Z",
-      "latest_at": "2026-11-14T21:22:24Z",
-      "primary_item": {
-        "id": "afcc10c4716477b2deec2d54411abc1744908163",
-        "title": "SpaceX Catches the Starship to end Flight 15",
-        "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -692,15 +731,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9388,
+        "recency": 0.8889,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -771,15 +810,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
+      "score": 0.5188,
+      "importance": 0.5188,
+      "importance_score": 0.5188,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8979,
+        "recency": 0.8501,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -797,82 +836,81 @@
       }
     },
     {
-      "story_id": "story_21ab7432dba4",
-      "title": "克劳德会议",
-      "url": "https://claude.com/resources/articles/claude-meetings",
-      "primary_url": "https://claude.com/resources/articles/claude-meetings",
-      "source": "claude.com",
-      "source_name": "Buzzing",
+      "story_id": "story_fbb4c2fd353e",
+      "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "primary_url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
-          "title": "克劳德会议",
-          "url": "https://claude.com/resources/articles/claude-meetings",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:44:27.205000Z"
-        },
-        {
-          "id": "c7ad6451d622eeb9017ca3f5dbad957b2cf1ea32",
-          "title": "克劳德会议 / Claude Meetings",
-          "url": "https://claude.com/resources/articles/claude-meetings",
+          "id": "279e62d0dcf191210bdbcba9cc5645ee3079aa4f",
+          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
+          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-13T22:39:15Z"
+          "published_at": "2026-11-14T13:43:28Z"
+        },
+        {
+          "id": "9422a8411a9653199cf9e196227bcff0757481f2",
+          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The documentary [video]",
+          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T13:43:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "claude.com"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
-          "title": "克劳德会议",
-          "url": "https://claude.com/resources/articles/claude-meetings",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:44:27.205000Z"
-        },
-        {
-          "id": "c7ad6451d622eeb9017ca3f5dbad957b2cf1ea32",
-          "title": "克劳德会议 / Claude Meetings",
-          "url": "https://claude.com/resources/articles/claude-meetings",
+          "id": "279e62d0dcf191210bdbcba9cc5645ee3079aa4f",
+          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
+          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-13T22:39:15Z"
+          "published_at": "2026-11-14T13:43:28Z"
+        },
+        {
+          "id": "9422a8411a9653199cf9e196227bcff0757481f2",
+          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The documentary [video]",
+          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T13:43:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5197,
-      "importance": 0.5197,
-      "importance_score": 0.5197,
+      "score": 0.5179,
+      "importance": 0.5179,
+      "importance_score": 0.5179,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8549,
+        "recency": 0.845,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-13T22:39:15Z",
-      "latest_at": "2026-11-14T10:44:27.205000Z",
+      "earliest_at": "2026-11-14T13:43:28Z",
+      "latest_at": "2026-11-14T13:43:28Z",
       "primary_item": {
-        "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
-        "title": "克劳德会议",
-        "url": "https://claude.com/resources/articles/claude-meetings",
-        "source": "claude.com",
-        "source_name": "Buzzing"
+        "id": "279e62d0dcf191210bdbcba9cc5645ee3079aa4f",
+        "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
+        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -929,15 +967,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5192,
-      "importance": 0.5192,
-      "importance_score": 0.5192,
+      "score": 0.5111,
+      "importance": 0.5111,
+      "importance_score": 0.5111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8523,
+        "recency": 0.807,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -951,85 +989,6 @@
         "title": "Ask HN: 有哪些最实用、最具体的人工智能技能值得自主学习？",
         "url": "https://news.ycombinator.com/item?id=50494696",
         "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_10c60fc60c0f",
-      "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "primary_url": "https://unsloth.ai/docs/models/qwen3.8",
-      "source": "unsloth.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "12903a53c9546f10f167828099cb78396294e480",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "unsloth.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.410000Z"
-        },
-        {
-          "id": "b5ce038019dead0f758119ef2bc643b995a8c5de",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T00:06:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "unsloth.ai"
-      ],
-      "items": [
-        {
-          "id": "12903a53c9546f10f167828099cb78396294e480",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "unsloth.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.410000Z"
-        },
-        {
-          "id": "b5ce038019dead0f758119ef2bc643b995a8c5de",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T00:06:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5192,
-      "importance": 0.5192,
-      "importance_score": 0.5192,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8523,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T00:06:04Z",
-      "latest_at": "2026-11-14T10:32:03.410000Z",
-      "primary_item": {
-        "id": "12903a53c9546f10f167828099cb78396294e480",
-        "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-        "url": "https://unsloth.ai/docs/models/qwen3.8",
-        "source": "unsloth.ai",
         "source_name": "Buzzing"
       }
     },
@@ -1087,15 +1046,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5192,
-      "importance": 0.5192,
-      "importance_score": 0.5192,
+      "score": 0.5111,
+      "importance": 0.5111,
+      "importance_score": 0.5111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8525,
+        "recency": 0.8071,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1165,15 +1124,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5159,
-      "importance": 0.5159,
-      "importance_score": 0.5159,
+      "score": 0.5079,
+      "importance": 0.5079,
+      "importance_score": 0.5079,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8341,
+        "recency": 0.7897,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1187,340 +1146,6 @@
         "title": "[Claude] 请问上班族, 后端开发, 订阅 claude x5 还是 x20 ?",
         "url": "https://www.v2ex.com/t/1257062",
         "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_197819bcc934",
-      "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://news.ycombinator.com/item?id=50493251",
-      "primary_url": "https://news.ycombinator.com/item?id=50493251",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2d7623a763c69046c3901343648bd636f62daa03",
-          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://news.ycombinator.com/item?id=50493251",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
-          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:10:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Reddit (热门)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2d7623a763c69046c3901343648bd636f62daa03",
-          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://news.ycombinator.com/item?id=50493251",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
-          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:10:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5032,
-      "importance": 0.5032,
-      "importance_score": 0.5032,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7632,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T02:10:01Z",
-      "latest_at": "2026-11-14T02:52:59Z",
-      "primary_item": {
-        "id": "2d7623a763c69046c3901343648bd636f62daa03",
-        "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-        "url": "https://news.ycombinator.com/item?id=50493251",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_643f4f010bfe",
-      "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
-      "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-      "primary_url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0487e816a59c8b0d92d54932262459c31a544f53",
-          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
-          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T00:02:21.523000Z"
-        },
-        {
-          "id": "64cd95e84c06932afd482b9e9d0dec67b9307860",
-          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任 / FAA SMART AI system vendor and  Microsoft both say ground stop isn't their fault",
-          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-13T23:49:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "0487e816a59c8b0d92d54932262459c31a544f53",
-          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
-          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T00:02:21.523000Z"
-        },
-        {
-          "id": "64cd95e84c06932afd482b9e9d0dec67b9307860",
-          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任 / FAA SMART AI system vendor and  Microsoft both say ground stop isn't their fault",
-          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-13T23:49:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4976,
-      "importance": 0.4976,
-      "importance_score": 0.4976,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7325,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-13T23:49:27Z",
-      "latest_at": "2026-11-14T00:02:21.523000Z",
-      "primary_item": {
-        "id": "0487e816a59c8b0d92d54932262459c31a544f53",
-        "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
-        "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fbb4c2fd353e",
-      "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
-      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "primary_url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "279e62d0dcf191210bdbcba9cc5645ee3079aa4f",
-          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
-          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T13:43:28Z"
-        },
-        {
-          "id": "9422a8411a9653199cf9e196227bcff0757481f2",
-          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The documentary [video]",
-          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T13:43:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "279e62d0dcf191210bdbcba9cc5645ee3079aa4f",
-          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
-          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T13:43:28Z"
-        },
-        {
-          "id": "9422a8411a9653199cf9e196227bcff0757481f2",
-          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The documentary [video]",
-          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T13:43:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8925,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T13:43:28Z",
-      "latest_at": "2026-11-14T13:43:28Z",
-      "primary_item": {
-        "id": "279e62d0dcf191210bdbcba9cc5645ee3079aa4f",
-        "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
-        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_da51afadad30",
-      "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-      "primary_url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "09c03475580e31d548233207197f9127496e8641",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "url": "https://news.ycombinator.com/item?id=50492141",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "66d12209692eec3def727ca53357b4e371faa565",
-          "title": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "url": "https://claude.com/resources/articles/projects-redesigned",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T00:28:11Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "09c03475580e31d548233207197f9127496e8641",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "url": "https://news.ycombinator.com/item?id=50492141",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "66d12209692eec3def727ca53357b4e371faa565",
-          "title": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "url": "https://claude.com/resources/articles/projects-redesigned",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T00:28:11Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.737,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T00:28:11Z",
-      "latest_at": "2026-11-14T00:28:11Z",
-      "primary_item": {
-        "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-        "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-        "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-        "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
     },
@@ -1578,15 +1203,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8583,
+        "recency": 0.8126,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1657,15 +1282,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8583,
+        "recency": 0.8126,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1736,15 +1361,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5049,
-      "importance": 0.5049,
-      "importance_score": 0.5049,
+      "score": 0.4975,
+      "importance": 0.4975,
+      "importance_score": 0.4975,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.773,
+        "recency": 0.7319,
         "story_heat": 0.25
       },
       "category": "watch",
