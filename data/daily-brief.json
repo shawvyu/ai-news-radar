@@ -1,8 +1,132 @@
 {
-  "generated_at": "2026-11-15T20:26:59.530171Z",
+  "generated_at": "2026-11-16T00:05:38.765055Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 14,
   "items": [
+    {
+      "story_id": "story_87d7014c15ee",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "primary_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+          "title": "A step toward defining the Standard Model on a lattice",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+          "title": "A step toward defining the Standard Model on a lattice",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8466,
+      "importance": 0.8466,
+      "importance_score": 0.8466,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9702,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-15T22:00:01Z",
+      "latest_at": "2026-11-15T22:00:01Z",
+      "primary_item": {
+        "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+        "title": "A step toward defining the Standard Model on a lattice",
+        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4b0fc5b701ff",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "primary_url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+          "title": "Our new blog for science",
+          "url": "https://openai.com/index/our-new-blog-for-science",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+          "title": "Our new blog for science",
+          "url": "https://openai.com/index/our-new-blog-for-science",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8466,
+      "importance": 0.8466,
+      "importance_score": 0.8466,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9702,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-15T22:00:00Z",
+      "latest_at": "2026-11-15T22:00:00Z",
+      "primary_item": {
+        "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+        "title": "Our new blog for science",
+        "url": "https://openai.com/index/our-new-blog-for-science",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_91cc17dfbbc6",
       "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
@@ -38,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
+      "score": 0.7215,
+      "importance": 0.7215,
+      "importance_score": 0.7215,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7838,
+        "recency": 0.7436,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -106,65 +230,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-11-15T20:26:59.530171Z"
-        },
-        {
-          "id": "705aa5a299a6a5c17acb294adee87486b65bd8c9",
-          "title": "Anthropic发布了可落地的在线Agent架构最佳实践，打破了“7×24运行=持续耗Token”的误区。文中给出了队列去重、记忆精简、凭证隔离等实操准则，适合需要处理长周期任务的开发团队做参考。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-14T21:35:52.124097Z"
-        },
-        {
-          "id": "94b4742ba1bc4930b386af83e5194616ed0b9a7b",
-          "title": "作者分享了团队用 Hermes 连续实践 4 个月、每天处理 200 多项自动化任务的经验。希望大家在 Personal AI Agent 之外，也会对企业级 Agent OS 的设计、架构以及应用层有一些常规的认识。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-14T21:35:52.124097Z"
-        },
-        {
-          "id": "27f78ed922d255ca891f5e8f1c4bc62e0b27da6c",
-          "title": "你是不是也想用 AI 做科普动画，但装好Skill才发现输出的是网页。作者整理了 11 个项目，从讲解配图、交互演示到成片制作，逐一说明了能交付什么、需要哪些环境，以及费用可能花在哪。可以看看哪些适合你！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-14T21:35:52.124097Z"
-        },
-        {
-          "id": "3edfa2a14e7f0ff27fba227b1bd7e461df751dc3",
-          "title": "用 AI 写了不少内容，客户和合作机会却没增加？作者用 Grok Bot 搜集行业动态、潜在客户、赞助商和招聘线索，再用 Claude 整理内容策略、合作提案与服务方案，轻松实现在线月入一万美元。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-14T21:35:52.124097Z"
-        },
-        {
-          "id": "26bb9626130c005a2f90079d0ad38ffcf8d7f918",
-          "title": "老金从卖出第一套提示词的经历讲起，分享了普通人用 AI 变现的一条实际路径：从哪里找客户、哪些需求值得接、怎样把事情聊清楚并做好交付。如果你也想迈出第一步，不妨看看他的经验，找到自己能做、也有人愿意付钱的小生意。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-14T21:35:52.124097Z"
-        },
-        {
-          "id": "3b0de0480750c824c0880b704aae20e15982de51",
-          "title": "让AI把页面“做得高级一点”，改了几轮还是不满意？很多时候，我们缺的是具体的参考，以及说清“哪里好看”的能力。作者整理了 100 个设计网站，按视频、UI、前端交互、字体配色等 9 类划分，标明了用途和付费情况，方便按项目找灵感。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-14T21:35:52.124097Z"
         }
       ],
-      "source_count": 10,
+      "source_count": 4,
       "source_names": [
-        "社区更新 · 2026-11-14",
         "社区更新 · 2026-11-15"
       ],
       "items": [
@@ -203,80 +272,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-11-15T20:26:59.530171Z"
-        },
-        {
-          "id": "705aa5a299a6a5c17acb294adee87486b65bd8c9",
-          "title": "Anthropic发布了可落地的在线Agent架构最佳实践，打破了“7×24运行=持续耗Token”的误区。文中给出了队列去重、记忆精简、凭证隔离等实操准则，适合需要处理长周期任务的开发团队做参考。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-14T21:35:52.124097Z"
-        },
-        {
-          "id": "94b4742ba1bc4930b386af83e5194616ed0b9a7b",
-          "title": "作者分享了团队用 Hermes 连续实践 4 个月、每天处理 200 多项自动化任务的经验。希望大家在 Personal AI Agent 之外，也会对企业级 Agent OS 的设计、架构以及应用层有一些常规的认识。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-14T21:35:52.124097Z"
-        },
-        {
-          "id": "27f78ed922d255ca891f5e8f1c4bc62e0b27da6c",
-          "title": "你是不是也想用 AI 做科普动画，但装好Skill才发现输出的是网页。作者整理了 11 个项目，从讲解配图、交互演示到成片制作，逐一说明了能交付什么、需要哪些环境，以及费用可能花在哪。可以看看哪些适合你！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-14T21:35:52.124097Z"
-        },
-        {
-          "id": "3edfa2a14e7f0ff27fba227b1bd7e461df751dc3",
-          "title": "用 AI 写了不少内容，客户和合作机会却没增加？作者用 Grok Bot 搜集行业动态、潜在客户、赞助商和招聘线索，再用 Claude 整理内容策略、合作提案与服务方案，轻松实现在线月入一万美元。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-14T21:35:52.124097Z"
-        },
-        {
-          "id": "26bb9626130c005a2f90079d0ad38ffcf8d7f918",
-          "title": "老金从卖出第一套提示词的经历讲起，分享了普通人用 AI 变现的一条实际路径：从哪里找客户、哪些需求值得接、怎样把事情聊清楚并做好交付。如果你也想迈出第一步，不妨看看他的经验，找到自己能做、也有人愿意付钱的小生意。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-14T21:35:52.124097Z"
-        },
-        {
-          "id": "3b0de0480750c824c0880b704aae20e15982de51",
-          "title": "让AI把页面“做得高级一点”，改了几轮还是不满意？很多时候，我们缺的是具体的参考，以及说清“哪里好看”的能力。作者整理了 100 个设计网站，按视频、UI、前端交互、字体配色等 9 类划分，标明了用途和付费情况，方便按项目找灵感。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-14",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-14T21:35:52.124097Z"
         }
       ],
-      "item_count": 10,
-      "duplicate_count": 10,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.635,
+      "importance": 0.635,
+      "importance_score": 0.635,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
+        "recency": 0.9487,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T21:35:52.124097Z",
+      "earliest_at": "2026-11-15T20:26:59.530171Z",
       "latest_at": "2026-11-15T20:26:59.530171Z",
       "primary_item": {
         "id": "4cf0139056f7d5dfafd5b5f3724ce6145fac7fe1",
@@ -359,15 +374,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5617,
-      "importance": 0.5617,
-      "importance_score": 0.5617,
+      "score": 0.5529,
+      "importance": 0.5529,
+      "importance_score": 0.5529,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9495,
+        "recency": 0.9008,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -457,15 +472,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5547,
-      "importance": 0.5547,
-      "importance_score": 0.5547,
+      "score": 0.5463,
+      "importance": 0.5463,
+      "importance_score": 0.5463,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9104,
+        "recency": 0.8637,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -536,15 +551,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9887,
+        "recency": 0.938,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -563,7 +578,7 @@
     },
     {
       "story_id": "story_774f7412d1a3",
-      "title": "关于厄尔尼诺现象如何运作的简短解释[视频] / A short explainer on how El Niño works [video]",
+      "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
       "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
       "primary_url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
       "source": "Hacker News · 24h最热",
@@ -571,7 +586,7 @@
       "sources": [
         {
           "id": "001d8737a01105a38d8edd917cb68008595a7bcc",
-          "title": "关于厄尔尼诺现象如何运作的简短解释[视频] / A short explainer on how El Niño works [video]",
+          "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
           "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -596,7 +611,7 @@
       "items": [
         {
           "id": "001d8737a01105a38d8edd917cb68008595a7bcc",
-          "title": "关于厄尔尼诺现象如何运作的简短解释[视频] / A short explainer on how El Niño works [video]",
+          "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
           "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -615,15 +630,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9707,
+        "recency": 0.9209,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -634,7 +649,7 @@
       "latest_at": "2026-11-15T18:23:21Z",
       "primary_item": {
         "id": "001d8737a01105a38d8edd917cb68008595a7bcc",
-        "title": "关于厄尔尼诺现象如何运作的简短解释[视频] / A short explainer on how El Niño works [video]",
+        "title": "关于厄尔尼诺现象如何形成的一段简短讲解 [视频] / A short explainer on how El Niño works [video]",
         "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -694,15 +709,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5261,
+      "importance": 0.5261,
+      "importance_score": 0.5261,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9387,
+        "recency": 0.8905,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -773,15 +788,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9275,
+        "recency": 0.88,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -852,15 +867,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9275,
+        "recency": 0.88,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -931,15 +946,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5176,
-      "importance": 0.5176,
-      "importance_score": 0.5176,
+      "score": 0.5098,
+      "importance": 0.5098,
+      "importance_score": 0.5098,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8431,
+        "recency": 0.7999,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1029,15 +1044,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7931,
+        "recency": 0.7525,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1107,15 +1122,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
+      "score": 0.5197,
+      "importance": 0.5197,
+      "importance_score": 0.5197,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9013,
+        "recency": 0.8551,
         "story_heat": 0.25
       },
       "category": "watch",
