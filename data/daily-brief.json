@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-11-20T10:38:55.828086Z",
+  "generated_at": "2026-11-20T18:53:09.036860Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_b9417c5606ab",
+      "title": "将您最喜欢的存储库固定到仪表板 / Pin your favorite repositories to your dashboard",
+      "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+          "title": "将您最喜欢的存储库固定到仪表板 / Pin your favorite repositories to your dashboard",
+          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T14:12:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+          "title": "将您最喜欢的存储库固定到仪表板 / Pin your favorite repositories to your dashboard",
+          "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T14:12:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9346,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T14:12:05Z",
+      "latest_at": "2026-11-20T14:12:05Z",
+      "primary_item": {
+        "id": "9e7b5ac6e5db201967f08363d6537f188ec45466",
+        "title": "将您最喜欢的存储库固定到仪表板 / Pin your favorite repositories to your dashboard",
+        "url": "https://github.blog/changelog/2026-11-20-pin-your-favorite-repositories-to-your-dashboard",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_91992ed9f82d",
       "title": "法典 CLI 0.171.0 / Codex CLI 0.171.0",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8575,
+        "recency": 0.7613,
         "story_heat": 0.0
       },
       "category": "official",
@@ -66,49 +128,49 @@
       }
     },
     {
-      "story_id": "story_b00f82b6db94",
-      "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "source": "Google AI Blog",
+      "story_id": "story_211fbe8009a4",
+      "title": "推出线束适配器：使您最喜欢的模型适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "primary_url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "444177bedc11242e1974b553efabf05c74e3673c",
-          "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "source": "Google AI Blog",
+          "id": "25cde7d66733c018c6413fe35d399536536197d4",
+          "title": "推出线束适配器：使您最喜欢的模型适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:00:00Z"
+          "published_at": "2026-11-20T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "444177bedc11242e1974b553efabf05c74e3673c",
-          "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-          "source": "Google AI Blog",
+          "id": "25cde7d66733c018c6413fe35d399536536197d4",
+          "title": "推出线束适配器：使您最喜欢的模型适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:00:00Z"
+          "published_at": "2026-11-20T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7863,
+        "ai_relevance": 0.95,
+        "recency": 0.7613,
         "story_heat": 0.0
       },
       "category": "official",
@@ -117,32 +179,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T18:00:00Z",
-      "latest_at": "2026-11-19T18:00:00Z",
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
       "primary_item": {
-        "id": "444177bedc11242e1974b553efabf05c74e3673c",
-        "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-        "source": "Google AI Blog",
+        "id": "25cde7d66733c018c6413fe35d399536536197d4",
+        "title": "推出线束适配器：使您最喜欢的模型适应您的线束，以提高性能和成本 / Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+        "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_9855c1875dd4",
-      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "story_id": "story_8150064cb707",
+      "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+      "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
+      "primary_url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "id": "4153f14f8744315b507c166df3e939c015d28122",
+          "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-20T00:02:21Z"
+          "published_at": "2026-11-20T02:06:01Z"
         }
       ],
       "source_count": 1,
@@ -151,26 +213,26 @@
       ],
       "items": [
         {
-          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "id": "4153f14f8744315b507c166df3e939c015d28122",
+          "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+          "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-20T00:02:21Z"
+          "published_at": "2026-11-20T02:06:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8053,
+      "importance": 0.8053,
+      "importance_score": 0.8053,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8579,
+        "recency": 0.7847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -179,12 +241,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-20T00:02:21Z",
-      "latest_at": "2026-11-20T00:02:21Z",
+      "earliest_at": "2026-11-20T02:06:01Z",
+      "latest_at": "2026-11-20T02:06:01Z",
       "primary_item": {
-        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
-        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
-        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+        "id": "4153f14f8744315b507c166df3e939c015d28122",
+        "title": "GitHub Desktop 现在支持每个主机多个帐户 / GitHub Desktop now supports multiple accounts per host",
+        "url": "https://github.blog/changelog/2026-11-19-github-desktop-now-supports-multiple-accounts-per-host",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -243,15 +305,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8879,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -268,130 +330,6 @@
         "url": "https://www.aibase.com/news/32448",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4501efae01a1",
-      "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8073,
-      "importance": 0.8073,
-      "importance_score": 0.8073,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.796,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:50:57Z",
-      "latest_at": "2026-11-19T18:50:57Z",
-      "primary_item": {
-        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-        "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2adef6bfeca0",
-      "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-          "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-          "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.775,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T17:00:00Z",
-      "latest_at": "2026-11-19T17:00:00Z",
-      "primary_item": {
-        "id": "e9bc71a8a5203d8ba03168cce65b8c17e9fe51da",
-        "title": "沃尔特·艾萨克森 (Walter Isaacson) 谈人工智能时代的好奇心和创造力。 / Walter Isaacson on curiosity and creativity in the AI age.",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -448,15 +386,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8879,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -476,21 +414,21 @@
       }
     },
     {
-      "story_id": "story_c0849b8081a4",
-      "title": "红帽企业 Linux 运行程序镜像现已普遍可用 / Red Hat Enterprise Linux runner images now generally available",
-      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "story_id": "story_9855c1875dd4",
+      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行程序镜像现已普遍可用 / Red Hat Enterprise Linux runner images now generally available",
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
+          "published_at": "2026-11-20T00:02:21Z"
         }
       ],
       "source_count": 1,
@@ -499,26 +437,26 @@
       ],
       "items": [
         {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行程序镜像现已普遍可用 / Red Hat Enterprise Linux runner images now generally available",
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
+          "published_at": "2026-11-20T00:02:21Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8072,
-      "importance": 0.8072,
-      "importance_score": 0.8072,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7956,
+        "recency": 0.7617,
         "story_heat": 0.0
       },
       "category": "official",
@@ -527,12 +465,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T18:48:46Z",
-      "latest_at": "2026-11-19T18:48:46Z",
+      "earliest_at": "2026-11-20T00:02:21Z",
+      "latest_at": "2026-11-20T00:02:21Z",
       "primary_item": {
-        "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-        "title": "红帽企业 Linux 运行程序镜像现已普遍可用 / Red Hat Enterprise Linux runner images now generally available",
-        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -591,15 +529,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8879,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -672,15 +610,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8879,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -697,6 +635,283 @@
         "url": "https://www.aibase.com/news/32434",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "AI记忆带来便捷的同时，也暗藏困住人的风险。作者因写入“小白讲师”标签，导致AI持续把机会局限在培训赛道，不断强化刻板印象，甚至让自己慢慢认同这个单一身份。这篇思考给高频使用 Agent 的人也敲了警钟，提醒我们在人机共生中，别让 AI 的记忆框住自己更多潜在方向。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-11-20",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "2fb7c0224d117bf00d70ce4dd3c520ed9ff82ac6",
+          "title": "AI记忆带来便捷的同时，也暗藏困住人的风险。作者因写入“小白讲师”标签，导致AI持续把机会局限在培训赛道，不断强化刻板印象，甚至让自己慢慢认同这个单一身份。这篇思考给高频使用 Agent 的人也敲了警钟，提醒我们在人机共生中，别让 AI 的记忆框住自己更多潜在方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-20T18:53:09.036860Z"
+        },
+        {
+          "id": "132f0901cb469e0776cb5dd67e4f8db5c36cdb98",
+          "title": "GPT-6.2 Astra的表现两极分化，作者这篇文章拆解了其中四类典型问题，同时还对比了它的成本优势与适配场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-20T18:53:09.036860Z"
+        },
+        {
+          "id": "855d952e34e19d66e3c49e4315ccdb1503e207c2",
+          "title": "想低成本用 Agent 复刻 App 的开发者可以参考这套落地方案。作者依托 DeepSeek Harness，采用净室复刻思路，通过 ADB 真机采集解析界面，完整复刻了 Gemini Flow，花费了7个小时仅21元就跑通了全部功能。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-20T18:53:09.036860Z"
+        },
+        {
+          "id": "b6201cddf5dfed857bf55a938c19be7a30f13614",
+          "title": "想搭建自动化资讯短视频流水线的朋友别错过阿真这套Skill。她在多款主流大模型上实测对比之后发现，只要输入文稿即可自动生成配套画面，而且还有稳定的排版与灵活的动效，不用每次反复调试。可以上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-20T18:53:09.036860Z"
+        },
+        {
+          "id": "f96da056b30fbf03f8a14afb5f4f4556ba25f0de",
+          "title": "想要摸清AI会不会主动推荐你的产品，这套可复用的AI可见性测试方法值得参考。作者以Notta Memo出海测试为案例，依托NIST、IAB行业标准，讲解了提示词设计、变量固定、结果判定、基线留存与复测逻辑，附带日志记录模板。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-20T18:53:09.036860Z"
+        },
+        {
+          "id": "966c320e9227918ff4c35e775e45ecc2725c856f",
+          "title": "《 。》作者开源了基于DeepSeek Harness搭建的公众号成稿台，把原本散落在各处的AI能力整合到了一个统一的工作台。不仅支持定向分段改稿、AI内容质检、自定义IP封面、智能配图与SVG动画生成，一站式完成排版，还附带排期和数据复盘，沉淀经验复用为Skill。插件可灵活替换技能与画风，适配个人创作习惯。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        },
+        {
+          "id": "0df792d4870283a81c92708cd077a9eb2bf40d26",
+          "title": "作者分享了独立制作AI商业广告片的全流程，或许可以帮你避开堆砌特效、叙事空洞的坑，做出贴合产品价值的商业短片。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        },
+        {
+          "id": "e9a26dba0ba6ca10406e2c162e6699e5a5db0ae9",
+          "title": "作者的开源项目 lemo-animi，是一个Codex和Claude都可以使用的定格动画插件。感兴趣可以下载试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        },
+        {
+          "id": "69babfeb1be641d219bad62e980caf73c61440b7",
+          "title": "元子在搭建了18个AI助手后，却被源源不断的消息与待办裹挟，后来幡然醒悟：AI可以近乎零成本完成执行，却替代不了人的在场成本，注意力才是人机协作的核心。还给出了可直接复用的注意力保护方案：任务分层归档、沉淀个人偏好准则、严格控制每日高专注时长。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        },
+        {
+          "id": "05703563e30222f53a6ff147017fab3ce59d3d15",
+          "title": "斯坦福新课CS329Z聚焦AI Agent工程落地，围绕Harness、编排框架、记忆机制、多智能体、评测与安全搭建了一套完整体系，适合有基础的开发者系统学习。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        },
+        {
+          "id": "1248bd74e39f56c2bdb288430a7a5b8ae00b3489",
+          "title": "谷歌 Gemini 4 Neon 重磅上线，与氩、碳、氢模型各司其职，定位是 Agent 集群调度中枢，对标 Opus、Sol。它可以调度子代理协同攻坚，独立搭建复杂 3D 场景、前端工程，在多项基准测试中都胜过竞品。开发者们可以上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        },
+        {
+          "id": "d9c533a7079871175e1e3393cf2d69659623a736",
+          "title": "越来越多的开发者使用编码智能体来编写代码、运行检查和开启 PR。随着更多开发团队朝着 “软件工厂” 的方向发展，审批成为下一个瓶颈。跨多个仓库的常规修复和依赖更新可能会让工程师面对不断增加的待审批 PR 队列。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        },
+        {
+          "id": "17ed232a0f33875adf31bf06c82b8da7b67c8cb8",
+          "title": "这篇文章用一条约48秒的短片，从人物定妆讲到最后一击。Claude/Codex写分镜，Seedance生成动态，每一步都附图片和可复制的提示词。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        }
+      ],
+      "source_count": 13,
+      "source_names": [
+        "社区更新 · 2026-11-19",
+        "社区更新 · 2026-11-20"
+      ],
+      "items": [
+        {
+          "id": "2fb7c0224d117bf00d70ce4dd3c520ed9ff82ac6",
+          "title": "AI记忆带来便捷的同时，也暗藏困住人的风险。作者因写入“小白讲师”标签，导致AI持续把机会局限在培训赛道，不断强化刻板印象，甚至让自己慢慢认同这个单一身份。这篇思考给高频使用 Agent 的人也敲了警钟，提醒我们在人机共生中，别让 AI 的记忆框住自己更多潜在方向。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-20T18:53:09.036860Z"
+        },
+        {
+          "id": "132f0901cb469e0776cb5dd67e4f8db5c36cdb98",
+          "title": "GPT-6.2 Astra的表现两极分化，作者这篇文章拆解了其中四类典型问题，同时还对比了它的成本优势与适配场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-20T18:53:09.036860Z"
+        },
+        {
+          "id": "855d952e34e19d66e3c49e4315ccdb1503e207c2",
+          "title": "想低成本用 Agent 复刻 App 的开发者可以参考这套落地方案。作者依托 DeepSeek Harness，采用净室复刻思路，通过 ADB 真机采集解析界面，完整复刻了 Gemini Flow，花费了7个小时仅21元就跑通了全部功能。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-20T18:53:09.036860Z"
+        },
+        {
+          "id": "b6201cddf5dfed857bf55a938c19be7a30f13614",
+          "title": "想搭建自动化资讯短视频流水线的朋友别错过阿真这套Skill。她在多款主流大模型上实测对比之后发现，只要输入文稿即可自动生成配套画面，而且还有稳定的排版与灵活的动效，不用每次反复调试。可以上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-20T18:53:09.036860Z"
+        },
+        {
+          "id": "f96da056b30fbf03f8a14afb5f4f4556ba25f0de",
+          "title": "想要摸清AI会不会主动推荐你的产品，这套可复用的AI可见性测试方法值得参考。作者以Notta Memo出海测试为案例，依托NIST、IAB行业标准，讲解了提示词设计、变量固定、结果判定、基线留存与复测逻辑，附带日志记录模板。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-20T18:53:09.036860Z"
+        },
+        {
+          "id": "966c320e9227918ff4c35e775e45ecc2725c856f",
+          "title": "《 。》作者开源了基于DeepSeek Harness搭建的公众号成稿台，把原本散落在各处的AI能力整合到了一个统一的工作台。不仅支持定向分段改稿、AI内容质检、自定义IP封面、智能配图与SVG动画生成，一站式完成排版，还附带排期和数据复盘，沉淀经验复用为Skill。插件可灵活替换技能与画风，适配个人创作习惯。快来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        },
+        {
+          "id": "0df792d4870283a81c92708cd077a9eb2bf40d26",
+          "title": "作者分享了独立制作AI商业广告片的全流程，或许可以帮你避开堆砌特效、叙事空洞的坑，做出贴合产品价值的商业短片。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        },
+        {
+          "id": "e9a26dba0ba6ca10406e2c162e6699e5a5db0ae9",
+          "title": "作者的开源项目 lemo-animi，是一个Codex和Claude都可以使用的定格动画插件。感兴趣可以下载试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        },
+        {
+          "id": "69babfeb1be641d219bad62e980caf73c61440b7",
+          "title": "元子在搭建了18个AI助手后，却被源源不断的消息与待办裹挟，后来幡然醒悟：AI可以近乎零成本完成执行，却替代不了人的在场成本，注意力才是人机协作的核心。还给出了可直接复用的注意力保护方案：任务分层归档、沉淀个人偏好准则、严格控制每日高专注时长。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        },
+        {
+          "id": "05703563e30222f53a6ff147017fab3ce59d3d15",
+          "title": "斯坦福新课CS329Z聚焦AI Agent工程落地，围绕Harness、编排框架、记忆机制、多智能体、评测与安全搭建了一套完整体系，适合有基础的开发者系统学习。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        },
+        {
+          "id": "1248bd74e39f56c2bdb288430a7a5b8ae00b3489",
+          "title": "谷歌 Gemini 4 Neon 重磅上线，与氩、碳、氢模型各司其职，定位是 Agent 集群调度中枢，对标 Opus、Sol。它可以调度子代理协同攻坚，独立搭建复杂 3D 场景、前端工程，在多项基准测试中都胜过竞品。开发者们可以上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        },
+        {
+          "id": "d9c533a7079871175e1e3393cf2d69659623a736",
+          "title": "越来越多的开发者使用编码智能体来编写代码、运行检查和开启 PR。随着更多开发团队朝着 “软件工厂” 的方向发展，审批成为下一个瓶颈。跨多个仓库的常规修复和依赖更新可能会让工程师面对不断增加的待审批 PR 队列。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        },
+        {
+          "id": "17ed232a0f33875adf31bf06c82b8da7b67c8cb8",
+          "title": "这篇文章用一条约48秒的短片，从人物定妆讲到最后一击。Claude/Codex写分镜，Seedance生成动态，每一步都附图片和可复制的提示词。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-19T21:53:25.830458Z"
+        }
+      ],
+      "item_count": 13,
+      "duplicate_count": 13,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-19T21:53:25.830458Z",
+      "latest_at": "2026-11-20T18:53:09.036860Z",
+      "primary_item": {
+        "id": "2fb7c0224d117bf00d70ce4dd3c520ed9ff82ac6",
+        "title": "AI记忆带来便捷的同时，也暗藏困住人的风险。作者因写入“小白讲师”标签，导致AI持续把机会局限在培训赛道，不断强化刻板印象，甚至让自己慢慢认同这个单一身份。这篇思考给高频使用 Agent 的人也敲了警钟，提醒我们在人机共生中，别让 AI 的记忆框住自己更多潜在方向。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-11-20",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -753,15 +968,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8879,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -778,192 +993,6 @@
         "url": "https://www.aibase.com/news/32449",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "《 。》作者开源了基于DeepSeek Harness搭建的公众号成稿台，把原本散落在各处的AI能力整合到了一个统一的工作台。不仅支持定向分段改稿、AI内容质检、自定义IP封面、智能配图与SVG动画生成，一站式完成排版，还附带排期和数据复盘，沉淀经验复用为Skill。插件可灵活替换技能与画风，适配个人创作习惯。快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-19",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "966c320e9227918ff4c35e775e45ecc2725c856f",
-          "title": "《 。》作者开源了基于DeepSeek Harness搭建的公众号成稿台，把原本散落在各处的AI能力整合到了一个统一的工作台。不仅支持定向分段改稿、AI内容质检、自定义IP封面、智能配图与SVG动画生成，一站式完成排版，还附带排期和数据复盘，沉淀经验复用为Skill。插件可灵活替换技能与画风，适配个人创作习惯。快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        },
-        {
-          "id": "0df792d4870283a81c92708cd077a9eb2bf40d26",
-          "title": "作者分享了独立制作AI商业广告片的全流程，或许可以帮你避开堆砌特效、叙事空洞的坑，做出贴合产品价值的商业短片。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        },
-        {
-          "id": "e9a26dba0ba6ca10406e2c162e6699e5a5db0ae9",
-          "title": "作者的开源项目 lemo-animi，是一个Codex和Claude都可以使用的定格动画插件。感兴趣可以下载试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        },
-        {
-          "id": "69babfeb1be641d219bad62e980caf73c61440b7",
-          "title": "元子在搭建了18个AI助手后，却被源源不断的消息与待办裹挟，后来幡然醒悟：AI可以近乎零成本完成执行，却替代不了人的在场成本，注意力才是人机协作的核心。还给出了可直接复用的注意力保护方案：任务分层归档、沉淀个人偏好准则、严格控制每日高专注时长。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        },
-        {
-          "id": "05703563e30222f53a6ff147017fab3ce59d3d15",
-          "title": "斯坦福新课CS329Z聚焦AI Agent工程落地，围绕Harness、编排框架、记忆机制、多智能体、评测与安全搭建了一套完整体系，适合有基础的开发者系统学习。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        },
-        {
-          "id": "1248bd74e39f56c2bdb288430a7a5b8ae00b3489",
-          "title": "谷歌 Gemini 4 Neon 重磅上线，与氩、碳、氢模型各司其职，定位是 Agent 集群调度中枢，对标 Opus、Sol。它可以调度子代理协同攻坚，独立搭建复杂 3D 场景、前端工程，在多项基准测试中都胜过竞品。开发者们可以上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        },
-        {
-          "id": "d9c533a7079871175e1e3393cf2d69659623a736",
-          "title": "越来越多的开发者使用编码智能体来编写代码、运行检查和开启 PR。随着更多开发团队朝着 “软件工厂” 的方向发展，审批成为下一个瓶颈。跨多个仓库的常规修复和依赖更新可能会让工程师面对不断增加的待审批 PR 队列。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        },
-        {
-          "id": "17ed232a0f33875adf31bf06c82b8da7b67c8cb8",
-          "title": "这篇文章用一条约48秒的短片，从人物定妆讲到最后一击。Claude/Codex写分镜，Seedance生成动态，每一步都附图片和可复制的提示词。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        }
-      ],
-      "source_count": 8,
-      "source_names": [
-        "社区更新 · 2026-11-19"
-      ],
-      "items": [
-        {
-          "id": "966c320e9227918ff4c35e775e45ecc2725c856f",
-          "title": "《 。》作者开源了基于DeepSeek Harness搭建的公众号成稿台，把原本散落在各处的AI能力整合到了一个统一的工作台。不仅支持定向分段改稿、AI内容质检、自定义IP封面、智能配图与SVG动画生成，一站式完成排版，还附带排期和数据复盘，沉淀经验复用为Skill。插件可灵活替换技能与画风，适配个人创作习惯。快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        },
-        {
-          "id": "0df792d4870283a81c92708cd077a9eb2bf40d26",
-          "title": "作者分享了独立制作AI商业广告片的全流程，或许可以帮你避开堆砌特效、叙事空洞的坑，做出贴合产品价值的商业短片。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        },
-        {
-          "id": "e9a26dba0ba6ca10406e2c162e6699e5a5db0ae9",
-          "title": "作者的开源项目 lemo-animi，是一个Codex和Claude都可以使用的定格动画插件。感兴趣可以下载试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        },
-        {
-          "id": "69babfeb1be641d219bad62e980caf73c61440b7",
-          "title": "元子在搭建了18个AI助手后，却被源源不断的消息与待办裹挟，后来幡然醒悟：AI可以近乎零成本完成执行，却替代不了人的在场成本，注意力才是人机协作的核心。还给出了可直接复用的注意力保护方案：任务分层归档、沉淀个人偏好准则、严格控制每日高专注时长。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        },
-        {
-          "id": "05703563e30222f53a6ff147017fab3ce59d3d15",
-          "title": "斯坦福新课CS329Z聚焦AI Agent工程落地，围绕Harness、编排框架、记忆机制、多智能体、评测与安全搭建了一套完整体系，适合有基础的开发者系统学习。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        },
-        {
-          "id": "1248bd74e39f56c2bdb288430a7a5b8ae00b3489",
-          "title": "谷歌 Gemini 4 Neon 重磅上线，与氩、碳、氢模型各司其职，定位是 Agent 集群调度中枢，对标 Opus、Sol。它可以调度子代理协同攻坚，独立搭建复杂 3D 场景、前端工程，在多项基准测试中都胜过竞品。开发者们可以上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        },
-        {
-          "id": "d9c533a7079871175e1e3393cf2d69659623a736",
-          "title": "越来越多的开发者使用编码智能体来编写代码、运行检查和开启 PR。随着更多开发团队朝着 “软件工厂” 的方向发展，审批成为下一个瓶颈。跨多个仓库的常规修复和依赖更新可能会让工程师面对不断增加的待审批 PR 队列。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        },
-        {
-          "id": "17ed232a0f33875adf31bf06c82b8da7b67c8cb8",
-          "title": "这篇文章用一条约48秒的短片，从人物定妆讲到最后一击。Claude/Codex写分镜，Seedance生成动态，每一步都附图片和可复制的提示词。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-19",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-19T21:53:25.830458Z"
-        }
-      ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6389,
-      "importance": 0.6389,
-      "importance_score": 0.6389,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.8317,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T21:53:25.830458Z",
-      "latest_at": "2026-11-19T21:53:25.830458Z",
-      "primary_item": {
-        "id": "966c320e9227918ff4c35e775e45ecc2725c856f",
-        "title": "《 。》作者开源了基于DeepSeek Harness搭建的公众号成稿台，把原本散落在各处的AI能力整合到了一个统一的工作台。不仅支持定向分段改稿、AI内容质检、自定义IP封面、智能配图与SVG动画生成，一站式完成排版，还附带排期和数据复盘，沉淀经验复用为Skill。插件可灵活替换技能与画风，适配个人创作习惯。快来上手试试！",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-11-19",
-        "source_name": "WaytoAGI"
       }
     },
     {
@@ -1020,15 +1049,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8917,
+        "recency": 0.7917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1045,85 +1074,6 @@
         "url": "https://www.aibase.com/news/32418",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e71232150b49",
-      "title": "Anthropic 在纳斯达克上市的价格为 111 美元，比 IPO 价格高出 33% / Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-      "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-      "primary_url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
-          "title": "Anthropic 在纳斯达克上市的价格为 111 美元，比 IPO 价格高出 33% / Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T16:59:23Z"
-        },
-        {
-          "id": "46a37553a9dc8e9217ec566a52e16c37db4a2d63",
-          "title": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33% / Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T16:59:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
-          "title": "Anthropic 在纳斯达克上市的价格为 111 美元，比 IPO 价格高出 33% / Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T16:59:23Z"
-        },
-        {
-          "id": "46a37553a9dc8e9217ec566a52e16c37db4a2d63",
-          "title": "Anthropic 以 111 美元的价格在纳斯达克上市，比 IPO 价格高出 33% / Anthropic hits NASDAQ exchanges at $111, 33 percent above IPO price",
-          "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T16:59:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6207,
-      "importance": 0.6207,
-      "importance_score": 0.6207,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.7749,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T16:59:23Z",
-      "latest_at": "2026-11-19T16:59:23Z",
-      "primary_item": {
-        "id": "5b7a09cacbbf179dd493914d752671d963bb20f4",
-        "title": "Anthropic 在纳斯达克上市的价格为 111 美元，比 IPO 价格高出 33% / Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-        "url": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
       }
     },
     {
@@ -1180,15 +1130,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8917,
+        "recency": 0.7917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1208,294 +1158,199 @@
       }
     },
     {
-      "story_id": "story_f0d0f469e0bf",
-      "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-      "primary_url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
+      "story_id": "story_4dfd121c6c30",
+      "title": "Anthropic股价在轰动一时的上市次日下跌 / Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News (世界新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "www.reuters.com",
+          "id": "56367cfe99bc9396b2c74b983280cabed0751cc2",
+          "title": "Anthropic股价在轰动一时的上市次日下跌 / Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T17:36:29Z"
+        },
+        {
+          "id": "42d3bddd65599a211aa7353be4206fae442f5b5b",
+          "title": "Anthropic股价在轰动一时的上市次日下跌",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-19T18:19:45.063000Z"
+          "published_at": "2026-11-20T16:40:49.193000Z"
         },
         {
-          "id": "5c114f142f73ac0536bf23adfadcb17549209972",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T17:02:40Z"
-        },
-        {
-          "id": "e2d103a7fdb3b74264ce7a7fb357617429fa4219",
-          "title": "Anthropic 在纳斯达克首次亮相就突破 2T 美元 / Anthropic hits $2T in Nasdaq debut",
-          "url": "https://news.ycombinator.com/item?id=50562754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:02:40Z"
-        },
-        {
-          "id": "cb01128865cf609e1445fbc9bdea4ce0a9369e2d",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic’s Nasdaq debut",
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T17:02:40Z"
-        },
-        {
-          "id": "82f7f71db83136ed823dfd92f50ab621cfeecd4f",
-          "title": "Anthropic 在纳斯达克首次亮相 / Anthropic’s Nasdaq debut",
-          "url": "https://news.ycombinator.com/item?id=50562754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:02:40Z"
+          "id": "b971dba8860e3f6fc474b76bec5eb24a1363b1b3",
+          "title": "Anthropic股价在轰动一时的上市次日下跌 / Anthropic shares fall a day after blockbuster opening",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T15:02:44Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.reuters.com"
+        "BBC News",
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
       ],
       "items": [
         {
-          "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "www.reuters.com",
+          "id": "56367cfe99bc9396b2c74b983280cabed0751cc2",
+          "title": "Anthropic股价在轰动一时的上市次日下跌 / Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T17:36:29Z"
+        },
+        {
+          "id": "42d3bddd65599a211aa7353be4206fae442f5b5b",
+          "title": "Anthropic股价在轰动一时的上市次日下跌",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-19T18:19:45.063000Z"
+          "published_at": "2026-11-20T16:40:49.193000Z"
         },
         {
-          "id": "5c114f142f73ac0536bf23adfadcb17549209972",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T17:02:40Z"
-        },
-        {
-          "id": "e2d103a7fdb3b74264ce7a7fb357617429fa4219",
-          "title": "Anthropic 在纳斯达克首次亮相就突破 2T 美元 / Anthropic hits $2T in Nasdaq debut",
-          "url": "https://news.ycombinator.com/item?id=50562754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:02:40Z"
-        },
-        {
-          "id": "cb01128865cf609e1445fbc9bdea4ce0a9369e2d",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic’s Nasdaq debut",
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T17:02:40Z"
-        },
-        {
-          "id": "82f7f71db83136ed823dfd92f50ab621cfeecd4f",
-          "title": "Anthropic 在纳斯达克首次亮相 / Anthropic’s Nasdaq debut",
-          "url": "https://news.ycombinator.com/item?id=50562754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:02:40Z"
+          "id": "b971dba8860e3f6fc474b76bec5eb24a1363b1b3",
+          "title": "Anthropic股价在轰动一时的上市次日下跌 / Anthropic shares fall a day after blockbuster opening",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T15:02:44Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.583,
-      "importance": 0.583,
-      "importance_score": 0.583,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5675,
+      "importance": 0.5675,
+      "importance_score": 0.5675,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.79,
-        "story_heat": 1.0
+        "recency": 0.9817,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-19T17:02:40Z",
-      "latest_at": "2026-11-19T18:19:45.063000Z",
+      "earliest_at": "2026-11-20T15:02:44Z",
+      "latest_at": "2026-11-20T17:36:29Z",
       "primary_item": {
-        "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
-        "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-        "source": "www.reuters.com",
+        "id": "56367cfe99bc9396b2c74b983280cabed0751cc2",
+        "title": "Anthropic股价在轰动一时的上市次日下跌 / Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News (世界新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_000028228240",
+      "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "primary_url": "https://architectlabs.com/blog/frostbite",
+      "source": "architectlabs.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0df2964d8aa24477f6817dc7086098434cb7df6e",
+          "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+          "url": "https://architectlabs.com/blog/frostbite",
+          "source": "architectlabs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T11:36:41.212000Z"
+        },
+        {
+          "id": "c22987eeb7620fb2f14403fdd8cc5fb2a97ea84b",
+          "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构 / Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "url": "https://architectlabs.com/blog/frostbite",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T10:01:41Z"
+        },
+        {
+          "id": "147309841e91e19cc39cfb528e705bf57ff45799",
+          "title": "Frostbite：由 AI 发现、设计和验证的新 CPU 架构 / Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "url": "https://news.ycombinator.com/item?id=50572503",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T10:01:41Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "architectlabs.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0df2964d8aa24477f6817dc7086098434cb7df6e",
+          "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+          "url": "https://architectlabs.com/blog/frostbite",
+          "source": "architectlabs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T11:36:41.212000Z"
+        },
+        {
+          "id": "c22987eeb7620fb2f14403fdd8cc5fb2a97ea84b",
+          "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构 / Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "url": "https://architectlabs.com/blog/frostbite",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T10:01:41Z"
+        },
+        {
+          "id": "147309841e91e19cc39cfb528e705bf57ff45799",
+          "title": "Frostbite：由 AI 发现、设计和验证的新 CPU 架构 / Frostbite: A new CPU architecture discovered, designed and verified by AI",
+          "url": "https://news.ycombinator.com/item?id=50572503",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T10:01:41Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5529,
+      "importance": 0.5529,
+      "importance_score": 0.5529,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9003,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T10:01:41Z",
+      "latest_at": "2026-11-20T11:36:41.212000Z",
+      "primary_item": {
+        "id": "0df2964d8aa24477f6817dc7086098434cb7df6e",
+        "title": "Frostbite：一种由人工智能发现、设计并验证的新型CPU架构",
+        "url": "https://architectlabs.com/blog/frostbite",
+        "source": "architectlabs.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d9d2fba47fd3",
-      "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据 / Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-      "primary_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "9b9377324de9e3b92e86338ffcf5ab4a4bb5c69b",
-          "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据 / Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T17:38:40Z"
-        },
-        {
-          "id": "93a31f43e6764662948d87d666c700c3b71ce76e",
-          "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话并暴露私人数据 / Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T17:38:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "9b9377324de9e3b92e86338ffcf5ab4a4bb5c69b",
-          "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据 / Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T17:38:40Z"
-        },
-        {
-          "id": "93a31f43e6764662948d87d666c700c3b71ce76e",
-          "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话并暴露私人数据 / Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T17:38:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6096,
-      "importance": 0.6096,
-      "importance_score": 0.6096,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7823,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T17:38:40Z",
-      "latest_at": "2026-11-19T17:38:40Z",
-      "primary_item": {
-        "id": "9b9377324de9e3b92e86338ffcf5ab4a4bb5c69b",
-        "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据 / Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-        "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_c4014f86958f",
-      "title": "快与真：范式首批国产算力训练的Phai系列模型，究竟有什么不同",
-      "url": "https://www.infoq.cn/article/DQlimzDy7bqiZ3mc5Vvq",
-      "primary_url": "https://www.infoq.cn/article/DQlimzDy7bqiZ3mc5Vvq",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "789548857ec940b881ecc61eb7f75298b65859a4",
-          "title": "快与真：范式首批国产算力训练的Phai系列模型，究竟有什么不同",
-          "url": "https://www.infoq.cn/article/DQlimzDy7bqiZ3mc5Vvq",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-19T16:08:30Z"
-        },
-        {
-          "id": "ca4615a69acf33bc245ce5e5d9f8b96c0e18c089",
-          "title": "范式首秀！国产算力训练的Phai系列模型，究竟有什么不同",
-          "url": "https://www.infoq.cn/article/DQlimzDy7bqiZ3mc5Vvq",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-19T16:08:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "789548857ec940b881ecc61eb7f75298b65859a4",
-          "title": "快与真：范式首批国产算力训练的Phai系列模型，究竟有什么不同",
-          "url": "https://www.infoq.cn/article/DQlimzDy7bqiZ3mc5Vvq",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-19T16:08:30Z"
-        },
-        {
-          "id": "ca4615a69acf33bc245ce5e5d9f8b96c0e18c089",
-          "title": "范式首秀！国产算力训练的Phai系列模型，究竟有什么不同",
-          "url": "https://www.infoq.cn/article/DQlimzDy7bqiZ3mc5Vvq",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-19T16:08:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5681,
-      "importance": 0.5681,
-      "importance_score": 0.5681,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.7655,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T16:08:30Z",
-      "latest_at": "2026-11-19T16:08:30Z",
-      "primary_item": {
-        "id": "789548857ec940b881ecc61eb7f75298b65859a4",
-        "title": "快与真：范式首批国产算力训练的Phai系列模型，究竟有什么不同",
-        "url": "https://www.infoq.cn/article/DQlimzDy7bqiZ3mc5Vvq",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
       }
     },
     {
@@ -1552,15 +1407,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7731,
-      "importance": 0.7731,
-      "importance_score": 0.7731,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8917,
+        "recency": 0.7917,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1580,100 +1435,318 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "primary_url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "source": "www.youtube.com",
+      "story_id": "story_9fe3e937f57a",
+      "title": "语言模型可以重写自身的权重",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "primary_url": "https://arxiv.org/abs/2611.21885",
+      "source": "arxiv.org",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3ae54a98758aa5325c04d68f5aed3f9bd3982e59",
-          "title": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
-          "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-          "source": "www.youtube.com",
+          "id": "1da22d79994d169750e0ba371b225e9b886efb5e",
+          "title": "语言模型可以重写自身的权重",
+          "url": "https://arxiv.org/abs/2611.21885",
+          "source": "arxiv.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-20T07:21:53.831000Z"
+          "published_at": "2026-11-20T17:44:47.957000Z"
         },
         {
-          "id": "3a4742158c98f7da6829387156044fd158c09436",
-          "title": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频] / Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-          "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T18:47:16Z"
-        },
-        {
-          "id": "6666c8187392a6864615b07f4a34a1fab1ab651a",
-          "title": "政府应该放慢人工智能前沿发展吗？雅各布·考克森和罗宾·汉森辩论[视频] / Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-          "url": "https://news.ycombinator.com/item?id=50564366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T18:47:16Z"
+          "id": "56bc072c23c3a692fc8f096209fd3767decf102c",
+          "title": "语言模型可以重写自身的权重 / Language Models Can Rewrite Their Own Weights",
+          "url": "https://arxiv.org/abs/2611.21885",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T16:29:06Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.youtube.com"
+        "Hacker News · 24h最热",
+        "arxiv.org"
       ],
       "items": [
         {
-          "id": "3ae54a98758aa5325c04d68f5aed3f9bd3982e59",
-          "title": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
-          "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-          "source": "www.youtube.com",
+          "id": "1da22d79994d169750e0ba371b225e9b886efb5e",
+          "title": "语言模型可以重写自身的权重",
+          "url": "https://arxiv.org/abs/2611.21885",
+          "source": "arxiv.org",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-20T07:21:53.831000Z"
+          "published_at": "2026-11-20T17:44:47.957000Z"
         },
         {
-          "id": "3a4742158c98f7da6829387156044fd158c09436",
-          "title": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频] / Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-          "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T18:47:16Z"
-        },
-        {
-          "id": "6666c8187392a6864615b07f4a34a1fab1ab651a",
-          "title": "政府应该放慢人工智能前沿发展吗？雅各布·考克森和罗宾·汉森辩论[视频] / Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-          "url": "https://news.ycombinator.com/item?id=50564366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T18:47:16Z"
+          "id": "56bc072c23c3a692fc8f096209fd3767decf102c",
+          "title": "语言模型可以重写自身的权重 / Language Models Can Rewrite Their Own Weights",
+          "url": "https://arxiv.org/abs/2611.21885",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T16:29:06Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5625,
-      "importance": 0.5625,
-      "importance_score": 0.5625,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9537,
-        "story_heat": 0.5
+        "recency": 0.9837,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-19T18:47:16Z",
-      "latest_at": "2026-11-20T07:21:53.831000Z",
+      "earliest_at": "2026-11-20T16:29:06Z",
+      "latest_at": "2026-11-20T17:44:47.957000Z",
       "primary_item": {
-        "id": "3ae54a98758aa5325c04d68f5aed3f9bd3982e59",
-        "title": "政府是否应该放缓前沿人工智能的发展？雅各布·考克森与罗宾·汉森就此展开辩论 [视频]",
-        "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-        "source": "www.youtube.com",
+        "id": "1da22d79994d169750e0ba371b225e9b886efb5e",
+        "title": "语言模型可以重写自身的权重",
+        "url": "https://arxiv.org/abs/2611.21885",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_32a6def5ca55",
+      "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+      "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+      "primary_url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "2af436065d4158fc60304950c2ef31d76bc9c9d1",
+          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T17:44:01Z"
+        },
+        {
+          "id": "8e71739550846e81c149d947d3878d4dcc35d64e",
+          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "url": "https://news.ycombinator.com/item?id=50578794",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T17:44:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2af436065d4158fc60304950c2ef31d76bc9c9d1",
+          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-20T17:44:01Z"
+        },
+        {
+          "id": "8e71739550846e81c149d947d3878d4dcc35d64e",
+          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+          "url": "https://news.ycombinator.com/item?id=50578794",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T17:44:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5428,
+      "importance": 0.5428,
+      "importance_score": 0.5428,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9835,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T17:44:01Z",
+      "latest_at": "2026-11-20T17:44:01Z",
+      "primary_item": {
+        "id": "2af436065d4158fc60304950c2ef31d76bc9c9d1",
+        "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+        "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_fd2811614640",
+      "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "primary_url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "www.theguardian.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "09e19c64d1b83d0efea39d47a626ebd3e5f9b7ae",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T16:08:55.353000Z"
+        },
+        {
+          "id": "d2e3e7de6b7ed4f502a7801cbe776e3951bbbf74",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T13:29:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.theguardian.com"
+      ],
+      "items": [
+        {
+          "id": "09e19c64d1b83d0efea39d47a626ebd3e5f9b7ae",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T16:08:55.353000Z"
+        },
+        {
+          "id": "d2e3e7de6b7ed4f502a7801cbe776e3951bbbf74",
+          "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌 / Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T13:29:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9612,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T13:29:59Z",
+      "latest_at": "2026-11-20T16:08:55.353000Z",
+      "primary_item": {
+        "id": "09e19c64d1b83d0efea39d47a626ebd3e5f9b7ae",
+        "title": "Anthropic创纪录的IPO未能遏制人工智能股的抛售潮，全球股市应声下跌",
+        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+        "source": "www.theguardian.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a233c2ac57dd",
+      "title": "Anthropic的创始人掌握着一种黄仁勋从未拥有过的控制权。以下是他们是如何做到的。",
+      "url": "https://www.businessinsider.com/anthropic-ipo-founder-control-jensen-huang-nvidia-2026-11",
+      "primary_url": "https://www.businessinsider.com/anthropic-ipo-founder-control-jensen-huang-nvidia-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "53a0f144b354dd5135b7f896a49da3d2f24bfdb4",
+          "title": "Anthropic的创始人掌握着一种黄仁勋从未拥有过的控制权。以下是他们是如何做到的。",
+          "url": "https://www.businessinsider.com/anthropic-ipo-founder-control-jensen-huang-nvidia-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T15:20:53.998000Z"
+        },
+        {
+          "id": "8c9cac8a99972d180dc6834ed2030361da51e517",
+          "title": "Anthropic的创始人掌握着一种黄仁勋从未拥有过的控制权。以下是他们是如何做到的。 / Anthropic's founders have a safeguard Jensen Huang never had",
+          "url": "https://www.businessinsider.com/anthropic-ipo-founder-control-jensen-huang-nvidia-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T15:11:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "53a0f144b354dd5135b7f896a49da3d2f24bfdb4",
+          "title": "Anthropic的创始人掌握着一种黄仁勋从未拥有过的控制权。以下是他们是如何做到的。",
+          "url": "https://www.businessinsider.com/anthropic-ipo-founder-control-jensen-huang-nvidia-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T15:20:53.998000Z"
+        },
+        {
+          "id": "8c9cac8a99972d180dc6834ed2030361da51e517",
+          "title": "Anthropic的创始人掌握着一种黄仁勋从未拥有过的控制权。以下是他们是如何做到的。 / Anthropic's founders have a safeguard Jensen Huang never had",
+          "url": "https://www.businessinsider.com/anthropic-ipo-founder-control-jensen-huang-nvidia-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T15:11:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9502,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T15:11:51Z",
+      "latest_at": "2026-11-20T15:20:53.998000Z",
+      "primary_item": {
+        "id": "53a0f144b354dd5135b7f896a49da3d2f24bfdb4",
+        "title": "Anthropic的创始人掌握着一种黄仁勋从未拥有过的控制权。以下是他们是如何做到的。",
+        "url": "https://www.businessinsider.com/anthropic-ipo-founder-control-jensen-huang-nvidia-2026-11",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
