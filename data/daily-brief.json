@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:29:43.478357Z",
+  "generated_at": "2026-11-21T20:59:05.017073Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7748,
+        "recency": 0.7157,
         "story_heat": 0.0
       },
       "category": "official",
@@ -66,332 +66,135 @@
       }
     },
     {
-      "story_id": "story_8f3afc444413",
-      "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
-      "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
-      "primary_url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
-          "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
-          "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T20:41:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
-          "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
-          "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-20T20:41:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7622,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-20T20:41:26Z",
-      "latest_at": "2026-11-20T20:41:26Z",
-      "primary_item": {
-        "id": "2d2c3114d1b50d1c68a55c9fd985f46ad4180ff0",
-        "title": "GitHub Enterprise Server 3.23 候选版本 / GitHub Enterprise Server 3.23 release candidate",
-        "url": "https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
       "story_id": "story_2df82173bb28",
-      "title": "AI记忆带来便捷的同时，也暗藏困住人的风险。作者因写入“小白讲师”标签，导致AI持续把机会局限在培训赛道，不断强化刻板印象，甚至让自己慢慢认同这个单一身份。这篇思考给高频使用 Agent 的人也敲了警钟，提醒我们在人机共生中，别让 AI 的记忆框住自己更多潜在方向。",
+      "title": "LangChain 抛出 “知识工厂” 这套企业 Agent 落地思路，打破了只靠堆模型、加上下文的常见误区。如果你是在搭建企业内部智能体的开发者，或许可以帮你解决 Agent 看不懂内部规范、业务口径混乱、知识库难持续更新的核心难题。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-20",
+      "source": "社区更新 · 2026-11-21",
       "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "2fb7c0224d117bf00d70ce4dd3c520ed9ff82ac6",
-          "title": "AI记忆带来便捷的同时，也暗藏困住人的风险。作者因写入“小白讲师”标签，导致AI持续把机会局限在培训赛道，不断强化刻板印象，甚至让自己慢慢认同这个单一身份。这篇思考给高频使用 Agent 的人也敲了警钟，提醒我们在人机共生中，别让 AI 的记忆框住自己更多潜在方向。",
+          "id": "ff62b6ca3951395de503091399be40a272024b27",
+          "title": "LangChain 抛出 “知识工厂” 这套企业 Agent 落地思路，打破了只靠堆模型、加上下文的常见误区。如果你是在搭建企业内部智能体的开发者，或许可以帮你解决 Agent 看不懂内部规范、业务口径混乱、知识库难持续更新的核心难题。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-20",
+          "source": "社区更新 · 2026-11-21",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-20T18:53:09.036860Z"
+          "published_at": "2026-11-21T20:59:05.017073Z"
         },
         {
-          "id": "132f0901cb469e0776cb5dd67e4f8db5c36cdb98",
-          "title": "GPT-6.2 Astra的表现两极分化，作者这篇文章拆解了其中四类典型问题，同时还对比了它的成本优势与适配场景。",
+          "id": "0624651fa1db7a03ecde1ea867d6acf3da733489",
+          "title": "作者公开了团队内部用AI剪辑视频的完整工作流：从脚本和口播素材出发，用参考图统一调色、Skill 设计分镜，再完成配乐、音效和剪辑。先打磨开头 30 秒，再扩展全片，用“时间码＋问题＋截图”让 AI 精准修改。适合做口播、教程和科普视频的创作者照着跑一遍。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-20",
+          "source": "社区更新 · 2026-11-21",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-20T18:53:09.036860Z"
+          "published_at": "2026-11-21T20:59:05.017073Z"
         },
         {
-          "id": "855d952e34e19d66e3c49e4315ccdb1503e207c2",
-          "title": "想低成本用 Agent 复刻 App 的开发者可以参考这套落地方案。作者依托 DeepSeek Harness，采用净室复刻思路，通过 ADB 真机采集解析界面，完整复刻了 Gemini Flow，花费了7个小时仅21元就跑通了全部功能。",
+          "id": "3a073a4c769ac75d0e435b919ab9231c965a6790",
+          "title": "反复提醒 AI“想清楚再做、交付前检查”，结果它还是会跑偏？作者把以终为始、二八法则、逆向思考等 12 条做事常识，改写成 Agent 能执行的具体规则：什么情况下该追问、何时停下重查、交付前必须验证什么。或许会有所帮助！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-20",
+          "source": "社区更新 · 2026-11-21",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-20T18:53:09.036860Z"
+          "published_at": "2026-11-21T20:59:05.017073Z"
         },
         {
-          "id": "b6201cddf5dfed857bf55a938c19be7a30f13614",
-          "title": "想搭建自动化资讯短视频流水线的朋友别错过阿真这套Skill。她在多款主流大模型上实测对比之后发现，只要输入文稿即可自动生成配套画面，而且还有稳定的排版与灵活的动效，不用每次反复调试。可以上手试试！",
+          "id": "4e7bd3cceee53a7bbe992a60d00f8877e402ca26",
+          "title": "想让品牌被 AI 搜到、推荐，靠批量发文章就够了吗？这份第二届 GEO 大会首日复盘，汇总了品牌方、服务商和出海创业者的实战分享：从用户会怎么问、内容该发在哪，到官网如何承接客户、效果怎样监测，也谈了低价接单和需求失控带来的亏损。一起来看看！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-20",
+          "source": "社区更新 · 2026-11-21",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-20T18:53:09.036860Z"
+          "published_at": "2026-11-21T20:59:05.017073Z"
         },
         {
-          "id": "f96da056b30fbf03f8a14afb5f4f4556ba25f0de",
-          "title": "想要摸清AI会不会主动推荐你的产品，这套可复用的AI可见性测试方法值得参考。作者以Notta Memo出海测试为案例，依托NIST、IAB行业标准，讲解了提示词设计、变量固定、结果判定、基线留存与复测逻辑，附带日志记录模板。",
+          "id": "714fe287ef094a753ba9d57ee19089c5f1cd5358",
+          "title": "模型榜单看了不少，那换到自己的任务里到底谁更好用？小歪给 Gemini 4 Neon、Claude Opus 5.5 和 GPT-6.2 同一道题：不用生图模型，纯代码制作跨越 20 个艺术时代的动画，把三家的成片放在一起进行了一个对比。正在选模型、考虑订阅的朋友，可以先看这组实测，再判断画面、速度和使用成本哪项更符合自己的需求。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-20",
+          "source": "社区更新 · 2026-11-21",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-20T18:53:09.036860Z"
+          "published_at": "2026-11-21T20:59:05.017073Z"
         }
       ],
       "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-11-20"
+        "社区更新 · 2026-11-21"
       ],
       "items": [
         {
-          "id": "2fb7c0224d117bf00d70ce4dd3c520ed9ff82ac6",
-          "title": "AI记忆带来便捷的同时，也暗藏困住人的风险。作者因写入“小白讲师”标签，导致AI持续把机会局限在培训赛道，不断强化刻板印象，甚至让自己慢慢认同这个单一身份。这篇思考给高频使用 Agent 的人也敲了警钟，提醒我们在人机共生中，别让 AI 的记忆框住自己更多潜在方向。",
+          "id": "ff62b6ca3951395de503091399be40a272024b27",
+          "title": "LangChain 抛出 “知识工厂” 这套企业 Agent 落地思路，打破了只靠堆模型、加上下文的常见误区。如果你是在搭建企业内部智能体的开发者，或许可以帮你解决 Agent 看不懂内部规范、业务口径混乱、知识库难持续更新的核心难题。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-20",
+          "source": "社区更新 · 2026-11-21",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-20T18:53:09.036860Z"
+          "published_at": "2026-11-21T20:59:05.017073Z"
         },
         {
-          "id": "132f0901cb469e0776cb5dd67e4f8db5c36cdb98",
-          "title": "GPT-6.2 Astra的表现两极分化，作者这篇文章拆解了其中四类典型问题，同时还对比了它的成本优势与适配场景。",
+          "id": "0624651fa1db7a03ecde1ea867d6acf3da733489",
+          "title": "作者公开了团队内部用AI剪辑视频的完整工作流：从脚本和口播素材出发，用参考图统一调色、Skill 设计分镜，再完成配乐、音效和剪辑。先打磨开头 30 秒，再扩展全片，用“时间码＋问题＋截图”让 AI 精准修改。适合做口播、教程和科普视频的创作者照着跑一遍。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-20",
+          "source": "社区更新 · 2026-11-21",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-20T18:53:09.036860Z"
+          "published_at": "2026-11-21T20:59:05.017073Z"
         },
         {
-          "id": "855d952e34e19d66e3c49e4315ccdb1503e207c2",
-          "title": "想低成本用 Agent 复刻 App 的开发者可以参考这套落地方案。作者依托 DeepSeek Harness，采用净室复刻思路，通过 ADB 真机采集解析界面，完整复刻了 Gemini Flow，花费了7个小时仅21元就跑通了全部功能。",
+          "id": "3a073a4c769ac75d0e435b919ab9231c965a6790",
+          "title": "反复提醒 AI“想清楚再做、交付前检查”，结果它还是会跑偏？作者把以终为始、二八法则、逆向思考等 12 条做事常识，改写成 Agent 能执行的具体规则：什么情况下该追问、何时停下重查、交付前必须验证什么。或许会有所帮助！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-20",
+          "source": "社区更新 · 2026-11-21",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-20T18:53:09.036860Z"
+          "published_at": "2026-11-21T20:59:05.017073Z"
         },
         {
-          "id": "b6201cddf5dfed857bf55a938c19be7a30f13614",
-          "title": "想搭建自动化资讯短视频流水线的朋友别错过阿真这套Skill。她在多款主流大模型上实测对比之后发现，只要输入文稿即可自动生成配套画面，而且还有稳定的排版与灵活的动效，不用每次反复调试。可以上手试试！",
+          "id": "4e7bd3cceee53a7bbe992a60d00f8877e402ca26",
+          "title": "想让品牌被 AI 搜到、推荐，靠批量发文章就够了吗？这份第二届 GEO 大会首日复盘，汇总了品牌方、服务商和出海创业者的实战分享：从用户会怎么问、内容该发在哪，到官网如何承接客户、效果怎样监测，也谈了低价接单和需求失控带来的亏损。一起来看看！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-20",
+          "source": "社区更新 · 2026-11-21",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-20T18:53:09.036860Z"
+          "published_at": "2026-11-21T20:59:05.017073Z"
         },
         {
-          "id": "f96da056b30fbf03f8a14afb5f4f4556ba25f0de",
-          "title": "想要摸清AI会不会主动推荐你的产品，这套可复用的AI可见性测试方法值得参考。作者以Notta Memo出海测试为案例，依托NIST、IAB行业标准，讲解了提示词设计、变量固定、结果判定、基线留存与复测逻辑，附带日志记录模板。",
+          "id": "714fe287ef094a753ba9d57ee19089c5f1cd5358",
+          "title": "模型榜单看了不少，那换到自己的任务里到底谁更好用？小歪给 Gemini 4 Neon、Claude Opus 5.5 和 GPT-6.2 同一道题：不用生图模型，纯代码制作跨越 20 个艺术时代的动画，把三家的成片放在一起进行了一个对比。正在选模型、考虑订阅的朋友，可以先看这组实测，再判断画面、速度和使用成本哪项更符合自己的需求。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-20",
+          "source": "社区更新 · 2026-11-21",
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
-          "published_at": "2026-11-20T18:53:09.036860Z"
+          "published_at": "2026-11-21T20:59:05.017073Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6229,
-      "importance": 0.6229,
-      "importance_score": 0.6229,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7426,
+        "recency": 1.0,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-20T18:53:09.036860Z",
-      "latest_at": "2026-11-20T18:53:09.036860Z",
+      "earliest_at": "2026-11-21T20:59:05.017073Z",
+      "latest_at": "2026-11-21T20:59:05.017073Z",
       "primary_item": {
-        "id": "2fb7c0224d117bf00d70ce4dd3c520ed9ff82ac6",
-        "title": "AI记忆带来便捷的同时，也暗藏困住人的风险。作者因写入“小白讲师”标签，导致AI持续把机会局限在培训赛道，不断强化刻板印象，甚至让自己慢慢认同这个单一身份。这篇思考给高频使用 Agent 的人也敲了警钟，提醒我们在人机共生中，别让 AI 的记忆框住自己更多潜在方向。",
+        "id": "ff62b6ca3951395de503091399be40a272024b27",
+        "title": "LangChain 抛出 “知识工厂” 这套企业 Agent 落地思路，打破了只靠堆模型、加上下文的常见误区。如果你是在搭建企业内部智能体的开发者，或许可以帮你解决 Agent 看不懂内部规范、业务口径混乱、知识库难持续更新的核心难题。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-11-20",
+        "source": "社区更新 · 2026-11-21",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_32a6def5ca55",
-      "title": "纳斯达克抹去了 2026 年的涨幅，大规模 IPO 后 Anthropic 股价暴跌 / Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
-      "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
-      "primary_url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "d881189130388ecfd4e493aba95707c738c642c1",
-          "title": "纳斯达克抹去了 2026 年的涨幅，大规模 IPO 后 Anthropic 股价暴跌 / Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
-          "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T21:00:00Z"
-        },
-        {
-          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
-          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "www.nbcnews.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T19:36:57.777000Z"
-        },
-        {
-          "id": "966fa3a46d9bb4c5407857e91539bcba45901d2a",
-          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T17:44:01Z"
-        },
-        {
-          "id": "8e71739550846e81c149d947d3878d4dcc35d64e",
-          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "url": "https://news.ycombinator.com/item?id=50578794",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T17:44:01Z"
-        },
-        {
-          "id": "fe66d054a63bfefd331b10e7e5d6b3c2c8af7b32",
-          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Markets plunge: Nasdaq erases 2026 gains, S&P, Dow in corrections",
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T17:44:01Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Slashdot",
-        "hackernews",
-        "www.nbcnews.com"
-      ],
-      "items": [
-        {
-          "id": "d881189130388ecfd4e493aba95707c738c642c1",
-          "title": "纳斯达克抹去了 2026 年的涨幅，大规模 IPO 后 Anthropic 股价暴跌 / Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
-          "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T21:00:00Z"
-        },
-        {
-          "id": "b11f44c526275e2813bc4aaae82730f00f5498dc",
-          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅",
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "www.nbcnews.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T19:36:57.777000Z"
-        },
-        {
-          "id": "966fa3a46d9bb4c5407857e91539bcba45901d2a",
-          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T17:44:01Z"
-        },
-        {
-          "id": "8e71739550846e81c149d947d3878d4dcc35d64e",
-          "title": "由于纳斯达克抹去了 2026 年的涨幅，Anthropic 股价在 IPO 后暴跌 / Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
-          "url": "https://news.ycombinator.com/item?id=50578794",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T17:44:01Z"
-        },
-        {
-          "id": "fe66d054a63bfefd331b10e7e5d6b3c2c8af7b32",
-          "title": "Anthropic上市后股价暴跌，纳斯达克指数抹去2026年以来的涨幅 / Markets plunge: Nasdaq erases 2026 gains, S&P, Dow in corrections",
-          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T17:44:01Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5786,
-      "importance": 0.5786,
-      "importance_score": 0.5786,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7656,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T17:44:01Z",
-      "latest_at": "2026-11-20T21:00:00Z",
-      "primary_item": {
-        "id": "d881189130388ecfd4e493aba95707c738c642c1",
-        "title": "纳斯达克抹去了 2026 年的涨幅，大规模 IPO 后 Anthropic 股价暴跌 / Anthropic Shares Tank After Huge IPO As the Nasdaq Erases 2026 Gains",
-        "url": "https://news.slashdot.org/story/26/11/20/1934244/anthropic-shares-tank-after-huge-ipo-as-the-nasdaq-erases-2026-gains",
-        "source": "Slashdot",
-        "source_name": "TechURLs"
       }
     },
     {
@@ -467,15 +270,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5648,
-      "importance": 0.5648,
-      "importance_score": 0.5648,
+      "score": 0.5515,
+      "importance": 0.5515,
+      "importance_score": 0.5515,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9664,
+        "recency": 0.8928,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -490,6 +293,85 @@
         "url": "http://ricapar.net/ClawDOS",
         "source": "ricapar.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_73c363bedcb2",
+      "title": "几乎所有软件团队都承认交付人工智能生成的代码，因为研究发现验证没有跟上这种转变的步伐 / Nearly all software teams admit to shipping AI-generated code as study finds verification has not kept pace with that shift",
+      "url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
+      "primary_url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4868b662e22a07c6fd743751fb97180ca8a516d2",
+          "title": "几乎所有软件团队都承认交付人工智能生成的代码，因为研究发现验证没有跟上这种转变的步伐 / Nearly all software teams admit to shipping AI-generated code as study finds verification has not kept pace with that shift",
+          "url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3465bb0122026533e3694bba9d2c0c1530e316e1",
+          "title": "几乎所有软件团队都承认交付人工智能生成的代码，因为研究发现验证“没有跟上这种转变的步伐” / Nearly all software teams admit to shipping AI-generated code as study finds verification 'has not kept pace with that shift'",
+          "url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T20:05:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "4868b662e22a07c6fd743751fb97180ca8a516d2",
+          "title": "几乎所有软件团队都承认交付人工智能生成的代码，因为研究发现验证没有跟上这种转变的步伐 / Nearly all software teams admit to shipping AI-generated code as study finds verification has not kept pace with that shift",
+          "url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3465bb0122026533e3694bba9d2c0c1530e316e1",
+          "title": "几乎所有软件团队都承认交付人工智能生成的代码，因为研究发现验证“没有跟上这种转变的步伐” / Nearly all software teams admit to shipping AI-generated code as study finds verification 'has not kept pace with that shift'",
+          "url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T20:05:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T20:05:00Z",
+      "latest_at": "2026-11-21T20:59:05.017073Z",
+      "primary_item": {
+        "id": "4868b662e22a07c6fd743751fb97180ca8a516d2",
+        "title": "几乎所有软件团队都承认交付人工智能生成的代码，因为研究发现验证没有跟上这种转变的步伐 / Nearly all software teams admit to shipping AI-generated code as study finds verification has not kept pace with that shift",
+        "url": "https://www.techradar.com/pro/nearly-all-software-teams-admit-to-shipping-ai-generated-code-as-study-finds-verification-has-not-kept-pace-with-that-shift",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -584,15 +466,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5554,
-      "importance": 0.5554,
-      "importance_score": 0.5554,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7756,
+        "recency": 0.7165,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -610,109 +492,30 @@
       }
     },
     {
-      "story_id": "story_9c7ffa45de7e",
-      "title": "30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者Top 20揭晓",
-      "url": "https://www.huxiu.com/article/4907094.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4907094.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ac577df5cc2c7765447ef8025e17e59a6913a51d",
-          "title": "30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者Top 20揭晓",
-          "url": "https://www.huxiu.com/article/4907094.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0ed06b3787095dc96cdeea608fda104bea1d8465",
-          "title": "30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者·TOP20揭晓",
-          "url": "https://www.huxiu.com/article/4907094.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T14:00:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "ac577df5cc2c7765447ef8025e17e59a6913a51d",
-          "title": "30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者Top 20揭晓",
-          "url": "https://www.huxiu.com/article/4907094.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0ed06b3787095dc96cdeea608fda104bea1d8465",
-          "title": "30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者·TOP20揭晓",
-          "url": "https://www.huxiu.com/article/4907094.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T14:00:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T14:00:01Z",
-      "latest_at": "2026-11-21T15:29:43.478357Z",
-      "primary_item": {
-        "id": "ac577df5cc2c7765447ef8025e17e59a6913a51d",
-        "title": "30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者Top 20揭晓",
-        "url": "https://www.huxiu.com/article/4907094.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_4326f3d1f6ec",
-      "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
-      "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-      "primary_url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+      "story_id": "story_5c37313386c9",
+      "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
+      "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+      "primary_url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
-          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
-          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+          "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
+          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
+          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-21T14:27:55.376000Z"
+          "published_at": "2026-11-21T17:07:38.909000Z"
         },
         {
-          "id": "6585d5a2332b59871b35931ee30c7540b4b21039",
-          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式 / I'm a real estate developer selling a $30 million mansion, and here’s why I’d accept Anthropic shares instead of cash",
-          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+          "id": "60e13d14c3255fef6b716904d927be881f583c07",
+          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿” / Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion'",
+          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-21T14:00:01Z"
+          "published_at": "2026-11-21T12:00:02Z"
         }
       ],
       "source_count": 2,
@@ -722,127 +525,127 @@
       ],
       "items": [
         {
-          "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
-          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
-          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+          "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
+          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
+          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-21T14:27:55.376000Z"
+          "published_at": "2026-11-21T17:07:38.909000Z"
         },
         {
-          "id": "6585d5a2332b59871b35931ee30c7540b4b21039",
-          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式 / I'm a real estate developer selling a $30 million mansion, and here’s why I’d accept Anthropic shares instead of cash",
-          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+          "id": "60e13d14c3255fef6b716904d927be881f583c07",
+          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿” / Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion'",
+          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-21T14:00:01Z"
+          "published_at": "2026-11-21T12:00:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9852,
+        "recency": 0.9458,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-21T14:00:01Z",
-      "latest_at": "2026-11-21T14:27:55.376000Z",
+      "earliest_at": "2026-11-21T12:00:02Z",
+      "latest_at": "2026-11-21T17:07:38.909000Z",
       "primary_item": {
-        "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
-        "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
-        "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+        "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
+        "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
+        "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_9d9e2c9f2c65",
-      "title": "人工智能给每个人提供的建议都一样",
-      "url": "https://a90.com/experiments/same-advice",
-      "primary_url": "https://a90.com/experiments/same-advice",
-      "source": "a90.com",
+      "story_id": "story_6cadd16bd351",
+      "title": "我再次呼吁 Firefox 停止发布这些粗制滥造的 AI 功能",
+      "url": "https://lobste.rs/s/hgguqc/i_am_once_more_calling_on_firefox_stop",
+      "primary_url": "https://lobste.rs/s/hgguqc/i_am_once_more_calling_on_firefox_stop",
+      "source": "lobste.rs",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9021d403210c4a250ef9de4c85feb287497241f5",
-          "title": "人工智能给每个人提供的建议都一样",
-          "url": "https://a90.com/experiments/same-advice",
-          "source": "a90.com",
+          "id": "1af9143c31d3b99d7833cd65300c218a95eb4f69",
+          "title": "我再次呼吁 Firefox 停止发布这些粗制滥造的 AI 功能",
+          "url": "https://lobste.rs/s/hgguqc/i_am_once_more_calling_on_firefox_stop",
+          "source": "lobste.rs",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-21T14:27:55.031000Z"
+          "published_at": "2026-11-21T15:31:42.527000Z"
         },
         {
-          "id": "0ca5860c0f1cde7c2bad578d381896ae9054e536",
-          "title": "人工智能给每个人提供的建议都一样 / AI is giving everyone the same advice",
-          "url": "https://a90.com/experiments/same-advice",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T16:58:05Z"
+          "id": "6ab32d6c861a1bc1b98ad0b34f027dba33a25414",
+          "title": "我再次呼吁 Firefox 停止发布这些粗制滥造的 AI 功能 / I am once more calling on Firefox to stop shipping AI slop",
+          "url": "https://lobste.rs/s/hgguqc/i_am_once_more_calling_on_firefox_stop",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T15:24:10Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "a90.com"
+        "Lobsters (技术社区)",
+        "lobste.rs"
       ],
       "items": [
         {
-          "id": "9021d403210c4a250ef9de4c85feb287497241f5",
-          "title": "人工智能给每个人提供的建议都一样",
-          "url": "https://a90.com/experiments/same-advice",
-          "source": "a90.com",
+          "id": "1af9143c31d3b99d7833cd65300c218a95eb4f69",
+          "title": "我再次呼吁 Firefox 停止发布这些粗制滥造的 AI 功能",
+          "url": "https://lobste.rs/s/hgguqc/i_am_once_more_calling_on_firefox_stop",
+          "source": "lobste.rs",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-21T14:27:55.031000Z"
+          "published_at": "2026-11-21T15:31:42.527000Z"
         },
         {
-          "id": "0ca5860c0f1cde7c2bad578d381896ae9054e536",
-          "title": "人工智能给每个人提供的建议都一样 / AI is giving everyone the same advice",
-          "url": "https://a90.com/experiments/same-advice",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T16:58:05Z"
+          "id": "6ab32d6c861a1bc1b98ad0b34f027dba33a25414",
+          "title": "我再次呼吁 Firefox 停止发布这些粗制滥造的 AI 功能 / I am once more calling on Firefox to stop shipping AI slop",
+          "url": "https://lobste.rs/s/hgguqc/i_am_once_more_calling_on_firefox_stop",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T15:24:10Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9852,
+        "recency": 0.9242,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-20T16:58:05Z",
-      "latest_at": "2026-11-21T14:27:55.031000Z",
+      "earliest_at": "2026-11-21T15:24:10Z",
+      "latest_at": "2026-11-21T15:31:42.527000Z",
       "primary_item": {
-        "id": "9021d403210c4a250ef9de4c85feb287497241f5",
-        "title": "人工智能给每个人提供的建议都一样",
-        "url": "https://a90.com/experiments/same-advice",
-        "source": "a90.com",
+        "id": "1af9143c31d3b99d7833cd65300c218a95eb4f69",
+        "title": "我再次呼吁 Firefox 停止发布这些粗制滥造的 AI 功能",
+        "url": "https://lobste.rs/s/hgguqc/i_am_once_more_calling_on_firefox_stop",
+        "source": "lobste.rs",
         "source_name": "Buzzing"
       }
     },
@@ -919,15 +722,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7947,
+        "recency": 0.7341,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -942,103 +745,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4dfd121c6c30",
-      "title": "Anthropic股价在轰动一时的上市次日下跌 / Tech stock sell-off drags markets down as Anthropic shares slide",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News (世界新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "5c2da3a865d10fdaa38b03d10bdb0b58ff30461c",
-          "title": "Anthropic股价在轰动一时的上市次日下跌 / Tech stock sell-off drags markets down as Anthropic shares slide",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T22:42:47Z"
-        },
-        {
-          "id": "56367cfe99bc9396b2c74b983280cabed0751cc2",
-          "title": "Anthropic股价在轰动一时的上市次日下跌 / Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T17:36:29Z"
-        },
-        {
-          "id": "42d3bddd65599a211aa7353be4206fae442f5b5b",
-          "title": "Anthropic股价在轰动一时的上市次日下跌",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T16:40:49.193000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "5c2da3a865d10fdaa38b03d10bdb0b58ff30461c",
-          "title": "Anthropic股价在轰动一时的上市次日下跌 / Tech stock sell-off drags markets down as Anthropic shares slide",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T22:42:47Z"
-        },
-        {
-          "id": "56367cfe99bc9396b2c74b983280cabed0751cc2",
-          "title": "Anthropic股价在轰动一时的上市次日下跌 / Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T17:36:29Z"
-        },
-        {
-          "id": "42d3bddd65599a211aa7353be4206fae442f5b5b",
-          "title": "Anthropic股价在轰动一时的上市次日下跌",
-          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T16:40:49.193000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7848,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T16:40:49.193000Z",
-      "latest_at": "2026-11-20T22:42:47Z",
-      "primary_item": {
-        "id": "5c2da3a865d10fdaa38b03d10bdb0b58ff30461c",
-        "title": "Anthropic股价在轰动一时的上市次日下跌 / Tech stock sell-off drags markets down as Anthropic shares slide",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News (世界新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1114,15 +820,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7797,
+        "recency": 0.7203,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1140,101 +846,239 @@
       }
     },
     {
-      "story_id": "story_65edf14fd72a",
-      "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
-      "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
-      "primary_url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
-      "source": "www.motherjones.com",
+      "story_id": "story_263ea4d757a5",
+      "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。",
+      "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+      "primary_url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "0a64f0f8335daefad8ac9fe2a0a82a091271cae8",
-          "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
-          "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
-          "source": "www.motherjones.com",
+          "id": "92a024c32d9dba33c3ee96fd0c2b62726fbb1ca1",
+          "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。",
+          "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-20T19:36:57.765000Z"
+          "published_at": "2026-11-21T17:07:38.906000Z"
         },
         {
-          "id": "8852bcf4e318f4212a4f89acdcaa943cfc80f1c6",
-          "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校 / Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-          "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T16:59:27Z"
-        },
-        {
-          "id": "4871a63cd630f9eb6107ba5ccae6a56ca2a6a8f0",
-          "title": "谷歌员工告诉雇主不要惩罚不需要人工智能的学校 / Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-          "url": "https://news.ycombinator.com/item?id=50577901",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T16:59:27Z"
+          "id": "e56c7a907c09356c2877e78a71bfd464b2b934ed",
+          "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。 / This travel CTO says AI lets his team ship faster. There's still a 10-year backlog of work to do.",
+          "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T10:47:01Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.motherjones.com"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "0a64f0f8335daefad8ac9fe2a0a82a091271cae8",
-          "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
-          "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
-          "source": "www.motherjones.com",
+          "id": "92a024c32d9dba33c3ee96fd0c2b62726fbb1ca1",
+          "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。",
+          "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-20T19:36:57.765000Z"
+          "published_at": "2026-11-21T17:07:38.906000Z"
         },
         {
-          "id": "8852bcf4e318f4212a4f89acdcaa943cfc80f1c6",
-          "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校 / Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-          "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T16:59:27Z"
-        },
-        {
-          "id": "4871a63cd630f9eb6107ba5ccae6a56ca2a6a8f0",
-          "title": "谷歌员工告诉雇主不要惩罚不需要人工智能的学校 / Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
-          "url": "https://news.ycombinator.com/item?id=50577901",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T16:59:27Z"
+          "id": "e56c7a907c09356c2877e78a71bfd464b2b934ed",
+          "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。 / This travel CTO says AI lets his team ship faster. There's still a 10-year backlog of work to do.",
+          "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T10:47:01Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5259,
-      "importance": 0.5259,
-      "importance_score": 0.5259,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.536,
+      "importance": 0.536,
+      "importance_score": 0.536,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7505,
-        "story_heat": 0.5
+        "recency": 0.9458,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-20T16:59:27Z",
-      "latest_at": "2026-11-20T19:36:57.765000Z",
+      "earliest_at": "2026-11-21T10:47:01Z",
+      "latest_at": "2026-11-21T17:07:38.906000Z",
       "primary_item": {
-        "id": "0a64f0f8335daefad8ac9fe2a0a82a091271cae8",
-        "title": "谷歌员工呼吁公司不要惩罚不愿采用人工智能的学校",
-        "url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition",
-        "source": "www.motherjones.com",
+        "id": "92a024c32d9dba33c3ee96fd0c2b62726fbb1ca1",
+        "title": "这位旅游行业的首席技术官表示，人工智能让他的团队能够更快地推出产品。但仍有积压了10年的工作待完成。",
+        "url": "https://www.businessinsider.com/travel-and-leisure-co-cto-ai-faster-more-work-backlog-2026-11",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9c7ffa45de7e",
+      "title": "30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者Top 20揭晓",
+      "url": "https://www.huxiu.com/article/4907094.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4907094.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ac577df5cc2c7765447ef8025e17e59a6913a51d",
+          "title": "30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者Top 20揭晓",
+          "url": "https://www.huxiu.com/article/4907094.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0ed06b3787095dc96cdeea608fda104bea1d8465",
+          "title": "30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者·TOP20揭晓",
+          "url": "https://www.huxiu.com/article/4907094.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T14:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "ac577df5cc2c7765447ef8025e17e59a6913a51d",
+          "title": "30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者Top 20揭晓",
+          "url": "https://www.huxiu.com/article/4907094.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0ed06b3787095dc96cdeea608fda104bea1d8465",
+          "title": "30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者·TOP20揭晓",
+          "url": "https://www.huxiu.com/article/4907094.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T14:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9238,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T14:00:01Z",
+      "latest_at": "2026-11-21T15:29:43.478357Z",
+      "primary_item": {
+        "id": "ac577df5cc2c7765447ef8025e17e59a6913a51d",
+        "title": "30岁以下的年轻一代正在深入技术腹地：2026最有潜力的30岁以下AI领军者Top 20揭晓",
+        "url": "https://www.huxiu.com/article/4907094.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_18d9f9bc59b3",
+      "title": "黎曼猜想的精简验证——由……发表的联合声明 / Lean Verification of the Riemann Hypothesis - Joint statement by...",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
+      "primary_url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "416d6a890dddf7f2ba8484879312c8326af1de27",
+          "title": "黎曼猜想的精简验证——由……发表的联合声明 / Lean Verification of the Riemann Hypothesis - Joint statement by...",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T14:36:45Z"
+        },
+        {
+          "id": "20a0a79c9855a935f715381014c4e7f20690db76",
+          "title": "黎曼猜想的精简验证——由……发表的联合声明 / Lean verification of the Riemann Hypothesis",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T14:36:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "416d6a890dddf7f2ba8484879312c8326af1de27",
+          "title": "黎曼猜想的精简验证——由……发表的联合声明 / Lean Verification of the Riemann Hypothesis - Joint statement by...",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T14:36:45Z"
+        },
+        {
+          "id": "20a0a79c9855a935f715381014c4e7f20690db76",
+          "title": "黎曼猜想的精简验证——由……发表的联合声明 / Lean verification of the Riemann Hypothesis",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T14:36:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9121,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T14:36:45Z",
+      "latest_at": "2026-11-21T14:36:45Z",
+      "primary_item": {
+        "id": "416d6a890dddf7f2ba8484879312c8326af1de27",
+        "title": "黎曼猜想的精简验证——由……发表的联合声明 / Lean Verification of the Riemann Hypothesis - Joint statement by...",
+        "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1291,15 +1135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9238,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1317,109 +1161,30 @@
       }
     },
     {
-      "story_id": "story_956f406f46c1",
-      "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-      "primary_url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_4326f3d1f6ec",
+      "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
+      "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+      "primary_url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e7ee900527cc72a872a83af0cb9c771ea1b78084",
-          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-          "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T22:18:20Z"
-        },
-        {
-          "id": "dd7e533b4ca9749bdc752be11f5fefe2f686ec3b",
-          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-          "url": "https://news.ycombinator.com/item?id=50583117",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T22:18:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e7ee900527cc72a872a83af0cb9c771ea1b78084",
-          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-          "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T22:18:20Z"
-        },
-        {
-          "id": "dd7e533b4ca9749bdc752be11f5fefe2f686ec3b",
-          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-          "url": "https://news.ycombinator.com/item?id=50583117",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T22:18:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5062,
-      "importance": 0.5062,
-      "importance_score": 0.5062,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7802,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T22:18:20Z",
-      "latest_at": "2026-11-20T22:18:20Z",
-      "primary_item": {
-        "id": "e7ee900527cc72a872a83af0cb9c771ea1b78084",
-        "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-        "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_b28267594d6a",
-      "title": "Anthropic公司的数学家表示，克劳德（Claude）帮助解决了“数学界最大的难题” / Anthropic mathematician says he used AI to solve the Riemann hypothesis",
-      "url": "https://www.businessinsider.com/reimann-hypothesis-anthropic-claude-solved-biggest-problem-in-math-2026-11",
-      "primary_url": "https://www.businessinsider.com/reimann-hypothesis-anthropic-claude-solved-biggest-problem-in-math-2026-11",
-      "source": "Business Insider",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "c274f8dbb6929e00b2afad0387da2531e886d13a",
-          "title": "Anthropic公司的数学家表示，克劳德（Claude）帮助解决了“数学界最大的难题” / Anthropic mathematician says he used AI to solve the Riemann hypothesis",
-          "url": "https://www.businessinsider.com/reimann-hypothesis-anthropic-claude-solved-biggest-problem-in-math-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T19:34:11Z"
-        },
-        {
-          "id": "ba31528e555010cfa3954943ec9c8ed64990f6b5",
-          "title": "Anthropic公司的数学家表示，克劳德（Claude）帮助解决了“数学界最大的难题”",
-          "url": "https://www.businessinsider.com/reimann-hypothesis-anthropic-claude-solved-biggest-problem-in-math-2026-11",
+          "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
+          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
+          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-20T18:48:52.276000Z"
+          "published_at": "2026-11-21T14:27:55.376000Z"
+        },
+        {
+          "id": "6585d5a2332b59871b35931ee30c7540b4b21039",
+          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式 / I'm a real estate developer selling a $30 million mansion, and here’s why I’d accept Anthropic shares instead of cash",
+          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T14:00:01Z"
         }
       ],
       "source_count": 2,
@@ -1429,206 +1194,285 @@
       ],
       "items": [
         {
-          "id": "c274f8dbb6929e00b2afad0387da2531e886d13a",
-          "title": "Anthropic公司的数学家表示，克劳德（Claude）帮助解决了“数学界最大的难题” / Anthropic mathematician says he used AI to solve the Riemann hypothesis",
-          "url": "https://www.businessinsider.com/reimann-hypothesis-anthropic-claude-solved-biggest-problem-in-math-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T19:34:11Z"
-        },
-        {
-          "id": "ba31528e555010cfa3954943ec9c8ed64990f6b5",
-          "title": "Anthropic公司的数学家表示，克劳德（Claude）帮助解决了“数学界最大的难题”",
-          "url": "https://www.businessinsider.com/reimann-hypothesis-anthropic-claude-solved-biggest-problem-in-math-2026-11",
+          "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
+          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
+          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-20T18:48:52.276000Z"
+          "published_at": "2026-11-21T14:27:55.376000Z"
+        },
+        {
+          "id": "6585d5a2332b59871b35931ee30c7540b4b21039",
+          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式 / I'm a real estate developer selling a $30 million mansion, and here’s why I’d accept Anthropic shares instead of cash",
+          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T14:00:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5008,
-      "importance": 0.5008,
-      "importance_score": 0.5008,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.75,
+        "recency": 0.9102,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-20T18:48:52.276000Z",
-      "latest_at": "2026-11-20T19:34:11Z",
+      "earliest_at": "2026-11-21T14:00:01Z",
+      "latest_at": "2026-11-21T14:27:55.376000Z",
       "primary_item": {
-        "id": "c274f8dbb6929e00b2afad0387da2531e886d13a",
-        "title": "Anthropic公司的数学家表示，克劳德（Claude）帮助解决了“数学界最大的难题” / Anthropic mathematician says he used AI to solve the Riemann hypothesis",
-        "url": "https://www.businessinsider.com/reimann-hypothesis-anthropic-claude-solved-biggest-problem-in-math-2026-11",
-        "source": "Business Insider",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_9fe3e937f57a",
-      "title": "语言模型可以重写自身的权重",
-      "url": "https://arxiv.org/abs/2611.21885",
-      "primary_url": "https://arxiv.org/abs/2611.21885",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1da22d79994d169750e0ba371b225e9b886efb5e",
-          "title": "语言模型可以重写自身的权重",
-          "url": "https://arxiv.org/abs/2611.21885",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T17:44:47.957000Z"
-        },
-        {
-          "id": "56bc072c23c3a692fc8f096209fd3767decf102c",
-          "title": "语言模型可以重写自身的权重 / Language Models Can Rewrite Their Own Weights",
-          "url": "https://arxiv.org/abs/2611.21885",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T16:29:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "arxiv.org"
-      ],
-      "items": [
-        {
-          "id": "1da22d79994d169750e0ba371b225e9b886efb5e",
-          "title": "语言模型可以重写自身的权重",
-          "url": "https://arxiv.org/abs/2611.21885",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T17:44:47.957000Z"
-        },
-        {
-          "id": "56bc072c23c3a692fc8f096209fd3767decf102c",
-          "title": "语言模型可以重写自身的权重 / Language Models Can Rewrite Their Own Weights",
-          "url": "https://arxiv.org/abs/2611.21885",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T16:29:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4973,
-      "importance": 0.4973,
-      "importance_score": 0.4973,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7305,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T16:29:06Z",
-      "latest_at": "2026-11-20T17:44:47.957000Z",
-      "primary_item": {
-        "id": "1da22d79994d169750e0ba371b225e9b886efb5e",
-        "title": "语言模型可以重写自身的权重",
-        "url": "https://arxiv.org/abs/2611.21885",
-        "source": "arxiv.org",
+        "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
+        "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
+        "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_dff998cce002",
-      "title": "Anthropic的数学家宣布用Claude证明了黎曼猜想",
-      "url": "https://www.huxiu.com/article/4907330.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4907330.html?f=rss",
-      "source": "虎嗅 (Huxiu)",
-      "source_name": "Info Flow",
+      "story_id": "story_07a481fe6b0c",
+      "title": "德里克·洛：引爆一堆叠氮化铅 / Derek Lowe: Detonating a Pile of Lead Azide",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "primary_url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "a001a9d4ae2b5c3ab04d06c033be5fcd506ebfb0",
-          "title": "Anthropic的数学家宣布用Claude证明了黎曼猜想",
-          "url": "https://www.huxiu.com/article/4907330.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T17:02:19Z"
+          "id": "9ce43a8edc02ab9140977dec800a0b8c4ac47ca3",
+          "title": "德里克·洛：引爆一堆叠氮化铅 / Derek Lowe: Detonating a Pile of Lead Azide",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T13:23:14Z"
         },
         {
-          "id": "cfaffc7b950807a532db78cf9490ca98fa15dde0",
-          "title": "Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。",
-          "url": "https://www.huxiu.com/article/4907330.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T17:02:18Z"
+          "id": "18fde20bfe36b35223a9d53d2f1950eec785f580",
+          "title": "德里克·洛：引爆一堆叠氮化铅 / Detonating a pile of lead azide",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T13:23:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "虎嗅 (Huxiu)"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "a001a9d4ae2b5c3ab04d06c033be5fcd506ebfb0",
-          "title": "Anthropic的数学家宣布用Claude证明了黎曼猜想",
-          "url": "https://www.huxiu.com/article/4907330.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T17:02:19Z"
+          "id": "9ce43a8edc02ab9140977dec800a0b8c4ac47ca3",
+          "title": "德里克·洛：引爆一堆叠氮化铅 / Derek Lowe: Detonating a Pile of Lead Azide",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T13:23:14Z"
         },
         {
-          "id": "cfaffc7b950807a532db78cf9490ca98fa15dde0",
-          "title": "Anthropic的数学家宣布用Claude证明了黎曼猜想，还给出了1737万行人类看不懂的代码。",
-          "url": "https://www.huxiu.com/article/4907330.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T17:02:18Z"
+          "id": "18fde20bfe36b35223a9d53d2f1950eec785f580",
+          "title": "德里克·洛：引爆一堆叠氮化铅 / Detonating a pile of lead azide",
+          "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T13:23:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4959,
-      "importance": 0.4959,
-      "importance_score": 0.4959,
+      "score": 0.5271,
+      "importance": 0.5271,
+      "importance_score": 0.5271,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.723,
+        "recency": 0.8961,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-20T17:02:18Z",
-      "latest_at": "2026-11-20T17:02:19Z",
+      "earliest_at": "2026-11-21T13:23:14Z",
+      "latest_at": "2026-11-21T13:23:14Z",
       "primary_item": {
-        "id": "a001a9d4ae2b5c3ab04d06c033be5fcd506ebfb0",
-        "title": "Anthropic的数学家宣布用Claude证明了黎曼猜想",
-        "url": "https://www.huxiu.com/article/4907330.html?f=rss",
-        "source": "虎嗅 (Huxiu)",
-        "source_name": "Info Flow"
+        "id": "9ce43a8edc02ab9140977dec800a0b8c4ac47ca3",
+        "title": "德里克·洛：引爆一堆叠氮化铅 / Derek Lowe: Detonating a Pile of Lead Azide",
+        "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_8bc8fed2fbe6",
+      "title": "随着人工智能数据中心排放量创下新高，Meta重新审视2030年净零排放目标",
+      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
+      "primary_url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "da82f02d075d6278a1b1ae597922c9579393c1cd",
+          "title": "随着人工智能数据中心排放量创下新高，Meta重新审视2030年净零排放目标",
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T21:59:45.100000Z"
+        },
+        {
+          "id": "f6b9d6d5c4654c223f9c4b4b01d857077cd90d10",
+          "title": "随着人工智能数据中心排放量创下新高，Meta重新审视2030年净零排放目标 / Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T21:47:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "da82f02d075d6278a1b1ae597922c9579393c1cd",
+          "title": "随着人工智能数据中心排放量创下新高，Meta重新审视2030年净零排放目标",
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-20T21:59:45.100000Z"
+        },
+        {
+          "id": "f6b9d6d5c4654c223f9c4b4b01d857077cd90d10",
+          "title": "随着人工智能数据中心排放量创下新高，Meta重新审视2030年净零排放目标 / Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-20T21:47:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.495,
+      "importance": 0.495,
+      "importance_score": 0.495,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7175,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T21:47:10Z",
+      "latest_at": "2026-11-20T21:59:45.100000Z",
+      "primary_item": {
+        "id": "da82f02d075d6278a1b1ae597922c9579393c1cd",
+        "title": "随着人工智能数据中心排放量创下新高，Meta重新审视2030年净零排放目标",
+        "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_54ae3b6f147c",
+      "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
+      "url": "https://www.ithome.com/1/030/322.htm",
+      "primary_url": "https://www.ithome.com/1/030/322.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e1cac2695e79c0661e06639aeaf9d5444c4a7fbf",
+          "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
+          "url": "https://www.ithome.com/1/030/322.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "756f826e5fc05006f50f802145ca8a4ef351c5f4",
+          "title": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
+          "url": "https://www.ithome.com/1/030/322.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T02:03:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "e1cac2695e79c0661e06639aeaf9d5444c4a7fbf",
+          "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
+          "url": "https://www.ithome.com/1/030/322.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "756f826e5fc05006f50f802145ca8a4ef351c5f4",
+          "title": "近 200 万条请求揭开 AI 隐私漏洞：“零数据保留”也会泄密",
+          "url": "https://www.ithome.com/1/030/322.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T02:03:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5139,
+      "importance": 0.5139,
+      "importance_score": 0.5139,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8227,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T02:03:24Z",
+      "latest_at": "2026-11-21T07:28:03.992443Z",
+      "primary_item": {
+        "id": "e1cac2695e79c0661e06639aeaf9d5444c4a7fbf",
+        "title": "近 200 万条请求揭开 AI 隐私漏洞：「零数据保留」也会泄密",
+        "url": "https://www.ithome.com/1/030/322.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1685,15 +1529,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.51,
-      "importance": 0.51,
-      "importance_score": 0.51,
+      "score": 0.499,
+      "importance": 0.499,
+      "importance_score": 0.499,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8008,
+        "recency": 0.7398,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1764,15 +1608,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5072,
-      "importance": 0.5072,
-      "importance_score": 0.5072,
+      "score": 0.4964,
+      "importance": 0.4964,
+      "importance_score": 0.4964,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7856,
+        "recency": 0.7257,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1785,6 +1629,85 @@
         "id": "aeef49cdb5db5e20e1b48eff58263d40a3794cd1",
         "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
         "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_956f406f46c1",
+      "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "primary_url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "5c47b4d26b08fe291c6bccf83bf4625e569ff242",
+          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+          "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T22:18:20Z"
+        },
+        {
+          "id": "dd7e533b4ca9749bdc752be11f5fefe2f686ec3b",
+          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+          "url": "https://news.ycombinator.com/item?id=50583117",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T22:18:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5c47b4d26b08fe291c6bccf83bf4625e569ff242",
+          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+          "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-20T22:18:20Z"
+        },
+        {
+          "id": "dd7e533b4ca9749bdc752be11f5fefe2f686ec3b",
+          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+          "url": "https://news.ycombinator.com/item?id=50583117",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-20T22:18:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4955,
+      "importance": 0.4955,
+      "importance_score": 0.4955,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7207,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-20T22:18:20Z",
+      "latest_at": "2026-11-20T22:18:20Z",
+      "primary_item": {
+        "id": "5c47b4d26b08fe291c6bccf83bf4625e569ff242",
+        "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
+        "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
